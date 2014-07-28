@@ -33,6 +33,10 @@ program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
         self.assertFalse(func("http://www.news.com/foobar.css"))
         self.assertFalse(func("http://www.news.com/foobar.jpg"))
         self.assertFalse(func("http://www.news.com/foobar.js"))
+        self.assertTrue(func("http://www.latimes.com/local/westside/\
+la-me-lightning-strikes-20140728-story.html"))
+        self.assertTrue(func("http://www.latimes.com/local/\
+la-me-water-use-war-20140727-story.html"))
 
 
 if __name__ == '__main__':

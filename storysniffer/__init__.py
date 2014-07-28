@@ -68,6 +68,7 @@ def guess(url):
     urlparts = urlparse(url)
     tldparts = tldextract.extract(url)
 
+    # Kill anything in one of our blacklists
     if urlparts.path in PATH_BLACKLIST:
         return False
 
@@ -83,5 +84,18 @@ def guess(url):
     if os.path.splitext(urlparts.path)[1] in EXT_BLACKLIST:
         return False
 
-    # If you've it this far, return True
-    return True
+    # We don't like things with very few slashes in the urls URL paths
+    pathparts = [x for x in urlparts.path.split('/') if x.strip()]
+    if len(pathparts) < 2:
+        return False
+
+    # Bless anything that matches one of our patterns
+    # ... like lots of dashes or underscores in a path part
+    if max(p.count('-') for p in pathparts) > 4:
+        return True
+
+    if max(p.count('_') for p in pathparts) > 4:
+        return True
+
+    # If you've made it this far without clicking, we give up
+    return False
