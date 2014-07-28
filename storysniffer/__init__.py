@@ -56,7 +56,8 @@ EXT_BLACKLIST = (
 
 # A list of URL parts we think will link to stories
 PATHPART_WHITELIST = [
-    'story', 'article', 'feature', 'featured', 'blog', 'interactive', 'graphic'
+    'story', 'article', 'feature', 'featured', 'blog', 'interactive',
+    'graphic', 'video',
 ]
 
 
@@ -96,10 +97,10 @@ def guess(url):
 
     # Bless anything that matches one of our patterns
     # ... like lots of dashes or underscores in a path part
-    if max(p.count('-') for p in pathparts) > 4:
+    if max(p.count('-') for p in pathparts) > 3:
         return True
 
-    if max(p.count('_') for p in pathparts) > 4:
+    if max(p.count('_') for p in pathparts) > 3:
         return True
 
     if any(p in PATHPART_WHITELIST for p in pathparts):

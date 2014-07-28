@@ -40,6 +40,8 @@ la-me-water-use-war-20140727-story.html"))
         self.assertFalse(func("http://www.latimes.com/opinion/"))
         self.assertFalse(func("http://www.latimes.com/opinion/editorials/"))
         self.assertTrue(func("http://www.news.com/story/story.html"))
+        self.assertTrue(func("http://www.cnn.com/video/data/2.0/video/us/\
+2014/07/23/hln-husband-emails-sex-spreadsheet.hln.html?hpt=hp_t4"))
 
 
 if __name__ == '__main__':

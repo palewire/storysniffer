@@ -7,7 +7,7 @@ install_requires = [
 
 setup(
     name='storysniffer',
-    version='0.0.1',
+    version='0.0.2',
     description='Inspect a URL and estimate if it links to news story',
     author='Ben Welsh',
     author_email='ben.welsh@gmail.com',
