@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
+import os
+import mimetypes
 import tldextract
 try:
     from urlparse import urlparse
@@ -44,8 +46,12 @@ PATH_BLACKLIST = (
     '/',
 )
 
-EXT_BLACKIST = (
-
+EXT_BLACKLIST = (
+    '.js',
+    '.css',
+    '.jpg',
+    '.gif',
+    '.png',
 )
 
 
@@ -72,6 +78,9 @@ def guess(url):
         return False
 
     if tldparts.suffix in TLD_BLACKLIST:
+        return False
+
+    if os.path.splitext(urlparts.path)[1] in EXT_BLACKLIST:
         return False
 
     # If you've it this far, return True

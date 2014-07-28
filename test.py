@@ -15,6 +15,7 @@ program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
     def test_busted(self):
         with self.assertRaises(ValueError):
             storysniffer.guess(self.busted)
+            self.assertFalse(func("function(){alert('foobar');}"))
 
     def test_guess(self):
         func = storysniffer.guess
@@ -23,6 +24,9 @@ program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
         self.assertFalse(func("http://www.facebook.com/foobar/"))
         self.assertFalse(func("http://careers.cnn.com/foobar/"))
         self.assertFalse(func("http://www.news.xxx/foobar/"))
+        self.assertFalse(func("http://www.news.com/foobar.css"))
+        self.assertFalse(func("http://www.news.com/foobar.jpg"))
+        self.assertFalse(func("http://www.news.com/foobar.js"))
 
 
 if __name__ == '__main__':
