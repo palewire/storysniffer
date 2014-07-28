@@ -39,6 +39,7 @@ la-me-lightning-strikes-20140728-story.html"))
 la-me-water-use-war-20140727-story.html"))
         self.assertFalse(func("http://www.latimes.com/opinion/"))
         self.assertFalse(func("http://www.latimes.com/opinion/editorials/"))
+        self.assertTrue(func("http://www.news.com/story/story.html"))
 
 
 if __name__ == '__main__':

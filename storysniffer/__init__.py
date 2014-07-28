@@ -34,6 +34,7 @@ DOMAIN_BLACKLIST = (
 SUBDOMAIN_BLACKLIST = (
     'careers',
     'mail',
+    'account',
 )
 
 TLD_BLACKLIST = (
@@ -53,6 +54,10 @@ EXT_BLACKLIST = (
     '.png',
 )
 
+# A list of URL parts we think will link to stories
+PATHPART_WHITELIST = [
+  'story', 'article', 'feature', 'featured', 'blog', 'interactive', 'graphic'
+]
 
 def guess(url):
     """
@@ -94,6 +99,9 @@ def guess(url):
         return True
 
     if max(p.count('_') for p in pathparts) > 4:
+        return True
+    
+    if any(p in PATHPART_WHITELIST for p in pathparts):
         return True
 
     # If you've made it this far without clicking, we give up
