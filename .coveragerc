@@ -1,0 +1,3 @@
+[run]
+include =
+    storysniffer/__init__.py
