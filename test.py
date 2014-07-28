@@ -17,8 +17,12 @@ program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
             storysniffer.guess(self.busted)
 
     def test_guess(self):
-        self.assertTrue(storysniffer.guess(self.yes))
-        self.assertFalse(storysniffer.guess(self.no))
+        func = storysniffer.guess
+        self.assertTrue(func(self.yes))
+        self.assertFalse(func(self.no))
+        self.assertFalse(func("http://www.facebook.com/foobar/"))
+        self.assertFalse(func("http://careers.cnn.com/foobar/"))
+        self.assertFalse(func("http://www.news.xxx/foobar/"))
 
 
 if __name__ == '__main__':

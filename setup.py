@@ -2,6 +2,7 @@ from setuptools import setup
 
 install_requires = [
     'six==1.7.2',
+    'tldextract==1.4',
 ]
 
 setup(

@@ -1,4 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import re
+import tldextract
 try:
     from urlparse import urlparse
 except ImportError:
@@ -19,10 +22,30 @@ URL_REGEX = re.compile(
     re.IGNORECASE
 )
 
-# A list of URL paths tha probably won't link to new stories
+# A list of URL parts that probably won't link to new stories
+DOMAIN_BLACKLIST = (
+    'google',
+    'twitter',
+    'facebook',
+    'doubleclick',
+)
+
+SUBDOMAIN_BLACKLIST = (
+    'careers',
+    'mail',
+)
+
+TLD_BLACKLIST = (
+    'xxx',
+)
+
 PATH_BLACKLIST = (
     '',
     '/',
+)
+
+EXT_BLACKIST = (
+
 )
 
 
@@ -35,9 +58,20 @@ def guess(url):
     if not URL_REGEX.search(url):
         raise ValueError("Provided url does not match acceptable URL patterns")
 
+    # Parse the url into parts so we can inspect them
     urlparts = urlparse(url)
+    tldparts = tldextract.extract(url)
 
     if urlparts.path in PATH_BLACKLIST:
+        return False
+
+    if tldparts.domain in DOMAIN_BLACKLIST:
+        return False
+
+    if tldparts.subdomain in SUBDOMAIN_BLACKLIST:
+        return False
+
+    if tldparts.suffix in TLD_BLACKLIST:
         return False
 
     # If you've it this far, return True
