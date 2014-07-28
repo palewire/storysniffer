@@ -19,13 +19,26 @@ URL_REGEX = re.compile(
     re.IGNORECASE
 )
 
+# A list of URL paths tha probably won't link to new stories
+PATH_BLACKLIST = (
+    '',
+    '/',
+)
+
 
 def guess(url):
     """
     Returns a boolean estimating the likelihood that
     the provided URL links to a news story.
     """
+    # Throw an error if the URL doesn't match acceptable patterns
     if not URL_REGEX.search(url):
         raise ValueError("Provided url does not match acceptable URL patterns")
 
-    urlparse(url)
+    urlparts = urlparse(url)
+
+    if urlparts.path in PATH_BLACKLIST:
+        return False
+
+    # If you've it this far, return True
+    return True

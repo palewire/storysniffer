@@ -16,6 +16,10 @@ program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
         with self.assertRaises(ValueError):
             storysniffer.guess(self.busted)
 
+    def test_guess(self):
+        self.assertTrue(storysniffer.guess(self.yes))
+        self.assertFalse(storysniffer.guess(self.no))
+
 
 if __name__ == '__main__':
     if six.PY3:
