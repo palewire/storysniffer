@@ -35,4 +35,4 @@ False
 Credits
 -------
 
-This is a joint project of [PastPages.org](http://pastpages.org), The Reynolds Journalism Institute and the University of Missouri.
+This is a joint project of [PastPages.org](http://pastpages.org), The Reynolds Journalism Institute, and the University of Missouri.
