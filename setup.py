@@ -1,6 +1,8 @@
 from setuptools import setup
 
-install_requires = []
+install_requires = [
+    'six==1.7.2',
+]
 
 setup(
     name='storysniffer',
