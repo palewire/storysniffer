@@ -9,13 +9,19 @@ class SniffTest(unittest.TestCase):
         self.yes = "http://www.washingtonpost.com/investigations/us-\
 intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-\
 program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
-        self.no = "http://www.cnn.com"
+        self.absolute_yes = "/investigations/us-\
+intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-\
+program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
+        self.no = "http://www.cnn.com/"
+        self.absolute_no = "/"
         self.busted = "foobar"
 
     def test_busted(self):
         with self.assertRaises(ValueError):
             storysniffer.guess(self.busted)
             self.assertFalse(func("function(){alert('foobar');}"))
+            self.assertFalse(func(self.absolute_yes))
+            self.assertFalse(func(self.absolute_no))
 
     def test_guess(self):
         func = storysniffer.guess
