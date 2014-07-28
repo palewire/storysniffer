@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import re
 import os
-import mimetypes
 import tldextract
 try:
     from urlparse import urlparse
