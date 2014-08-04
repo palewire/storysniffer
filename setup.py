@@ -1,13 +1,13 @@
 from setuptools import setup
 
 install_requires = [
-    'six==1.7.2',
+    'six>=1.7.2',
     'tldextract==1.4',
 ]
 
 setup(
     name='storysniffer',
-    version='0.0.2',
+    version='0.0.3',
     description='Inspect a URL and estimate if it links to news story',
     author='Ben Welsh',
     author_email='ben.welsh@gmail.com',
