@@ -56,8 +56,15 @@ EXT_BLACKLIST = (
 
 # A list of URL parts we think will link to stories
 PATHPART_WHITELIST = [
-    'story', 'article', 'feature', 'featured', 'blog', 'interactive',
-    'graphic', 'video',
+    'story',
+    'article',
+    'feature',
+    'featured',
+    'blog',
+    'interactive',
+    'graphic',
+    'video',
+    'post',
 ]
 
 
