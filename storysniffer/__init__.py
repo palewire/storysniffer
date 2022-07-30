@@ -1,12 +1,7 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 import re
 import os
 import tldextract
-try:
-    from urlparse import urlparse
-except ImportError:
-    from six.moves.urllib.parse import urlparse
+from urllib.parse import urlparse
 
 # A regular expression that can validate URLs
 # Drawn from Django source code:
@@ -68,7 +63,7 @@ PATHPART_WHITELIST = [
 ]
 
 
-def guess(url):
+def guess(url: str) -> bool:
     """
     Returns a boolean estimating the likelihood that
     the provided URL links to a news story.
