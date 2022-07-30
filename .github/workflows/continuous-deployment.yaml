@@ -47,7 +47,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install
+        run: pipenv install --python `which python`
         shell: bash
 
       - id: run
