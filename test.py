@@ -1,10 +1,14 @@
+"""Test the module."""
 import unittest
 
 import storysniffer
 
 
 class SniffTest(unittest.TestCase):
+    """Run basic tests."""
+
     def setUp(self):
+        """Configure common settings."""
         self.yes = "http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
         self.absolute_yes = "/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
         self.no = "http://www.cnn.com/"
@@ -12,6 +16,7 @@ class SniffTest(unittest.TestCase):
         self.busted = "foobar"
 
     def test_busted(self):
+        """Test stuff that shouldn't work."""
         func = storysniffer.guess
         with self.assertRaises(ValueError):
             storysniffer.guess(self.busted)
@@ -20,6 +25,7 @@ class SniffTest(unittest.TestCase):
             self.assertFalse(func(self.absolute_no))
 
     def test_guess(self):
+        """Test guesses."""
         func = storysniffer.guess
         self.assertTrue(func(self.yes))
         self.assertFalse(func(self.no))

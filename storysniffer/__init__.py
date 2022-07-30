@@ -1,3 +1,4 @@
+"""Inspect a URL and estimate if it links to news story."""
 import os
 import re
 from urllib.parse import urlparse
@@ -63,10 +64,7 @@ PATHPART_WHITELIST = [
 
 
 def guess(url: str) -> bool:
-    """
-    Returns a boolean estimating the likelihood that
-    the provided URL links to a news story.
-    """
+    """Return a boolean estimating the likelihood that the provided URL links to a news story."""
     # Throw an error if the URL doesn't match acceptable patterns
     if not URL_REGEX.search(url):
         raise ValueError("Provided url does not match acceptable URL patterns")
