@@ -23,12 +23,15 @@ $ pip install storysniffer
 The ``guess`` method offers a hard yes or no estimate. But keep in mind that this package is still embryonic and don't take its answer too seriously.
 
 ```python
->>> import storysniffer
->>> storysniffer.guess("http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html")
+import storysniffer
+
+storysniffer.guess(
+    "http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html"
+)
 True
->>> storysniffer.guess("http://www.washingtonpost.com/")
+storysniffer.guess("http://www.washingtonpost.com/")
 False
->>> storysniffer.guess("https://twitter.com/bartongellman")
+storysniffer.guess("https://twitter.com/bartongellman")
 False
 ```
 
