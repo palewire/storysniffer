@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 tldextract = "*"
+scikit-learn = "*"
 
 [dev-packages]
 pre-commit = "*"
@@ -19,6 +20,8 @@ flake8-bugbear = "*"
 mypy = "*"
 twine = "*"
 setuptools-scm = "*"
+jupyterlab = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.9"

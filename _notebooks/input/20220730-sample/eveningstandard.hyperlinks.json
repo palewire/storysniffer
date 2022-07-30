@@ -1,0 +1,2990 @@
+[
+  {
+    "text": "\n      \n\n",
+    "url": "/"
+  },
+  {
+    "text": "VIDEO ON \n\n\n\n\n",
+    "url": "/video"
+  },
+  {
+    "text": "   \nLOG IN",
+    "url": "/login"
+  },
+  {
+    "text": "Manage My Account",
+    "url": "/profile"
+  },
+  {
+    "text": "Log Out",
+    "url": "/user/logout"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "London ",
+    "url": "/news/london"
+  },
+  {
+    "text": "UK ",
+    "url": "/news/uk"
+  },
+  {
+    "text": "Politics ",
+    "url": "/news/politics"
+  },
+  {
+    "text": "Crime ",
+    "url": "/news/crime"
+  },
+  {
+    "text": "Transport ",
+    "url": "/news/transport"
+  },
+  {
+    "text": "Health ",
+    "url": "/news/health"
+  },
+  {
+    "text": "Education ",
+    "url": "/news/education"
+  },
+  {
+    "text": "World ",
+    "url": "/news/world"
+  },
+  {
+    "text": "Celebrity News ",
+    "url": "/showbiz"
+  },
+  {
+    "text": "Skill Up Step Up ",
+    "url": "/skill-up-step-up"
+  },
+  {
+    "text": "Newsletters ",
+    "url": "https://www.standard.co.uk/newsletters"
+  },
+  {
+    "text": "Sport",
+    "url": "/sport"
+  },
+  {
+    "text": "Football ",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Rugby Union ",
+    "url": "/sport/rugby"
+  },
+  {
+    "text": "Cricket ",
+    "url": "/sport/cricket"
+  },
+  {
+    "text": "Tennis ",
+    "url": "/sport/tennis"
+  },
+  {
+    "text": "F1 ",
+    "url": "/sport/formula-one"
+  },
+  {
+    "text": "Boxing ",
+    "url": "/sport/boxing"
+  },
+  {
+    "text": "Horse Racing ",
+    "url": "/sport/horse-racing"
+  },
+  {
+    "text": "Arsenal ",
+    "url": "/sport/football/arsenal"
+  },
+  {
+    "text": "Chelsea ",
+    "url": "/sport/football/chelsea"
+  },
+  {
+    "text": "Tottenham ",
+    "url": "/sport/football/tottenham"
+  },
+  {
+    "text": "West Ham ",
+    "url": "/sport/football/westham"
+  },
+  {
+    "text": "Crystal Palace ",
+    "url": "/sport/football/crystalpalace"
+  },
+  {
+    "text": "Brentford ",
+    "url": "/sport/football/brentford"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "AXA Startup Angel competition ",
+    "url": "/business/axastartupangel"
+  },
+  {
+    "text": "SME XPO ",
+    "url": "/topic/smes"
+  },
+  {
+    "text": "Business News ",
+    "url": "/business/business-news"
+  },
+  {
+    "text": "Markets ",
+    "url": "/business/markets"
+  },
+  {
+    "text": "Economy ",
+    "url": "/business/economy"
+  },
+  {
+    "text": "Leisure & Retail ",
+    "url": "/business/leisure-retail"
+  },
+  {
+    "text": "Property ",
+    "url": "/business/property"
+  },
+  {
+    "text": "Technology & Media ",
+    "url": "/business/technology-media"
+  },
+  {
+    "text": "Events",
+    "url": "/events"
+  },
+  {
+    "text": "SME XPO ",
+    "url": "https://smexpo.co.uk/"
+  },
+  {
+    "text": "Stories Festival ",
+    "url": "https://www.stories.standard.co.uk/"
+  },
+  {
+    "text": "Big Comedy Night ",
+    "url": "https://www.standard.co.uk/culture/comedy"
+  },
+  {
+    "text": "Progress 1000 ",
+    "url": "/news/the1000"
+  },
+  {
+    "text": "The Theatre Awards ",
+    "url": "https://www.standard.co.uk/topic/evening-standard-theatre-awards"
+  },
+  {
+    "text": "ES Money",
+    "url": "/esmoney"
+  },
+  {
+    "text": "Investing ",
+    "url": "/esmoney/investing/"
+  },
+  {
+    "text": "Travel Insurance ",
+    "url": "/esmoney/travel-insurance/"
+  },
+  {
+    "text": "Car Insurance ",
+    "url": "/esmoney/car-insurance/"
+  },
+  {
+    "text": "Broadband ",
+    "url": "/esmoney/broadband/"
+  },
+  {
+    "text": "Mobile Phones ",
+    "url": "/esmoney/mobile-phones/"
+  },
+  {
+    "text": "Loans ",
+    "url": "/esmoney/loans/"
+  },
+  {
+    "text": "Credit Cards ",
+    "url": "/esmoney/credit-cards/"
+  },
+  {
+    "text": "Home Insurance ",
+    "url": "/esmoney/home-insurance/"
+  },
+  {
+    "text": "Pet Insurance ",
+    "url": "/esmoney/pet-insurance/"
+  },
+  {
+    "text": "Mortgages ",
+    "url": "/esmoney/mortgages/"
+  },
+  {
+    "text": "Life Insurance ",
+    "url": "/esmoney/life-insurance/"
+  },
+  {
+    "text": "Culture",
+    "url": "/culture"
+  },
+  {
+    "text": "Stories Festival ",
+    "url": "https://www.standard.co.uk/topic/stories-festival"
+  },
+  {
+    "text": "Theatre ",
+    "url": "/culture/theatre"
+  },
+  {
+    "text": "Film ",
+    "url": "/culture/film"
+  },
+  {
+    "text": "Music ",
+    "url": "/culture/music"
+  },
+  {
+    "text": "Exhibitions ",
+    "url": "/culture/exhibitions"
+  },
+  {
+    "text": "Comedy ",
+    "url": "/culture/comedy"
+  },
+  {
+    "text": "TV ",
+    "url": "/culture/tvfilm"
+  },
+  {
+    "text": "New West End Company BRANDPOST | PAID CONTENT",
+    "url": "/culture/newwestendcompany"
+  },
+  {
+    "text": "The Londoner BRANDPOST | PAID CONTENT",
+    "url": "/culture/the-londoner"
+  },
+  {
+    "text": "Art of London BRANDPOST | PAID CONTENT",
+    "url": "/culture/artoflondon"
+  },
+  {
+    "text": "Books ",
+    "url": "/culture/books"
+  },
+  {
+    "text": "Future Theatre Fund ",
+    "url": "/culture/future-theatre-fund"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "Celebrity ",
+    "url": "/insider/celebrity"
+  },
+  {
+    "text": "Royals ",
+    "url": "/insider/royals"
+  },
+  {
+    "text": "Living ",
+    "url": "/insider/living"
+  },
+  {
+    "text": "Fashion ",
+    "url": "/insider/fashion"
+  },
+  {
+    "text": "Discover Extraordinary ",
+    "url": "/insider/discover-extraordinary"
+  },
+  {
+    "text": "Beauty ",
+    "url": "/beauty"
+  },
+  {
+    "text": "The Escapist",
+    "url": "/escapist"
+  },
+  {
+    "text": "Travel ",
+    "url": "/escapist/travel"
+  },
+  {
+    "text": "Wellness ",
+    "url": "/escapist/wellness"
+  },
+  {
+    "text": "Health & Fitness ",
+    "url": "/escapist/health"
+  },
+  {
+    "text": "Movember BRANDPOST | PAID CONTENT",
+    "url": "/escapist/movember"
+  },
+  {
+    "text": "London Minds ",
+    "url": "https://londonminds.standard.co.uk/"
+  },
+  {
+    "text": "Puzzles ",
+    "url": "https://puzzles.standard.co.uk/"
+  },
+  {
+    "text": "The Reveller",
+    "url": "/reveller"
+  },
+  {
+    "text": "Restaurants ",
+    "url": "/reveller/restaurants"
+  },
+  {
+    "text": "Food + Drink ",
+    "url": "/reveller/foodanddrink"
+  },
+  {
+    "text": "Pubs, Bars and Nightlife ",
+    "url": "/reveller/bars"
+  },
+  {
+    "text": "Events and Things To Do ",
+    "url": "/reveller/attractions"
+  },
+  {
+    "text": "Trojan BRANDPOST | PAID CONTENT",
+    "url": "/reveller/trojan"
+  },
+  {
+    "text": "ES Rewards ",
+    "url": "/esrewards"
+  },
+  {
+    "text": "The Optimist",
+    "url": "/optimist"
+  },
+  {
+    "text": "Plug It In ",
+    "url": "/optimist/plug-it-in"
+  },
+  {
+    "text": "Vaccine for the World ",
+    "url": "/optimist/vaccine-world"
+  },
+  {
+    "text": "The Sustainables ",
+    "url": "/optimist/the-sustainables"
+  },
+  {
+    "text": "Sustainable Standard ",
+    "url": "/optimist/sustainable"
+  },
+  {
+    "text": "The Air We Breathe ",
+    "url": "/optimist/theairwebreathe"
+  },
+  {
+    "text": "Cultural Oasis ",
+    "url": "/optimist/cultural-oasis"
+  },
+  {
+    "text": "SGI ",
+    "url": "/optimist/sgi"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "Comment ",
+    "url": "/comment/comment"
+  },
+  {
+    "text": "The Londoner\u2019s Diary ",
+    "url": "/news/londoners-diary"
+  },
+  {
+    "text": "Podcasts ",
+    "url": "/comment/podcasts"
+  },
+  {
+    "text": "The Reader ",
+    "url": "/comment/letters"
+  },
+  {
+    "text": "Tech",
+    "url": "/tech"
+  },
+  {
+    "text": "NFTs ",
+    "url": "/tech/nfts"
+  },
+  {
+    "text": "Cyber Security ",
+    "url": "/tech/cyber-security"
+  },
+  {
+    "text": "Uber BRANDPOST | PAID CONTENT",
+    "url": "/tech/uber"
+  },
+  {
+    "text": "Everyday Inspiration ",
+    "url": "https://www.standard.co.uk/tech/everyday-inspiration"
+  },
+  {
+    "text": "Huawei BRANDPOST | PAID CONTENT",
+    "url": "/tech/huawei"
+  },
+  {
+    "text": "ES Best",
+    "url": "/shopping/esbest"
+  },
+  {
+    "text": "Fashion ",
+    "url": "/shopping/esbest/fashion"
+  },
+  {
+    "text": "Beauty ",
+    "url": "/shopping/esbest/beauty"
+  },
+  {
+    "text": "Home & Garden ",
+    "url": "/shopping/esbest/home-garden"
+  },
+  {
+    "text": "Fitness ",
+    "url": "/shopping/esbest/health-fitness"
+  },
+  {
+    "text": "Books ",
+    "url": "/shopping/esbest/books-dvds"
+  },
+  {
+    "text": "Tech ",
+    "url": "/shopping/esbest/gadgets-tech"
+  },
+  {
+    "text": "Kids ",
+    "url": "/shopping/esbest/kids"
+  },
+  {
+    "text": "Voucher Codes ",
+    "url": "https://www.independent.co.uk/vouchercodes"
+  },
+  {
+    "text": "ES Mag",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Subscribe ",
+    "url": "https://www.subsaver.co.uk/nord/dm/ESM/P"
+  },
+  {
+    "text": "Homes & Property",
+    "url": "/homesandproperty"
+  },
+  {
+    "text": "Property News ",
+    "url": "/homesandproperty/property-news"
+  },
+  {
+    "text": "Buying & Mortgages ",
+    "url": "/homesandproperty/buying-mortgages"
+  },
+  {
+    "text": "Renting ",
+    "url": "/homesandproperty/renting"
+  },
+  {
+    "text": "Celebrity homes ",
+    "url": "/homesandproperty/celebrity-homes"
+  },
+  {
+    "text": "Where to live ",
+    "url": "/homesandproperty/where-to-live"
+  },
+  {
+    "text": "Interiors ",
+    "url": "/homesandproperty/interiors"
+  },
+  {
+    "text": "Luxury ",
+    "url": "/homesandproperty/luxury"
+  },
+  {
+    "text": "Gardening ",
+    "url": "/homesandproperty/gardening"
+  },
+  {
+    "text": "\u00d7",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "Watch video on \n\n\n\n\n",
+    "url": "/video"
+  },
+  {
+    "text": "Login",
+    "url": "/login"
+  },
+  {
+    "text": "Register",
+    "url": "/register?regSourceMethod=Login Overlay&regSourceSection=Evening Standard"
+  },
+  {
+    "text": "Manage my profile",
+    "url": "/profile"
+  },
+  {
+    "text": "Log out",
+    "url": "/user/logout"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "London",
+    "url": "/news/london"
+  },
+  {
+    "text": "UK",
+    "url": "/news/uk"
+  },
+  {
+    "text": "Politics",
+    "url": "/news/politics"
+  },
+  {
+    "text": "Crime",
+    "url": "/news/crime"
+  },
+  {
+    "text": "Transport",
+    "url": "/news/transport"
+  },
+  {
+    "text": "Health",
+    "url": "/news/health"
+  },
+  {
+    "text": "Education",
+    "url": "/news/education"
+  },
+  {
+    "text": "World",
+    "url": "/news/world"
+  },
+  {
+    "text": "Celebrity News",
+    "url": "/showbiz"
+  },
+  {
+    "text": "Skill Up Step Up",
+    "url": "/skill-up-step-up"
+  },
+  {
+    "text": "Save The Children",
+    "url": "/news/savethechildren"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/topic/coronavirus"
+  },
+  {
+    "text": "Newsletters",
+    "url": "https://www.standard.co.uk/newsletters"
+  },
+  {
+    "text": "Sport",
+    "url": "/sport"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Rugby Union",
+    "url": "/sport/rugby"
+  },
+  {
+    "text": "Cricket",
+    "url": "/sport/cricket"
+  },
+  {
+    "text": "Tennis",
+    "url": "/sport/tennis"
+  },
+  {
+    "text": "Boxing",
+    "url": "/sport/boxing"
+  },
+  {
+    "text": "Horse Racing",
+    "url": "/sport/horse-racing"
+  },
+  {
+    "text": "Arsenal",
+    "url": "/sport/football/arsenal"
+  },
+  {
+    "text": "Chelsea",
+    "url": "/sport/football/chelsea"
+  },
+  {
+    "text": "Tottenham",
+    "url": "/sport/football/tottenham"
+  },
+  {
+    "text": "West Ham",
+    "url": "/sport/football/westham"
+  },
+  {
+    "text": "Crystal Palace",
+    "url": "/sport/football/crystalpalace"
+  },
+  {
+    "text": "Brentford",
+    "url": "/sport/football/brentford"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "AXA Startup Angel competition",
+    "url": "/business/axastartupangel"
+  },
+  {
+    "text": "SME XPO",
+    "url": "/topic/smes"
+  },
+  {
+    "text": "Business News",
+    "url": "/business/business-news"
+  },
+  {
+    "text": "Markets",
+    "url": "/business/markets"
+  },
+  {
+    "text": "Economy",
+    "url": "/business/economy"
+  },
+  {
+    "text": "Leisure & Retail",
+    "url": "/business/leisure-retail"
+  },
+  {
+    "text": "Property",
+    "url": "/business/property"
+  },
+  {
+    "text": "Technology & Media",
+    "url": "/business/technology-media"
+  },
+  {
+    "text": "Events",
+    "url": "/events"
+  },
+  {
+    "text": "SME EXPO",
+    "url": "https://smexpo.co.uk/"
+  },
+  {
+    "text": "Stories Festival",
+    "url": "https://www.stories.standard.co.uk/"
+  },
+  {
+    "text": "Big Comedy Night",
+    "url": "https://www.standard.co.uk/culture/comedy"
+  },
+  {
+    "text": "Progress 1000",
+    "url": "/news/the1000"
+  },
+  {
+    "text": "The Theatre Awards",
+    "url": "https://www.standard.co.uk/topic/evening-standard-theatre-awards"
+  },
+  {
+    "text": "ES Money",
+    "url": "/esmoney"
+  },
+  {
+    "text": "Investing",
+    "url": "/esmoney/investing/"
+  },
+  {
+    "text": "Travel Insurance",
+    "url": "/esmoney/travel-insurance/"
+  },
+  {
+    "text": "Car Insurance",
+    "url": "/esmoney/car-insurance/"
+  },
+  {
+    "text": "Broadband",
+    "url": "/esmoney/broadband/"
+  },
+  {
+    "text": "Mobile Phones",
+    "url": "/esmoney/mobile-phones/"
+  },
+  {
+    "text": "Loans",
+    "url": "/esmoney/loans/"
+  },
+  {
+    "text": "Credit Cards",
+    "url": "/esmoney/credit-cards/"
+  },
+  {
+    "text": "Home Insurance",
+    "url": "/esmoney/home-insurance/"
+  },
+  {
+    "text": "Pet Insurance",
+    "url": "/esmoney/pet-insurance/"
+  },
+  {
+    "text": "Mortgages",
+    "url": "/esmoney/mortgages/"
+  },
+  {
+    "text": "Life Insurance",
+    "url": "/esmoney/life-insurance/"
+  },
+  {
+    "text": "Culture",
+    "url": "/culture"
+  },
+  {
+    "text": "Stories Festival",
+    "url": "https://www.standard.co.uk/topic/stories-festival"
+  },
+  {
+    "text": "Theatre",
+    "url": "/culture/theatre"
+  },
+  {
+    "text": "Film",
+    "url": "/culture/film"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "Exhibitions",
+    "url": "/culture/exhibitions"
+  },
+  {
+    "text": "Comedy",
+    "url": "/culture/comedy"
+  },
+  {
+    "text": "TV",
+    "url": "/culture/tvfilm"
+  },
+  {
+    "text": "The Londoner | Paid Content",
+    "url": "/culture/the-londoner"
+  },
+  {
+    "text": "New West End Company | Paid Content",
+    "url": "/culture/newwestendcompany"
+  },
+  {
+    "text": "Art of London - Brand Post | Paid Content",
+    "url": "/culture/artoflondon"
+  },
+  {
+    "text": "Books",
+    "url": "/culture/books"
+  },
+  {
+    "text": "Future Theatre Fund",
+    "url": "/culture/future-theatre-fund"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "Celebrity",
+    "url": "/insider/celebrity"
+  },
+  {
+    "text": "Royals",
+    "url": "/insider/royals"
+  },
+  {
+    "text": "Living",
+    "url": "/insider/living"
+  },
+  {
+    "text": "Fashion",
+    "url": "/insider/fashion"
+  },
+  {
+    "text": "Discover Extraordinary",
+    "url": "/insider/discover-extraordinary"
+  },
+  {
+    "text": "Beauty",
+    "url": "/beauty"
+  },
+  {
+    "text": "The Escapist",
+    "url": "/escapist"
+  },
+  {
+    "text": "Travel",
+    "url": "/escapist/travel"
+  },
+  {
+    "text": "Wellness",
+    "url": "/escapist/wellness"
+  },
+  {
+    "text": "Health & Fitness",
+    "url": "/escapist/health"
+  },
+  {
+    "text": "Movember - Brand Post | Paid Content",
+    "url": "/escapist/movember"
+  },
+  {
+    "text": "London Minds",
+    "url": "https://londonminds.standard.co.uk/"
+  },
+  {
+    "text": "Puzzles",
+    "url": "https://puzzles.standard.co.uk/"
+  },
+  {
+    "text": "The Reveller",
+    "url": "/reveller"
+  },
+  {
+    "text": "Restaurants",
+    "url": "/reveller/restaurants"
+  },
+  {
+    "text": "Food + Drink",
+    "url": "/reveller/foodanddrink"
+  },
+  {
+    "text": "Pubs, Bars and Nightlife",
+    "url": "/reveller/bars"
+  },
+  {
+    "text": "Events and Things To Do",
+    "url": "/reveller/attractions"
+  },
+  {
+    "text": "Trojan - Brand Post | Paid Content",
+    "url": "/reveller/trojan"
+  },
+  {
+    "text": "ES Rewards",
+    "url": "/esrewards"
+  },
+  {
+    "text": "The Optimist",
+    "url": "/optimist"
+  },
+  {
+    "text": "Plug It In",
+    "url": "/optimist/plug-it-in"
+  },
+  {
+    "text": "Vaccine for the World",
+    "url": "/optimist/vaccine-world"
+  },
+  {
+    "text": "The Sustainables",
+    "url": "/optimist/the-sustainables"
+  },
+  {
+    "text": "Sustainable Standard",
+    "url": "/optimist/sustainable"
+  },
+  {
+    "text": "The Air We Breathe",
+    "url": "/optimist/theairwebreathe"
+  },
+  {
+    "text": "Cultural Oasis",
+    "url": "/optimist/cultural-oasis"
+  },
+  {
+    "text": "SGI",
+    "url": "/optimist/sgi"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment/comment"
+  },
+  {
+    "text": "The Londoner\u2019s Diary",
+    "url": "/news/londoners-diary"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/comment/podcasts"
+  },
+  {
+    "text": "The Reader",
+    "url": "/comment/letters"
+  },
+  {
+    "text": "Tech",
+    "url": "/tech"
+  },
+  {
+    "text": "NFTs",
+    "url": "/tech/nfts"
+  },
+  {
+    "text": "Cyber Security",
+    "url": "/tech/cyber-security"
+  },
+  {
+    "text": "Uber",
+    "url": "/tech/uber"
+  },
+  {
+    "text": "Everyday Inspiration",
+    "url": "https://www.standard.co.uk/tech/everyday-inspiration"
+  },
+  {
+    "text": "Huawei - Brand Post | Paid Content",
+    "url": "/tech/huawei"
+  },
+  {
+    "text": "ES Best",
+    "url": "/shopping/esbest"
+  },
+  {
+    "text": "Home & Garden",
+    "url": "/shopping/esbest/home-garden"
+  },
+  {
+    "text": "Fashion",
+    "url": "/shopping/esbest/fashion"
+  },
+  {
+    "text": "Beauty",
+    "url": "/shopping/esbest/beauty"
+  },
+  {
+    "text": "Fitness",
+    "url": "/shopping/esbest/health-fitness"
+  },
+  {
+    "text": "Tech",
+    "url": "/shopping/esbest/gadgets-tech"
+  },
+  {
+    "text": "Kids",
+    "url": "/shopping/esbest/kids"
+  },
+  {
+    "text": "Books",
+    "url": "/shopping/esbest/books-dvds"
+  },
+  {
+    "text": "Voucher Codes",
+    "url": "https://www.independent.co.uk/vouchercodes"
+  },
+  {
+    "text": "ES Shop",
+    "url": "https://shop.standard.co.uk/"
+  },
+  {
+    "text": "ES Mag",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Subscribe",
+    "url": "https://www.subsaver.co.uk/nord/dm/ESM/P"
+  },
+  {
+    "text": "Homes & Property",
+    "url": "/homesandproperty"
+  },
+  {
+    "text": "Property News",
+    "url": "/homesandproperty/property-news"
+  },
+  {
+    "text": "Buying & Mortgages",
+    "url": "/homesandproperty/buying-mortgages"
+  },
+  {
+    "text": "Renting",
+    "url": "/homesandproperty/renting"
+  },
+  {
+    "text": "Celebrity homes",
+    "url": "/homesandproperty/celebrity-homes"
+  },
+  {
+    "text": "Where to live",
+    "url": "/homesandproperty/where-to-live"
+  },
+  {
+    "text": "Interiors",
+    "url": "/homesandproperty/interiors"
+  },
+  {
+    "text": "Luxury",
+    "url": "/homesandproperty/luxury"
+  },
+  {
+    "text": "Gardening",
+    "url": "/homesandproperty/gardening"
+  },
+  {
+    "text": "Logout",
+    "url": "/user/logout"
+  },
+  {
+    "text": "\n\n",
+    "url": "165348596842143"
+  },
+  {
+    "text": "\n\n",
+    "url": "https://twitter.com/standardnews"
+  },
+  {
+    "text": "\nPolice release images of man following stabbing of Lilia Valutyte",
+    "url": "/news/uk/lilia-valutyte-stabbing-lincolnshire-police-man-image-cctv-boston-b1015687.html?itm_source=Internal&itm_channel=homepage_banner&itm_campaign=breaking-news-ticker&itm_content=1"
+  },
+  {
+    "text": "\nUnion chief accuses Grant Shapps of \u2018lying\u2019 over pay dispute",
+    "url": "/news/london/train-strike-national-rail-saturday-london-which-trains-are-on-strike-is-the-tube-strike-london-overground-thameslink-southern-travel-news-aslef-mick-lynch-b1015679.html?itm_source=Internal&itm_channel=homepage_banner&itm_campaign=breaking-news-ticker&itm_content=2"
+  },
+  {
+    "text": "\nSunak vows to tackle \u2018woke nonsense\u2019 in a bid to revive No10 hopes",
+    "url": "/news/uk/rishi-sunak-woke-liz-truss-tory-leadership-conservative-party-west-sussex-b1015659.html?itm_source=Internal&itm_channel=homepage_banner&itm_campaign=breaking-news-ticker&itm_content=3"
+  },
+  {
+    "text": "\nTom Tugendhat backs Liz Truss in another blow to Rishi Sunak",
+    "url": "/news/politics/tom-tugendhat-liz-truss-rishi-sunak-conservative-leadership-contest-prime-minister-uk-b1015653.html?itm_source=Internal&itm_channel=homepage_banner&itm_campaign=breaking-news-ticker&itm_content=4"
+  },
+  {
+    "text": "\nMan, 22, charged with murder after fatal stabbing in south-west London",
+    "url": "/news/london/london-stabbing-balham-trinity-crescent-crime-met-police-b1015680.html?itm_source=Internal&itm_channel=homepage_banner&itm_campaign=breaking-news-ticker&itm_content=5"
+  },
+  {
+    "text": "\nTwo men jailed for \u2018violent assault on a young man\u2019 in Mitcham",
+    "url": "/news/london/london-news-violent-assault-mitcham-potter-close-crime-stabbing-b1015682.html?itm_source=Internal&itm_channel=homepage_banner&itm_campaign=breaking-news-ticker&itm_content=6"
+  },
+  {
+    "text": "",
+    "url": "/news/london/train-strike-national-rail-saturday-london-which-trains-are-on-strike-is-the-tube-strike-london-overground-thameslink-southern-travel-news-aslef-mick-lynch-b1015679.html"
+  },
+  {
+    "text": "LIVE",
+    "url": "/news/london"
+  },
+  {
+    "text": "Union chief accuses Grant Shapps of \u2018lying\u2019 over pay dispute",
+    "url": "/news/london/train-strike-national-rail-saturday-london-which-trains-are-on-strike-is-the-tube-strike-london-overground-thameslink-southern-travel-news-aslef-mick-lynch-b1015679.html"
+  },
+  {
+    "text": "Sami Quadri",
+    "url": "/author/sami-quadri"
+  },
+  {
+    "text": "Bill McLoughlin",
+    "url": "/author/bill-mcloughlin"
+  },
+  {
+    "text": "",
+    "url": "/news/uk/rishi-sunak-woke-liz-truss-tory-leadership-conservative-party-west-sussex-b1015659.html"
+  },
+  {
+    "text": "UK",
+    "url": "/news/uk"
+  },
+  {
+    "text": "Sunak vows to tackle \u2018woke nonsense\u2019 in a bid to revive No10 hopes",
+    "url": "/news/uk/rishi-sunak-woke-liz-truss-tory-leadership-conservative-party-west-sussex-b1015659.html"
+  },
+  {
+    "text": "Sophie Wingate",
+    "url": "/author/sophie-wingate"
+  },
+  {
+    "text": "Bill McLoughlin",
+    "url": "/author/bill-mcloughlin"
+  },
+  {
+    "text": "",
+    "url": "/news/uk/lilia-valutyte-stabbing-lincolnshire-police-man-image-cctv-boston-b1015687.html"
+  },
+  {
+    "text": "UK",
+    "url": "/news/uk"
+  },
+  {
+    "text": "Police release images of man following stabbing of Lilia Valutyte",
+    "url": "/news/uk/lilia-valutyte-stabbing-lincolnshire-police-man-image-cctv-boston-b1015687.html"
+  },
+  {
+    "text": "Laura Parnaby",
+    "url": "/author/laura-parnaby"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/celebrity-homes/liz-truss-property-portfolio-norfolk-london-b1014487.html"
+  },
+  {
+    "text": "Celebrity homes",
+    "url": "/homesandproperty/celebrity-homes"
+  },
+  {
+    "text": "Liz Truss\u2019s property portfolio: where does the PM hopeful own homes?",
+    "url": "/homesandproperty/celebrity-homes/liz-truss-property-portfolio-norfolk-london-b1014487.html"
+  },
+  {
+    "text": "Ella Jessel",
+    "url": "/author/ella-jessel"
+  },
+  {
+    "text": "",
+    "url": "/news/uk/travel-news-border-force-france-eurotunnel-delays-dover-why-are-there-queues-at-dover-live-b1015658.html"
+  },
+  {
+    "text": "UK",
+    "url": "/news/uk"
+  },
+  {
+    "text": "Britain and France put \u2018plans in place\u2019 to stop further travel chaos",
+    "url": "/news/uk/travel-news-border-force-france-eurotunnel-delays-dover-why-are-there-queues-at-dover-live-b1015658.html"
+  },
+  {
+    "text": "Rebecca Speare-Cole",
+    "url": "/author/rebecca-speare-cole"
+  },
+  {
+    "text": "",
+    "url": "/news/london/london-news-violent-assault-mitcham-potter-close-crime-stabbing-b1015682.html"
+  },
+  {
+    "text": "London",
+    "url": "/news/london"
+  },
+  {
+    "text": "Two men jailed for \u2018violent assault on a young man\u2019 in Mitcham",
+    "url": "/news/london/london-news-violent-assault-mitcham-potter-close-crime-stabbing-b1015682.html"
+  },
+  {
+    "text": "Bill McLoughlin",
+    "url": "/author/bill-mcloughlin"
+  },
+  {
+    "text": "",
+    "url": "/news/crime/murder-woman-falls-wembley-london-b1015620.html"
+  },
+  {
+    "text": "Crime",
+    "url": "/news/crime"
+  },
+  {
+    "text": "Murder probe as woman falls 20ft to her death in Wembley",
+    "url": "/news/crime/murder-woman-falls-wembley-london-b1015620.html"
+  },
+  {
+    "text": "Anthony France",
+    "url": "/author/anthony-france"
+  },
+  {
+    "text": "",
+    "url": "/news/world/hitler-watch-auction-sold-us-huber-timepiece-b1015686.html"
+  },
+  {
+    "text": "World",
+    "url": "/news/world"
+  },
+  {
+    "text": "Hitler\u2019s watch sold in controversial auction for almost \u00a31million ",
+    "url": "/news/world/hitler-watch-auction-sold-us-huber-timepiece-b1015686.html"
+  },
+  {
+    "text": "Sami Quadri",
+    "url": "/author/sami-quadri"
+  },
+  {
+    "text": "",
+    "url": "/showbiz/neighbours-finale-last-epidsode-margot-robbie-jason-donovan-kylie-minogue-guy-pearce-delta-goodrum-holly-vallance-b1015676.html"
+  },
+  {
+    "text": "Showbiz",
+    "url": "/showbiz"
+  },
+  {
+    "text": "Fans hail \u2018perfect\u2019 Neighbours finale as iconic shows bids farewell",
+    "url": "/showbiz/neighbours-finale-last-epidsode-margot-robbie-jason-donovan-kylie-minogue-guy-pearce-delta-goodrum-holly-vallance-b1015676.html"
+  },
+  {
+    "text": "Sami Quadri",
+    "url": "/author/sami-quadri"
+  },
+  {
+    "text": "",
+    "url": "/news/uk/rebekah-vardy-downfall-wagatha-christie-high-court-battle-coleen-rooney-b1015558.html"
+  },
+  {
+    "text": "UK",
+    "url": "/news/uk"
+  },
+  {
+    "text": "The downfall of Rebekah Vardy in Wagatha Christie battle",
+    "url": "/news/uk/rebekah-vardy-downfall-wagatha-christie-high-court-battle-coleen-rooney-b1015558.html"
+  },
+  {
+    "text": "Tristan Kirk",
+    "url": "/author/tristan-kirk"
+  },
+  {
+    "text": "",
+    "url": "/news/crime/camilo-palacio-murder-shooting-london-wood-green-b1015632.html"
+  },
+  {
+    "text": "Crime",
+    "url": "/news/crime"
+  },
+  {
+    "text": "Camilo Palacio: Victim of second fatal shooting within 24 hours named",
+    "url": "/news/crime/camilo-palacio-murder-shooting-london-wood-green-b1015632.html"
+  },
+  {
+    "text": "Anthony France",
+    "url": "/author/anthony-france"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/transfer-news-live-arsenal-chelsea-fc-tottenham-fofana-tielemans-zaniolo-b1014830.html"
+  },
+  {
+    "text": "LIVE",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Transfer news LIVE! Chelsea agree defender terms; Tielemans to Arsenal",
+    "url": "/sport/football/transfer-news-live-arsenal-chelsea-fc-tottenham-fofana-tielemans-zaniolo-b1014830.html"
+  },
+  {
+    "text": "Alex Young",
+    "url": "/author/alex-young"
+  },
+  {
+    "text": "George Flood",
+    "url": "/author/george-flood"
+  },
+  {
+    "text": "",
+    "url": "/showbiz/will-smith-chris-rock-slap-oscars-apology-video-facebook-king-richard-actor-b1015621.html"
+  },
+  {
+    "text": "Showbiz",
+    "url": "/showbiz"
+  },
+  {
+    "text": "Watch: Will Smith addresses Chris Rock slap in revealing new video",
+    "url": "/showbiz/will-smith-chris-rock-slap-oscars-apology-video-facebook-king-richard-actor-b1015621.html"
+  },
+  {
+    "text": "Miriam Burrell",
+    "url": "/author/miriam-burrell"
+  },
+  {
+    "text": "More",
+    "url": "https://www.standard.co.uk/sport/football"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/how-england-beat-germany-euro-2022-final-wembley-b1015557.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "How England can topple Germany and claim historic Euro 2022 triumph",
+    "url": "/sport/football/how-england-beat-germany-euro-2022-final-wembley-b1015557.html"
+  },
+  {
+    "text": "Reshmin Chowdhury",
+    "url": "/author/reshmin-chowdhury"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/england-vs-germany-euro-2022-final-wembley-key-issues-b1015560.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "England vs Germany: Three key issues that could decide Euro 2022 final",
+    "url": "/sport/football/england-vs-germany-euro-2022-final-wembley-key-issues-b1015560.html"
+  },
+  {
+    "text": "Simon Collings",
+    "url": "/author/simon-collings"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/germany-scouting-report-england-euro-2022-final-wembley-b1015566.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Scouting report: The Germany team hoping to wreck England\u2019s Euro dream",
+    "url": "/sport/football/germany-scouting-report-england-euro-2022-final-wembley-b1015566.html"
+  },
+  {
+    "text": "Malik Ouzia",
+    "url": "/author/malik-ouzia"
+  },
+  {
+    "text": "More",
+    "url": "https://www.standard.co.uk/insider"
+  },
+  {
+    "text": "",
+    "url": "/culture/music/beyonce-renaissance-review-new-album-b1015443.html"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "Beyonc\u00e9 - Renaissance review: precision-tooled dancefloor euphoria",
+    "url": "/culture/music/beyonce-renaissance-review-new-album-b1015443.html"
+  },
+  {
+    "text": "David Smyth",
+    "url": "/author/david-smyth"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/interiors/french-farmhouse-renovation-benji-lewis-zoom-that-room-b1014612.html"
+  },
+  {
+    "text": "Interiors",
+    "url": "/homesandproperty/interiors"
+  },
+  {
+    "text": "Inside a crumbling French farmhouse reno \u2018not for the faint-hearted\u2019",
+    "url": "/homesandproperty/interiors/french-farmhouse-renovation-benji-lewis-zoom-that-room-b1014612.html"
+  },
+  {
+    "text": "Emma Magnus",
+    "url": "/author/emma-magnus"
+  },
+  {
+    "text": "",
+    "url": "/insider/wagatha-christie-wayne-coleen-rooney-rebekah-vardy-b1000780.html"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "Wagatha Christie: the most compelling libel trial of the century",
+    "url": "/insider/wagatha-christie-wayne-coleen-rooney-rebekah-vardy-b1000780.html"
+  },
+  {
+    "text": "Tristan Kirk",
+    "url": "/author/tristan-kirk"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/emma-raducanu-interview-tennis-us-open-wimbledon-b1014740.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Emma Raducanu: Pressure. What pressure?",
+    "url": "/esmagazine/emma-raducanu-interview-tennis-us-open-wimbledon-b1014740.html"
+  },
+  {
+    "text": "Laura Craik",
+    "url": "/author/laura-craik"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/gaz-mayall-london-interview-best-meal-club-b1014861.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "My London: Gaz Mayall",
+    "url": "/esmagazine/gaz-mayall-london-interview-best-meal-club-b1014861.html"
+  },
+  {
+    "text": "Mark Beaumont",
+    "url": "/author/mark-beaumont"
+  },
+  {
+    "text": "",
+    "url": "/culture/theatre/jennifer-saunders-sister-act-liz-truss-beverley-knight-b1015282.html"
+  },
+  {
+    "text": "Theatre",
+    "url": "/culture/theatre"
+  },
+  {
+    "text": "Sister Act\u2019s Jennifer Saunders: Let \u2018wokeness\u2019 take over",
+    "url": "/culture/theatre/jennifer-saunders-sister-act-liz-truss-beverley-knight-b1015282.html"
+  },
+  {
+    "text": "Nick Curtis",
+    "url": "/author/nick-curtis"
+  },
+  {
+    "text": "More",
+    "url": "https://www.standard.co.uk/comment"
+  },
+  {
+    "text": "",
+    "url": "/comment/england-lionesses-euro-2022-b1015540.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "England\u2019s Lionesses are one win away from sporting immortality",
+    "url": "/comment/england-lionesses-euro-2022-b1015540.html"
+  },
+  {
+    "text": "Evening Standard Comment",
+    "url": "/author/evening-standard-comment"
+  },
+  {
+    "text": "Harsh truth for Boris fans: Truss and Sunak will be stronger together",
+    "url": "/comment/harsh-trush-boris-johnson-liz-truss-rishi-sunak-stronger-together-b1015504.html"
+  },
+  {
+    "text": "Sebastian Stan\u2019s new role is good but disabled actors need equality",
+    "url": "/comment/comment/i-will-only-cheer-sebastian-stan-s-new-role-when-disabled-actors-get-the-same-chances-b1015389.html"
+  },
+  {
+    "text": "Help on energy bills is coming \u2013 it won\u2019t be enough",
+    "url": "/comment/energy-price-cap-ps400-discount-b1015594.html"
+  },
+  {
+    "text": "Vogue X Self-Portrait summer party",
+    "url": "/showbiz/vogue-x-self-portrait-summer-party-st100036.html"
+  },
+  {
+    "text": "Heatwave hits London",
+    "url": "/news/london/london-weather-heatwave-st100034.html"
+  },
+  {
+    "text": "Wildfires in Europe",
+    "url": "/news/world/wildfires-europe-france-spain-st100035.html"
+  },
+  {
+    "text": "The Iconic Ball at KOKO ",
+    "url": "/showbiz/the-iconic-ball-at-koko-st100033.html"
+  },
+  {
+    "text": "Summer Solstice at Stonehenge",
+    "url": "/news/uk/summer-solstice-at-stonehenge-st100030.html"
+  },
+  {
+    "text": "Royal Academy summer exhibition party",
+    "url": "/showbiz/royal-academy-summer-exhibition-party-st100028.html"
+  },
+  {
+    "text": "Tribeca Film Festival",
+    "url": "/culture/film/tribeca-film-festival-st100027.html"
+  },
+  {
+    "text": "Thor: Love and Thunder premiere",
+    "url": "/showbiz/thor-love-and-thunder-premiere-pictures-st100032.html"
+  },
+  {
+    "text": "More",
+    "url": "sport"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/arsenal-xi-vs-sevilla-starting-lineup-confirmed-team-news-injury-latest-2022-emirates-cup-b1015600.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Arsenal XI vs Sevilla: Starting lineup and confirmed team news",
+    "url": "/sport/football/arsenal-xi-vs-sevilla-starting-lineup-confirmed-team-news-injury-latest-2022-emirates-cup-b1015600.html"
+  },
+  {
+    "text": "Jonathan Gorrie",
+    "url": "/author/jonathan-gorrie"
+  },
+  {
+    "text": "",
+    "url": "/sport/other-sports/adam-peaty-100metre-breaststroke-commonwealth-games-b1015688.html"
+  },
+  {
+    "text": "Other Sports",
+    "url": "/sport/other-sports"
+  },
+  {
+    "text": "Peaty allays injury fears with best time from 100m breaststroke heats",
+    "url": "/sport/other-sports/adam-peaty-100metre-breaststroke-commonwealth-games-b1015688.html"
+  },
+  {
+    "text": "Matt Majendie",
+    "url": "/author/matt-majendie"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/martin-odegaard-new-arsenal-captain-b1015685.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Arsenal officially confirm new captain after Lacazette exit",
+    "url": "/sport/football/martin-odegaard-new-arsenal-captain-b1015685.html"
+  },
+  {
+    "text": "George Flood",
+    "url": "/author/george-flood"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/man-united-xi-vs-atletico-madrid-predicted-lineup-confirmed-team-news-injury-latest-2022-preseason-friendly-today-b1015587.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Man United XI vs Atletico: Predicted lineup, confirmed team news",
+    "url": "/sport/football/man-united-xi-vs-atletico-madrid-predicted-lineup-confirmed-team-news-injury-latest-2022-preseason-friendly-today-b1015587.html"
+  },
+  {
+    "text": "Jonathan Gorrie",
+    "url": "/author/jonathan-gorrie"
+  },
+  {
+    "text": "",
+    "url": "/sport/football/man-united-vs-atletico-madrid-prediction-kick-off-time-tv-live-stream-team-news-2022-latest-h2h-results-preseason-friendly-preview-b1015377.html"
+  },
+  {
+    "text": "Football",
+    "url": "/sport/football"
+  },
+  {
+    "text": "Man United vs Atletico: Prediction, team news, how to watch, h2h",
+    "url": "/sport/football/man-united-vs-atletico-madrid-prediction-kick-off-time-tv-live-stream-team-news-2022-latest-h2h-results-preseason-friendly-preview-b1015377.html"
+  },
+  {
+    "text": "Jonathan Gorrie",
+    "url": "/author/jonathan-gorrie"
+  },
+  {
+    "text": "More",
+    "url": "business"
+  },
+  {
+    "text": "",
+    "url": "/business/oil-companies-report-record-financials-as-fuel-and-energy-costs-grip-consumers-b1015603.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "Oil giants report record results amid petrol and energy price hikes ",
+    "url": "/business/oil-companies-report-record-financials-as-fuel-and-energy-costs-grip-consumers-b1015603.html"
+  },
+  {
+    "text": "Mark Banham",
+    "url": "/author/mark-banham"
+  },
+  {
+    "text": "",
+    "url": "/business/eurozone-inflation-hits-8-9-record-high-b1015534.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "Eurozone inflation hits 8.9% record high ",
+    "url": "/business/eurozone-inflation-hits-8-9-record-high-b1015534.html"
+  },
+  {
+    "text": "Mark Banham",
+    "url": "/author/mark-banham"
+  },
+  {
+    "text": "",
+    "url": "/business/london-s-formula-e-ev-charging-investment-b1015525.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "London\u2019s Formula E shows investment in EV charging needs to rev up",
+    "url": "/business/london-s-formula-e-ev-charging-investment-b1015525.html"
+  },
+  {
+    "text": "Frank Muehlon",
+    "url": "/author/frank-muehlon"
+  },
+  {
+    "text": "",
+    "url": "/business/hundreds-of-aston-martin-cars-left-unfinished-amid-supply-chain-struggles-b1015494.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "Hundreds of Aston Martin cars left unfinished",
+    "url": "/business/hundreds-of-aston-martin-cars-left-unfinished-amid-supply-chain-struggles-b1015494.html"
+  },
+  {
+    "text": "Simon Hunt",
+    "url": "/author/simon-hunt"
+  },
+  {
+    "text": "",
+    "url": "/business/natwest-dividends-government-alison-rose-b1015468.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "NatWest to splash billions in dividends as profits jump",
+    "url": "/business/natwest-dividends-government-alison-rose-b1015468.html"
+  },
+  {
+    "text": "Simon English",
+    "url": "/author/simon-english"
+  },
+  {
+    "text": "More",
+    "url": "esmoney"
+  },
+  {
+    "text": "",
+    "url": "/esmoney/investing/cryptocurrency/ethereum-price-today-29-july-2022-b1009397.html"
+  },
+  {
+    "text": "Cryptocurrency",
+    "url": "/esmoney/investing/cryptocurrency"
+  },
+  {
+    "text": "29 July 2022: Ethereum Up 5.14%",
+    "url": "/esmoney/investing/cryptocurrency/ethereum-price-today-29-july-2022-b1009397.html"
+  },
+  {
+    "text": "Kevin Pratt",
+    "url": "/author/kevin-pratt"
+  },
+  {
+    "text": "",
+    "url": "/esmoney/investing/cryptocurrency/bitcoin-price-today-29-july-2022-b1002128.html"
+  },
+  {
+    "text": "Cryptocurrency",
+    "url": "/esmoney/investing/cryptocurrency"
+  },
+  {
+    "text": "29 July 2022: Bitcoin Up 3.71%",
+    "url": "/esmoney/investing/cryptocurrency/bitcoin-price-today-29-july-2022-b1002128.html"
+  },
+  {
+    "text": "Mark Hooson",
+    "url": "/author/mark-hooson"
+  },
+  {
+    "text": "",
+    "url": "/esmoney/investing/cryptocurrency/top-5-altcoins-b1015441.html"
+  },
+  {
+    "text": "Cryptocurrency",
+    "url": "/esmoney/investing/cryptocurrency"
+  },
+  {
+    "text": "2022\u2019s top five altcoins",
+    "url": "/esmoney/investing/cryptocurrency/top-5-altcoins-b1015441.html"
+  },
+  {
+    "text": "Mark Hooson",
+    "url": "/author/mark-hooson"
+  },
+  {
+    "text": "",
+    "url": "/esmoney/investing/best-index-tracker-funds-b1014546.html"
+  },
+  {
+    "text": "Investing",
+    "url": "/esmoney/investing"
+  },
+  {
+    "text": "Best Index Tracker Funds ",
+    "url": "/esmoney/investing/best-index-tracker-funds-b1014546.html"
+  },
+  {
+    "text": "Jo Groves",
+    "url": "/author/jo-groves"
+  },
+  {
+    "text": "",
+    "url": "/esmoney/travel-insurance/england-travel-rules-26-07-2022-b956947.html"
+  },
+  {
+    "text": "Travel Insurance",
+    "url": "/esmoney/travel-insurance"
+  },
+  {
+    "text": "Travelling back to England from abroad? Here are the rules",
+    "url": "/esmoney/travel-insurance/england-travel-rules-26-07-2022-b956947.html"
+  },
+  {
+    "text": "Andrew Michael",
+    "url": "/author/andrew-michael"
+  },
+  {
+    "text": "",
+    "url": "/esmoney/investing/cryptocurrency/bitcoin-btc-price-predictions-b1004590.html"
+  },
+  {
+    "text": "Cryptocurrency",
+    "url": "/esmoney/investing/cryptocurrency"
+  },
+  {
+    "text": "Bitcoin (BTC) price predictions - what\u2019s on the horizon?\n",
+    "url": "/esmoney/investing/cryptocurrency/bitcoin-btc-price-predictions-b1004590.html"
+  },
+  {
+    "text": "Mark Hooson",
+    "url": "/author/mark-hooson"
+  },
+  {
+    "text": "",
+    "url": "/reveller/10-things-to-do-at-the-seven-dials-summer-sessions-on-30-july-b1010664.html"
+  },
+  {
+    "text": "SPONSORED",
+    "url": "/reveller"
+  },
+  {
+    "text": "10 things to do at the Seven Dials Summer Sessions on 30 July",
+    "url": "/reveller/10-things-to-do-at-the-seven-dials-summer-sessions-on-30-july-b1010664.html"
+  },
+  {
+    "text": "",
+    "url": "/tech/uber-green-ev-drivers-riders-electric-b1006086.html"
+  },
+  {
+    "text": "SPONSORED",
+    "url": "/tech"
+  },
+  {
+    "text": "Uber: making London greener for everyone",
+    "url": "/tech/uber-green-ev-drivers-riders-electric-b1006086.html"
+  },
+  {
+    "text": "",
+    "url": "/escapist/9-ways-to-shop-ethically-and-help-the-environment-b1009364.html"
+  },
+  {
+    "text": "SPONSORED",
+    "url": "/escapist"
+  },
+  {
+    "text": "9 ways to shop ethically and help the environment",
+    "url": "/escapist/9-ways-to-shop-ethically-and-help-the-environment-b1009364.html"
+  },
+  {
+    "text": "More",
+    "url": "culture"
+  },
+  {
+    "text": "",
+    "url": "/culture/music/selena-quintanilla-is-releasing-new-music-27-years-after-her-death-b1015602.html"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "New music from Selena Quintanilla is coming, 27 years after her death",
+    "url": "/culture/music/selena-quintanilla-is-releasing-new-music-27-years-after-her-death-b1015602.html"
+  },
+  {
+    "text": "Elizabeth Gregory",
+    "url": "/author/elizabeth-gregory"
+  },
+  {
+    "text": "",
+    "url": "/culture/tvfilm/marriage-trailer-bbc-drama-sean-bean-nicola-walker-b1015565.html"
+  },
+  {
+    "text": "TV",
+    "url": "/culture/tvfilm"
+  },
+  {
+    "text": "Marriage: Trailer released for Sean Bean and Nicola Walker BBC drama",
+    "url": "/culture/tvfilm/marriage-trailer-bbc-drama-sean-bean-nicola-walker-b1015565.html"
+  },
+  {
+    "text": "Elizabeth Gregory",
+    "url": "/author/elizabeth-gregory"
+  },
+  {
+    "text": "",
+    "url": "/culture/music/we-are-fstvl-2022-tickets-line-up-location-b1015333.html"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "All you need to know about We Are FSTVL, one of London\u2019s biggest raves",
+    "url": "/culture/music/we-are-fstvl-2022-tickets-line-up-location-b1015333.html"
+  },
+  {
+    "text": "Jochan Embley",
+    "url": "/author/jochan-embley"
+  },
+  {
+    "text": "",
+    "url": "/culture/film/who-is-ana-de-armas-marilyn-monroe-actor-background-blonde-james-bond-b1008933.html"
+  },
+  {
+    "text": "Film",
+    "url": "/culture/film"
+  },
+  {
+    "text": "The rise of Ana de Armas: Everything you need to know",
+    "url": "/culture/film/who-is-ana-de-armas-marilyn-monroe-actor-background-blonde-james-bond-b1008933.html"
+  },
+  {
+    "text": "Elizabeth Gregory",
+    "url": "/author/elizabeth-gregory"
+  },
+  {
+    "text": "Nuray Bulbul",
+    "url": "/author/nuray-bulbul"
+  },
+  {
+    "text": "",
+    "url": "/news/london/sophia-thakur-vodafone-digital-poet-spoken-word-b1015546.html"
+  },
+  {
+    "text": "London",
+    "url": "/news/london"
+  },
+  {
+    "text": "Poet and \u2018digital native\u2019 Sophia Thakur on bridging the cyber divide",
+    "url": "/news/london/sophia-thakur-vodafone-digital-poet-spoken-word-b1015546.html"
+  },
+  {
+    "text": "Syraat Al Mustaqeem",
+    "url": "/author/syraat-al-mustaqeem"
+  },
+  {
+    "text": "",
+    "url": "/culture/music/renaissance-beyonce-new-album-fans-critics-reaction-b1015460.html"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "Renaissance: Beyonc\u00e9 cements her place in history as Queen of pop",
+    "url": "/culture/music/renaissance-beyonce-new-album-fans-critics-reaction-b1015460.html"
+  },
+  {
+    "text": "Elizabeth Gregory",
+    "url": "/author/elizabeth-gregory"
+  },
+  {
+    "text": "More",
+    "url": "insider"
+  },
+  {
+    "text": "",
+    "url": "/insider/airport-chaos-travel-fashion-what-to-wear-to-travel-b1014788.html"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "How to nail departure lounge chic \u2014 your guide to travelling in style",
+    "url": "/insider/airport-chaos-travel-fashion-what-to-wear-to-travel-b1014788.html"
+  },
+  {
+    "text": "Chloe Street",
+    "url": "/author/chloe-street"
+  },
+  {
+    "text": "",
+    "url": "/insider/wagatha-christie-wayne-coleen-rooney-rebekah-vardy-b1000780.html"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "Wagatha Christie: the most compelling libel trial of the century",
+    "url": "/insider/wagatha-christie-wayne-coleen-rooney-rebekah-vardy-b1000780.html"
+  },
+  {
+    "text": "Tristan Kirk",
+    "url": "/author/tristan-kirk"
+  },
+  {
+    "text": "",
+    "url": "/insider/inside-the-battle-to-make-instagram-instagram-again-b1014939.html"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "The battle to make Instagram, well, Instagram again",
+    "url": "/insider/inside-the-battle-to-make-instagram-instagram-again-b1014939.html"
+  },
+  {
+    "text": "Amy Francombe",
+    "url": "/author/amy-francombe"
+  },
+  {
+    "text": "",
+    "url": "/insider/low-rise-mcqueen-bumster-julia-fox-waistline-gen-z-b1013918.html"
+  },
+  {
+    "text": "Insider",
+    "url": "/insider"
+  },
+  {
+    "text": "Scary fashion trend alert! The rise of the falling waistline ",
+    "url": "/insider/low-rise-mcqueen-bumster-julia-fox-waistline-gen-z-b1013918.html"
+  },
+  {
+    "text": "Isobel Van Dyke",
+    "url": "/author/isobel-van-dyke"
+  },
+  {
+    "text": "More",
+    "url": "/showbiz"
+  },
+  {
+    "text": "",
+    "url": "/showbiz/neighbours-finale-margot-robbie-returns-ramsay-street-soap-ending-b1015358.html"
+  },
+  {
+    "text": "Showbiz",
+    "url": "/showbiz"
+  },
+  {
+    "text": "Neighbours finale: Margot Robbie returns for emotional farewell",
+    "url": "/showbiz/neighbours-finale-margot-robbie-returns-ramsay-street-soap-ending-b1015358.html"
+  },
+  {
+    "text": "Tina Campbell",
+    "url": "/author/tina-campbell"
+  },
+  {
+    "text": "",
+    "url": "/showbiz/euphoria-sydney-sweeney-financial-hardships-b1015609.html"
+  },
+  {
+    "text": "Showbiz",
+    "url": "/showbiz"
+  },
+  {
+    "text": "Euphoria star Sydney Sweeney talks financial hardships",
+    "url": "/showbiz/euphoria-sydney-sweeney-financial-hardships-b1015609.html"
+  },
+  {
+    "text": "Lowenna Waters",
+    "url": "/author/lowenna-waters"
+  },
+  {
+    "text": "",
+    "url": "/showbiz/beyonce-net-worth-seventh-album-renaissance-b1015625.html"
+  },
+  {
+    "text": "Showbiz",
+    "url": "/showbiz"
+  },
+  {
+    "text": "What is Beyonce\u2019s net worth? Singer drops seventh album Renaissance",
+    "url": "/showbiz/beyonce-net-worth-seventh-album-renaissance-b1015625.html"
+  },
+  {
+    "text": "Nuray Bulbul",
+    "url": "/author/nuray-bulbul"
+  },
+  {
+    "text": "More",
+    "url": "/escapist"
+  },
+  {
+    "text": "",
+    "url": "/escapist/best-summer-perfumes-for-women-2022-b1014832.html"
+  },
+  {
+    "text": "The Escapist",
+    "url": "/escapist"
+  },
+  {
+    "text": "The best summer scents (to spritz even if you\u2019re not going on holiday)",
+    "url": "/escapist/best-summer-perfumes-for-women-2022-b1014832.html"
+  },
+  {
+    "text": "Melanie McDonagh",
+    "url": "/author/melanie-mcdonagh"
+  },
+  {
+    "text": "",
+    "url": "/escapist/tom-watson-weight-loss-book-for-life-food-addiction-review-b1014488.html"
+  },
+  {
+    "text": "The Escapist",
+    "url": "/escapist"
+  },
+  {
+    "text": "Tom Watson shares his realistic weight loss secrets in new book",
+    "url": "/escapist/tom-watson-weight-loss-book-for-life-food-addiction-review-b1014488.html"
+  },
+  {
+    "text": "Martin Robinson",
+    "url": "/author/martin-robinson"
+  },
+  {
+    "text": "",
+    "url": "/escapist/travel-to-europe-without-flying-london-train-eurostar-destinations-b1011891.html"
+  },
+  {
+    "text": "The Escapist",
+    "url": "/escapist"
+  },
+  {
+    "text": "Planes, trains and automobiles \u2014 how to fix your summer holiday ",
+    "url": "/escapist/travel-to-europe-without-flying-london-train-eurostar-destinations-b1011891.html"
+  },
+  {
+    "text": "Juliana Piskorz",
+    "url": "/author/juliana-piskorz"
+  },
+  {
+    "text": "",
+    "url": "/escapist/psychedelic-retreats-jamaica-silo-wellness-review-benefits-b1013118.html"
+  },
+  {
+    "text": "The Escapist",
+    "url": "/escapist"
+  },
+  {
+    "text": "So, would you spend \u00a310,000 on a psychedelic retreat?",
+    "url": "/escapist/psychedelic-retreats-jamaica-silo-wellness-review-benefits-b1013118.html"
+  },
+  {
+    "text": "Alexandra Jones",
+    "url": "/author/alexandra-jones"
+  },
+  {
+    "text": "More",
+    "url": "/reveller"
+  },
+  {
+    "text": "",
+    "url": "/reveller/foodanddrink/best-white-wine-supermarket-uk-summer-b1015481.html"
+  },
+  {
+    "text": "Food + Drink",
+    "url": "/reveller/foodanddrink"
+  },
+  {
+    "text": "Aidy\u2019s drinks cabinet: 7 supermarket white wines to try this summer",
+    "url": "/reveller/foodanddrink/best-white-wine-supermarket-uk-summer-b1015481.html"
+  },
+  {
+    "text": "Aidy Smith",
+    "url": "/author/aidy-smith"
+  },
+  {
+    "text": "",
+    "url": "/reveller/things-to-do-summer-holidays-2022-b1015363.html"
+  },
+  {
+    "text": "The Reveller",
+    "url": "/reveller"
+  },
+  {
+    "text": "School\u2019s out! The ultimate summer holidays guide ",
+    "url": "/reveller/things-to-do-summer-holidays-2022-b1015363.html"
+  },
+  {
+    "text": "Martha Alexander",
+    "url": "/author/martha-alexander"
+  },
+  {
+    "text": "",
+    "url": "/culture/music/south-facing-festival-crystal-palace-tickets-line-up-b1015263.html"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "Everything you need to know about South Facing concert series",
+    "url": "/culture/music/south-facing-festival-crystal-palace-tickets-line-up-b1015263.html"
+  },
+  {
+    "text": "Jochan Embley",
+    "url": "/author/jochan-embley"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/food-drink/best-low-and-no-alcohol-drinks-b704363.html"
+  },
+  {
+    "text": "Food & Drink",
+    "url": "/shopping/esbest/food-drink"
+  },
+  {
+    "text": "Best low and no alcohol drinks",
+    "url": "/shopping/esbest/food-drink/best-low-and-no-alcohol-drinks-b704363.html"
+  },
+  {
+    "text": "Abha Shah",
+    "url": "/author/abha-shah"
+  },
+  {
+    "text": "",
+    "url": "/reveller/attractions/things-to-do-london-this-weekend-july-29-30-31-b1014982.html"
+  },
+  {
+    "text": "Events and Things To Do",
+    "url": "/reveller/attractions"
+  },
+  {
+    "text": "What to get up to in London this weekend",
+    "url": "/reveller/attractions/things-to-do-london-this-weekend-july-29-30-31-b1014982.html"
+  },
+  {
+    "text": "Jochan Embley",
+    "url": "/author/jochan-embley"
+  },
+  {
+    "text": "",
+    "url": "/reveller/attractions/this-bright-land-festival-somerset-house-interview-gareth-pugh-carson-mccoll-b1014775.html"
+  },
+  {
+    "text": "Events and Things To Do",
+    "url": "/reveller/attractions"
+  },
+  {
+    "text": "Gareth Pugh\u2019s new festival brings ballroom culture to Somerset House",
+    "url": "/reveller/attractions/this-bright-land-festival-somerset-house-interview-gareth-pugh-carson-mccoll-b1014775.html"
+  },
+  {
+    "text": "Jochan Embley",
+    "url": "/author/jochan-embley"
+  },
+  {
+    "text": "More",
+    "url": "https://www.standard.co.uk/optimist"
+  },
+  {
+    "text": "",
+    "url": "/optimist/plug-it-in/is-there-such-a-thing-as-an-affordable-ev-b1013698.html"
+  },
+  {
+    "text": "Plug It In",
+    "url": "/optimist/plug-it-in"
+  },
+  {
+    "text": "Is there such a thing as an affordable EV?",
+    "url": "/optimist/plug-it-in/is-there-such-a-thing-as-an-affordable-ev-b1013698.html"
+  },
+  {
+    "text": "Stephen Armstrong",
+    "url": "/author/stephen-armstrong"
+  },
+  {
+    "text": "",
+    "url": "/optimist/plug-it-in/electric-vehicles-middleclass-cars-b1012633.html"
+  },
+  {
+    "text": "Plug It In",
+    "url": "/optimist/plug-it-in"
+  },
+  {
+    "text": "How can we stop electric vehicles being just \u2018middle-class cars\u2019?",
+    "url": "/optimist/plug-it-in/electric-vehicles-middleclass-cars-b1012633.html"
+  },
+  {
+    "text": "Stephen Armstrong",
+    "url": "/author/stephen-armstrong"
+  },
+  {
+    "text": "",
+    "url": "/optimist/cultural-oasis/the-arabian-leopard-roars-into-town-b1011778.html"
+  },
+  {
+    "text": "Cultural Oasis",
+    "url": "/optimist/cultural-oasis"
+  },
+  {
+    "text": " The Arabian leopard roars into town",
+    "url": "/optimist/cultural-oasis/the-arabian-leopard-roars-into-town-b1011778.html"
+  },
+  {
+    "text": "",
+    "url": "/optimist/cultural-oasis/for-the-love-of-the-leopard-b1010302.html"
+  },
+  {
+    "text": "Cultural Oasis",
+    "url": "/optimist/cultural-oasis"
+  },
+  {
+    "text": "For the love of the leopard",
+    "url": "/optimist/cultural-oasis/for-the-love-of-the-leopard-b1010302.html"
+  },
+  {
+    "text": "Mark Jones",
+    "url": "/author/mark-jones"
+  },
+  {
+    "text": "",
+    "url": "/optimist/plug-it-in/do-androids-dream-of-electric-cars-b1012115.html"
+  },
+  {
+    "text": "Plug It In",
+    "url": "/optimist/plug-it-in"
+  },
+  {
+    "text": "Do androids dream of electric cars?",
+    "url": "/optimist/plug-it-in/do-androids-dream-of-electric-cars-b1012115.html"
+  },
+  {
+    "text": "Stephen Armstrong",
+    "url": "/author/stephen-armstrong"
+  },
+  {
+    "text": "",
+    "url": "/optimist/plug-it-in/electric-vehicles-duncan-williams-noise-sound-b1010886.html"
+  },
+  {
+    "text": "Plug It In",
+    "url": "/optimist/plug-it-in"
+  },
+  {
+    "text": "Killing the roar: electric vehicles can calm us down",
+    "url": "/optimist/plug-it-in/electric-vehicles-duncan-williams-noise-sound-b1010886.html"
+  },
+  {
+    "text": "Stephen Armstrong",
+    "url": "/author/stephen-armstrong"
+  },
+  {
+    "text": "More",
+    "url": "comment"
+  },
+  {
+    "text": "",
+    "url": "/comment/energy-price-cap-ps400-discount-b1015594.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "Help on energy bills is coming \u2013 it won\u2019t be enough",
+    "url": "/comment/energy-price-cap-ps400-discount-b1015594.html"
+  },
+  {
+    "text": "Jack Kessler",
+    "url": "/author/jack-kessler"
+  },
+  {
+    "text": "",
+    "url": "/comment/podcasts/the-leader-podcast-kylie-and-jason-reunited-for-neighbours-finale-b1015607.html"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/comment/podcasts"
+  },
+  {
+    "text": "Podcast: Kylie and Jason reunited for Neighbours finale",
+    "url": "/comment/podcasts/the-leader-podcast-kylie-and-jason-reunited-for-neighbours-finale-b1015607.html"
+  },
+  {
+    "text": "Mark Blunden",
+    "url": "/author/mark-blunden"
+  },
+  {
+    "text": "",
+    "url": "/comment/comment/disposable-barbecues-ban-london-fires-talking-point-b1015605.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment/comment"
+  },
+  {
+    "text": "Should disposable barbecues be banned in London?",
+    "url": "/comment/comment/disposable-barbecues-ban-london-fires-talking-point-b1015605.html"
+  },
+  {
+    "text": "Andy Beill",
+    "url": "/author/andy-beill"
+  },
+  {
+    "text": "",
+    "url": "/comment/labour-party-keir-starmer-sam-tarry-sacking-b1015351.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "Labour\u2019s August row comes early after Starmer sacks Tarry",
+    "url": "/comment/labour-party-keir-starmer-sam-tarry-sacking-b1015351.html"
+  },
+  {
+    "text": "Jack Kessler",
+    "url": "/author/jack-kessler"
+  },
+  {
+    "text": "",
+    "url": "/comment/harsh-trush-boris-johnson-liz-truss-rishi-sunak-stronger-together-b1015504.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "Harsh truth for Boris fans: Truss and Sunak will be stronger together",
+    "url": "/comment/harsh-trush-boris-johnson-liz-truss-rishi-sunak-stronger-together-b1015504.html"
+  },
+  {
+    "text": "Emily Sheffield",
+    "url": "/author/emily-sheffield"
+  },
+  {
+    "text": "",
+    "url": "/comment/climate-change-tory-party-put-work-make-happen-martin-lewis-b1015510.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment"
+  },
+  {
+    "text": "If you really want change, you need to put in work to make it happen",
+    "url": "/comment/climate-change-tory-party-put-work-make-happen-martin-lewis-b1015510.html"
+  },
+  {
+    "text": "Jack Kessler",
+    "url": "/author/jack-kessler"
+  },
+  {
+    "text": "",
+    "url": "/comment/comment/i-will-only-cheer-sebastian-stan-s-new-role-when-disabled-actors-get-the-same-chances-b1015389.html"
+  },
+  {
+    "text": "Comment",
+    "url": "/comment/comment"
+  },
+  {
+    "text": "Sebastian Stan\u2019s new role is good but disabled actors need equality",
+    "url": "/comment/comment/i-will-only-cheer-sebastian-stan-s-new-role-when-disabled-actors-get-the-same-chances-b1015389.html"
+  },
+  {
+    "text": "Kate Rice",
+    "url": "/author/kate-rice"
+  },
+  {
+    "text": "More",
+    "url": "https://www.homesandproperty.co.uk/"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/property-news/comment-housing-tory-leadership-contest-b1013706.html"
+  },
+  {
+    "text": "Property News",
+    "url": "/homesandproperty/property-news"
+  },
+  {
+    "text": "Comment: \u2018housing should be higher up Tory leadership hopefuls agenda\u2019",
+    "url": "/homesandproperty/property-news/comment-housing-tory-leadership-contest-b1013706.html"
+  },
+  {
+    "text": "Prudence Ivey",
+    "url": "/author/prudence-ivey"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/celebrity-homes/edoardo-mapelli-mozzi-s-luxurious-bayswater-apartment-available-to-rent-b1013890.html"
+  },
+  {
+    "text": "Celebrity homes",
+    "url": "/homesandproperty/celebrity-homes"
+  },
+  {
+    "text": "Edoardo Mapelli Mozzi\u2019s luxurious Bayswater flat available to rent",
+    "url": "/homesandproperty/celebrity-homes/edoardo-mapelli-mozzi-s-luxurious-bayswater-apartment-available-to-rent-b1013890.html"
+  },
+  {
+    "text": "Emma Magnus",
+    "url": "/author/emma-magnus"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/where-to-live/london-recession-proof-areas-buy-a-house-b1013607.html"
+  },
+  {
+    "text": "Where to live",
+    "url": "/homesandproperty/where-to-live"
+  },
+  {
+    "text": "London\u2019s most \u2018recession-proof\u2019 neighbourhoods to buy a home in now",
+    "url": "/homesandproperty/where-to-live/london-recession-proof-areas-buy-a-house-b1013607.html"
+  },
+  {
+    "text": "Ella Jessel",
+    "url": "/author/ella-jessel"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/property-news/london-house-prices-earnings-zoopla-pandemic-outer-london-b1013412.html"
+  },
+  {
+    "text": "Property News",
+    "url": "/homesandproperty/property-news"
+  },
+  {
+    "text": "The London boroughs where homes \u2018earn\u2019 as much as their owners",
+    "url": "/homesandproperty/property-news/london-house-prices-earnings-zoopla-pandemic-outer-london-b1013412.html"
+  },
+  {
+    "text": "Emma Magnus",
+    "url": "/author/emma-magnus"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/buying-mortgages/london-firsttime-buyers-help-to-buy-low-deposit-mortgages-b1013543.html"
+  },
+  {
+    "text": "Buying & Mortgages",
+    "url": "/homesandproperty/buying-mortgages"
+  },
+  {
+    "text": "How to buy a first home without the Bank of Mum and Dad",
+    "url": "/homesandproperty/buying-mortgages/london-firsttime-buyers-help-to-buy-low-deposit-mortgages-b1013543.html"
+  },
+  {
+    "text": "Ruth Bloomfield",
+    "url": "/author/ruth-bloomfield"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/celebrity-homes/boris-johnson-property-portfolio-after-downing-street-carrie-homes-b1011143.html"
+  },
+  {
+    "text": "Celebrity homes",
+    "url": "/homesandproperty/celebrity-homes"
+  },
+  {
+    "text": "Here\u2019s where Boris and Carrie may live when they leave Downing Street",
+    "url": "/homesandproperty/celebrity-homes/boris-johnson-property-portfolio-after-downing-street-carrie-homes-b1011143.html"
+  },
+  {
+    "text": "Meghann Murdock",
+    "url": "/author/meghann-murdock"
+  },
+  {
+    "text": "More",
+    "url": "https://www.standard.co.uk/esmagazine"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/how-head-chefs-food-festivals-uk-london-b1014858.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Nevermind the headliners: how head chefs became the festival draw",
+    "url": "/esmagazine/how-head-chefs-food-festivals-uk-london-b1014858.html"
+  },
+  {
+    "text": "Joanna Taylor",
+    "url": "/author/joanna-taylor"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/what-to-do-and-see-in-london-29th-july-4th-august-b1014801.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "What to do and see in London this week",
+    "url": "/esmagazine/what-to-do-and-see-in-london-29th-july-4th-august-b1014801.html"
+  },
+  {
+    "text": "Joanna Taylor",
+    "url": "/author/joanna-taylor"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/something-s-bubbling-with-moet-chandon-b1015067.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Something\u2019s Bubbling with Mo\u00ebt & Chandon",
+    "url": "/esmagazine/something-s-bubbling-with-moet-chandon-b1015067.html"
+  },
+  {
+    "text": "Joanna Taylor",
+    "url": "/author/joanna-taylor"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/susie-lau-on-life-heatwaves-london-pregnant-b1014726.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Bubble Rap: Susie Lau on life in the time of heatwaves",
+    "url": "/esmagazine/susie-lau-on-life-heatwaves-london-pregnant-b1014726.html"
+  },
+  {
+    "text": "Susie Lau",
+    "url": "/author/susie-lau"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/london-notting-hill-carnival-b1014732.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Countdown to Notting Hill Carnival: Meet the people behind the magic",
+    "url": "/esmagazine/london-notting-hill-carnival-b1014732.html"
+  },
+  {
+    "text": "Shannon Mahanty",
+    "url": "/author/shannon-mahanty"
+  },
+  {
+    "text": "",
+    "url": "/esmagazine/memory-motel-une-nuit-a-montauk-spend-a-night-perfume-b1014806.html"
+  },
+  {
+    "text": "ES Magazine",
+    "url": "/esmagazine"
+  },
+  {
+    "text": "Message in a bottle: spend a night in this perfume\u2019s memory motel",
+    "url": "/esmagazine/memory-motel-une-nuit-a-montauk-spend-a-night-perfume-b1014806.html"
+  },
+  {
+    "text": "Katie Puckrik",
+    "url": "/author/katie-puckrik"
+  },
+  {
+    "text": "More",
+    "url": "/tech"
+  },
+  {
+    "text": "",
+    "url": "/tech/how-to-turn-off-instagram-suggested-posts-feed-b1015535.html"
+  },
+  {
+    "text": "Tech",
+    "url": "/tech"
+  },
+  {
+    "text": "How to turn off Instagram\u2019s suggested posts in your feed",
+    "url": "/tech/how-to-turn-off-instagram-suggested-posts-feed-b1015535.html"
+  },
+  {
+    "text": "Seren Morris",
+    "url": "/author/seren-morris"
+  },
+  {
+    "text": "",
+    "url": "/tech/gaming/when-is-gta-6-coming-out-settings-plot-character-rumours-b1015448.html"
+  },
+  {
+    "text": "Gaming",
+    "url": "/tech/gaming"
+  },
+  {
+    "text": "When is GTA 6 coming out? Settings, plot, character rumours",
+    "url": "/tech/gaming/when-is-gta-6-coming-out-settings-plot-character-rumours-b1015448.html"
+  },
+  {
+    "text": "Lola Christina Alao",
+    "url": "/author/lola-christina-alao"
+  },
+  {
+    "text": "",
+    "url": "/tech/what-is-the-new-twitter-refresh-noise-how-to-turn-it-off-b1015293.html"
+  },
+  {
+    "text": "Tech",
+    "url": "/tech"
+  },
+  {
+    "text": "What is the new Twitter refresh noise? Here\u2019s how to turn it off",
+    "url": "/tech/what-is-the-new-twitter-refresh-noise-how-to-turn-it-off-b1015293.html"
+  },
+  {
+    "text": "Lowenna Waters",
+    "url": "/author/lowenna-waters"
+  },
+  {
+    "text": "More",
+    "url": "shopping/esbest"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/health-fitness/best-mosquito-repellent-products-deet-sprays-creams-b1013510.html"
+  },
+  {
+    "text": "Health & Fitness",
+    "url": "/shopping/esbest/health-fitness"
+  },
+  {
+    "text": "Best mosquito repellent products from sprays to creams and patches",
+    "url": "/shopping/esbest/health-fitness/best-mosquito-repellent-products-deet-sprays-creams-b1013510.html"
+  },
+  {
+    "text": "Georgie Darling",
+    "url": "/author/georgie-darling"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/fashion/singer-becky-hill-favourite-things-love-island-uefa-women-euro-2022-final-b1015012.html"
+  },
+  {
+    "text": "Fashion",
+    "url": "/shopping/esbest/fashion"
+  },
+  {
+    "text": "Singer Becky Hill\u2019s favourite things",
+    "url": "/shopping/esbest/fashion/singer-becky-hill-favourite-things-love-island-uefa-women-euro-2022-final-b1015012.html"
+  },
+  {
+    "text": "Peter Bevan",
+    "url": "/author/peter-bevan"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/fashion/love-island-2022-best-worst-fashion-trends-b1014995.html"
+  },
+  {
+    "text": "Fashion",
+    "url": "/shopping/esbest/fashion"
+  },
+  {
+    "text": "The best (and worst!) fashion trends to come out of Love Island 2022",
+    "url": "/shopping/esbest/fashion/love-island-2022-best-worst-fashion-trends-b1014995.html"
+  },
+  {
+    "text": "Peter Bevan",
+    "url": "/author/peter-bevan"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/home-garden/home-accessories/best-budget-vacuum-cleaners-b1015373.html"
+  },
+  {
+    "text": "Home Accessories",
+    "url": "/shopping/esbest/home-garden/home-accessories"
+  },
+  {
+    "text": "Best budget-friendly vacuum cleaners for dust-free days",
+    "url": "/shopping/esbest/home-garden/home-accessories/best-budget-vacuum-cleaners-b1015373.html"
+  },
+  {
+    "text": "Ann Martin",
+    "url": "/author/ann-martin"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/fashion/best-outfits-from-love-island-b1004272.html"
+  },
+  {
+    "text": "Fashion",
+    "url": "/shopping/esbest/fashion"
+  },
+  {
+    "text": "Best outfits from Love Island 2022 and where to buy",
+    "url": "/shopping/esbest/fashion/best-outfits-from-love-island-b1004272.html"
+  },
+  {
+    "text": "Peter Bevan",
+    "url": "/author/peter-bevan"
+  },
+  {
+    "text": "",
+    "url": "/shopping/esbest/gadgets-tech/gaming-tv/best-cheap-gaming-laptops-b1015013.html"
+  },
+  {
+    "text": "Gaming and TV",
+    "url": "/shopping/esbest/gadgets-tech/gaming-tv"
+  },
+  {
+    "text": "Best cheap gaming laptops for 2022",
+    "url": "/shopping/esbest/gadgets-tech/gaming-tv/best-cheap-gaming-laptops-b1015013.html"
+  },
+  {
+    "text": "Ian Evenden",
+    "url": "/author/ian-evenden"
+  },
+  {
+    "text": "",
+    "url": "/escapist/10-ways-to-improve-your-health-and-beauty-regimen-b1006516.html"
+  },
+  {
+    "text": "SPONSORED",
+    "url": "/escapist"
+  },
+  {
+    "text": "10 ways to improve your health and beauty regimen",
+    "url": "/escapist/10-ways-to-improve-your-health-and-beauty-regimen-b1006516.html"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/why-the-elizabeth-line-is-great-news-for-property-buyers-in-london-b1009727.html"
+  },
+  {
+    "text": "SPONSORED",
+    "url": "/homesandproperty"
+  },
+  {
+    "text": "Why the Elizabeth line is great news for property buyers",
+    "url": "/homesandproperty/why-the-elizabeth-line-is-great-news-for-property-buyers-in-london-b1009727.html"
+  },
+  {
+    "text": "",
+    "url": "/homesandproperty/buyers-investors-edge-apartments-hainault-greater-london-b1010263.html"
+  },
+  {
+    "text": "SPONSORED",
+    "url": "/homesandproperty"
+  },
+  {
+    "text": "Why buyers and investors need to know about Edge\u2019s apartments",
+    "url": "/homesandproperty/buyers-investors-edge-apartments-hainault-greater-london-b1010263.html"
+  },
+  {
+    "text": "Voucher Codes",
+    "url": "/vouchercodes"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/tui"
+  },
+  {
+    "text": "\u00a3150 off holidays over \u00a3800 with this TUI discount code",
+    "url": "https://www.independent.co.uk/vouchercodes/tui"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/very"
+  },
+  {
+    "text": "At least 20% off branded sports clothing at Very",
+    "url": "https://www.independent.co.uk/vouchercodes/very"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/made"
+  },
+  {
+    "text": "\u00a330 off \u00a3300+ orders with a MADE discount code",
+    "url": "https://www.independent.co.uk/vouchercodes/made"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/reiss"
+  },
+  {
+    "text": "Up to 60% off in the Reiss sale - Ends soon",
+    "url": "https://www.independent.co.uk/vouchercodes/reiss"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/gousto"
+  },
+  {
+    "text": "65% off your 1st box + 30% off in month 1 - Gousto discount code",
+    "url": "https://www.independent.co.uk/vouchercodes/gousto"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/sixt"
+  },
+  {
+    "text": "Enjoy up to 20% off worldwide prepay rentals with Sixt",
+    "url": "https://www.independent.co.uk/vouchercodes/sixt"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/audible"
+  },
+  {
+    "text": "50% off your 1st 3 months with this Audible promo",
+    "url": "https://www.independent.co.uk/vouchercodes/audible"
+  },
+  {
+    "text": "",
+    "url": "https://www.independent.co.uk/vouchercodes/dell"
+  },
+  {
+    "text": "Over 25% off laptops & desktops with this Dell discount",
+    "url": "https://www.independent.co.uk/vouchercodes/dell"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "\n\n",
+    "url": "https://www.facebook.com/eveningstandard"
+  },
+  {
+    "text": "\n\n",
+    "url": "https://twitter.com/standardnews"
+  },
+  {
+    "text": "Newsletters",
+    "url": "https://www.standard.co.uk/newsletters"
+  },
+  {
+    "text": "All Topics",
+    "url": "/topics-list"
+  },
+  {
+    "text": "All Authors",
+    "url": "/author-list"
+  },
+  {
+    "text": "Archive",
+    "url": "/archive"
+  },
+  {
+    "text": "Terms of use",
+    "url": "/service/terms-of-use-6902768.html"
+  },
+  {
+    "text": "Contact Us",
+    "url": "/service/contact-evening-standard-7185764.html"
+  },
+  {
+    "text": "Modern Slavery Act",
+    "url": "https://static.standard.co.uk/editorial/ES-Modern-Slavery-Statement-2019-2020.pdf"
+  },
+  {
+    "text": "Syndication",
+    "url": "https://www.eveningstandardcommercial.com/syndication"
+  },
+  {
+    "text": "Privacy Notice",
+    "url": "/service/privacy-policy-6925316.html"
+  },
+  {
+    "text": "Privacy Options",
+    "url": "#privacy-options"
+  },
+  {
+    "text": "Cookie Policy",
+    "url": "/service/cookie-policy-7785319.html"
+  },
+  {
+    "text": "Code of conduct and complaints",
+    "url": "/service/code-of-conduct-complaints-7467885.html"
+  },
+  {
+    "text": "Advertisers",
+    "url": "https://www.eveningstandardcommercial.com/"
+  },
+  {
+    "text": "Promotion Rules",
+    "url": "/service/promotion-rules-6914218.html"
+  },
+  {
+    "text": "Contributors",
+    "url": "/service/external-contributors-terms-conditions-for-freelancers-bloggers-and-contributors-of-usergenerated-content-8717657.html?"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://independentjobs.independent.co.uk/"
+  },
+  {
+    "text": "London Live",
+    "url": "https://www.londonlive.co.uk/"
+  },
+  {
+    "text": "The Independent",
+    "url": "https://www.independent.co.uk/"
+  },
+  {
+    "text": "indy100",
+    "url": "https://www.indy100.com/"
+  },
+  {
+    "text": "Voucher codes",
+    "url": "https://www.independent.co.uk/vouchercodes"
+  }
+]

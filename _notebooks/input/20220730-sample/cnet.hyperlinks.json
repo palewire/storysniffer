@@ -1,0 +1,778 @@
+[
+  {
+    "text": "   \n        CNET\n      ",
+    "url": "/"
+  },
+  {
+    "text": "\n            Tech\n          ",
+    "url": "/tech/"
+  },
+  {
+    "text": "\n            Money\n          ",
+    "url": "/personal-finance/"
+  },
+  {
+    "text": "\n            Home\n          ",
+    "url": "/home/"
+  },
+  {
+    "text": "\n            Wellness\n          ",
+    "url": "/health/"
+  },
+  {
+    "text": "\n            Cars\n          ",
+    "url": "/roadshow/"
+  },
+  {
+    "text": "\n            News & Culture\n          ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n            Science\n          ",
+    "url": "/science/"
+  },
+  {
+    "text": "\n            Deals & Reviews\n          ",
+    "url": "/deals/"
+  },
+  {
+    "text": "\n          Tech\n        ",
+    "url": "/tech/"
+  },
+  {
+    "text": "\n          Home Entertainment\n        ",
+    "url": "/tech/home-entertainment/"
+  },
+  {
+    "text": "\n          Mobile\n        ",
+    "url": "/tech/mobile/"
+  },
+  {
+    "text": "\n          Computing\n        ",
+    "url": "/tech/computing/"
+  },
+  {
+    "text": "\n          Services & Software\n        ",
+    "url": "/tech/services-and-software/"
+  },
+  {
+    "text": "\n          Gaming\n        ",
+    "url": "/tech/gaming/"
+  },
+  {
+    "text": "\n          Money\n        ",
+    "url": "/personal-finance/"
+  },
+  {
+    "text": "\n          Credit Cards\n        ",
+    "url": "/personal-finance/credit-cards/"
+  },
+  {
+    "text": "\n          Mortgages\n        ",
+    "url": "/personal-finance/mortgages/"
+  },
+  {
+    "text": "\n          Insurance\n        ",
+    "url": "/personal-finance/insurance/"
+  },
+  {
+    "text": "\n          Loans\n        ",
+    "url": "/personal-finance/loans/"
+  },
+  {
+    "text": "\n          Cryptocurrency\n        ",
+    "url": "/personal-finance/cryptocurrency/"
+  },
+  {
+    "text": "\n          Banking\n        ",
+    "url": "/personal-finance/banking/"
+  },
+  {
+    "text": "\n          Investing\n        ",
+    "url": "/personal-finance/investing/"
+  },
+  {
+    "text": "\n          Taxes\n        ",
+    "url": "/personal-finance/taxes/"
+  },
+  {
+    "text": "\n          Home\n        ",
+    "url": "/home/"
+  },
+  {
+    "text": "\n          Home Internet\n        ",
+    "url": "/home/internet/"
+  },
+  {
+    "text": "\n          Home Security\n        ",
+    "url": "/home/security/"
+  },
+  {
+    "text": "\n          Kitchen & Household\n        ",
+    "url": "/home/kitchen-and-household/"
+  },
+  {
+    "text": "\n          Smart Home\n        ",
+    "url": "/home/smart-home/"
+  },
+  {
+    "text": "\n          Energy & Utilities\n        ",
+    "url": "/home/energy-and-utilities/"
+  },
+  {
+    "text": "\n          Yard & Outdoors\n        ",
+    "url": "/home/yard-and-outdoors/"
+  },
+  {
+    "text": "\n          Wellness\n        ",
+    "url": "/health/"
+  },
+  {
+    "text": "\n          Sleep\n        ",
+    "url": "/health/sleep/"
+  },
+  {
+    "text": "\n          Nutrition\n        ",
+    "url": "/health/nutrition/"
+  },
+  {
+    "text": "\n          Fitness\n        ",
+    "url": "/health/fitness/"
+  },
+  {
+    "text": "\n          Personal Care\n        ",
+    "url": "/health/personal-care/"
+  },
+  {
+    "text": "\n          Parenting\n        ",
+    "url": "/health/parenting/"
+  },
+  {
+    "text": "\n          Medical\n        ",
+    "url": "/health/medical/"
+  },
+  {
+    "text": "\n          Mental Health\n        ",
+    "url": "/health/mental/"
+  },
+  {
+    "text": "\n          Cars\n        ",
+    "url": "/roadshow/"
+  },
+  {
+    "text": "\n          Best Cars\n        ",
+    "url": "/roadshow/best/"
+  },
+  {
+    "text": "\n          Car Accessories\n        ",
+    "url": "/roadshow/accessories/"
+  },
+  {
+    "text": "\n          Car Reviews\n        ",
+    "url": "/roadshow/reviews/"
+  },
+  {
+    "text": "\n          Car News\n        ",
+    "url": "/roadshow/news/"
+  },
+  {
+    "text": "\n          Car Prices\n        ",
+    "url": "/roadshow/auto-buying-program/"
+  },
+  {
+    "text": "\n          News & Culture\n        ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n          Politics\n        ",
+    "url": "/news/politics/"
+  },
+  {
+    "text": "\n          Social Media\n        ",
+    "url": "/news/social-media/"
+  },
+  {
+    "text": "\n          Privacy\n        ",
+    "url": "/news/privacy/"
+  },
+  {
+    "text": "\n          Misinformation\n        ",
+    "url": "/news/misinformation/"
+  },
+  {
+    "text": "\n          Culture\n        ",
+    "url": "/culture/"
+  },
+  {
+    "text": "\n          Internet Culture\n        ",
+    "url": "/culture/internet/"
+  },
+  {
+    "text": "\n          Entertainment\n        ",
+    "url": "/culture/entertainment/"
+  },
+  {
+    "text": "\n          Sports\n        ",
+    "url": "/culture/sports/"
+  },
+  {
+    "text": "\n          Science\n        ",
+    "url": "/science/"
+  },
+  {
+    "text": "\n          Climate\n        ",
+    "url": "/science/climate/"
+  },
+  {
+    "text": "\n          Space\n        ",
+    "url": "/science/space/"
+  },
+  {
+    "text": "\n          Biology\n        ",
+    "url": "/science/biology/"
+  },
+  {
+    "text": "\n          Deals & Reviews\n        ",
+    "url": "/deals/"
+  },
+  {
+    "text": "\n          Reviews\n        ",
+    "url": "/reviews/"
+  },
+  {
+    "text": "\n          Best Products\n        ",
+    "url": "/best/"
+  },
+  {
+    "text": "\n          Versus\n        ",
+    "url": "/versus/"
+  },
+  {
+    "text": "\n          Gift Guide\n        ",
+    "url": "/gifts/"
+  },
+  {
+    "text": "\n          Shopping Extension\n        ",
+    "url": "http://tb.getinvisiblehand.com/adredirect.php?utm_campaign=cnet_page_nav&url=https%3A%2F%2Fwww.cnet.com%2Fshopping%2F"
+  },
+  {
+    "text": "\n          Coupons\n        ",
+    "url": "https://coupons.cnet.com/?ref=cnet.com"
+  },
+  {
+    "text": "\n          Vistaprint Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/vistaprint?ref=cnet.com"
+  },
+  {
+    "text": "\n          StubHub Discount Codes\n        ",
+    "url": "https://coupons.cnet.com/coupons/stubhub?ref=cnet.com"
+  },
+  {
+    "text": "\n          H&M Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/h-m?ref=cnet.com"
+  },
+  {
+    "text": "\n          ExpressVPN Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/expressvpn?ref=cnet.com"
+  },
+  {
+    "text": "\n          Home Depot Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/home-depot?ref=cnet.com"
+  },
+  {
+    "text": "\n          Office Depot Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/office-depot?ref=cnet.com"
+  },
+  {
+    "text": "\n          Ashley Furniture Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/ashley-furniture?ref=cnet.com"
+  },
+  {
+    "text": "\n          Samsung Promo Codes\n        ",
+    "url": "https://coupons.cnet.com/coupons/samsung?ref=cnet.com"
+  },
+  {
+    "text": "\n          NordVPN Coupons\n        ",
+    "url": "https://coupons.cnet.com/coupons/nordvpn?ref=cnet.com"
+  },
+  {
+    "text": "\n    Learn More\n    ",
+    "url": "/about/"
+  },
+  {
+    "text": "\n    Learn More\n    ",
+    "url": "/about/"
+  },
+  {
+    "text": "  \n        How Effective COVID Tests Are at Picking Up BA.5\n       \n      The variant is causing most cases of COVID-19 in the US right now.\n     By Jessica Rendall ",
+    "url": "/health/medical/how-effective-are-covid-tests-at-picking-up-ba-5/"
+  },
+  {
+    "text": "  \n        2023 Chevy Colorado Looks Better Inside and Out\n        By Steven Ewing ",
+    "url": "/roadshow/news/2023-chevy-colorado-truck-debut/"
+  },
+  {
+    "text": "  \n        Handheld Strives to Be a Museum for Video Gaming\n        By Scott Stein ",
+    "url": "/tech/gaming/spacewar-to-go-analogue-pocket-adds-support-for-archiving-gaming-hardware/"
+  },
+  {
+    "text": "  \n        Make Your Mattress More Comfortable With These Steps\n        By Caroline Igo ",
+    "url": "/health/sleep/make-your-cheap-mattress-comfortable-with-these-accessories/"
+  },
+  {
+    "text": "  \n        Amazon Plans Another Prime Day Sale for October, Report Says\n        By Sean Keane ",
+    "url": "/news/amazon-plans-another-prime-day-sale-report-says/"
+  },
+  {
+    "text": "  \n        How to Stream Lollapalooza Festival on Hulu\n        By Brian Rosenzweig ",
+    "url": "/tech/services-and-software/lollapalooza-2022-how-to-stream-the-festival-on-hulu/"
+  },
+  {
+    "text": "\n    Learn More\n    ",
+    "url": "/about/"
+  },
+  {
+    "text": "\n    Learn More\n    ",
+    "url": "/about/"
+  },
+  {
+    "text": "Is Your State's Tax-Free Holiday Coming Up? Probably.",
+    "url": "/personal-finance/taxes/these-states-are-canceling-sales-tax/"
+  },
+  {
+    "text": "Elon Musk-Twitter Trial to Start Oct. 17 in Delaware",
+    "url": "/news/social-media/elon-musk-twitter-trial-to-start-oct-17/"
+  },
+  {
+    "text": "Updated COVID Vaccine Boosters to Roll Out in Fall",
+    "url": "/health/medical/updated-covid-vaccine-boosters-to-roll-out-in-fall/"
+  },
+  {
+    "text": "Monkeypox Symptoms Are Different From Previous Outbreaks",
+    "url": "/health/medical/monkeypox-symptoms-are-different-from-previous-outbreaks-heres-what-to-look-for/"
+  },
+  {
+    "text": "Report: Amazon Warehouse Workers Experience Racism, Death Threats",
+    "url": "/tech/amazon-warehouse-workers-reportedly-complain-of-racism-and-death-threats/"
+  },
+  {
+    "text": "Command+N and Other Useful Mac Keyboard Shortcuts I Use Daily",
+    "url": "/tech/computing/command-n-and-other-incredibly-useful-mac-keyboard-shortcuts-i-use-daily/"
+  },
+  {
+    "text": "Apple's M1 MacBook Pro Models Hit New Lows, With Up to $350 Off",
+    "url": "/deals/apples-macbook-pro-models-with-m1-pro-chip-hit-new-lows-with-up-to-350-off/"
+  },
+  {
+    "text": "Snag the Meta Quest 2 at $299 and Beat the $101 Price Hike",
+    "url": "/deals/snag-the-meta-quest-2-at-299-and-beat-the-impending-100-price-hike/"
+  },
+  {
+    "text": "15 Dorm Room Essentials You Need From Amazon Now",
+    "url": "/home/15-dorm-room-essentials-you-need-from-amazon-now/"
+  },
+  {
+    "text": "The 12 US Cities Where Rents Have Increased the Most",
+    "url": "/personal-finance/the-12-us-cities-where-rents-have-increased-the-most/"
+  },
+  {
+    "text": "6 minutes ago Are You Eligible for Money From T-Mobile's $350 Million Data Breach Settlement?",
+    "url": "/personal-finance/t-mobile-data-breach-settlement-who-is-eligible/"
+  },
+  {
+    "text": "6 minutes ago 20-Year Interest Rates for August 2022",
+    "url": "/personal-finance/20-year-interest-rates/"
+  },
+  {
+    "text": "36 minutes ago Flagstar Bank Mortgage Lender Review for August 2022",
+    "url": "/personal-finance/flagstar-bank-mortgage-lender-review/"
+  },
+  {
+    "text": "36 minutes ago Ask Farnoosh: Are We in a Recession? Plus: So Many Home Buying Questions",
+    "url": "/personal-finance/ask-farnoosh-are-we-in-a-recession-plus-so-many-homebuying-questions/"
+  },
+  {
+    "text": "36 minutes ago Samsung Galaxy Z Flip 4: Release Date, Price and Everything Else We've Heard",
+    "url": "/tech/samsung-galaxy-z-flip-4-rumors/"
+  },
+  {
+    "text": "36 minutes ago Women's Tour de France 2022: How to Watch the Final Stages This Weekend",
+    "url": "/tech/womens-tour-de-france-2022-how-to-watch-the-final-stages-this-weekend/"
+  },
+  {
+    "text": "36 minutes ago Best Cheap TV Deals: Save Up to $420 on TVs From TCL, Vizio, Toshiba and More",
+    "url": "/deals/best-cheap-tv-deals/"
+  },
+  {
+    "text": "59 minutes ago iPhone SE vs. Pixel 6A Camera Comparison: One Outshines the Other",
+    "url": "/tech/iphone-se-vs-pixel-6a-camera-comparison-one-outshines-the-other/"
+  },
+  {
+    "text": "2 hours ago Your Android Phone's Cookies and Cache Build Up Fast. How to Clean Them Out",
+    "url": "/tech/your-android-phone-cookies-and-cache-build-up-fast-how-to-clean-them-out/"
+  },
+  {
+    "text": "2 hours ago Google's Messages App Uses RCS for iMessage-Like Features You May Want on Android",
+    "url": "/tech/google-messages-app-uses-rcs-for-imessage-like-features-you-may-want-on-android/"
+  },
+  {
+    "text": "\n    See More\n    ",
+    "url": "/reviews/"
+  },
+  {
+    "text": "\n    See More\n    ",
+    "url": "/reviews/"
+  },
+  {
+    "text": "\n        In the Metaverse, Your Heart Can Be as True as the Boobs Are Fake\n       \n      New HBO documentary We Met in Virtual Reality is a tender portrait of human connections made in VR \u2014 sexism and ableism be damned.\n      ",
+    "url": "/tech/computing/features/in-the-metaverse-your-heart-can-be-as-true-as-the-boobs-are-fake/"
+  },
+  {
+    "text": "\n      Snag 25% Off During Target's College Supplies Sale\n      ",
+    "url": "/deals/snag-25-off-bedding-storage-and-more-during-targets-college-supplies-sale/"
+  },
+  {
+    "text": "\n      Best Sunscreens to Buy This Summer\n      ",
+    "url": "/health/personal-care/best-sunscreen/"
+  },
+  {
+    "text": "\n      Bestselling School Supplies Are On Sale at Office Depot\n      ",
+    "url": "/deals/best-selling-school-supplies-for-all-kids-are-on-sale-at-office-depot-now/"
+  },
+  {
+    "text": "\n      How Your Abortion Searches Could Be Used to Prosecute You\n      ",
+    "url": "/news/politics/with-roe-v-wade-overturned-your-abortion-searches-could-be-used-to-prosecute-you/"
+  },
+  {
+    "text": "\n      Want More Privacy? You Need to Change These Browser Settings Now\n      ",
+    "url": "/tech/services-and-software/change-these-browser-settings-asap-for-more-privacy/"
+  },
+  {
+    "text": "\n      Protecting Your Privacy in the Post-Roe US\n      ",
+    "url": "/tech/services-and-software/protecting-your-privacy-in-the-post-roe-us/"
+  },
+  {
+    "text": "\n      Plan B Emergency Contraception: Where to Get It, Effectiveness\n      ",
+    "url": "/health/medical/plan-b-emergency-contraception-where-to-get-it-purchase-limits-effectiveness/"
+  },
+  {
+    "text": "\n      8 Google Travel Features to Make Your Summer Trip Way Easier\n      ",
+    "url": "/tech/services-and-software/8-google-travel-tips-to-make-trip-planning-easier/"
+  },
+  {
+    "text": "\n      It's Hurricane Season: Pack These Emergency Essentials Before the Next Storm\n      ",
+    "url": "/home/energy-and-utilities/hurricane-season-is-here-prepare-these-emergency-bag-essentials-asap/"
+  },
+  {
+    "text": "\n      Best Wi-Fi 6 Routers to Upgrade Your Home\n      ",
+    "url": "/home/internet/the-best-wi-fi-6-routers-of-2022/"
+  },
+  {
+    "text": "\n      Starlink Explained: All About Elon Musk's Satellite Internet Venture\n      ",
+    "url": "/home/internet/starlink-satellite-internet-explained/"
+  },
+  {
+    "text": "\n      How to Access Router Settings and Update Your Wi-Fi Password\n      ",
+    "url": "/home/internet/how-to-access-router-settings-and-update-your-wi-fi-password/"
+  },
+  {
+    "text": "\n      The Genre-Bending Peugeot 408 Is Why I Love French Car Design\n      ",
+    "url": "/roadshow/news/peugeot-408-hybrid-crossover-sedan-fastback-design-debut/"
+  },
+  {
+    "text": "\n      Hell Yes, the Mercedes-AMG G63 Is Getting Monoblock Wheels\n      ",
+    "url": "/roadshow/news/mercedes-amg-g63-g-class-monoblock-wheels-configurator/"
+  },
+  {
+    "text": "\n      New Mini SUV Concept Teased, Will Debut Next-Gen Design Language\n      ",
+    "url": "/roadshow/news/new-mini-countryman-ev-suv-concept-teaser/"
+  },
+  {
+    "text": "Terms of Use",
+    "url": "https://redventures.com/CMG-terms-of-use.html"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://redventures.com/privacy-policy.html"
+  },
+  {
+    "text": "\n    Focal Point: iPhone 14\n    ",
+    "url": "/focal-point-iphone22/"
+  },
+  {
+    "text": "\n    Focal Point: iPhone 14\n    ",
+    "url": "/focal-point-iphone22/"
+  },
+  {
+    "text": "  \n        When Your 3G Phone's Disconnected, Here Are Your Options\n       \n      Commentary: Do disconnected customers still have to pay for service? Are there still free phones? We ask major carriers what people can do after 3G shuts down.\n     By Mike Sorrentino ",
+    "url": "/tech/mobile/3g-service-is-going-extinct-we-asked-t-mobile-verizon-and-sprint-what-theyre-doing-about-it/"
+  },
+  {
+    "text": "  \n        Apple's iPhone Is Powering Through the Slowing Economy\n        By Ian Sherr ",
+    "url": "/tech/mobile/apples-iphone-is-powering-through-the-slowing-economy/"
+  },
+  {
+    "text": "  \n        Every Cool Feature We Found in the iOS 16 Public Beta\n        By Patrick Holland ",
+    "url": "/tech/mobile/ios-16-public-beta-the-best-new-features-coming-to-the-iphone/"
+  },
+  {
+    "text": "  \n        Nothing Phone 1 Puts Its Defining Feature on the Back. Is It Useful?\n        By Sareena Dayaram ",
+    "url": "/tech/mobile/nothing-phone-1s-defining-feature-is-on-the-back-but-is-it-useful/"
+  },
+  {
+    "text": "  \n        How to Clean Your Phone Screen Without Causing Damage\n        By Katie Teague ",
+    "url": "/tech/mobile/your-phone-screen-is-gross-heres-how-to-clean-it-without-causing-damage/"
+  },
+  {
+    "text": "  \n        Got a New Pixel 6 or 6A? Try Changing These Settings\n        By Lisa Eadicicco ",
+    "url": "/tech/mobile/get-the-most-out-of-your-pixel-6-by-changing-these-settings/"
+  },
+  {
+    "text": "\n    See More\n    ",
+    "url": "/features/"
+  },
+  {
+    "text": "\n    See More\n    ",
+    "url": "/features/"
+  },
+  {
+    "text": "\n        Why Anonymous Extinction Is a Clear and Present Threat\n       \n      Species are likely to die long before we have a chance to discover them. How can we ensure they're not lost forever?\n     By Haley Weiss ",
+    "url": "/science/biology/features/dark-extinction-has-scientists-worried-heres-what-theyre-doing-about-it/"
+  },
+  {
+    "text": "  \n        Why Fiber Is the Key to Getting Faster 5G Everywhere\n        By Marguerite Reardon ",
+    "url": "/tech/mobile/why-fiber-is-the-key-to-getting-faster-5g-everywhere/"
+  },
+  {
+    "text": "  \n        These Technologies Could Define the iPhone's Future\n        By Lisa Eadicicco ",
+    "url": "/tech/mobile/features/these-technologies-could-define-the-iphones-future/"
+  },
+  {
+    "text": "  \n        Chasing Ghosts: Unlocking the Mysteries of Human Hibernation\n        By Jackson Ryan ",
+    "url": "/science/biology/features/chasing-ghosts-unlocking-the-mysteries-of-human-hibernation/"
+  },
+  {
+    "text": "  \n        What Truck Driver Shortage? Self-Driving Trucks Are Coming Fast\n        By Brian Cooley ",
+    "url": "/roadshow/news/the-self-driving-big-rigs-that-youll-see-on-the-highway-soon/"
+  },
+  {
+    "text": "  \n        Why NASA's Mega Moon Rocket May Prove 'Unsustainable'\n        By Monisha Ravisetti ",
+    "url": "/science/space/billions-behind-a-lunar-dream-why-nasas-artemis-i-moon-rocket-may-prove-unsustainable/"
+  },
+  {
+    "text": " CNET on instagram iOS 16 Public Beta Now Available: Check Out These Features ",
+    "url": "https://www.instagram.com/p/Cf4YtnOj1ux/"
+  },
+  {
+    "text": " CNET on youtube Here's the Real Reason You'll Buy an EV ",
+    "url": "https://youtu.be/P1EEjUD7vRw"
+  },
+  {
+    "text": " CNET on tiktok Disney Introduces a New Way to Interact With Its Theme Parks ",
+    "url": "https://www.tiktok.com/@cnetdotcom/video/7097978069675150635"
+  },
+  {
+    "text": " CNET on tiktok CarPlay Will Power All of Your Vehicle's Infotainment Functions ",
+    "url": "https://www.tiktok.com/@cnetdotcom/video/7106204994742848810"
+  },
+  {
+    "text": " CNET on youtube Everything Apple Revealed at WWDC in 14 Minutes ",
+    "url": "https://youtu.be/VXe-vfscTO0"
+  },
+  {
+    "text": " CNET on instagram Use the Camera Remote App on your Watch to Monitor iPhone Footage ",
+    "url": "https://www.instagram.com/reel/Cd_R8acDZ55/"
+  },
+  {
+    "text": "\n    Wellness news\n    ",
+    "url": "/health/"
+  },
+  {
+    "text": "\n    Wellness news\n    ",
+    "url": "/health/"
+  },
+  {
+    "text": "  \n        Do You Really Need 3 Meals a Day? A Dietitian Cracks the Code\n       \n      Learn how many meals you should actually be eating, and how to stay on track without stressing about it.\n     By Kim Wong-Shing ",
+    "url": "/health/nutrition/do-you-really-need-3-meals-a-day-a-dietitian-cracks-the-code/"
+  },
+  {
+    "text": "  \n        10,000 Steps a Day Won't Keep You Fit. Here's What Will\n        By Mercey Livingston ",
+    "url": "/health/fitness/10000-steps-a-day-wont-keep-you-fit-heres-what-will/"
+  },
+  {
+    "text": "  \n        Restful Sleep: What Is It and How to Know if You're Not Getting It\n        By Taylor Leamey ",
+    "url": "/health/sleep/restful-sleep-what-is-it-and-how-to-know-if-youre-not-getting-it/"
+  },
+  {
+    "text": "  \n        This Vegan Bacon Tastes Shockingly Like the Real Thing\n        By David Watsky ",
+    "url": "/health/this-vegan-bacon-tastes-shockingly-like-the-real-thing/"
+  },
+  {
+    "text": "  \n        How Often Should You Weigh Yourself, Really?\n        By Mercey Livingston ",
+    "url": "/health/fitness/how-often-should-you-weigh-yourself-really/"
+  },
+  {
+    "text": "  \n        How to Get Stronger Without Lifting Any Weights\n        By Mercey Livingston ",
+    "url": "/health/fitness/how-to-get-stronger-without-lifting-any-weights/"
+  },
+  {
+    "text": "  The Absolute Best Ice Cream to Order Online ",
+    "url": "/home/kitchen-and-household/best-place-to-order-ice-cream-online/"
+  },
+  {
+    "text": "  Looking for a New Meal Delivery Service? These Are Our Favs ",
+    "url": "/health/nutrition/best-prepared-meal-delivery-service/"
+  },
+  {
+    "text": "  Fast, Reliable Mesh Routers for Home Internet ",
+    "url": "/home/internet/best-mesh-wifi-routers/"
+  },
+  {
+    "text": "  How to Save Money on the New PS Plus Subscriptions ",
+    "url": "/deals/best-playstation-plus-deals/"
+  },
+  {
+    "text": "  Best Apple iPads for 2022: From Mini to Pro ",
+    "url": "/tech/computing/best-ipad/"
+  },
+  {
+    "text": "  Get the Best Prices on Your Favorite Products ",
+    "url": "http://tb.getinvisiblehand.com/adredirect.php?utm_campaign=HPDailyRecs&url=https%3A%2F%2Fwww.cnet.com%2Fshopping%2F"
+  },
+  {
+    "text": "  Save Up to $144 With an Apple Pencil 2 and Magic Keyboard Bundle ",
+    "url": "/deals/transform-your-ipad-pro-and-save-up-to-144-with-an-apple-pencil-2-and-magic-keyboard-bundle-deal/"
+  },
+  {
+    "text": "  Up to $300 Off of Several Anker's Nebula Projectors ",
+    "url": "/deals/several-of-ankers-nebula-projectors-are-back-on-sale-with-up-to-300-off/"
+  },
+  {
+    "text": "  Save Up to 50% On Wi-Fi Routers and Bundles With Eero's Summer Savings Event \n        As low as $3/mo.\n      ",
+    "url": "/deals/save-up-to-50-on-wi-fi-routers-and-bundles-with-eeros-summer-savings-event/"
+  },
+  {
+    "text": "  Still Don't Have a Dash Cam? Here's the Best Way to Fix That ",
+    "url": "/roadshow/news/best-dash-cam/"
+  },
+  {
+    "text": "  Top Streamer Picks from Roku, Apple, Google and Fire TV ",
+    "url": "/tech/home-entertainment/best-streaming-device/"
+  },
+  {
+    "text": "  We Tested the Best Mattresses So You Don't Have To ",
+    "url": "/health/sleep/best-mattress/"
+  },
+  {
+    "text": "  Up to 35% Off Bed, Bath and Apparel at Cozy Earth ",
+    "url": "/deals/rest-comfortably-with-up-to-35-off-bed-bath-and-apparel-at-cozy-earth/"
+  },
+  {
+    "text": "  Moisturizing Shampoo and Conditioner Duo is a Must-Have For Dry Hair ",
+    "url": "/deals/this-discounted-moisturizing-shampoo-and-conditioner-duo-is-a-must-have-for-dry-hair/"
+  },
+  {
+    "text": "  Best Electric Scooters for 2022 ",
+    "url": "/roadshow/news/best-electric-scooter/"
+  },
+  {
+    "text": "Deals",
+    "url": "/deals/"
+  },
+  {
+    "text": "Reviews",
+    "url": "/reviews/"
+  },
+  {
+    "text": "Best Products",
+    "url": "/best/"
+  },
+  {
+    "text": "Gift Guide",
+    "url": "/gifts/"
+  },
+  {
+    "text": "Shopping Extension",
+    "url": "http://tb.getinvisiblehand.com/adredirect.php?utm_campaign=cnet_page_footer&url=https%3A%2F%2Fwww.cnet.com%2Fshopping%2F"
+  },
+  {
+    "text": "About CNET",
+    "url": "/about/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Sitemap",
+    "url": "/sitemaps/"
+  },
+  {
+    "text": "Careers",
+    "url": "https://careers.redventures.com/"
+  },
+  {
+    "text": "Help Center",
+    "url": "https://cnet.zendesk.com/hc/en-us"
+  },
+  {
+    "text": "Licensing",
+    "url": "https://www.rvlicensing.com/"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://www.cnet.com/privacy-policy/"
+  },
+  {
+    "text": "Terms of Use",
+    "url": "https://redventures.com/CMG-terms-of-use.html"
+  },
+  {
+    "text": "Do Not Sell My Information",
+    "url": "https://privacyportal.onetrust.com/webform/79ba7c84-ebc2-4740-8d11-bf1cc4501e59/31a77e30-f394-47a9-ba8c-639ef09567ab"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/cnet/"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/CNETTV/"
+  },
+  {
+    "text": "",
+    "url": "https://www.tiktok.com/@cnetdotcom?lang=en"
+  },
+  {
+    "text": "",
+    "url": "http://www.facebook.com/cnet"
+  },
+  {
+    "text": "",
+    "url": "http://www.twitter.com/cnet"
+  },
+  {
+    "text": "",
+    "url": "http://www.flipboard.com/@cnet"
+  },
+  {
+    "text": "US",
+    "url": "/"
+  },
+  {
+    "text": "France",
+    "url": "https://www.cnetfrance.fr/"
+  },
+  {
+    "text": "Germany",
+    "url": "https://www.cnet.de/"
+  },
+  {
+    "text": "Japan",
+    "url": "https://japan.cnet.com/"
+  },
+  {
+    "text": "Korea",
+    "url": "https://www.cnet.co.kr/"
+  }
+]

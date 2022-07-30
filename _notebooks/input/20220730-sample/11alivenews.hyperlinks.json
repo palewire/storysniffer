@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Skip Navigation",
+    "url": "#main"
+  },
+  {
+    "text": "\n                \n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                                        News\n                            ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Local\n                                                        ",
+    "url": "/local"
+  },
+  {
+    "text": "\n                                                                    The A-Scene\n                                                        ",
+    "url": "/theascene"
+  },
+  {
+    "text": "\n                                                                    Sports\n                                                        ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                                                                    Politics\n                                                        ",
+    "url": "/politics"
+  },
+  {
+    "text": "\n                                                                    Crime\n                                                        ",
+    "url": "/crime"
+  },
+  {
+    "text": "\n                                                                    Nation World\n                                                        ",
+    "url": "/nation-world"
+  },
+  {
+    "text": "\n                                                                    Traffic\n                                                        ",
+    "url": "/traffic"
+  },
+  {
+    "text": "\n                                                                    Investigations\n                                                        ",
+    "url": "/investigative"
+  },
+  {
+    "text": "\n                                                                    Features\n                                                        ",
+    "url": "/features"
+  },
+  {
+    "text": "\n                                                                    Senior Source\n                                                        ",
+    "url": "https://www.11alive.com/senior-source"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Brianna Grier's death | Bodycamera video sheds new light around her arrest",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "'I don\u2019t want this to deter anybody' | Atlanta stuntwoman, aerial performer shares hopeful message after skydiving accident",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "\n                                        Weather\n                            ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Forecast\n                                                        ",
+    "url": "/forecast"
+  },
+  {
+    "text": "\n                                                                    Radar\n                                                        ",
+    "url": "/radar"
+  },
+  {
+    "text": "\n                                                                    10-Day\n                                                        ",
+    "url": "/10-day"
+  },
+  {
+    "text": "\n                                                                    Webcams\n                                                        ",
+    "url": "/webcams"
+  },
+  {
+    "text": "\n                                                                    Maps\n                                                        ",
+    "url": "/maps"
+  },
+  {
+    "text": "\n                                                                    Closings & Delays\n                                                        ",
+    "url": "/closings"
+  },
+  {
+    "text": "\n                                                                    Stormtracker Blog\n                                                        ",
+    "url": "/stormtrackers"
+  },
+  {
+    "text": "\n                                                                    Submit a Closing\n                                                        ",
+    "url": "/closings-admin"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/weather/weather/85-d0a35789-5c0e-48c4-b5e0-01755d79ed12"
+  },
+  {
+    "text": "Higher rain chances Saturday",
+    "url": "https://www.11alive.com/article/weather/weather/85-d0a35789-5c0e-48c4-b5e0-01755d79ed12"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/weather/atlanta-north-georgia-drought-conditions-maps/85-ab319796-1e5b-4b8b-831d-642e801d2de2"
+  },
+  {
+    "text": "Where in north Georgia is currently in a drought | See the maps",
+    "url": "https://www.11alive.com/article/weather/atlanta-north-georgia-drought-conditions-maps/85-ab319796-1e5b-4b8b-831d-642e801d2de2"
+  },
+  {
+    "text": "\n                                        Near Me\n                            ",
+    "url": "/near-me"
+  },
+  {
+    "text": "\n                                        VERIFY\n                            ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n        Watch Live\n    ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n        \n        \n            ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n                            Search\n                        ",
+    "url": "/search"
+  },
+  {
+    "text": "\n                    \n                        \n                            Right Now\n                            Atlanta, GA\u00a0\u00bb\n                        \n                        \n                            \n                                74\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Atlanta, GA\u00a0\u00bb\n                        \n                    \n                ",
+    "url": "/weather"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather/alerts"
+  },
+  {
+    "text": "Closings",
+    "url": "/closings"
+  },
+  {
+    "text": "Advertise With Us",
+    "url": "/advertise"
+  },
+  {
+    "text": "Locked On Sports Atlanta",
+    "url": "https://www.11alive.com/lockedon"
+  },
+  {
+    "text": "COVID-19 in Georgia",
+    "url": "https://www.11alive.com/coronavirus-covid-19"
+  },
+  {
+    "text": "Voices for Equality",
+    "url": "http://www.11alive.com/voices"
+  },
+  {
+    "text": "11Alive Investigates",
+    "url": "/the-reveal"
+  },
+  {
+    "text": "Contests",
+    "url": "https://www.11alive.com/contests"
+  },
+  {
+    "text": "Learning Curve",
+    "url": "https://www.11alive.com/education"
+  },
+  {
+    "text": "Atlanta & Company",
+    "url": "/atlanta-and-company"
+  },
+  {
+    "text": "Senior Source",
+    "url": "https://www.11alive.com/senior-source"
+  },
+  {
+    "text": "\n                            \n                            Read More \u00bb\n                        ",
+    "url": "#"
+  },
+  {
+    "text": "More () \u00bb",
+    "url": "/breaking-news"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Brianna Grier's death | Bodycamera video sheds new light around her arrest",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Grier died days after she was taken into custody.",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Did anyone win the Mega Millions prize on Friday?",
+    "url": "https://www.11alive.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "'I don\u2019t want this to deter anybody' | Atlanta stuntwoman, aerial performer shares hopeful message after skydiving accident",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "Back to school coverage",
+    "url": "https://www.11alive.com/education"
+  },
+  {
+    "text": "It operated in secret for more than a decade. Now the vaccine-related injuries program will compensate for one COVID case",
+    "url": "https://www.11alive.com/article/news/investigations/covid-vaccine-related-injuries-investigation/85-4fd8d914-38be-42dc-b9f3-946ea4501b24"
+  },
+  {
+    "text": "'I think you're wrong about it' | Herschel Walker comments on poll showing lagging support from Black voters",
+    "url": "https://www.11alive.com/article/news/politics/herschel-walker-not-winning-over-black-voters-georgia/85-e9178242-c908-4821-b8e9-49a5bebf8376"
+  },
+  {
+    "text": "Here's a look at how the new 988 mental health hotline is working in Georgia",
+    "url": "https://www.11alive.com/article/news/local/surge-of-calls-texts-new-988-mental-health-hotline/85-3359149d-bb93-430a-bbd3-3a7616d4d667"
+  },
+  {
+    "text": "7 hurt after driver loses control during Dalton car auction, officials say",
+    "url": "https://www.11alive.com/article/news/local/car-7-people-dalton-car-auction-cruiz-georgia-mountain-moonshine/85-3573d3f8-6003-4b3b-8e34-57f48a9de30b"
+  },
+  {
+    "text": "LIST | First day of school for metro Atlanta and north Georgia districts",
+    "url": "https://www.11alive.com/article/news/education/first-day-of-school-list-metro-atlanta-districts/85-b7fb598d-e034-453f-a491-59e003a90cd8"
+  },
+  {
+    "text": "Family of woman who fell from patrol car demands answers; GBI plans to release bodycam video",
+    "url": "https://www.11alive.com/article/news/local/brianna-grier-family-ben-crump-news-conference/85-ef2f1b23-40d1-4ac7-b0bd-c58cb212c8b5"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/local/11alive-news-now-streaming-247-on-roku-amazon-fire/85-89d0f4f8-1bbc-42b5-9fed-43af9af46cb2"
+  },
+  {
+    "text": "11Alive News now streaming 24/7 on Roku, Amazon Fire",
+    "url": "https://www.11alive.com/article/news/local/11alive-news-now-streaming-247-on-roku-amazon-fire/85-89d0f4f8-1bbc-42b5-9fed-43af9af46cb2"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/health/coronavirus/coronavirus-numbers/georgia-coronavirus-updates-interactive-map-of-the-state/85-57b7c77b-8921-4af2-91c0-d6e698ed845e"
+  },
+  {
+    "text": "Georgia COVID-19 data | Interactive map of the state",
+    "url": "https://www.11alive.com/article/news/health/coronavirus/coronavirus-numbers/georgia-coronavirus-updates-interactive-map-of-the-state/85-57b7c77b-8921-4af2-91c0-d6e698ed845e"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/community/11alive-back-to-school-supply-drive/85-48464210-56e3-4a1e-8bb1-ad12cfac7472"
+  },
+  {
+    "text": "11Alive hosting back-to-school supply drive to benefit local schools",
+    "url": "https://www.11alive.com/article/news/community/11alive-back-to-school-supply-drive/85-48464210-56e3-4a1e-8bb1-ad12cfac7472"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/investigations/verify-airfare-cost-atlanta-chicago/85-3d8cb1c0-2a58-439a-887a-1c781ce21fa6"
+  },
+  {
+    "text": "Airfare can be more expensive in Atlanta than Chicago, but not by much",
+    "url": "https://www.11alive.com/article/news/investigations/verify-airfare-cost-atlanta-chicago/85-3d8cb1c0-2a58-439a-887a-1c781ce21fa6"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/education"
+  },
+  {
+    "text": "Back to school coverage",
+    "url": "https://www.11alive.com/education"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/crime/clayton-county-police-officer-demika-lloyd-shot/85-0461f4e2-e59e-42dc-87f7-f8afeb296459"
+  },
+  {
+    "text": "Longtime former colleague, friend of Clayton County officer shot describes her as hardworking, loving mom",
+    "url": "https://www.11alive.com/article/news/crime/clayton-county-police-officer-demika-lloyd-shot/85-0461f4e2-e59e-42dc-87f7-f8afeb296459"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/investigations/thieves-steal-homes-georgia-questions/85-522eb778-2884-49c3-a8c0-24bb04110d6f"
+  },
+  {
+    "text": "Thieves are stealing homes in Georgia: 11Alive Investigates answers your questions",
+    "url": "https://www.11alive.com/article/news/investigations/thieves-steal-homes-georgia-questions/85-522eb778-2884-49c3-a8c0-24bb04110d6f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/local/jalanni-pless-water-boy-gunned-down-mom-reaction-after-officer-hit/85-a8d68148-31c5-4b8a-a2a9-37ce968b6e29"
+  },
+  {
+    "text": "After outcry for officer hit by 'water boy,' mom wonders why her son's death didn't generate same response",
+    "url": "https://www.11alive.com/article/news/local/jalanni-pless-water-boy-gunned-down-mom-reaction-after-officer-hit/85-a8d68148-31c5-4b8a-a2a9-37ce968b6e29"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/local/georgia-man-describes-monkeypox-experience/85-a48d9117-f772-4aae-9043-b6c81ec6657f"
+  },
+  {
+    "text": "'Felt like razor blades all over my body' | Georgia man with monkeypox describes painful experience",
+    "url": "https://www.11alive.com/article/news/local/georgia-man-describes-monkeypox-experience/85-a48d9117-f772-4aae-9043-b6c81ec6657f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/video/news/state/dnc-1988-a-look-at-how-democrats-gathered-in-atlanta/85-1e4304ca-ecf4-471d-825d-f36145f233d1"
+  },
+  {
+    "text": "DNC 1988 | A look at how Democrats gathered in Atlanta",
+    "url": "https://www.11alive.com/video/news/state/dnc-1988-a-look-at-how-democrats-gathered-in-atlanta/85-1e4304ca-ecf4-471d-825d-f36145f233d1"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/crime/atlanta-chicago-crime-rates/85-1a13cc4a-bdef-43d6-a213-69ced3835b48"
+  },
+  {
+    "text": "Atlanta's crime rate is worse than Chicago -- for certain crimes",
+    "url": "https://www.11alive.com/article/news/crime/atlanta-chicago-crime-rates/85-1a13cc4a-bdef-43d6-a213-69ced3835b48"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/local/11alive-news-now-streaming-247-on-roku-amazon-fire/85-89d0f4f8-1bbc-42b5-9fed-43af9af46cb2"
+  },
+  {
+    "text": "11Alive News now streaming 24/7 on Roku, Amazon Fire",
+    "url": "https://www.11alive.com/article/news/local/11alive-news-now-streaming-247-on-roku-amazon-fire/85-89d0f4f8-1bbc-42b5-9fed-43af9af46cb2"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/health/coronavirus/coronavirus-numbers/georgia-coronavirus-updates-interactive-map-of-the-state/85-57b7c77b-8921-4af2-91c0-d6e698ed845e"
+  },
+  {
+    "text": "Georgia COVID-19 data | Interactive map of the state",
+    "url": "https://www.11alive.com/article/news/health/coronavirus/coronavirus-numbers/georgia-coronavirus-updates-interactive-map-of-the-state/85-57b7c77b-8921-4af2-91c0-d6e698ed845e"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/community/11alive-back-to-school-supply-drive/85-48464210-56e3-4a1e-8bb1-ad12cfac7472"
+  },
+  {
+    "text": "11Alive hosting back-to-school supply drive to benefit local schools",
+    "url": "https://www.11alive.com/article/news/community/11alive-back-to-school-supply-drive/85-48464210-56e3-4a1e-8bb1-ad12cfac7472"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/investigations/verify-airfare-cost-atlanta-chicago/85-3d8cb1c0-2a58-439a-887a-1c781ce21fa6"
+  },
+  {
+    "text": "Airfare can be more expensive in Atlanta than Chicago, but not by much",
+    "url": "https://www.11alive.com/article/news/investigations/verify-airfare-cost-atlanta-chicago/85-3d8cb1c0-2a58-439a-887a-1c781ce21fa6"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/education"
+  },
+  {
+    "text": "Back to school coverage",
+    "url": "https://www.11alive.com/education"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/crime/clayton-county-police-officer-demika-lloyd-shot/85-0461f4e2-e59e-42dc-87f7-f8afeb296459"
+  },
+  {
+    "text": "Longtime former colleague, friend of Clayton County officer shot describes her as hardworking, loving mom",
+    "url": "https://www.11alive.com/article/news/crime/clayton-county-police-officer-demika-lloyd-shot/85-0461f4e2-e59e-42dc-87f7-f8afeb296459"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/investigations/thieves-steal-homes-georgia-questions/85-522eb778-2884-49c3-a8c0-24bb04110d6f"
+  },
+  {
+    "text": "Thieves are stealing homes in Georgia: 11Alive Investigates answers your questions",
+    "url": "https://www.11alive.com/article/news/investigations/thieves-steal-homes-georgia-questions/85-522eb778-2884-49c3-a8c0-24bb04110d6f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/local/jalanni-pless-water-boy-gunned-down-mom-reaction-after-officer-hit/85-a8d68148-31c5-4b8a-a2a9-37ce968b6e29"
+  },
+  {
+    "text": "After outcry for officer hit by 'water boy,' mom wonders why her son's death didn't generate same response",
+    "url": "https://www.11alive.com/article/news/local/jalanni-pless-water-boy-gunned-down-mom-reaction-after-officer-hit/85-a8d68148-31c5-4b8a-a2a9-37ce968b6e29"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/local/georgia-man-describes-monkeypox-experience/85-a48d9117-f772-4aae-9043-b6c81ec6657f"
+  },
+  {
+    "text": "'Felt like razor blades all over my body' | Georgia man with monkeypox describes painful experience",
+    "url": "https://www.11alive.com/article/news/local/georgia-man-describes-monkeypox-experience/85-a48d9117-f772-4aae-9043-b6c81ec6657f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/video/news/state/dnc-1988-a-look-at-how-democrats-gathered-in-atlanta/85-1e4304ca-ecf4-471d-825d-f36145f233d1"
+  },
+  {
+    "text": "DNC 1988 | A look at how Democrats gathered in Atlanta",
+    "url": "https://www.11alive.com/video/news/state/dnc-1988-a-look-at-how-democrats-gathered-in-atlanta/85-1e4304ca-ecf4-471d-825d-f36145f233d1"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.11alive.com/article/news/crime/atlanta-chicago-crime-rates/85-1a13cc4a-bdef-43d6-a213-69ced3835b48"
+  },
+  {
+    "text": "Atlanta's crime rate is worse than Chicago -- for certain crimes",
+    "url": "https://www.11alive.com/article/news/crime/atlanta-chicago-crime-rates/85-1a13cc4a-bdef-43d6-a213-69ced3835b48"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/crime/monroe-deputies-arrest-atlanta-murder-suspect-passenger-during-traffic-stop-on-i-75-3/93-4e797cd7-4f54-4fc0-ad53-eafbaaa6d43d"
+  },
+  {
+    "text": "Monroe deputies arrest Atlanta murder suspect, passenger during traffic stop on I-75",
+    "url": "https://www.11alive.com/article/news/crime/monroe-deputies-arrest-atlanta-murder-suspect-passenger-during-traffic-stop-on-i-75-3/93-4e797cd7-4f54-4fc0-ad53-eafbaaa6d43d"
+  },
+  {
+    "text": "Demorris Sinjuin Marshall, 20, was arrested and charged with murder.",
+    "url": "https://www.11alive.com/article/news/crime/monroe-deputies-arrest-atlanta-murder-suspect-passenger-during-traffic-stop-on-i-75-3/93-4e797cd7-4f54-4fc0-ad53-eafbaaa6d43d"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/education/funding-mental-health-resources-schools/85-4ae8e4c4-6534-446b-ba06-73cb17a55688"
+  },
+  {
+    "text": "More funding for mental health in schools signals shift in focus",
+    "url": "https://www.11alive.com/article/news/education/funding-mental-health-resources-schools/85-4ae8e4c4-6534-446b-ba06-73cb17a55688"
+  },
+  {
+    "text": "The White House announced $300 million would be allocated to address mental health in schools",
+    "url": "https://www.11alive.com/article/news/education/funding-mental-health-resources-schools/85-4ae8e4c4-6534-446b-ba06-73cb17a55688"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/radar"
+  },
+  {
+    "text": "Interactive radar: Track rain in your county",
+    "url": "https://www.11alive.com/radar"
+  },
+  {
+    "text": "Follow the storms as they come in.",
+    "url": "https://www.11alive.com/radar"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/crime/monroe-deputies-arrest-atlanta-murder-suspect-passenger-during-traffic-stop-on-i-75-3/93-4e797cd7-4f54-4fc0-ad53-eafbaaa6d43d"
+  },
+  {
+    "text": "Monroe deputies arrest Atlanta murder suspect, passenger during traffic stop on I-75",
+    "url": "https://www.11alive.com/article/news/crime/monroe-deputies-arrest-atlanta-murder-suspect-passenger-during-traffic-stop-on-i-75-3/93-4e797cd7-4f54-4fc0-ad53-eafbaaa6d43d"
+  },
+  {
+    "text": "Demorris Sinjuin Marshall, 20, was arrested and charged with murder.",
+    "url": "https://www.11alive.com/article/news/crime/monroe-deputies-arrest-atlanta-murder-suspect-passenger-during-traffic-stop-on-i-75-3/93-4e797cd7-4f54-4fc0-ad53-eafbaaa6d43d"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/education/funding-mental-health-resources-schools/85-4ae8e4c4-6534-446b-ba06-73cb17a55688"
+  },
+  {
+    "text": "More funding for mental health in schools signals shift in focus",
+    "url": "https://www.11alive.com/article/news/education/funding-mental-health-resources-schools/85-4ae8e4c4-6534-446b-ba06-73cb17a55688"
+  },
+  {
+    "text": "The White House announced $300 million would be allocated to address mental health in schools",
+    "url": "https://www.11alive.com/article/news/education/funding-mental-health-resources-schools/85-4ae8e4c4-6534-446b-ba06-73cb17a55688"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/radar"
+  },
+  {
+    "text": "Interactive radar: Track rain in your county",
+    "url": "https://www.11alive.com/radar"
+  },
+  {
+    "text": "Follow the storms as they come in.",
+    "url": "https://www.11alive.com/radar"
+  },
+  {
+    "text": "Did anyone win the Mega Millions prize on Friday?",
+    "url": "https://www.11alive.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "House passes semi-automatic gun ban after 18-year lapse",
+    "url": "https://www.11alive.com/article/news/nation-world/house-passes-semi-automatic-gun-ban/507-def72706-6c3b-49e4-95c9-12f1920922e4"
+  },
+  {
+    "text": "\u2018Please tell me that baby is OK\u2019 | Man saves five kids from burning home",
+    "url": "https://www.11alive.com/article/news/nation-world/please-tell-me-that-baby-is-ok-lafayette-man-who-saved-five-kids-from-burning-home-shares-his-story-nicholas-bostic/531-d5405182-f75e-42ee-862d-78e2afbbb170"
+  },
+  {
+    "text": "'I felt like nobody communicated right that night' | Infant dies after 911 dispatcher sends help to wrong address",
+    "url": "https://www.11alive.com/article/news/nation-world/infant-dies-911-dispatcher-sends-help-to-wrong-address/65-7f1faa0f-3d46-4893-86ea-79d8d6de653b"
+  },
+  {
+    "text": "Cloudy with a chance of Chinese rocket debris",
+    "url": "https://www.11alive.com/article/tech/science/chinese-rocket-falling-debris/67-8b91171c-df33-4e3b-904e-c61c8d623fd6"
+  },
+  {
+    "text": "La Fiscal\u00eda de Espa\u00f1a pide 8 a\u00f1os de c\u00e1rcel para Shakira por presunta defraudaci\u00f3n fiscal",
+    "url": "https://www.11alive.com/article/news/local/noticias-wxia/la-fiscala-de-espaa-pide-8-aos-de-crcel-para-shakira-por-presunta-defraudacin-fiscal/75-a5240c68-4ff1-4851-9230-4602303a2021"
+  },
+  {
+    "text": "Did anyone win the Mega Millions prize on Friday?",
+    "url": "https://www.11alive.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "House passes semi-automatic gun ban after 18-year lapse",
+    "url": "https://www.11alive.com/article/news/nation-world/house-passes-semi-automatic-gun-ban/507-def72706-6c3b-49e4-95c9-12f1920922e4"
+  },
+  {
+    "text": "\u2018Please tell me that baby is OK\u2019 | Man saves five kids from burning home",
+    "url": "https://www.11alive.com/article/news/nation-world/please-tell-me-that-baby-is-ok-lafayette-man-who-saved-five-kids-from-burning-home-shares-his-story-nicholas-bostic/531-d5405182-f75e-42ee-862d-78e2afbbb170"
+  },
+  {
+    "text": "'I felt like nobody communicated right that night' | Infant dies after 911 dispatcher sends help to wrong address",
+    "url": "https://www.11alive.com/article/news/nation-world/infant-dies-911-dispatcher-sends-help-to-wrong-address/65-7f1faa0f-3d46-4893-86ea-79d8d6de653b"
+  },
+  {
+    "text": "Cloudy with a chance of Chinese rocket debris",
+    "url": "https://www.11alive.com/article/tech/science/chinese-rocket-falling-debris/67-8b91171c-df33-4e3b-904e-c61c8d623fd6"
+  },
+  {
+    "text": "La Fiscal\u00eda de Espa\u00f1a pide 8 a\u00f1os de c\u00e1rcel para Shakira por presunta defraudaci\u00f3n fiscal",
+    "url": "https://www.11alive.com/article/news/local/noticias-wxia/la-fiscala-de-espaa-pide-8-aos-de-crcel-para-shakira-por-presunta-defraudacin-fiscal/75-a5240c68-4ff1-4851-9230-4602303a2021"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/life/heartwarming/maine-ups-driver-praised-for-act-of-kindness-bringing-in-trash-can-life/97-fb58711f-98a3-4214-9161-21e8b09616ee"
+  },
+  {
+    "text": "UPS driver praised for act of kindness bringing in trash can",
+    "url": "https://www.11alive.com/article/life/heartwarming/maine-ups-driver-praised-for-act-of-kindness-bringing-in-trash-can-life/97-fb58711f-98a3-4214-9161-21e8b09616ee"
+  },
+  {
+    "text": "A homeowner caught the delivery driver on security camera. She said it \"made her week.\"",
+    "url": "https://www.11alive.com/article/life/heartwarming/maine-ups-driver-praised-for-act-of-kindness-bringing-in-trash-can-life/97-fb58711f-98a3-4214-9161-21e8b09616ee"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/nation-world/happy-birthday-dalton-102-years-young-fcl-july-26-2022/77-47203393-e4af-41f3-a060-6bb82ec75f46"
+  },
+  {
+    "text": "Happy Birthday Dalton! 102 Years Young!",
+    "url": "https://www.11alive.com/article/news/nation-world/happy-birthday-dalton-102-years-young-fcl-july-26-2022/77-47203393-e4af-41f3-a060-6bb82ec75f46"
+  },
+  {
+    "text": "Dalton loves singing gospel music and her family. It keeps her young and her smile beautiful.",
+    "url": "https://www.11alive.com/article/news/nation-world/happy-birthday-dalton-102-years-young-fcl-july-26-2022/77-47203393-e4af-41f3-a060-6bb82ec75f46"
+  },
+  {
+    "text": "More Heartwarming",
+    "url": "/section/heartwarming"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/life/heartwarming/maine-ups-driver-praised-for-act-of-kindness-bringing-in-trash-can-life/97-fb58711f-98a3-4214-9161-21e8b09616ee"
+  },
+  {
+    "text": "UPS driver praised for act of kindness bringing in trash can",
+    "url": "https://www.11alive.com/article/life/heartwarming/maine-ups-driver-praised-for-act-of-kindness-bringing-in-trash-can-life/97-fb58711f-98a3-4214-9161-21e8b09616ee"
+  },
+  {
+    "text": "A homeowner caught the delivery driver on security camera. She said it \"made her week.\"",
+    "url": "https://www.11alive.com/article/life/heartwarming/maine-ups-driver-praised-for-act-of-kindness-bringing-in-trash-can-life/97-fb58711f-98a3-4214-9161-21e8b09616ee"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/nation-world/happy-birthday-dalton-102-years-young-fcl-july-26-2022/77-47203393-e4af-41f3-a060-6bb82ec75f46"
+  },
+  {
+    "text": "Happy Birthday Dalton! 102 Years Young!",
+    "url": "https://www.11alive.com/article/news/nation-world/happy-birthday-dalton-102-years-young-fcl-july-26-2022/77-47203393-e4af-41f3-a060-6bb82ec75f46"
+  },
+  {
+    "text": "Dalton loves singing gospel music and her family. It keeps her young and her smile beautiful.",
+    "url": "https://www.11alive.com/article/news/nation-world/happy-birthday-dalton-102-years-young-fcl-july-26-2022/77-47203393-e4af-41f3-a060-6bb82ec75f46"
+  },
+  {
+    "text": "More Heartwarming",
+    "url": "/section/heartwarming"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Brianna Grier's death | Bodycamera video sheds new light around her arrest",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Grier died days after she was taken into custody.",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "'I don\u2019t want this to deter anybody' | Atlanta stuntwoman, aerial performer shares hopeful message after skydiving accident",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "Connie Palmer broke her back, her legs, and injured her lungs after a skydiving accident last month. Her friends are helping her raise money for hospital bills.",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Brianna Grier's death | Bodycamera video sheds new light around her arrest",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "Grier died days after she was taken into custody.",
+    "url": "https://www.11alive.com/article/news/local/gbi-releases-body-camera-video-brianna-grier/85-0aeecb21-a715-4a91-a489-3efd0a539ad6"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "'I don\u2019t want this to deter anybody' | Atlanta stuntwoman, aerial performer shares hopeful message after skydiving accident",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "Connie Palmer broke her back, her legs, and injured her lungs after a skydiving accident last month. Her friends are helping her raise money for hospital bills.",
+    "url": "https://www.11alive.com/article/news/local/atlanta-stuntwoman-connie-palmer-breaks-back-legs-while-skydiving/85-17ee0c24-4bf2-4224-b307-f82170993d4d"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.11alive.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.11alive.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.11alive.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.11alive.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.11alive.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.11alive.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.11alive.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.11alive.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.11alive.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.11alive.com/wxiajobs"
+  },
+  {
+    "text": "NEXTGEN TV",
+    "url": "https://www.11alive.com/article/news/watch-11alive-on-nextgen-tv/85-cb050412-e40c-4e5d-ae60-d95b016e309f"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                 YouTube  ",
+    "url": "https://www.youtube.com/11alive"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.11alive.com/wxiajobs"
+  },
+  {
+    "text": "NEXTGEN TV",
+    "url": "https://www.11alive.com/article/news/watch-11alive-on-nextgen-tv/85-cb050412-e40c-4e5d-ae60-d95b016e309f"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                 YouTube  ",
+    "url": "https://www.youtube.com/11alive"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.11alive.com/wxiajobs"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/terms"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "/adchoices"
+  },
+  {
+    "text": "EEO Public File Report",
+    "url": "https://interactive.11alive.com/pdfs/PublicFileReport.pdf"
+  },
+  {
+    "text": "FCC Online Public Inspection File",
+    "url": "/fcc-public-inspection-file"
+  },
+  {
+    "text": "Closed Caption Procedures",
+    "url": "/closed-captioning"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "url": "/do-not-sell-my-information"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "here",
+    "url": "/privacy#opt-out-of-targeted-online-advertising"
+  },
+  {
+    "text": "More information",
+    "url": "/privacy"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  }
+]

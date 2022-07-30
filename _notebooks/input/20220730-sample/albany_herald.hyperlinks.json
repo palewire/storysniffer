@@ -1,0 +1,2658 @@
+[
+  {
+    "text": "Skip to main content",
+    "url": "#main-page-container"
+  },
+  {
+    "text": "\n                        Sign Up\n                    ",
+    "url": "https://www.albanyherald.com/users/signup/?referer_url=https%3A%2F%2Fwww.albanyherald.com%2F"
+  },
+  {
+    "text": "\n                        Log In\n                    ",
+    "url": "https://www.albanyherald.com/users/login/?referer_url=https%3A%2F%2Fwww.albanyherald.com%2F"
+  },
+  {
+    "text": "\n                            Dashboard\n                        ",
+    "url": "https://www.albanyherald.com/users/admin/"
+  },
+  {
+    "text": " Dashboard",
+    "url": "https://www.albanyherald.com/users/admin/"
+  },
+  {
+    "text": " Profile",
+    "url": ""
+  },
+  {
+    "text": " Saved items",
+    "url": "https://www.albanyherald.com/users/admin/list/"
+  },
+  {
+    "text": "Home",
+    "url": "/frontpage/"
+  },
+  {
+    "text": "News",
+    "url": "/news/"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/coronavirus/"
+  },
+  {
+    "text": "Albany Herald on Mobile",
+    "url": "/mobile/"
+  },
+  {
+    "text": "Local",
+    "url": "/news/local/"
+  },
+  {
+    "text": "Election 2022",
+    "url": "/election/"
+  },
+  {
+    "text": "World & Nation",
+    "url": "/news/world_nation/"
+  },
+  {
+    "text": "State",
+    "url": "/news/state/"
+  },
+  {
+    "text": "Outdoors",
+    "url": "/outdoors/"
+  },
+  {
+    "text": "Pets",
+    "url": "/news/pets/"
+  },
+  {
+    "text": "Breaking News Alerts",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Sports",
+    "url": "/sports/"
+  },
+  {
+    "text": "Prep",
+    "url": "/sports/prep/"
+  },
+  {
+    "text": "College",
+    "url": "/sports/college"
+  },
+  {
+    "text": "Professional",
+    "url": "/sports/professional/"
+  },
+  {
+    "text": "Live sports scores",
+    "url": "https://albanyherald.sports.gracenote.com/football/nfl/scores"
+  },
+  {
+    "text": "Sports matchups",
+    "url": "https://albanyherald.sports.gracenote.com/gamematchups.aspx"
+  },
+  {
+    "text": "Outdoors",
+    "url": "/outdoors/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/opinion/"
+  },
+  {
+    "text": "Columnists",
+    "url": "/opinion/columnists/"
+  },
+  {
+    "text": "Squawk of the Day",
+    "url": "/opinion/squawk_of_the_day/"
+  },
+  {
+    "text": "Find a Job",
+    "url": "https://gajobsource.com/albanyherald/"
+  },
+  {
+    "text": "Features",
+    "url": "/features/"
+  },
+  {
+    "text": "Puzzles",
+    "url": "/puzzles/"
+  },
+  {
+    "text": "TV News",
+    "url": "/entertainment/tv/"
+  },
+  {
+    "text": "Faith",
+    "url": "/features/faith/"
+  },
+  {
+    "text": "Food/Recipes",
+    "url": "/features/food_recipes/"
+  },
+  {
+    "text": "Health",
+    "url": "/features/health/"
+  },
+  {
+    "text": "Home & Garden",
+    "url": "/features/home_garden"
+  },
+  {
+    "text": "Kitchen Inspections",
+    "url": "/features/kitchen_inspections/"
+  },
+  {
+    "text": "Kids Korner",
+    "url": "/features/kids_korner/"
+  },
+  {
+    "text": "Movies",
+    "url": "/entertainment/movies/"
+  },
+  {
+    "text": "Music",
+    "url": "/entertainment/music"
+  },
+  {
+    "text": "Travel",
+    "url": "/features/travel/"
+  },
+  {
+    "text": "Community",
+    "url": "/community/"
+  },
+  {
+    "text": "Recent Comments",
+    "url": "/comments/"
+  },
+  {
+    "text": "Local Events",
+    "url": "/local-events/"
+  },
+  {
+    "text": "Promote Your Event",
+    "url": "https://portal.cityspark.com/advertise/AlbanyHerald"
+  },
+  {
+    "text": "Obituaries",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "Engagements",
+    "url": "/community/engagements/"
+  },
+  {
+    "text": "Weddings",
+    "url": "/announcements/weddings/"
+  },
+  {
+    "text": "Anniversaries",
+    "url": "/announcements/anniversaries/"
+  },
+  {
+    "text": "Births",
+    "url": "/announcements/births/"
+  },
+  {
+    "text": "College Notes",
+    "url": "/community/college_notes/"
+  },
+  {
+    "text": "Classifieds",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "Place ad",
+    "url": "https://www.albanyherald.com/site/forms/online_services/classified_ad"
+  },
+  {
+    "text": "Legals",
+    "url": "/classifieds/community/announcements/legal/"
+  },
+  {
+    "text": "Housing",
+    "url": "/classifieds/housing/"
+  },
+  {
+    "text": "Jobs",
+    "url": "/classifieds/job/"
+  },
+  {
+    "text": "Service directory",
+    "url": "/classifieds/service/"
+  },
+  {
+    "text": "Auto",
+    "url": "/classifieds/vehicle/"
+  },
+  {
+    "text": "Personals",
+    "url": "/classifieds/personals/"
+  },
+  {
+    "text": "Multimedia",
+    "url": "/multimedia/"
+  },
+  {
+    "text": "Photos",
+    "url": "/multimedia/photos"
+  },
+  {
+    "text": "Photo Galleries",
+    "url": "/multimedia/photo_galleries"
+  },
+  {
+    "text": "Video",
+    "url": "/multimedia/video/"
+  },
+  {
+    "text": "Obituaries",
+    "url": "https://www.legacy.com/us/obituaries/albanyherald/browse"
+  },
+  {
+    "text": "e-Edition",
+    "url": "/eedition/"
+  },
+  {
+    "text": "Newsletters & Alerts",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Subscribe Now - Digital",
+    "url": "https://www.albanyherald.com/users/admin/service/purchase/"
+  },
+  {
+    "text": "Digital gift subscription",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/gift_subscribe_digital/gift_subscribe_digital/"
+  },
+  {
+    "text": "Subscribe Now - Print",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/subscribe_pay_now/subscribe__pay_now/"
+  },
+  {
+    "text": "Print gift subscription",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/subscribe_pay_now/gift_subscribe__pay_now/"
+  },
+  {
+    "text": "Frequently Asked Questions",
+    "url": "/faq/"
+  },
+  {
+    "text": "Web Help",
+    "url": "/site/forms/web_help"
+  },
+  {
+    "text": "Contact Us",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather/"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/site/privacy.html"
+  },
+  {
+    "text": "Subscribe Now!",
+    "url": "https://www.albanyherald.com/subscribe/"
+  },
+  {
+    "text": "Subscribe now!",
+    "url": "https://www.albanyherald.com/subscribe/"
+  },
+  {
+    "text": "\n                        Sign Up\n                    ",
+    "url": "https://www.albanyherald.com/users/signup/?referer_url=https%3A%2F%2Fwww.albanyherald.com%2F"
+  },
+  {
+    "text": "\n                        Log In\n                    ",
+    "url": "https://www.albanyherald.com/users/login/?referer_url=https%3A%2F%2Fwww.albanyherald.com%2F"
+  },
+  {
+    "text": "\n                            Dashboard\n                        ",
+    "url": "https://www.albanyherald.com/users/admin/"
+  },
+  {
+    "text": " Dashboard",
+    "url": "https://www.albanyherald.com/users/admin/"
+  },
+  {
+    "text": " Profile",
+    "url": ""
+  },
+  {
+    "text": " Saved items",
+    "url": "https://www.albanyherald.com/users/admin/list/"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/albanyherald"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/albany_herald"
+  },
+  {
+    "text": "\n                    \n                    LinkedIn\n                ",
+    "url": "https://www.linkedin.com/company/the-albany-herald"
+  },
+  {
+    "text": "\n                    \n                    YouTube\n                ",
+    "url": "https://www.youtube.com/channel/UCaiXNQemIhhfpVvyrw_S_kA"
+  },
+  {
+    "text": "\n                    \n                    Instagram\n                ",
+    "url": "https://instagram.com/albanyherald"
+  },
+  {
+    "text": "\n                    Classifieds\n                ",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "\n                    Autos\n                ",
+    "url": "/classifieds/vehicle/?l=25?s=start_time"
+  },
+  {
+    "text": "\n                    Jobs\n                ",
+    "url": "https://gajobsource.com/albanyherald/"
+  },
+  {
+    "text": "\n                    Legals\n                ",
+    "url": "/classifieds/community/announcements/legal/"
+  },
+  {
+    "text": "\n                    Obituaries\n                ",
+    "url": "https://www.legacy.com/us/obituaries/albanyherald/browse"
+  },
+  {
+    "text": "\n                    e-Edition\n                ",
+    "url": "/eedition/"
+  },
+  {
+    "text": "\n                    Local Events\n                ",
+    "url": "/local-events/"
+  },
+  {
+    "text": "\n                    Contests\n                ",
+    "url": "/contests"
+  },
+  {
+    "text": "\n                    SWGAHomeExpo\n                ",
+    "url": "http://scnievents.com/SWGAHomeExpo/"
+  },
+  {
+    "text": "\n                    Subscribe Now\n                ",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "https://albanyherald.com"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                \n                    74\u00b0\n                    \n                \n                \n            ",
+    "url": "/weather/?weather_zip=31701"
+  },
+  {
+    "text": " Full Forecast",
+    "url": "/weather/?weather_zip=31701"
+  },
+  {
+    "text": "\n                    Home\n                ",
+    "url": "/frontpage/"
+  },
+  {
+    "text": "\n                    News\n                ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n                    Coronavirus\n                ",
+    "url": "/coronavirus/"
+  },
+  {
+    "text": "\n                    Albany Herald on Mobile\n                ",
+    "url": "/mobile/"
+  },
+  {
+    "text": "\n                    \n                        \n                    Local\n                ",
+    "url": "/news/local/"
+  },
+  {
+    "text": "\n                    Business\n                ",
+    "url": "/news/local/business/"
+  },
+  {
+    "text": "\n                    Colleges & Universities\n                ",
+    "url": "/news/local/colleges_universities/"
+  },
+  {
+    "text": "\n                    Education\n                ",
+    "url": "/news/local/education"
+  },
+  {
+    "text": "\n                    Government\n                ",
+    "url": "/news/local/government/"
+  },
+  {
+    "text": "\n                    Health\n                ",
+    "url": "/news/local/health/"
+  },
+  {
+    "text": "\n                    Military\n                ",
+    "url": "/news/local/military"
+  },
+  {
+    "text": "\n                    Political\n                ",
+    "url": "/news/local/political/"
+  },
+  {
+    "text": "\n                    Public Safety\n                ",
+    "url": "/news/local/public_safety"
+  },
+  {
+    "text": "\n                    Election 2022\n                ",
+    "url": "/election/"
+  },
+  {
+    "text": "\n                    World & Nation\n                ",
+    "url": "/news/world_nation/"
+  },
+  {
+    "text": "\n                    State\n                ",
+    "url": "/news/state/"
+  },
+  {
+    "text": "\n                    Outdoors\n                ",
+    "url": "/outdoors/"
+  },
+  {
+    "text": "\n                    Pets\n                ",
+    "url": "/news/pets/"
+  },
+  {
+    "text": "\n                    Breaking News Alerts\n                ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "\n                    Newsletters\n                ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "\n                    Sports\n                ",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                    Prep\n                ",
+    "url": "/sports/prep/"
+  },
+  {
+    "text": "\n                    \n                        \n                    College\n                ",
+    "url": "/sports/college"
+  },
+  {
+    "text": "\n                    Albany State\n                ",
+    "url": "/sports/college/albany_state/"
+  },
+  {
+    "text": "\n                    Georgia\n                ",
+    "url": "/sports/college/sec/georgia/"
+  },
+  {
+    "text": "\n                    ACC\n                ",
+    "url": "/sports/college/acc"
+  },
+  {
+    "text": "\n                    SEC\n                ",
+    "url": "/sports/college/sec"
+  },
+  {
+    "text": "\n                    Professional\n                ",
+    "url": "/sports/professional/"
+  },
+  {
+    "text": "\n                    Live sports scores\n                ",
+    "url": "https://albanyherald.sports.gracenote.com/football/nfl/scores"
+  },
+  {
+    "text": "\n                    Sports matchups\n                ",
+    "url": "https://albanyherald.sports.gracenote.com/gamematchups.aspx"
+  },
+  {
+    "text": "\n                    Outdoors\n                ",
+    "url": "/outdoors/"
+  },
+  {
+    "text": "\n                    Newsletters\n                ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "\n                    Opinion\n                ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                    \n                        \n                    Columnists\n                ",
+    "url": "/opinion/columnists/"
+  },
+  {
+    "text": "\n                    Bob Kornegay\n                ",
+    "url": "/opinion/columnists/bob_kornegay/"
+  },
+  {
+    "text": "\n                    Brad McEwen\n                ",
+    "url": "/opinion/columnists/brad_mcewen/"
+  },
+  {
+    "text": "\n                    Carlton Fletcher\n                ",
+    "url": "/opinion/columnists/carlton_fletcher/"
+  },
+  {
+    "text": "\n                    Creede Hinshaw\n                ",
+    "url": "/opinion/columnists/creede_hinshaw/"
+  },
+  {
+    "text": "\n                    Dick Yarbrough\n                ",
+    "url": "/opinion/columnists/dick_yarbrough/"
+  },
+  {
+    "text": "\n                    Georgia Clippings\n                ",
+    "url": "/opinion/columnists/georgia_clippings/"
+  },
+  {
+    "text": "\n                    Health & Fitness\n                ",
+    "url": "/opinion/columnists/health_fitness/"
+  },
+  {
+    "text": "\n                    Jim Hendricks\n                ",
+    "url": "/opinion/columnists/jim_hendricks/"
+  },
+  {
+    "text": "\n                    Kevin Sproul\n                ",
+    "url": "/opinion/columnists/kevin_sproul/"
+  },
+  {
+    "text": "\n                    Loran Smith\n                ",
+    "url": "/opinion/columnists/loran_smith/"
+  },
+  {
+    "text": "\n                    Mandy Flynn\n                ",
+    "url": "/opinion/columnists/mandy_flynn/"
+  },
+  {
+    "text": "\n                    Mary Braswell\n                ",
+    "url": "/opinion/columnists/mary_braswell/"
+  },
+  {
+    "text": "\n                    Ronda Rich\n                ",
+    "url": "/opinion/columnists/ronda_rich/"
+  },
+  {
+    "text": "\n                    T. Gamble\n                ",
+    "url": "/opinion/columnists/t_gamble/"
+  },
+  {
+    "text": "\n                    The Old Rocker\n                ",
+    "url": "/opinion/columnists/the_old_rocker/"
+  },
+  {
+    "text": "\n                    Syndicated Columnists\n                ",
+    "url": "/opinion/columnists/syndicated_columnists"
+  },
+  {
+    "text": "\n                    Squawk of the Day\n                ",
+    "url": "/opinion/squawk_of_the_day/"
+  },
+  {
+    "text": "\n                    Find a Job\n                ",
+    "url": "https://gajobsource.com/albanyherald/"
+  },
+  {
+    "text": "\n                    Features\n                ",
+    "url": "/features/"
+  },
+  {
+    "text": "\n                    Puzzles\n                ",
+    "url": "/puzzles/"
+  },
+  {
+    "text": "\n                    Famous Celebrities\n                ",
+    "url": "/entertainment/celebrities/"
+  },
+  {
+    "text": "\n                    Local Celebrities\n                ",
+    "url": "/features/celebrities/"
+  },
+  {
+    "text": "\n                    TV News\n                ",
+    "url": "/entertainment/tv/"
+  },
+  {
+    "text": "\n                    Faith\n                ",
+    "url": "/features/faith/"
+  },
+  {
+    "text": "\n                    Food/Recipes\n                ",
+    "url": "/features/food_recipes/"
+  },
+  {
+    "text": "\n                    Health\n                ",
+    "url": "/features/health/"
+  },
+  {
+    "text": "\n                    Home & Garden\n                ",
+    "url": "/features/home_garden"
+  },
+  {
+    "text": "\n                    Kitchen Inspections\n                ",
+    "url": "/features/kitchen_inspections/"
+  },
+  {
+    "text": "\n                    Kids Korner\n                ",
+    "url": "/features/kids_korner/"
+  },
+  {
+    "text": "\n                    Movies\n                ",
+    "url": "/entertainment/movies/"
+  },
+  {
+    "text": "\n                    Music\n                ",
+    "url": "/entertainment/music"
+  },
+  {
+    "text": "\n                    Travel\n                ",
+    "url": "/features/travel/"
+  },
+  {
+    "text": "\n                    Community\n                ",
+    "url": "/community/"
+  },
+  {
+    "text": "\n                    Recent Comments\n                ",
+    "url": "/comments/"
+  },
+  {
+    "text": "\n                    Local Events\n                ",
+    "url": "/local-events/"
+  },
+  {
+    "text": "\n                    Promote Your Event\n                ",
+    "url": "https://portal.cityspark.com/advertise/AlbanyHerald"
+  },
+  {
+    "text": "\n                    Obituaries\n                ",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "\n                    Engagements\n                ",
+    "url": "/community/engagements/"
+  },
+  {
+    "text": "\n                    Weddings\n                ",
+    "url": "/announcements/weddings/"
+  },
+  {
+    "text": "\n                    Anniversaries\n                ",
+    "url": "/announcements/anniversaries/"
+  },
+  {
+    "text": "\n                    Births\n                ",
+    "url": "/announcements/births/"
+  },
+  {
+    "text": "\n                    College Notes\n                ",
+    "url": "/community/college_notes/"
+  },
+  {
+    "text": "\n                    Classifieds\n                ",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "\n                    Place ad\n                ",
+    "url": "https://www.albanyherald.com/site/forms/online_services/classified_ad"
+  },
+  {
+    "text": "\n                    Legals\n                ",
+    "url": "/classifieds/community/announcements/legal/"
+  },
+  {
+    "text": "\n                    Housing\n                ",
+    "url": "/classifieds/housing/"
+  },
+  {
+    "text": "\n                    Jobs\n                ",
+    "url": "/classifieds/job/"
+  },
+  {
+    "text": "\n                    Service directory\n                ",
+    "url": "/classifieds/service/"
+  },
+  {
+    "text": "\n                    Auto\n                ",
+    "url": "/classifieds/vehicle/"
+  },
+  {
+    "text": "\n                    Personals\n                ",
+    "url": "/classifieds/personals/"
+  },
+  {
+    "text": "\n                    Multimedia\n                ",
+    "url": "/multimedia/"
+  },
+  {
+    "text": "\n                    Photos\n                ",
+    "url": "/multimedia/photos"
+  },
+  {
+    "text": "\n                    Photo Galleries\n                ",
+    "url": "/multimedia/photo_galleries"
+  },
+  {
+    "text": "\n                    Video\n                ",
+    "url": "/multimedia/video/"
+  },
+  {
+    "text": "\n                    Obituaries\n                ",
+    "url": "https://www.legacy.com/us/obituaries/albanyherald/browse"
+  },
+  {
+    "text": "\n                    e-Edition\n                ",
+    "url": "/eedition/"
+  },
+  {
+    "text": "\n                    Newsletters & Alerts\n                ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "\n                    Subscribe Now - Digital\n                ",
+    "url": "https://www.albanyherald.com/users/admin/service/purchase/"
+  },
+  {
+    "text": "\n                    Digital gift subscription\n                ",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/gift_subscribe_digital/gift_subscribe_digital/"
+  },
+  {
+    "text": "\n                    Subscribe Now - Print\n                ",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/subscribe_pay_now/subscribe__pay_now/"
+  },
+  {
+    "text": "\n                    Print gift subscription\n                ",
+    "url": "https://www.albanyherald.com/site/forms/subscription_services/subscribe_pay_now/gift_subscribe__pay_now/"
+  },
+  {
+    "text": "\n                    Frequently Asked Questions\n                ",
+    "url": "/faq/"
+  },
+  {
+    "text": "\n                    Web Help\n                ",
+    "url": "/site/forms/web_help"
+  },
+  {
+    "text": "\n                    Contact Us\n                ",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "\n                    Weather\n                ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                    Privacy Policy\n                ",
+    "url": "/site/privacy.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Regulators approve more solar, gas energy for Georgia Power",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n                    Regulators approve more solar, gas energy for Georgia Power\n                ",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/safety-concerns-key-priority-as-georgia-schools-open-for-fall/article_76d38050-c7fb-5387-bab6-b71a6aabd38a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Safety concerns key priority as Georgia schools open for fall",
+    "url": "/local/safety-concerns-key-priority-as-georgia-schools-open-for-fall/article_76d38050-c7fb-5387-bab6-b71a6aabd38a.html"
+  },
+  {
+    "text": "\n                    Safety concerns key priority as Georgia schools open for fall\n                ",
+    "url": "/local/safety-concerns-key-priority-as-georgia-schools-open-for-fall/article_76d38050-c7fb-5387-bab6-b71a6aabd38a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Regulators approve more solar, gas energy for Georgia Power",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/safety-concerns-key-priority-as-georgia-schools-open-for-fall/article_76d38050-c7fb-5387-bab6-b71a6aabd38a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Safety concerns key priority as Georgia schools open for fall",
+    "url": "/local/safety-concerns-key-priority-as-georgia-schools-open-for-fall/article_76d38050-c7fb-5387-bab6-b71a6aabd38a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/georgia-teachers-to-receive-back-to-school-supplements-for-supplies/article_e42f2d39-34b9-5e72-ae3f-2c1bcbbbd7b3.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia teachers to receive \u2018back-to-school\u2019 supplements for supplies",
+    "url": "/local/georgia-teachers-to-receive-back-to-school-supplements-for-supplies/article_e42f2d39-34b9-5e72-ae3f-2c1bcbbbd7b3.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/georgia-teachers-to-receive-back-to-school-supplements-for-supplies/article_e42f2d39-34b9-5e72-ae3f-2c1bcbbbd7b3.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia teachers to receive \u2018back-to-school\u2019 supplements for supplies",
+    "url": "/local/georgia-teachers-to-receive-back-to-school-supplements-for-supplies/article_e42f2d39-34b9-5e72-ae3f-2c1bcbbbd7b3.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Poll finds Brian Kemp, Stacey Abrams statistically tied",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-non-adjusted-unemployment-numbers-increase-as-economy-dips-into-possible-recession/article_832ed6f0-fe3b-529f-aab4-500b1888c0e4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia non-adjusted unemployment numbers increase as economy dips into possible recession",
+    "url": "/news/georgia-non-adjusted-unemployment-numbers-increase-as-economy-dips-into-possible-recession/article_832ed6f0-fe3b-529f-aab4-500b1888c0e4.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Warnock puts pressure on Walker to agree to debate in Georgia Senate race",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-lottery-raised-25-3b-for-educational-purposes-in-last-three-decades/article_eceb1674-2339-5bfb-947b-9a380b58cdc2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia Lottery raised $25.3B for educational purposes in last three decades",
+    "url": "/news/georgia-lottery-raised-25-3b-for-educational-purposes-in-last-three-decades/article_eceb1674-2339-5bfb-947b-9a380b58cdc2.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+23\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Most expensive cities for car rentals",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+108\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Atlanta Falcons Training Camp",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+6\n                \n                \n                \n                        \n                ",
+    "url": "/news/car-review-the-kona-electric-is-just-as-compelling-as-its-gas-powered-sibling/article_a2218b95-91b8-50f8-b0c9-0539a53da30a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            CAR REVIEW: The Kona Electric is just as compelling as its gas-powered sibling",
+    "url": "/news/car-review-the-kona-electric-is-just-as-compelling-as-its-gas-powered-sibling/article_a2218b95-91b8-50f8-b0c9-0539a53da30a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/should-we-be-naming-heat-waves-like-hurricanes/article_31d90bbf-f4e6-50e6-a61f-2007c2e72e5b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Should we be naming heat waves like hurricanes?",
+    "url": "/news/should-we-be-naming-heat-waves-like-hurricanes/article_31d90bbf-f4e6-50e6-a61f-2007c2e72e5b.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-ports-authority-had-record-freight-volume-in-fiscal-2022-with-8-increase-from-2021/article_abc2da79-0645-523b-9e3e-57db9ddf1c51.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia Ports Authority had record freight volume in fiscal 2022 with 8% increase from 2021",
+    "url": "/news/georgia-ports-authority-had-record-freight-volume-in-fiscal-2022-with-8-increase-from-2021/article_abc2da79-0645-523b-9e3e-57db9ddf1c51.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-gop-chair-appears-before-atlanta-area-grand-jury-in-election-probe/article_575a486e-ba4e-5668-af58-54d61343df62.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia GOP chair appears before Atlanta-area grand jury in election probe",
+    "url": "/news/georgia-gop-chair-appears-before-atlanta-area-grand-jury-in-election-probe/article_575a486e-ba4e-5668-af58-54d61343df62.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+5\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n        \n\n        \n            GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/politics/poll-shows-georgia-democrats-could-win-this-fall-with-strong-turnout/article_32e2d954-0add-53ff-94e4-c69b83e38bcc.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Poll shows Georgia Democrats could win this fall with strong turnout",
+    "url": "/local/politics/poll-shows-georgia-democrats-could-win-this-fall-with-strong-turnout/article_32e2d954-0add-53ff-94e4-c69b83e38bcc.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/georgia-lottery-funding-for-education-hits-25-billion/article_0241431a-8e96-5425-abc4-7b3927e9be8e.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia Lottery funding for education hits $25 billion",
+    "url": "/local/georgia-lottery-funding-for-education-hits-25-billion/article_0241431a-8e96-5425-abc4-7b3927e9be8e.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+    "url": "/entertainment/bernard-cribbins-doctor-who-actor-dead-at-93/article_b0d2d3a1-6698-5a41-88c3-acdde3210589.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Bernard Cribbins, 'Doctor Who' actor, dead at 93",
+    "url": "/entertainment/bernard-cribbins-doctor-who-actor-dead-at-93/article_b0d2d3a1-6698-5a41-88c3-acdde3210589.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/whistleblowers-air-abuses-at-atlanta-federal-penitentiary/article_5deb4298-0eb6-11ed-9671-2b4f1b3f9cc2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Whistleblowers air abuses at Atlanta federal penitentiary",
+    "url": "/news/whistleblowers-air-abuses-at-atlanta-federal-penitentiary/article_5deb4298-0eb6-11ed-9671-2b4f1b3f9cc2.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/date-set-for-georgi-chambers-annual-congressional-luncheon/article_0e7478e8-0eb5-11ed-82e3-239abd3a0346.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Date set for Georgi Chamber's annual Congressional Luncheon",
+    "url": "/news/date-set-for-georgi-chambers-annual-congressional-luncheon/article_0e7478e8-0eb5-11ed-82e3-239abd3a0346.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/gop-support-for-same-sex-marriage-protections-builds-in-u-s-senate/article_c8a9ebb4-0eb3-11ed-afe2-c71cef0f19d9.html"
+  },
+  {
+    "text": "\n        \n\n        \n            GOP support for same-sex marriage protections builds in U.S. Senate",
+    "url": "/news/gop-support-for-same-sex-marriage-protections-builds-in-u-s-senate/article_c8a9ebb4-0eb3-11ed-afe2-c71cef0f19d9.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Poll finds Brian Kemp, Stacey Abrams statistically tied",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-non-adjusted-unemployment-numbers-increase-as-economy-dips-into-possible-recession/article_832ed6f0-fe3b-529f-aab4-500b1888c0e4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia non-adjusted unemployment numbers increase as economy dips into possible recession",
+    "url": "/news/georgia-non-adjusted-unemployment-numbers-increase-as-economy-dips-into-possible-recession/article_832ed6f0-fe3b-529f-aab4-500b1888c0e4.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Warnock puts pressure on Walker to agree to debate in Georgia Senate race",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+108\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Atlanta Falcons Training Camp",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+5\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n        \n\n        \n            GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n        \n\n        \n            RECIPE ROUNDUP: Give these recipes a try for national hot dog month",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+40\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Meet the Eagles athletic kickoff at Sherwood Christian",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+10\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/travel-tuesday-take-a-movie-tour-of-filming-locations-across-georgia/collection_a24f6519-ffb7-5a12-b429-52ac98f3590c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            TRAVEL TUESDAY: Take a movie tour of filming locations across Georgia",
+    "url": "/multimedia/slideshows/travel-tuesday-take-a-movie-tour-of-filming-locations-across-georgia/collection_a24f6519-ffb7-5a12-b429-52ac98f3590c.html"
+  },
+  {
+    "text": "\u00bb  More Photo Galleries",
+    "url": "/multimedia/photo_galleries/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-lottery-raised-25-3b-for-educational-purposes-in-last-three-decades/article_eceb1674-2339-5bfb-947b-9a380b58cdc2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia Lottery raised $25.3B for educational purposes in last three decades",
+    "url": "/news/georgia-lottery-raised-25-3b-for-educational-purposes-in-last-three-decades/article_eceb1674-2339-5bfb-947b-9a380b58cdc2.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+23\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Most expensive cities for car rentals",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+108\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Atlanta Falcons Training Camp",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+6\n                \n                \n                \n                        \n                ",
+    "url": "/news/car-review-the-kona-electric-is-just-as-compelling-as-its-gas-powered-sibling/article_a2218b95-91b8-50f8-b0c9-0539a53da30a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            CAR REVIEW: The Kona Electric is just as compelling as its gas-powered sibling",
+    "url": "/news/car-review-the-kona-electric-is-just-as-compelling-as-its-gas-powered-sibling/article_a2218b95-91b8-50f8-b0c9-0539a53da30a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/should-we-be-naming-heat-waves-like-hurricanes/article_31d90bbf-f4e6-50e6-a61f-2007c2e72e5b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Should we be naming heat waves like hurricanes?",
+    "url": "/news/should-we-be-naming-heat-waves-like-hurricanes/article_31d90bbf-f4e6-50e6-a61f-2007c2e72e5b.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-ports-authority-had-record-freight-volume-in-fiscal-2022-with-8-increase-from-2021/article_abc2da79-0645-523b-9e3e-57db9ddf1c51.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia Ports Authority had record freight volume in fiscal 2022 with 8% increase from 2021",
+    "url": "/news/georgia-ports-authority-had-record-freight-volume-in-fiscal-2022-with-8-increase-from-2021/article_abc2da79-0645-523b-9e3e-57db9ddf1c51.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/georgia-gop-chair-appears-before-atlanta-area-grand-jury-in-election-probe/article_575a486e-ba4e-5668-af58-54d61343df62.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia GOP chair appears before Atlanta-area grand jury in election probe",
+    "url": "/news/georgia-gop-chair-appears-before-atlanta-area-grand-jury-in-election-probe/article_575a486e-ba4e-5668-af58-54d61343df62.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+5\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n        \n\n        \n            GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/politics/poll-shows-georgia-democrats-could-win-this-fall-with-strong-turnout/article_32e2d954-0add-53ff-94e4-c69b83e38bcc.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Poll shows Georgia Democrats could win this fall with strong turnout",
+    "url": "/local/politics/poll-shows-georgia-democrats-could-win-this-fall-with-strong-turnout/article_32e2d954-0add-53ff-94e4-c69b83e38bcc.html"
+  },
+  {
+    "text": "\n                \n                Our Furry Friends\n                \n                    ",
+    "url": "/news/pets/"
+  },
+  {
+    "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+    "url": "/news/pets/scruffy-feral-cat-makes-a-gorgeous-transformation-the-dodo/video_313bfb3b-3f00-55aa-80d1-a4d76365239a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Scruffy Feral Cat Makes A Gorgeous Transformation | The Dodo",
+    "url": "/news/pets/scruffy-feral-cat-makes-a-gorgeous-transformation-the-dodo/video_313bfb3b-3f00-55aa-80d1-a4d76365239a.html"
+  },
+  {
+    "text": "Watch here",
+    "url": "/news/pets/scruffy-feral-cat-makes-a-gorgeous-transformation-the-dodo/video_313bfb3b-3f00-55aa-80d1-a4d76365239a.html"
+  },
+  {
+    "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+    "url": "/news/pets/dog-finds-injured-baby-bird-on-his-walk-the-dodo/video_91917540-ec09-5465-970f-15b466d6a060.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Dog Finds Injured Baby Bird On His Walk | The Dodo",
+    "url": "/news/pets/dog-finds-injured-baby-bird-on-his-walk-the-dodo/video_91917540-ec09-5465-970f-15b466d6a060.html"
+  },
+  {
+    "text": "Watch here",
+    "url": "/news/pets/dog-finds-injured-baby-bird-on-his-walk-the-dodo/video_91917540-ec09-5465-970f-15b466d6a060.html"
+  },
+  {
+    "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+    "url": "/news/pets/exhausted-pittie-momma-gets-surprised-with-a-day-off-the-dodo-foster-diaries/video_b80a5d79-174a-5c5d-b716-f3591f73c5de.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Exhausted Pittie Momma gets Surprised with a Day Off | The Dodo Foster Diaries",
+    "url": "/news/pets/exhausted-pittie-momma-gets-surprised-with-a-day-off-the-dodo-foster-diaries/video_b80a5d79-174a-5c5d-b716-f3591f73c5de.html"
+  },
+  {
+    "text": "Watch here",
+    "url": "/news/pets/exhausted-pittie-momma-gets-surprised-with-a-day-off-the-dodo-foster-diaries/video_b80a5d79-174a-5c5d-b716-f3591f73c5de.html"
+  },
+  {
+    "text": "\u00bb More Pets",
+    "url": "/news/pets/"
+  },
+  {
+    "text": "\n                \n                Top News Videos of the Day\n                \n                    ",
+    "url": "/videos"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+25\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-albany-state-youth-enrichment-program-asyep-closing-ceremony/collection_3e717290-0c2f-11ed-8127-0fb9f1a34572.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Albany State Youth Enrichment Program (ASYEP) closing ceremony",
+    "url": "/multimedia/slideshows/photos-albany-state-youth-enrichment-program-asyep-closing-ceremony/collection_3e717290-0c2f-11ed-8127-0fb9f1a34572.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+8\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/10-editorial-and-topical-cartoons-from-the-past-week-july-24/collection_3bf50f91-26a8-5a3e-b4b3-b2a474f61b0f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            10 editorial and topical cartoons from the past week \u2014 July 24",
+    "url": "/multimedia/slideshows/10-editorial-and-topical-cartoons-from-the-past-week-july-24/collection_3bf50f91-26a8-5a3e-b4b3-b2a474f61b0f.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+37\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/camp-of-champs-combines-sports-and-character-education-for-albany-youth/collection_695b76ee-0ac3-11ed-9e3e-0fc09ce8bfb3.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Camp of Champs combines sports and character education for Albany youth",
+    "url": "/multimedia/camp-of-champs-combines-sports-and-character-education-for-albany-youth/collection_695b76ee-0ac3-11ed-9e3e-0fc09ce8bfb3.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+36\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-african-american-art-exhibit-at-albany-state-university/collection_37d78baa-0a8a-11ed-a254-d34f85d3bd4c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: African-American Art Exhibit at Albany State University",
+    "url": "/multimedia/slideshows/photos-african-american-art-exhibit-at-albany-state-university/collection_37d78baa-0a8a-11ed-a254-d34f85d3bd4c.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+15\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-sherwood-middle-school-basketball-team-hosts-watermelon-giveaway/collection_0f0503d0-0a88-11ed-8240-7f1535f7d0af.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Sherwood Middle School basketball team hosts watermelon giveaway",
+    "url": "/multimedia/slideshows/photos-sherwood-middle-school-basketball-team-hosts-watermelon-giveaway/collection_0f0503d0-0a88-11ed-8240-7f1535f7d0af.html"
+  },
+  {
+    "text": "\u00bb  More Photo Galleries",
+    "url": "/multimedia/photo_galleries/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                ",
+    "url": "/features/lee-county-class-of-22-distinguished-alumni-announced/article_bf590b54-0b6a-11ed-a2cf-dba6890fe70d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Lee County Class of '22 Distinguished Alumni announced",
+    "url": "/features/lee-county-class-of-22-distinguished-alumni-announced/article_bf590b54-0b6a-11ed-a2cf-dba6890fe70d.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/nikolas-cruz-walked-into-a-mcdonalds-and-sat-with-the-brother-of-one-of-his/article_85655533-1317-551d-8530-47502da04c6d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Nikolas Cruz walked into a McDonald's and sat with the brother of one of his victims after the Parkland shooting, surveillance video shows",
+    "url": "/news/nikolas-cruz-walked-into-a-mcdonalds-and-sat-with-the-brother-of-one-of-his/article_85655533-1317-551d-8530-47502da04c6d.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                ",
+    "url": "/ask-amy-audacious-text-message-leads-to-blunt-response/article_7a1e2203-44cf-5c36-ac8e-73c26f84041a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            ASK AMY: Audacious text message leads to blunt response",
+    "url": "/ask-amy-audacious-text-message-leads-to-blunt-response/article_7a1e2203-44cf-5c36-ac8e-73c26f84041a.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+    "url": "/local/the-power-of-no-trespass-warnings-on-georgia-rivers-roil-the-waters/article_0dec9420-0c1a-11ed-a61f-4748c5a81a98.html"
+  },
+  {
+    "text": "\n        \n\n        \n            The power of \u2018No\u2019: Trespass warnings on Georgia rivers roil the waters",
+    "url": "/local/the-power-of-no-trespass-warnings-on-georgia-rivers-roil-the-waters/article_0dec9420-0c1a-11ed-a61f-4748c5a81a98.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                ",
+    "url": "/local/tara-fletcher-saying-a-sad-farewell/article_ea5dfc04-0a7c-11ed-b3e8-032e85028d22.html"
+  },
+  {
+    "text": "\n        \n\n        \n            TARA FLETCHER: Saying a sad farewell",
+    "url": "/local/tara-fletcher-saying-a-sad-farewell/article_ea5dfc04-0a7c-11ed-b3e8-032e85028d22.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/sharing-a-message-and-a-sweet-treat/article_70beaa68-0b64-11ed-add7-7f9a57fc2fa8.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Sharing a message and a sweet treat",
+    "url": "/features/sharing-a-message-and-a-sweet-treat/article_70beaa68-0b64-11ed-add7-7f9a57fc2fa8.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+25\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-albany-state-youth-enrichment-program-asyep-closing-ceremony/collection_3e717290-0c2f-11ed-8127-0fb9f1a34572.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Albany State Youth Enrichment Program (ASYEP) closing ceremony",
+    "url": "/multimedia/slideshows/photos-albany-state-youth-enrichment-program-asyep-closing-ceremony/collection_3e717290-0c2f-11ed-8127-0fb9f1a34572.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+5\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n        \n\n        \n            GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+54\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-lee-county-vs-terrell-academy-softball/collection_ce758a80-09ea-11ed-a16f-6b4dd4fc709d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Lee County vs. Terrell Academy Softball",
+    "url": "/multimedia/slideshows/photos-lee-county-vs-terrell-academy-softball/collection_ce758a80-09ea-11ed-a16f-6b4dd4fc709d.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+40\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Meet the Eagles athletic kickoff at Sherwood Christian",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+37\n                \n                \n                \n                ",
+    "url": "/multimedia/camp-of-champs-combines-sports-and-character-education-for-albany-youth/collection_695b76ee-0ac3-11ed-9e3e-0fc09ce8bfb3.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Camp of Champs combines sports and character education for Albany youth",
+    "url": "/multimedia/camp-of-champs-combines-sports-and-character-education-for-albany-youth/collection_695b76ee-0ac3-11ed-9e3e-0fc09ce8bfb3.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+36\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-african-american-art-exhibit-at-albany-state-university/collection_37d78baa-0a8a-11ed-a254-d34f85d3bd4c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: African-American Art Exhibit at Albany State University",
+    "url": "/multimedia/slideshows/photos-african-american-art-exhibit-at-albany-state-university/collection_37d78baa-0a8a-11ed-a254-d34f85d3bd4c.html"
+  },
+  {
+    "text": "\n                \n                Help Wanted\n                \n                    ",
+    "url": "https://gajobsource.com/albanyherald/"
+  },
+  {
+    "text": "\n                \n                \n                    e-Edition\n                \n                \n                \n                        \n                ",
+    "url": "/eedition/albany-herald/edition_6794cdf4-5a75-5c8c-8e68-8979ffa719ce.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Albany Herald",
+    "url": "/eedition/albany-herald/edition_6794cdf4-5a75-5c8c-8e68-8979ffa719ce.html"
+  },
+  {
+    "text": "\n                \n                Latest News\n                \n                    ",
+    "url": "/news/local/"
+  },
+  {
+    "text": "\n        \n\n        \n            Regulators approve more solar, gas energy for Georgia Power",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            12 Black queer icons that inspired Beyonc\u00e9 on 'Renaissance'",
+    "url": "/entertainment/12-black-queer-icons-that-inspired-beyonc-on-renaissance/article_6feff640-fb37-56c1-bbf5-6d440d3d4de4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Federal officials are investigating the death of a co-pilot who exited a plane in mid-air in North Carolina",
+    "url": "/news/federal-officials-are-investigating-the-death-of-a-co-pilot-who-exited-a-plane-in/article_01fb2fe4-56bb-57b2-8e35-4819398bb324.html"
+  },
+  {
+    "text": "\n        \n\n        \n            China to hold live-fire exercises in waters near Fujian, opposite Taiwan",
+    "url": "/news/china-to-hold-live-fire-exercises-in-waters-near-fujian-opposite-taiwan/article_79da3d24-a6dc-57de-8521-1fb7c3c653d0.html"
+  },
+  {
+    "text": "\u00bb  More News",
+    "url": "/news/"
+  },
+  {
+    "text": "\u00bb  More Photos",
+    "url": "/multimedia/photo_galleries/"
+  },
+  {
+    "text": "\n                \n                Latest Photo Galleries\n                \n                    ",
+    "url": "/multimedia/photo_galleries"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+23\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Most expensive cities for car rentals",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n                    Most expensive cities for car rentals\n                ",
+    "url": "/multimedia/slideshows/most-expensive-cities-for-car-rentals/collection_7c44cece-f6be-51e5-9a75-eeed0a2b37f2.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+108\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Atlanta Falcons Training Camp",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n                    PHOTOS: Atlanta Falcons Training Camp\n                ",
+    "url": "/multimedia/slideshows/photos-atlanta-falcons-training-camp/collection_324f5e37-aa7e-5862-a865-9f4c990f3fdd.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+5\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n        \n\n        \n            GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n                    GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31\n                ",
+    "url": "/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+6\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/5-types-of-pet-allergies-and-how-to-treat-them/collection_3a5334a2-9ca8-5a96-bd15-3b1f4f89822f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            5 types of pet allergies and how to treat them",
+    "url": "/multimedia/slideshows/5-types-of-pet-allergies-and-how-to-treat-them/collection_3a5334a2-9ca8-5a96-bd15-3b1f4f89822f.html"
+  },
+  {
+    "text": "\n                    5 types of pet allergies and how to treat them\n                ",
+    "url": "/multimedia/slideshows/5-types-of-pet-allergies-and-how-to-treat-them/collection_3a5334a2-9ca8-5a96-bd15-3b1f4f89822f.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+51\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/counties-with-the-worst-commutes-in-georgia/collection_9510cf7b-0c2f-5acf-a08e-1b18605e71dd.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Counties with the worst commutes in Georgia",
+    "url": "/multimedia/slideshows/counties-with-the-worst-commutes-in-georgia/collection_9510cf7b-0c2f-5acf-a08e-1b18605e71dd.html"
+  },
+  {
+    "text": "\n                    Counties with the worst commutes in Georgia\n                ",
+    "url": "/multimedia/slideshows/counties-with-the-worst-commutes-in-georgia/collection_9510cf7b-0c2f-5acf-a08e-1b18605e71dd.html"
+  },
+  {
+    "text": "Sat, Jul 30 \n          @3:00pmAnime ClubTallulah Massey Albany, GA3.3 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/ANIME-CLUB/10583262/2022-07-30T15"
+  },
+  {
+    "text": "Mon, Aug 01 \n          @9:00amMonsters Among Us Summer CampChehaw Park Albany, GA3.2 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/MONSTERS-AMONG-US-SUMMER-CAMP/10134195/2022-08-01T09"
+  },
+  {
+    "text": "Mon, Aug 01 \n          @9:00amAlien Invaders Summer CampChehaw Park Albany, GA3.2 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/ALIEN-INVADERS-SUMMER-CAMP/10134196/2022-08-01T09"
+  },
+  {
+    "text": "Mon, Aug 01 \n          @9:00amBack to Nature Summer CampChehaw Park Albany, GA3.2 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/BACK-TO-NATURE-SUMMER-CAMP/10134192/2022-08-01T09"
+  },
+  {
+    "text": "Mon, Aug 01 \n          WCSD Pre-Planning (Teachers) Warwick, GA22.3 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/WCSD-PREPLANNING-TEACHERS/10642812/2022-08-01T00"
+  },
+  {
+    "text": "See All Events",
+    "url": "https://www.albanyherald.com/local-events/"
+  },
+  {
+    "text": "Add Your Event",
+    "url": "https://portal.cityspark.com/EventEntry/EventEntry/AlbanyHerald"
+  },
+  {
+    "text": "Sat, Jul 30 \n          @3:00pmAnime ClubTallulah Massey Albany, GA3.3 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/ANIME-CLUB/10583262/2022-07-30T15"
+  },
+  {
+    "text": "Sat, Jul 30 \n          @6:00pmAME Trashh Talk Comedy ShowRylander Theatre Americus, GA34.4 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/AME-TRASHH-TALK-COMEDY-SHOW/10419240/2022-07-30T18"
+  },
+  {
+    "text": "Sat, Jul 30 \n          @6:00amGeorgia Veterans TriathlonGeorgia Veterans State Park Cordele, GA35.7 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/GEORGIA-VETERANS-TRIATHLON/10518974/2022-07-30T06"
+  },
+  {
+    "text": "Sat, Jul 30 \n          @8:00am2022 TriathlonGeorgia Veterans State Park Cordele, GA35.7 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/2022-TRIATHLON/10642944/2022-07-30T08"
+  },
+  {
+    "text": "Sat, Jul 30 \n          @8:00pmCONJUNTO RIENDA REALEscape Night Club Moultrie, GA35.0 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/CONJUNTO-RIENDA-REAL/10573182/2022-07-30T20"
+  },
+  {
+    "text": "See All Events",
+    "url": "https://www.albanyherald.com/local-events/"
+  },
+  {
+    "text": "Add Your Event",
+    "url": "https://portal.cityspark.com/EventEntry/EventEntry/AlbanyHerald"
+  },
+  {
+    "text": "10AugWed, Aug 10 \n                        @7:00pmBrian ReganAlbany Municipal Auditorium Albany, GA0.1 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/BRIAN-REGAN/10405364/2022-08-10T19"
+  },
+  {
+    "text": "10AugWed, Aug 10 \n                        @7:00pmBrian ReganAlbany Municipal Auditorium Albany, GA0.1 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/BRIAN-REGAN/10405364/2022-08-10T19"
+  },
+  {
+    "text": "10AugWed, Aug 10 \n                        @7:00pmBrian ReganAlbany Municipal Auditorium Albany, GA0.1 mi",
+    "url": "https://www.albanyherald.com/local-events/#/details/BRIAN-REGAN/10405364/2022-08-10T19"
+  },
+  {
+    "text": "Promote with Us",
+    "url": "https://portal.cityspark.com/advertise/AlbanyHerald"
+  },
+  {
+    "text": "\u00bb  More Photos",
+    "url": "/multimedia/photo_galleries/"
+  },
+  {
+    "text": "\n                \n                More Photo Galleries\n                \n                    ",
+    "url": "/multimedia/photo_galleries"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+101\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/100-worst-dramas-of-all-time/collection_ce895559-319f-5eda-8271-f1f0ce3e5ff9.html"
+  },
+  {
+    "text": "\n        \n\n        \n            100 worst dramas of all time",
+    "url": "/multimedia/slideshows/100-worst-dramas-of-all-time/collection_ce895559-319f-5eda-8271-f1f0ce3e5ff9.html"
+  },
+  {
+    "text": "\n                    100 worst dramas of all time\n                ",
+    "url": "/multimedia/slideshows/100-worst-dramas-of-all-time/collection_ce895559-319f-5eda-8271-f1f0ce3e5ff9.html"
+  },
+  {
+    "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n        \n\n        \n            RECIPE ROUNDUP: Give these recipes a try for national hot dog month",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                    RECIPE ROUNDUP: Give these recipes a try for national hot dog month\n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+24\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/25-things-weve-learned-about-the-moon-since-1969/collection_69cfe1a7-c805-5666-beb9-0e7ceadef10f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            25 things we've learned about the moon since 1969",
+    "url": "/multimedia/slideshows/25-things-weve-learned-about-the-moon-since-1969/collection_69cfe1a7-c805-5666-beb9-0e7ceadef10f.html"
+  },
+  {
+    "text": "\n                    25 things we've learned about the moon since 1969\n                ",
+    "url": "/multimedia/slideshows/25-things-weve-learned-about-the-moon-since-1969/collection_69cfe1a7-c805-5666-beb9-0e7ceadef10f.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+40\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PHOTOS: Meet the Eagles athletic kickoff at Sherwood Christian",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n                    PHOTOS: Meet the Eagles athletic kickoff at Sherwood Christian\n                ",
+    "url": "/multimedia/slideshows/photos-meet-the-eagles-athletic-kickoff-at-sherwood-christian/collection_e243007c-0d57-11ed-a70f-3bd55bc88820.html"
+  },
+  {
+    "text": "\n                \n                \n                    Image gallery+10\n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/travel-tuesday-take-a-movie-tour-of-filming-locations-across-georgia/collection_a24f6519-ffb7-5a12-b429-52ac98f3590c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            TRAVEL TUESDAY: Take a movie tour of filming locations across Georgia",
+    "url": "/multimedia/slideshows/travel-tuesday-take-a-movie-tour-of-filming-locations-across-georgia/collection_a24f6519-ffb7-5a12-b429-52ac98f3590c.html"
+  },
+  {
+    "text": "\n                    TRAVEL TUESDAY: Take a movie tour of filming locations across Georgia\n                ",
+    "url": "/multimedia/slideshows/travel-tuesday-take-a-movie-tour-of-filming-locations-across-georgia/collection_a24f6519-ffb7-5a12-b429-52ac98f3590c.html"
+  },
+  {
+    "text": "\u00bb More Election 2022 coverage",
+    "url": "/election2022/"
+  },
+  {
+    "text": "\n                \n                Election 2022\n                \n                    ",
+    "url": "/election2022/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Poll finds Brian Kemp, Stacey Abrams statistically tied",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "Watch here",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/local/politics/hershel-walker-wins-national-law-enforcement-group-s-endorsement/article_5e6e24ca-90d6-5a3c-916d-3a3db26a4840.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Hershel Walker wins national law-enforcement group\u2019s endorsement",
+    "url": "/local/politics/hershel-walker-wins-national-law-enforcement-group-s-endorsement/article_5e6e24ca-90d6-5a3c-916d-3a3db26a4840.html"
+  },
+  {
+    "text": "Watch here",
+    "url": "/local/politics/hershel-walker-wins-national-law-enforcement-group-s-endorsement/article_5e6e24ca-90d6-5a3c-916d-3a3db26a4840.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Warnock puts pressure on Walker to agree to debate in Georgia Senate race",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "Watch here",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "",
+    "url": "https://www.justapinch.com/recipes/dessert/chocolate/cheesecake-dip-on-a-stick.html?utm_source=Southern+Community+Newspaper+%28TRX%29&utm_medium=curatorcrowd&utm_campaign=RTDX&utm_content=https%3A%2F%2Fwww.albanyherald.com%2F"
+  },
+  {
+    "text": "Cheesecake Dip on a Stick",
+    "url": "https://www.justapinch.com/recipes/dessert/chocolate/cheesecake-dip-on-a-stick.html?utm_source=Southern+Community+Newspaper+%28TRX%29&utm_medium=curatorcrowd&utm_campaign=RTDX&utm_content=https%3A%2F%2Fwww.albanyherald.com%2F"
+  },
+  {
+    "text": "\n                \n                The latest on the Coronavirus\n                \n                    ",
+    "url": "/coronavirus/"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+    "url": "/features/health/we-need-vaccines-and-we-need-them-yesterday-frustration-builds-in-lgbtq-community-over-government/article_d1c568f4-7290-5a4b-a660-a29a6e493bd0.html"
+  },
+  {
+    "text": "\n        \n\n        \n            'We need vaccines, and we need them yesterday': Frustration builds in LGBTQ community over government response to monkeypox",
+    "url": "/features/health/we-need-vaccines-and-we-need-them-yesterday-frustration-builds-in-lgbtq-community-over-government/article_d1c568f4-7290-5a4b-a660-a29a6e493bd0.html"
+  },
+  {
+    "text": "Read more",
+    "url": "/features/health/we-need-vaccines-and-we-need-them-yesterday-frustration-builds-in-lgbtq-community-over-government/article_d1c568f4-7290-5a4b-a660-a29a6e493bd0.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/health/updated-covid-19-booster-shots-could-be-available-in-september/article_2c487bd1-faa8-59d7-9d2a-6544570dd993.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Updated Covid-19 booster shots could be available in September",
+    "url": "/features/health/updated-covid-19-booster-shots-could-be-available-in-september/article_2c487bd1-faa8-59d7-9d2a-6544570dd993.html"
+  },
+  {
+    "text": "Read more",
+    "url": "/features/health/updated-covid-19-booster-shots-could-be-available-in-september/article_2c487bd1-faa8-59d7-9d2a-6544570dd993.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+    "url": "/news/biden-feeling-great-and-back-to-work-in-person-after-testing-negative-for-covid-19/article_4f07fbcf-5f5a-57ea-9bf6-b8da389cc1cd.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Biden 'feeling great' and back to work in person after testing negative for Covid-19",
+    "url": "/news/biden-feeling-great-and-back-to-work-in-person-after-testing-negative-for-covid-19/article_4f07fbcf-5f5a-57ea-9bf6-b8da389cc1cd.html"
+  },
+  {
+    "text": "Read more",
+    "url": "/news/biden-feeling-great-and-back-to-work-in-person-after-testing-negative-for-covid-19/article_4f07fbcf-5f5a-57ea-9bf6-b8da389cc1cd.html"
+  },
+  {
+    "text": "\u00bb  More coronavirus coverage",
+    "url": "/coronavirus/"
+  },
+  {
+    "text": "\n                \n                Sports\n                \n                    ",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/highly-anticipated-rematches-headline-ufc-277/article_6d6c56e1-30d5-5740-a472-df597227d2a9.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Highly anticipated rematches headline UFC 277",
+    "url": "/sports/highly-anticipated-rematches-headline-ufc-277/article_6d6c56e1-30d5-5740-a472-df597227d2a9.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Former Georgia Tech QB Joe Hamilton named color analyst for Yellow Jackets' broadcasts",
+    "url": "/sports/former-georgia-tech-qb-joe-hamilton-named-color-analyst-for-yellow-jackets-broadcasts/article_241636dc-a3d9-525d-a79c-2054fcafaab4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            NASCAR's return to Indianapolis Road Course promises to be another wild affair",
+    "url": "/sports/nascars-return-to-indianapolis-road-course-promises-to-be-another-wild-affair/article_52f853b5-85f3-5120-b839-b0bdecf2ea6b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Atlanta Falcons add longtime center Todd McClure to Ring of Honor",
+    "url": "/sports/atlanta-falcons-add-longtime-center-todd-mcclure-to-ring-of-honor/article_f29c4b87-99f4-564b-b976-db0f825e89e8.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Albany's Grant Raven signs with Shorter University basketball",
+    "url": "/sports/albanys-grant-raven-signs-with-shorter-university-basketball/article_12462bde-0e23-11ed-9b63-0b2cd872be57.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Excitement brewing with Sherwood Christian Academy athletics",
+    "url": "/sports/excitement-brewing-with-sherwood-christian-academy-athletics/article_f0b675c2-0d56-11ed-bda8-9f5558bd2b61.html"
+  },
+  {
+    "text": "\n        \n\n        \n            SMITH: Fenway Park visits never disappoint",
+    "url": "/sports/smith-fenway-park-visits-never-disappoint/article_7fe2876d-f8b4-57bf-bad9-ad023105d9c3.html"
+  },
+  {
+    "text": "\u00bb  Preps",
+    "url": "/sports/prep/"
+  },
+  {
+    "text": "\u00bb  ASU",
+    "url": "/sports/college/albany_state/"
+  },
+  {
+    "text": "\u00bb  SEC",
+    "url": "/sports/college/sec/"
+  },
+  {
+    "text": "\u00bb  ACC",
+    "url": "/sports/college/acc/"
+  },
+  {
+    "text": "\u00bb  More",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                \n                Albany Eats\n                \n                    ",
+    "url": "/features/food_recipes/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n        \n\n        \n            RECIPE ROUNDUP: Give these recipes a try for national hot dog month",
+    "url": "/multimedia/slideshows/recipe-roundup-give-these-recipes-a-try-for-national-hot-dog-month/collection_dd37f7f4-0aa4-50f9-a443-d504717210bf.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Slow-cooked salmon makes a perfect entr\u00e9e",
+    "url": "/features/food_recipes/slow-cooked-salmon-makes-a-perfect-entr-e/article_0f85600b-d72b-5f9e-b108-69a61122614a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            McDonald's menu items from abroad",
+    "url": "/multimedia/slideshows/mcdonalds-menu-items-from-abroad/collection_c9df653c-cee9-53e4-b941-02b589e4b66f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Explore the flavors and health benefits of Indian cuisine at home",
+    "url": "/features/food_recipes/explore-the-flavors-and-health-benefits-of-indian-cuisine-at-home/article_74137d0e-c7eb-5f3e-9063-a14a427218de.html"
+  },
+  {
+    "text": "\n        \n\n        \n            The Choco Taco is gone for good",
+    "url": "/news/business/the-choco-taco-is-gone-for-good/article_8654b926-8a83-5bfe-888a-144049c2a2df.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Flavorful family favorites for hectic school nights",
+    "url": "/features/food_recipes/flavorful-family-favorites-for-hectic-school-nights/article_05e90ef5-453b-5db8-a9e1-d2072f964ecf.html"
+  },
+  {
+    "text": "\n        \n\n        \n            \u2018The Bear\u2019: Learn How to Cook Season 1\u2019s Dishes (VIDEO)",
+    "url": "/features/food_recipes/the-bear-learn-how-to-cook-season-1-s-dishes-video/article_637bab62-7e6d-5f3c-ba6b-defc25ff7d84.html"
+  },
+  {
+    "text": "\u00bb  More Features",
+    "url": "/features/"
+  },
+  {
+    "text": "\u00bb  More Entertainment",
+    "url": "/entertainment/"
+  },
+  {
+    "text": "\n                \n                Nation and World\n                \n                    ",
+    "url": "/news/world_nation/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/four-dead-including-three-children-and-eight-children-injured-in-tractor-accident-in-pennsylvania/article_fba39d9f-cdb0-54fe-b63c-48086b2c5489.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Four dead, including three children, and eight children injured in tractor accident in Pennsylvania",
+    "url": "/news/four-dead-including-three-children-and-eight-children-injured-in-tractor-accident-in-pennsylvania/article_fba39d9f-cdb0-54fe-b63c-48086b2c5489.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Veteran burn pit bill stalled by Senate Republicans",
+    "url": "/news/veteran-burn-pit-bill-stalled-by-senate-republicans/article_16f4cbbc-0f7d-11ed-84fb-4397c0a755f8.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Former NFL player indicted for murder of his girlfriend, Harris County DA says",
+    "url": "/news/former-nfl-player-indicted-for-murder-of-his-girlfriend-harris-county-da-says/article_ec745309-5992-55c5-b7a8-2ff8ffca0e3d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Seattle Pacific University under investigation for anti-LGBTQ hiring policy, state AG confirms",
+    "url": "/news/seattle-pacific-university-under-investigation-for-anti-lgbtq-hiring-policy-state-ag-confirms/article_13de6db2-7de3-55df-94cf-251d469773a9.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Warnock puts pressure on Walker to agree to debate in Georgia Senate race",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\n        \n\n        \n            UK court rules in favor of Venezuelan opposition leader Juan Guaid\u00f3 in battle for country's gold",
+    "url": "/news/uk-court-rules-in-favor-of-venezuelan-opposition-leader-juan-guaid-in-battle-for-countrys/article_cb29f5d6-b017-5e8b-8a28-a77d9e196361.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Former acting DHS Secretary Chad Wolf has been interviewed by House January 6 committee",
+    "url": "/news/former-acting-dhs-secretary-chad-wolf-has-been-interviewed-by-house-january-6-committee/article_e8e715f4-7e51-5308-91d3-48d736a72a0b.html"
+  },
+  {
+    "text": "\u00bb  More Nation/World News",
+    "url": "/news/world_nation/"
+  },
+  {
+    "text": "\n                \n                Business\n                \n                    ",
+    "url": "/news/business/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/business/the-online-ad-market-is-in-decline-and-its-dragging-down-tech-giants-with-it/article_3d488297-d245-54b7-97ed-7eef54c4ab78.html"
+  },
+  {
+    "text": "\n        \n\n        \n            The online ad market is in decline and it's dragging down tech giants with it",
+    "url": "/news/business/the-online-ad-market-is-in-decline-and-its-dragging-down-tech-giants-with-it/article_3d488297-d245-54b7-97ed-7eef54c4ab78.html"
+  },
+  {
+    "text": "\n        \n\n        \n            $2,245.62 a second: ExxonMobil scores enormous profit on record gas prices",
+    "url": "/news/business/2-245-62-a-second-exxonmobil-scores-enormous-profit-on-record-gas-prices/article_88fad88f-1470-57aa-b7a5-3041ab0d75b9.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Apple's profit declines nearly 11%",
+    "url": "/news/business/apples-profit-declines-nearly-11/article_2d6140ab-48e3-59ce-951a-1e777f2b2756.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Amazon beats expectations to avoid tech earnings slump",
+    "url": "/news/business/amazon-beats-expectations-to-avoid-tech-earnings-slump/article_82595d70-7d69-5f87-87d1-0b0dc8858787.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Tesla, GM buyers would get EV tax credits again under Democrats' climate bill",
+    "url": "/news/business/tesla-gm-buyers-would-get-ev-tax-credits-again-under-democrats-climate-bill/article_91f3d624-832a-5d3b-ac8c-400999859cb8.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Why Apple can't quit China",
+    "url": "/news/business/why-apple-cant-quit-china/article_d998bda7-f5ce-5ac2-bcf7-1d0ad66299f6.html"
+  },
+  {
+    "text": "\u00bb  More Business",
+    "url": "/news/business/"
+  },
+  {
+    "text": "\n                \n                Deaths in the News\n                \n                    ",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sportsxchange/wayne-hawkins-original-member-of-raiders-dies-at-84/article_7cbc299c-8d7d-5b10-9468-d9ae69928c98.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Wayne Hawkins, original member of Raiders, dies at 84",
+    "url": "/sportsxchange/wayne-hawkins-original-member-of-raiders-dies-at-84/article_7cbc299c-8d7d-5b10-9468-d9ae69928c98.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Bernard Cribbins, 'Doctor Who' actor, dead at 93",
+    "url": "/entertainment/bernard-cribbins-doctor-who-actor-dead-at-93/article_b0d2d3a1-6698-5a41-88c3-acdde3210589.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Tony Dow, 'Leave It to Beaver' star, has died",
+    "url": "/entertainment/tony-dow-leave-it-to-beaver-star-has-died/article_417bd921-9670-59e7-a150-22daa5a33502.html"
+  },
+  {
+    "text": "\n        \n\n        \n            David Trimble, key architect of Good Friday Agreement, dies at 77",
+    "url": "/news/david-trimble-key-architect-of-good-friday-agreement-dies-at-77/article_e676e6e3-1c4f-5008-b3be-a6819930cba6.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Paul Sorvino, 'Goodfellas' and 'Law & Order' star, dead at 83",
+    "url": "/entertainment/paul-sorvino-goodfellas-and-law-order-star-dead-at-83/article_904f36e6-a759-58d8-9afe-f6d24950e9b7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            David Warner, who played villains in 'Titanic' and 'Tron,' dies at 80",
+    "url": "/entertainment/david-warner-who-played-villains-in-titanic-and-tron-dies-at-80/article_6a60e87b-6f1f-53a7-89c4-467fe893be9d.html"
+  },
+  {
+    "text": "\u00bb More Obituaries",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "\n                \n                Travel\n                \n                    ",
+    "url": "/features/travel/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Future or fantasy? Designs unveiled for one-building city stretching 106 miles in Saudi Arabia",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Future or fantasy? Designs unveiled for one-building city stretching 106 miles in Saudi Arabia",
+    "url": "/features/travel/future-or-fantasy-designs-unveiled-for-one-building-city-stretching-106-miles-in-saudi-arabia/article_307ae10a-6963-501a-b914-4d0befc8da8b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            TRAVEL TUESDAY: Take a movie tour of filming locations across Georgia",
+    "url": "/multimedia/slideshows/travel-tuesday-take-a-movie-tour-of-filming-locations-across-georgia/collection_a24f6519-ffb7-5a12-b429-52ac98f3590c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Iceland's best geothermal bathing pools",
+    "url": "/features/travel/icelands-best-geothermal-bathing-pools/article_2cee281a-d6ea-51f9-b30d-c5f650d36913.html"
+  },
+  {
+    "text": "\n        \n\n        \n            CDC adds 6 places to its 'high' risk category for travel, including 2 Central American countries",
+    "url": "/features/travel/cdc-adds-6-places-to-its-high-risk-category-for-travel-including-2-central-american/article_578204d1-d31b-578c-b910-da22f4956407.html"
+  },
+  {
+    "text": "\n        \n\n        \n            On Italy's steep Amalfi Coast, 'flying' lemon farmers jump among the treetops",
+    "url": "/features/travel/on-italys-steep-amalfi-coast-flying-lemon-farmers-jump-among-the-treetops/article_673c7705-0990-52f2-876f-6f6a95ddcf21.html"
+  },
+  {
+    "text": "\n        \n\n        \n            This airline is launching electronic bag tags to speed up airport check-in",
+    "url": "/news/business/this-airline-is-launching-electronic-bag-tags-to-speed-up-airport-check-in/article_a371553c-eea1-5db2-826c-184fc728cd57.html"
+  },
+  {
+    "text": "\u00bb  More Features",
+    "url": "/features/"
+  },
+  {
+    "text": "\u00bb  More Entertainment",
+    "url": "/entertainment/"
+  },
+  {
+    "text": "",
+    "url": "https://www.albanyherald.com/contests"
+  },
+  {
+    "text": "\n                \n                \n                    Link\n                \n                \n                \n                        \n                ",
+    "url": "http://albanyherald.secondstreetapp.com/Women-Of-The-Year-Awards-2022/"
+  },
+  {
+    "text": "\n        \n\n        \n            Women of the Year Awards 2022",
+    "url": "http://albanyherald.secondstreetapp.com/Women-Of-The-Year-Awards-2022/"
+  },
+  {
+    "text": "\u00bb  More Contests",
+    "url": "/contests/"
+  },
+  {
+    "text": "\n                \n                State\n                \n                    ",
+    "url": "/news/state/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Regulators approve more solar, gas energy for Georgia Power",
+    "url": "/news/regulators-approve-more-solar-gas-energy-for-georgia-power/article_5554225e-0f8c-11ed-89a9-4bb5071a5c2f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Safety concerns key priority as Georgia schools open for fall",
+    "url": "/local/safety-concerns-key-priority-as-georgia-schools-open-for-fall/article_76d38050-c7fb-5387-bab6-b71a6aabd38a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia teachers to receive \u2018back-to-school\u2019 supplements for supplies",
+    "url": "/local/georgia-teachers-to-receive-back-to-school-supplements-for-supplies/article_e42f2d39-34b9-5e72-ae3f-2c1bcbbbd7b3.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Poll finds Brian Kemp, Stacey Abrams statistically tied",
+    "url": "/local/politics/poll-finds-brian-kemp-stacey-abrams-statistically-tied/article_e1cacbde-813c-566c-8193-a8260aea3ea7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Hershel Walker wins national law-enforcement group\u2019s endorsement",
+    "url": "/local/politics/hershel-walker-wins-national-law-enforcement-group-s-endorsement/article_5e6e24ca-90d6-5a3c-916d-3a3db26a4840.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Georgia non-adjusted unemployment numbers increase as economy dips into possible recession",
+    "url": "/news/georgia-non-adjusted-unemployment-numbers-increase-as-economy-dips-into-possible-recession/article_832ed6f0-fe3b-529f-aab4-500b1888c0e4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Warnock puts pressure on Walker to agree to debate in Georgia Senate race",
+    "url": "/news/warnock-puts-pressure-on-walker-to-agree-to-debate-in-georgia-senate-race/article_044f6efd-60a2-5ba7-9abc-4bfd3f4dc892.html"
+  },
+  {
+    "text": "\u00bb  More State News",
+    "url": "/news/state/"
+  },
+  {
+    "text": "\n                \n                Health\n                \n                    ",
+    "url": "/features/health/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/health/we-need-vaccines-and-we-need-them-yesterday-frustration-builds-in-lgbtq-community-over-government/article_d1c568f4-7290-5a4b-a660-a29a6e493bd0.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/health/we-need-vaccines-and-we-need-them-yesterday-frustration-builds-in-lgbtq-community-over-government/article_d1c568f4-7290-5a4b-a660-a29a6e493bd0.html"
+  },
+  {
+    "text": "\n        \n\n        \n            'We need vaccines, and we need them yesterday': Frustration builds in LGBTQ community over government response to monkeypox",
+    "url": "/features/health/we-need-vaccines-and-we-need-them-yesterday-frustration-builds-in-lgbtq-community-over-government/article_d1c568f4-7290-5a4b-a660-a29a6e493bd0.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Updated Covid-19 booster shots could be available in September",
+    "url": "/features/health/updated-covid-19-booster-shots-could-be-available-in-september/article_2c487bd1-faa8-59d7-9d2a-6544570dd993.html"
+  },
+  {
+    "text": "\n        \n\n        \n            With no federal emergency declaration, San Francisco and New York sound alarm on monkeypox",
+    "url": "/features/health/with-no-federal-emergency-declaration-san-francisco-and-new-york-sound-alarm-on-monkeypox/article_e4572cba-c4de-5cfc-8d7a-be42b13a0471.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Doctors should test levels of PFAS in people at high risk, report says",
+    "url": "/features/health/doctors-should-test-levels-of-pfas-in-people-at-high-risk-report-says/article_669f57c6-35dc-5b7e-96fb-da65f9d0ba2e.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Testing is crucial to getting monkeypox under control, but there's a 'shocking' lack of demand",
+    "url": "/features/health/testing-is-crucial-to-getting-monkeypox-under-control-but-theres-a-shocking-lack-of-demand/article_382d6078-a880-5700-9547-e15f99ea31d7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Bacteria that causes rare, serious illness melioidosis is endemic in parts of Mississippi Gulf Coast, CDC says",
+    "url": "/features/health/bacteria-that-causes-rare-serious-illness-melioidosis-is-endemic-in-parts-of-mississippi-gulf-coast/article_1d84ae54-5001-5192-b25d-3b46c413a287.html"
+  },
+  {
+    "text": "\u00bb  More Health",
+    "url": "/features/health/"
+  },
+  {
+    "text": "\n        \n\n        \n            POLL: July is National Hot Dog month. What is your favorite hot dog topping?",
+    "url": "/features/food_recipes/poll-july-is-national-hot-dog-month-what-is-your-favorite-hot-dog-topping/poll_00e4c248-8164-5c68-a0fa-ba482f9e698e.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/features/food_recipes/poll-july-is-national-hot-dog-month-what-is-your-favorite-hot-dog-topping/poll_00e4c248-8164-5c68-a0fa-ba482f9e698e.html"
+  },
+  {
+    "text": "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+    "url": "#"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://widgets.mgid.com/?utm_source=www.albanyherald.com&utm_medium=referral&utm_campaign=widgets&utm_content=1176846"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.mgid.com/services/privacy-policy"
+  },
+  {
+    "text": "",
+    "url": "https://clck.mgid.com/ghits/3931461/i/57510090/0/pp/1/1?h=HcAzAvMGXKXHqurMh4Drdfp4kAdpYZqAarDg4Fem7QCHgLHex2gzfo26zbzAbrxmSPACynibRuzfdPDlNQl7FQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3931461/i/57510090/0/pp/1/1?h=HcAzAvMGXKXHqurMh4Drdfp4kAdpYZqAarDg4Fem7QCHgLHex2gzfo26zbzAbrxmSPACynibRuzfdPDlNQl7FQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "These Popular Hollywood Stars Got Their Start On Soap Operas",
+    "url": "https://clck.mgid.com/ghits/3931461/i/57510090/0/pp/1/1?h=HcAzAvMGXKXHqurMh4Drdfp4kAdpYZqAarDg4Fem7QCHgLHex2gzfo26zbzAbrxmSPACynibRuzfdPDlNQl7FQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3931461/i/57510090/0/pp/1/1?h=HcAzAvMGXKXHqurMh4Drdfp4kAdpYZqAarDg4Fem7QCHgLHex2gzfo26zbzAbrxmSPACynibRuzfdPDlNQl7FQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3931461/i/57510090/0/pp/1/1?h=HcAzAvMGXKXHqurMh4Drdfp4kAdpYZqAarDg4Fem7QCHgLHex2gzfo26zbzAbrxmSPACynibRuzfdPDlNQl7FQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "",
+    "url": "https://clck.mgid.com/ghits/3839411/i/57510090/0/pp/2/1?h=HcAzAvMGXKXHqurMh4DrdcCoYxEc3YfwjsLgCBJkfDiaUVTI26cnNAWTlG4FmfUUcOAz0srk7GIqrtZjJ1cVyA**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3839411/i/57510090/0/pp/2/1?h=HcAzAvMGXKXHqurMh4DrdcCoYxEc3YfwjsLgCBJkfDiaUVTI26cnNAWTlG4FmfUUcOAz0srk7GIqrtZjJ1cVyA**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "A Soviet Shot Put Thrower's Record Hasn't Been Beaten To This Day",
+    "url": "https://clck.mgid.com/ghits/3839411/i/57510090/0/pp/2/1?h=HcAzAvMGXKXHqurMh4DrdcCoYxEc3YfwjsLgCBJkfDiaUVTI26cnNAWTlG4FmfUUcOAz0srk7GIqrtZjJ1cVyA**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3839411/i/57510090/0/pp/2/1?h=HcAzAvMGXKXHqurMh4DrdcCoYxEc3YfwjsLgCBJkfDiaUVTI26cnNAWTlG4FmfUUcOAz0srk7GIqrtZjJ1cVyA**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3839411/i/57510090/0/pp/2/1?h=HcAzAvMGXKXHqurMh4DrdcCoYxEc3YfwjsLgCBJkfDiaUVTI26cnNAWTlG4FmfUUcOAz0srk7GIqrtZjJ1cVyA**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "",
+    "url": "https://clck.mgid.com/ghits/13404785/i/57510090/0/pp/3/1?h=HcAzAvMGXKXHqurMh4DrdUsTcQzNXgYIiCdjYduxLYdtlkJLyFACUPSP0wBZ5doAJwRbPU9PR2wSrdDyzWl7-g**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Herbeauty",
+    "url": "https://clck.mgid.com/ghits/13404785/i/57510090/0/pp/3/1?h=HcAzAvMGXKXHqurMh4DrdUsTcQzNXgYIiCdjYduxLYdtlkJLyFACUPSP0wBZ5doAJwRbPU9PR2wSrdDyzWl7-g**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Destiny\u2019s Body Does Give Her Leading Lady Energy!",
+    "url": "https://clck.mgid.com/ghits/13404785/i/57510090/0/pp/3/1?h=HcAzAvMGXKXHqurMh4DrdUsTcQzNXgYIiCdjYduxLYdtlkJLyFACUPSP0wBZ5doAJwRbPU9PR2wSrdDyzWl7-g**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Herbeauty",
+    "url": "https://clck.mgid.com/ghits/13404785/i/57510090/0/pp/3/1?h=HcAzAvMGXKXHqurMh4DrdUsTcQzNXgYIiCdjYduxLYdtlkJLyFACUPSP0wBZ5doAJwRbPU9PR2wSrdDyzWl7-g**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Herbeauty",
+    "url": "https://clck.mgid.com/ghits/13404785/i/57510090/0/pp/3/1?h=HcAzAvMGXKXHqurMh4DrdUsTcQzNXgYIiCdjYduxLYdtlkJLyFACUPSP0wBZ5doAJwRbPU9PR2wSrdDyzWl7-g**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "",
+    "url": "https://clck.mgid.com/ghits/3862555/i/57510090/0/pp/4/1?h=HcAzAvMGXKXHqurMh4DrdWQp3i2Z_odvzGhi_IS66EwAdPt70EWXANlpzaKR880-7FAic-ONiakeRO47h0YpqQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3862555/i/57510090/0/pp/4/1?h=HcAzAvMGXKXHqurMh4DrdWQp3i2Z_odvzGhi_IS66EwAdPt70EWXANlpzaKR880-7FAic-ONiakeRO47h0YpqQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "10 Incredibly Looking Albino Animals",
+    "url": "https://clck.mgid.com/ghits/3862555/i/57510090/0/pp/4/1?h=HcAzAvMGXKXHqurMh4DrdWQp3i2Z_odvzGhi_IS66EwAdPt70EWXANlpzaKR880-7FAic-ONiakeRO47h0YpqQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3862555/i/57510090/0/pp/4/1?h=HcAzAvMGXKXHqurMh4DrdWQp3i2Z_odvzGhi_IS66EwAdPt70EWXANlpzaKR880-7FAic-ONiakeRO47h0YpqQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/3862555/i/57510090/0/pp/4/1?h=HcAzAvMGXKXHqurMh4DrdWQp3i2Z_odvzGhi_IS66EwAdPt70EWXANlpzaKR880-7FAic-ONiakeRO47h0YpqQ**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "",
+    "url": "https://clck.mgid.com/ghits/4001395/i/57510090/0/pp/6/1?h=HcAzAvMGXKXHqurMh4DrdbDGoKgbEUahBehiemtIa_8gW2QwHYulzoSmRkX-B-jFVLZO6IkqTtyBYp38yO8F4w**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/4001395/i/57510090/0/pp/6/1?h=HcAzAvMGXKXHqurMh4DrdbDGoKgbEUahBehiemtIa_8gW2QwHYulzoSmRkX-B-jFVLZO6IkqTtyBYp38yO8F4w**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Top 10 Enemies Turned Friends In TV",
+    "url": "https://clck.mgid.com/ghits/4001395/i/57510090/0/pp/6/1?h=HcAzAvMGXKXHqurMh4DrdbDGoKgbEUahBehiemtIa_8gW2QwHYulzoSmRkX-B-jFVLZO6IkqTtyBYp38yO8F4w**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/4001395/i/57510090/0/pp/6/1?h=HcAzAvMGXKXHqurMh4DrdbDGoKgbEUahBehiemtIa_8gW2QwHYulzoSmRkX-B-jFVLZO6IkqTtyBYp38yO8F4w**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Brainberries",
+    "url": "https://clck.mgid.com/ghits/4001395/i/57510090/0/pp/6/1?h=HcAzAvMGXKXHqurMh4DrdbDGoKgbEUahBehiemtIa_8gW2QwHYulzoSmRkX-B-jFVLZO6IkqTtyBYp38yO8F4w**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "",
+    "url": "https://clck.mgid.com/ghits/8164893/i/57510090/0/pp/7/1?h=HcAzAvMGXKXHqurMh4DrdWPNNhArpYDI60vgkN1R7FqnqAai-HFakz0Ix4b8rkFskS3o_CK4I_fBoWLI5WxeYw**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Herbeauty",
+    "url": "https://clck.mgid.com/ghits/8164893/i/57510090/0/pp/7/1?h=HcAzAvMGXKXHqurMh4DrdWPNNhArpYDI60vgkN1R7FqnqAai-HFakz0Ix4b8rkFskS3o_CK4I_fBoWLI5WxeYw**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "15 Beauty Secrets Only Indian Women Know",
+    "url": "https://clck.mgid.com/ghits/8164893/i/57510090/0/pp/7/1?h=HcAzAvMGXKXHqurMh4DrdWPNNhArpYDI60vgkN1R7FqnqAai-HFakz0Ix4b8rkFskS3o_CK4I_fBoWLI5WxeYw**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Herbeauty",
+    "url": "https://clck.mgid.com/ghits/8164893/i/57510090/0/pp/7/1?h=HcAzAvMGXKXHqurMh4DrdWPNNhArpYDI60vgkN1R7FqnqAai-HFakz0Ix4b8rkFskS3o_CK4I_fBoWLI5WxeYw**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "Herbeauty",
+    "url": "https://clck.mgid.com/ghits/8164893/i/57510090/0/pp/7/1?h=HcAzAvMGXKXHqurMh4DrdWPNNhArpYDI60vgkN1R7FqnqAai-HFakz0Ix4b8rkFskS3o_CK4I_fBoWLI5WxeYw**&rid=c91b7839-0ff2-11ed-a85c-78ac440ce852&tt=Direct&att=3&afrd=8&iv=11&prid=10&ct=1&gdpr=0&muid=m6uy94F4eCv3&st=-240"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sportsxchange/austin-riley-homer-two-doubles-powers-braves-over-d-backs/article_4ad78f6e-a70d-544d-bc4d-d3e04dedd45a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Austin Riley (homer, two doubles) powers Braves over D-backs",
+    "url": "/sportsxchange/austin-riley-homer-two-doubles-powers-braves-over-d-backs/article_4ad78f6e-a70d-544d-bc4d-d3e04dedd45a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sportsxchange/five-star-rb-richard-young-commits-to-alabama/article_6b7fccf3-b415-51bc-bec0-1edaeac5d5f4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Five-star RB Richard Young commits to Alabama",
+    "url": "/sportsxchange/five-star-rb-richard-young-commits-to-alabama/article_6b7fccf3-b415-51bc-bec0-1edaeac5d5f4.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sportsxchange/henrik-stenson-shares-lead-in-liv-debut/article_e5e279e7-e55c-5e81-92b0-35fcba66e76e.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Henrik Stenson shares lead in LIV debut",
+    "url": "/sportsxchange/henrik-stenson-shares-lead-in-liv-debut/article_e5e279e7-e55c-5e81-92b0-35fcba66e76e.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sportsxchange/reports-padres-all-star-joe-musgrove-agree-to-5-year-extension/article_8166fd24-e9a6-5051-a141-7cbb4b43d938.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Reports: Padres, All-Star Joe Musgrove agree to 5-year extension",
+    "url": "/sportsxchange/reports-padres-all-star-joe-musgrove-agree-to-5-year-extension/article_8166fd24-e9a6-5051-a141-7cbb4b43d938.html"
+  },
+  {
+    "text": "\n                \n                \n                    \n                \n                \n                \n                ",
+    "url": "{{url}}"
+  },
+  {
+    "text": "\n        \n\n        \n            {{title}}",
+    "url": "{{url}}"
+  },
+  {
+    "text": "\n                \n                Trending Recipes\n                \n                    ",
+    "url": "/features/food_recipes/"
+  },
+  {
+    "text": "",
+    "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10238&p=/recipes/main-course/chicken/old-fashioned-home-made-chicken-dumplings.html&s=10000&do=www.albanyherald.com"
+  },
+  {
+    "text": "Old Fashioned Homemade Chicken & Dumplings",
+    "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10238&p=/recipes/main-course/chicken/old-fashioned-home-made-chicken-dumplings.html&s=10000&do=www.albanyherald.com"
+  },
+  {
+    "text": "",
+    "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10238&p=/recipes/dessert/cake/chocolate-dream-cake.html&s=10000&do=www.albanyherald.com"
+  },
+  {
+    "text": "BONNIE'S BLUE RIBBON CHOCOLATE DREAM CAKE",
+    "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10238&p=/recipes/dessert/cake/chocolate-dream-cake.html&s=10000&do=www.albanyherald.com"
+  },
+  {
+    "text": "",
+    "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10238&p=/recipes/dessert/cookies/melt-in-your-mouth-toffee-pecan-cookies-3.html&s=10000&do=www.albanyherald.com"
+  },
+  {
+    "text": "\"Melt in your Mouth\" Toffee Pecan Cookies",
+    "url": "//japfg-trending-content.appspot.com/click-dug.php?a=%2F&f=10238&p=/recipes/dessert/cookies/melt-in-your-mouth-toffee-pecan-cookies-3.html&s=10000&do=www.albanyherald.com"
+  },
+  {
+    "text": "Recent Obituaries",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary-browse.aspx?date=pastweek&type=7&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=RecentObituaries&utm_campaign=Widget"
+  },
+  {
+    "text": "View All\u00a0(3)",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary-browse.aspx?date=pastweek&type=7?utm_source=RecentObituaries&utm_medium=ViewMore&utm_term=[object Object]&utm_campaign=Widget"
+  },
+  {
+    "text": "",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary.aspx?n=ila-joines-bass&pid=202476785&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=Image&utm_campaign=Widget"
+  },
+  {
+    "text": "\n                    Ila Joines\n                ",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary.aspx?n=ila-joines-bass&pid=202476785&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=Name&utm_campaign=Widget"
+  },
+  {
+    "text": "Sign Guest Book",
+    "url": "https://www.legacy.com/guestbooks/albanyherald/ila-joines-bass-condolences/202476785?utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=SignGuestBook&utm_campaign=Widget"
+  },
+  {
+    "text": "",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary.aspx?n=willie-lee-johnson&pid=202470168&fhid=32271&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=Image&utm_campaign=Widget"
+  },
+  {
+    "text": "\n                    Willie Johnson\n                ",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary.aspx?n=willie-lee-johnson&pid=202470168&fhid=32271&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=Name&utm_campaign=Widget"
+  },
+  {
+    "text": "Sign Guest Book",
+    "url": "https://www.legacy.com/guestbooks/albanyherald/willie-lee-johnson-condolences/202470168?utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=SignGuestBook&utm_campaign=Widget"
+  },
+  {
+    "text": "\n                    Colleen Chappell\n                ",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary.aspx?n=colleen-hughes-craver-chappell&pid=202476786&fhid=5565&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=Name&utm_campaign=Widget"
+  },
+  {
+    "text": "Sign Guest Book",
+    "url": "https://www.legacy.com/guestbooks/albanyherald/colleen-hughes-craver-chappell-condolences/202476786?utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=SignGuestBook&utm_campaign=Widget"
+  },
+  {
+    "text": "View All Obituaries",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary-browse.aspx?date=pastweek&type=7&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=ViewMore&utm_campaign=Widget"
+  },
+  {
+    "text": "View All Obituaries",
+    "url": "https://www.legacy.com/obituaries/albanyherald/obituary-browse.aspx?date=pastweek&type=7&utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=ViewMore&utm_campaign=Widget"
+  },
+  {
+    "text": "\n                \n                Latest Albany Herald classified ads\n                \n                    ",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "\n        \n\n        \n            YARD SALE",
+    "url": "/classifieds/sale/sale/garage/yard-sale/ad_b24d5d5a-9534-5617-bc63-9e02cfaeb1e0.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Yard sale Saturday July 30th 9am to 1pm, 3528 Sylvester",
+    "url": "/classifieds/sale/sale/garage/yard-sale-saturday-july-30th-9am-to-1pm-3528-sylvester/ad_7e5ad1af-fdc5-5c5d-a75b-733aca902560.html"
+  },
+  {
+    "text": "\n        \n\n        \n            TRAMPOLINE for sale. In good condition, $80. Call 229-869-1182",
+    "url": "/classifieds/sale/free/trampoline-for-sale-in-good-condition-80-call-229-869-1182/ad_51f2f26e-db90-5d14-bdbe-ae496ac72c66.html"
+  },
+  {
+    "text": "\u00bb  More classified ads",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "\n                \n                Join the Conversation\n                \n                    ",
+    "url": "/comments/"
+  },
+  {
+    "text": "\n                                greybeige\n                            ",
+    "url": "https://www.albanyherald.com/users/profile/greybeige"
+  },
+  {
+    "text": "\n                                    View more\n                                ",
+    "url": "/features/squawkbox/article_925780cc-009d-11ed-b2df-ebac16b6b2e9.html"
+  },
+  {
+    "text": "\n                                greybeige\n                            ",
+    "url": "https://www.albanyherald.com/users/profile/greybeige"
+  },
+  {
+    "text": "\n                                    View more\n                                ",
+    "url": "/news/felon-with-violent-criminal-history-pleads-guilty-to-gun-charges/article_509d7420-0070-11ed-8626-8b823b8cb943.html"
+  },
+  {
+    "text": "\n                                greybeige\n                            ",
+    "url": "https://www.albanyherald.com/users/profile/greybeige"
+  },
+  {
+    "text": "\n                                    View more\n                                ",
+    "url": "/news/stacey-abrams-plan-calls-for-rebates-to-georgians/article_49bc41da-005d-11ed-89db-3fcfe454fdae.html"
+  },
+  {
+    "text": ">> More recent comments",
+    "url": "/comments/"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=uGj%2BVdMmDcImIC%2BudctCELcfD1y4KHjAV4z09w%2BrgNrKTMAIykpBrgQ58thad1le1kOhjQu7I0TGBarv0274zb1eRc40vumjkA%2ByAoLi5YaFdIJvIBqLNikDOGTHRFOYKiP48xFgXWE5Xs5A3%2Fgf7rJollT5ZMmq7LghVQlJ1qCpfpgUC2Kf4Xr9A22Ai0YI0kHClBaE1WEheASMTZqPE%2B9wIJkcKVOT5qIytMWP8kREpopW91mgqnglQDbr5Lb8psyWEJbhNT7zzn70rxAnNTAKx252mpKOXhJKnq6AKg5DXyrCSnh8wd9Vd2g%2FEyEPkaU1txT4941MxY5kifobETf%2BMyjXb%2B3z4Vwu59DV9yQA1abqFGgArO6Py7Y93fogPOsGzHpYjD0Uj9l24PrlxriFXc8ve7PipYezbrbVUHrHS%2BpfdzRhu7aPe39bR5BqXgRNaKH9VOOLxaZM7%2Bg0aKUGu2he6uRdMiPTERMRmqhPB7bGNf%2FNxsrgC7ba5w2x5l3YeWLyEfEN2LfCxsz3DMSriZ8SGmICF%2BxTDUqwVQL%2BibtOsGiGFqdIXK2XQ5FRDCpg4xW09FKTx9vlIeP7eGbnansmvBuwQHFpcoBhtam5Wt9ikk%2FamA4bajwdBOpViJxOmKKJoduEhBuHXfX7ZVD9TAKjnuSNvWqgtz2W3W4NedsUr5xfhbM7mfkO46UuNbE%2F6ZihSGQnMZuzqBD4%2BUW57IdCk6p1rILd4hy6igaAQ9pd0RRazTi2QJx6pDi8FHrXQv5WHCD4wJdyaF7Z6IAmf7ngIvl6V%2BPoyup5dSErEpvRDnzf2Eo%2B0SM%2BTdklFwqqRZCvDv6nAH7NsHZhKWmYs%2FbPMlRT3o8lcS9HM%2B6pnYixKKMSZngQ2cQQPBwdKPIyqnjE0KUQ2E7mLXSTLuSIo%2FZuoq9zWwgbBEawLyKcULYTqUJKjAF6vsMaxUBR6D7w85pLaqRAW0Ah%2BdqNNrAIkPMZILqbGk2Re%2BBLmgGAwGWMEhCIzJzlVtE29GsbC%2BbyTsglkmGQXWy%2FHJO%2FZM0NoIorTxEVcljbSozjj1VaNVNzTuusjYa5xsrGjO5HLIhwwS5BuzJ3nWZYAYAWi4GrRbtZ2u5M4sPbzqTCVMDN%2BbIsw%2BsoJ6v7EzZrM21W2uNhTjB5qLKyE%2Bf7njyy4S%2FIIpqoq7%2BegqvwNTSaTkMssUkhMPOzUFW35eZbFxCPoxKYChWA1XzVtif7cmaY8miV8jxu2wEPDQMtdst5Cm50pI2FCqwUsbeXeIowNDMhoJ9PK9ywL6C51q8GffKL0sjoN1myC%2BbZvn9aIgZwYOLT42n%2BaX9sZWOW1fLuwkd45g7TuycxKjXHJ%2FPg12BGx%2BIkNiFINvwo%2BzUcNQHOPSOKVuzclWAoisbM9shovdnLisNiIC7MO4hLPUpboV4YkLcPxxDflrTTLJvHMMIPT3dLo0OxGFbQyyapU3Zo%2FFKs&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=uGj%2BVdMmDcImIC%2BudctCELcfD1y4KHjAV4z09w%2BrgNrKTMAIykpBrgQ58thad1le1kOhjQu7I0TGBarv0274zb1eRc40vumjkA%2ByAoLi5YaFdIJvIBqLNikDOGTHRFOYKiP48xFgXWE5Xs5A3%2Fgf7rJollT5ZMmq7LghVQlJ1qCpfpgUC2Kf4Xr9A22Ai0YI0kHClBaE1WEheASMTZqPE%2B9wIJkcKVOT5qIytMWP8kREpopW91mgqnglQDbr5Lb8psyWEJbhNT7zzn70rxAnNTAKx252mpKOXhJKnq6AKg5DXyrCSnh8wd9Vd2g%2FEyEPkaU1txT4941MxY5kifobETf%2BMyjXb%2B3z4Vwu59DV9yQA1abqFGgArO6Py7Y93fogPOsGzHpYjD0Uj9l24PrlxriFXc8ve7PipYezbrbVUHrHS%2BpfdzRhu7aPe39bR5BqXgRNaKH9VOOLxaZM7%2Bg0aKUGu2he6uRdMiPTERMRmqhPB7bGNf%2FNxsrgC7ba5w2x5l3YeWLyEfEN2LfCxsz3DMSriZ8SGmICF%2BxTDUqwVQL%2BibtOsGiGFqdIXK2XQ5FRDCpg4xW09FKTx9vlIeP7eGbnansmvBuwQHFpcoBhtam5Wt9ikk%2FamA4bajwdBOpViJxOmKKJoduEhBuHXfX7ZVD9TAKjnuSNvWqgtz2W3W4NedsUr5xfhbM7mfkO46UuNbE%2F6ZihSGQnMZuzqBD4%2BUW57IdCk6p1rILd4hy6igaAQ9pd0RRazTi2QJx6pDi8FHrXQv5WHCD4wJdyaF7Z6IAmf7ngIvl6V%2BPoyup5dSErEpvRDnzf2Eo%2B0SM%2BTdklFwqqRZCvDv6nAH7NsHZhKWmYs%2FbPMlRT3o8lcS9HM%2B6pnYixKKMSZngQ2cQQPBwdKPIyqnjE0KUQ2E7mLXSTLuSIo%2FZuoq9zWwgbBEawLyKcULYTqUJKjAF6vsMaxUBR6D7w85pLaqRAW0Ah%2BdqNNrAIkPMZILqbGk2Re%2BBLmgGAwGWMEhCIzJzlVtE29GsbC%2BbyTsglkmGQXWy%2FHJO%2FZM0NoIorTxEVcljbSozjj1VaNVNzTuusjYa5xsrGjO5HLIhwwS5BuzJ3nWZYAYAWi4GrRbtZ2u5M4sPbzqTCVMDN%2BbIsw%2BsoJ6v7EzZrM21W2uNhTjB5qLKyE%2Bf7njyy4S%2FIIpqoq7%2BegqvwNTSaTkMssUkhMPOzUFW35eZbFxCPoxKYChWA1XzVtif7cmaY8miV8jxu2wEPDQMtdst5Cm50pI2FCqwUsbeXeIowNDMhoJ9PK9ywL6C51q8GffKL0sjoN1myC%2BbZvn9aIgZwYOLT42n%2BaX9sZWOW1fLuwkd45g7TuycxKjXHJ%2FPg12BGx%2BIkNiFINvwo%2BzUcNQHOPSOKVuzclWAoisbM9shovdnLisNiIC7MO4hLPUpboV4YkLcPxxDflrTTLJvHMMIPT3dLo0OxGFbQyyapU3Zo%2FFKs&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=QAaqjjiWTycJcChDeu1ogbYmPxsWsvWPnOY40%2BYXxz%2FIWQlDImu2otd8uP4g3G3el4zZl96HK5z%2FWJhqAftpIF8jE7BZOZxzvNljtH86yDllxe3Wgk2TALvp4gFql89fB8JKogj4tVjN8haOkc3ynF8bUseBsCARCOs%2Biza8Lyw12nq%2F6K5BGUtackSG8rZpIkGBvEaA3G1PRz1Is4G5rK6gejBe803EQ2NPNXXwpDeaCCNDBb7PQfifpEg0S0JIQAh3xKnblS4F5j47N4KivrMC3%2F0nQNxVNno46qbOdahmeL4%2BvFRlt%2FuJ%2BJMw1VkBtohwcxGRtGHWfNNujeip%2FmsdruO3hKxfhQ09TBYPiCc72%2FXrenw6rTxm%2FRxl%2B03Di9bsUTikJEw1vPJ%2F8b06ag1CWKcUGVKkt%2BbS00%2Ffs3EZlNv8yvu%2FSBKNAD5FAhOgMKOs6eO7D15UUXrsUg37orqM8pCJzHz%2FnfEa%2BNX2LwgMeWO6CxBUtiji0i47EpOl0a4jM4XdTcMLLbv65VJUea8y9jfn5j3aQuH9r%2Bx%2FDdyIP%2FsDW4rStNVFfABqgWEwOzxnj1JEWB5sA9ok1aEQKHfn7fT8IMCbjRMsUGYeOe5i9Qkao8VIOhNDzInaTBgYkodw4%2FBSHQBKSRKMp1HzeMsKllrqbtJUM%2BDl%2BFKKW%2B1Xxyf2M2pdUlgdi6xaLp2Sp%2BB2qjvUA3S87s8nXTY41FvPiG%2Bpwwm56D62Nov3UWB6dbzcWvLbKVmHcSRoFk6NPHMw%2ByFJnHye8eHi6hhV5T%2FpWjJ%2FWpVEbwT%2Fb9mTDuly5wfSrdwNJjaxw08eSSteNLKV6Xx4tZZpXIhuMpCzZlowdvabodTVMg7%2FpBVv9a0vXBklU%2Bz1WvfKQdrvYJMdz6T0qpx1DoOo1987ht3jhhcP6RLHPJLQMoDL4djup4xf7Fjv3rQw0Doz3YojstzMnFHdyhqKc9CGWHpMnq1pzk4chpmpsfLn3Vyip7GAtdi9a3gl1bYR6QlOlJdEhDcVBh97oImLli8tLVQ4%2BLLvUTFD3AHChQHSYzTn%2FzCYsCUpRiWAlvpHPs7Dq%2BXOzGXM4lO14crvufHKo1QNoCNlU%2FePyZ690bA5mcr72TMvwMgBav482tBA%2BHzCv%2BsDP5SDF0Enw1tUo98Tbd9CIcrOjRKtqP%2FJj%2FTnuqrG4dluAwf5DZ%2BDuDhrhWIispVvOS014PQ9ajQnGGlnFjrxshzuiDiZO9UOQMTTAaQWogLtfHHHJtwdlIVk0fejjIe57ttMI4cxp6%2Fsrj%2FtmscUQcD50ylvwe5lpo8xqHrfF0EeO3iUG7e3ytKMzIaklrQRZ3xdGsfmNwaM9%2BIjmxmEgkygdyhQElUmqnvdcMohLFHnCdosKaNZp2D3uDGubepEnag7KzQu77M2RUSqVQermgGmhQrmzGoOmJ9wJVt386KL2lxMXBuk6z%2BDbH1I%2BrsANs2g&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=QAaqjjiWTycJcChDeu1ogbYmPxsWsvWPnOY40%2BYXxz%2FIWQlDImu2otd8uP4g3G3el4zZl96HK5z%2FWJhqAftpIF8jE7BZOZxzvNljtH86yDllxe3Wgk2TALvp4gFql89fB8JKogj4tVjN8haOkc3ynF8bUseBsCARCOs%2Biza8Lyw12nq%2F6K5BGUtackSG8rZpIkGBvEaA3G1PRz1Is4G5rK6gejBe803EQ2NPNXXwpDeaCCNDBb7PQfifpEg0S0JIQAh3xKnblS4F5j47N4KivrMC3%2F0nQNxVNno46qbOdahmeL4%2BvFRlt%2FuJ%2BJMw1VkBtohwcxGRtGHWfNNujeip%2FmsdruO3hKxfhQ09TBYPiCc72%2FXrenw6rTxm%2FRxl%2B03Di9bsUTikJEw1vPJ%2F8b06ag1CWKcUGVKkt%2BbS00%2Ffs3EZlNv8yvu%2FSBKNAD5FAhOgMKOs6eO7D15UUXrsUg37orqM8pCJzHz%2FnfEa%2BNX2LwgMeWO6CxBUtiji0i47EpOl0a4jM4XdTcMLLbv65VJUea8y9jfn5j3aQuH9r%2Bx%2FDdyIP%2FsDW4rStNVFfABqgWEwOzxnj1JEWB5sA9ok1aEQKHfn7fT8IMCbjRMsUGYeOe5i9Qkao8VIOhNDzInaTBgYkodw4%2FBSHQBKSRKMp1HzeMsKllrqbtJUM%2BDl%2BFKKW%2B1Xxyf2M2pdUlgdi6xaLp2Sp%2BB2qjvUA3S87s8nXTY41FvPiG%2Bpwwm56D62Nov3UWB6dbzcWvLbKVmHcSRoFk6NPHMw%2ByFJnHye8eHi6hhV5T%2FpWjJ%2FWpVEbwT%2Fb9mTDuly5wfSrdwNJjaxw08eSSteNLKV6Xx4tZZpXIhuMpCzZlowdvabodTVMg7%2FpBVv9a0vXBklU%2Bz1WvfKQdrvYJMdz6T0qpx1DoOo1987ht3jhhcP6RLHPJLQMoDL4djup4xf7Fjv3rQw0Doz3YojstzMnFHdyhqKc9CGWHpMnq1pzk4chpmpsfLn3Vyip7GAtdi9a3gl1bYR6QlOlJdEhDcVBh97oImLli8tLVQ4%2BLLvUTFD3AHChQHSYzTn%2FzCYsCUpRiWAlvpHPs7Dq%2BXOzGXM4lO14crvufHKo1QNoCNlU%2FePyZ690bA5mcr72TMvwMgBav482tBA%2BHzCv%2BsDP5SDF0Enw1tUo98Tbd9CIcrOjRKtqP%2FJj%2FTnuqrG4dluAwf5DZ%2BDuDhrhWIispVvOS014PQ9ajQnGGlnFjrxshzuiDiZO9UOQMTTAaQWogLtfHHHJtwdlIVk0fejjIe57ttMI4cxp6%2Fsrj%2FtmscUQcD50ylvwe5lpo8xqHrfF0EeO3iUG7e3ytKMzIaklrQRZ3xdGsfmNwaM9%2BIjmxmEgkygdyhQElUmqnvdcMohLFHnCdosKaNZp2D3uDGubepEnag7KzQu77M2RUSqVQermgGmhQrmzGoOmJ9wJVt386KL2lxMXBuk6z%2BDbH1I%2BrsANs2g&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=9CQKIVsuYSkO4ubfg4%2B8M6Ty8%2FfByuDxHM9vv4tSEAZieDwK318lDvbyVbo%2BE1QfjhJqAJMMquxCWpjna4qcOCESIqU6gh4i2rOs%2BgkfxYzacKs3wcWtIgpYP4MkBFoDAljRRsthGASVIHjco6l5cIzJMUs3rxhc1hdbeHJdlYTXHo%2FvLjns20y6sx%2BEL354wHbjZF2zqKyGsyJNP%2FCHkDZNXPJuZ9bXd7hZ5NhnTwxDVOcful3n0xDN3Rb%2BNDslPUSWhEUFSpWuN1X5M5I1EdVWdhGBa6KM%2BLbyqcV3dSeN79apaqjxyWRaZNFfKGb9aI%2B%2BBj3BXrhWHdUIfCqTDRo1fuKgLwlApHov2cMr%2B6u8QHq1oSPgb2Mif3cqeo9qGmE9%2FaYzt5gM1zBlUtsV7uJBgNf%2B4Man8M5cjnbg3Fywp%2BRnQX7lXnSa%2ByHsCnPNg2yXZ6gBR1TcmF78Gc846iazQArwJQMAv%2F%2BMatPUmFbSB%2B1f9Ry%2B7x5Lx4knh6HDGCn8P%2Fhe0DcAt4efzfj01P1wMiRALGbD%2FrZO9v2X9GTIjByS%2Bpqf4jwE%2Fd%2FLWvAdPY4M7UUWpkkqZEL1W5vW4bEZgDfcM%2BEoNK5RfM5Kp6qWElmWNECbmK6BIDxFoOhWtoYTrPfR0GcLxz5VCnnESnptMd8Ppsd1G4Z7M%2BsDaWT%2B4cuzlGPbpXuLAfYUEuc6E%2BhXVxjNq%2Fl90oGydwnubLEWIpjUR%2FLyHKXFh5nigxGLkX8gMcKk5IxJeBClmLaj%2F96ewsymVtjXE3iEX3u9K9IJt29YUf7S1iW34gNea7FL7FHuOlgto0mb8%2FfusbYnKw2A%2B%2BlsQHm9OJ9iMuxhsZEOu7a89ThSelQfccv2dfQNa0LNl%2FeJNz5RJglj5BzRXoAHcB%2FXTV60YqKzEelEX0Fq8hD8Jm4zyEGMabKjQ1wKopLYAj6XrtgiWCrP7QomotKWEa8mHAeafVD8QwmJqaiNLYf4VdOYuUq558ttysqclBOxlx0q6bxqWKdFbZ7fpghUzOE67VW6PRUs3DlyuhMQnKeQs%2BMWszkZ574BqH%2Bqz5L4Lyv34KDp0QRXbw7bPprnUELJAPP%2BsIKVezmOQUy22sEm9MLNczs%2FXNi5bsfXv1MDA52KP%2FydPT%2Byy5%2FG%2FiU69Q6%2Bhs9R1xqWHmqcVKVKJBzlPysHt1th1ezfjsdNyI4KWbQe%2BfDLPMGDRWy4ZGG6irIhS%2Fw2rBXqPu9YGknmlvuV7%2BPiOzCooOR2qs3NFYF5XhVcRis%2B1uewqRxkIlZdDBtS5m3DT66EjAGzusygHicsOJtI%2B740rLC%2Bc581M%2B8kfjm3Q9ziS3Aaxn2yaRcCZ5K1aQkgeQPOJqnydMyt5GF6ToStqAlxziRAkin2BHNewSINPmOEZTHbOO9BMFdyjcFeRi62NXTZ7nX0EQ%3D%3D&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=9CQKIVsuYSkO4ubfg4%2B8M6Ty8%2FfByuDxHM9vv4tSEAZieDwK318lDvbyVbo%2BE1QfjhJqAJMMquxCWpjna4qcOCESIqU6gh4i2rOs%2BgkfxYzacKs3wcWtIgpYP4MkBFoDAljRRsthGASVIHjco6l5cIzJMUs3rxhc1hdbeHJdlYTXHo%2FvLjns20y6sx%2BEL354wHbjZF2zqKyGsyJNP%2FCHkDZNXPJuZ9bXd7hZ5NhnTwxDVOcful3n0xDN3Rb%2BNDslPUSWhEUFSpWuN1X5M5I1EdVWdhGBa6KM%2BLbyqcV3dSeN79apaqjxyWRaZNFfKGb9aI%2B%2BBj3BXrhWHdUIfCqTDRo1fuKgLwlApHov2cMr%2B6u8QHq1oSPgb2Mif3cqeo9qGmE9%2FaYzt5gM1zBlUtsV7uJBgNf%2B4Man8M5cjnbg3Fywp%2BRnQX7lXnSa%2ByHsCnPNg2yXZ6gBR1TcmF78Gc846iazQArwJQMAv%2F%2BMatPUmFbSB%2B1f9Ry%2B7x5Lx4knh6HDGCn8P%2Fhe0DcAt4efzfj01P1wMiRALGbD%2FrZO9v2X9GTIjByS%2Bpqf4jwE%2Fd%2FLWvAdPY4M7UUWpkkqZEL1W5vW4bEZgDfcM%2BEoNK5RfM5Kp6qWElmWNECbmK6BIDxFoOhWtoYTrPfR0GcLxz5VCnnESnptMd8Ppsd1G4Z7M%2BsDaWT%2B4cuzlGPbpXuLAfYUEuc6E%2BhXVxjNq%2Fl90oGydwnubLEWIpjUR%2FLyHKXFh5nigxGLkX8gMcKk5IxJeBClmLaj%2F96ewsymVtjXE3iEX3u9K9IJt29YUf7S1iW34gNea7FL7FHuOlgto0mb8%2FfusbYnKw2A%2B%2BlsQHm9OJ9iMuxhsZEOu7a89ThSelQfccv2dfQNa0LNl%2FeJNz5RJglj5BzRXoAHcB%2FXTV60YqKzEelEX0Fq8hD8Jm4zyEGMabKjQ1wKopLYAj6XrtgiWCrP7QomotKWEa8mHAeafVD8QwmJqaiNLYf4VdOYuUq558ttysqclBOxlx0q6bxqWKdFbZ7fpghUzOE67VW6PRUs3DlyuhMQnKeQs%2BMWszkZ574BqH%2Bqz5L4Lyv34KDp0QRXbw7bPprnUELJAPP%2BsIKVezmOQUy22sEm9MLNczs%2FXNi5bsfXv1MDA52KP%2FydPT%2Byy5%2FG%2FiU69Q6%2Bhs9R1xqWHmqcVKVKJBzlPysHt1th1ezfjsdNyI4KWbQe%2BfDLPMGDRWy4ZGG6irIhS%2Fw2rBXqPu9YGknmlvuV7%2BPiOzCooOR2qs3NFYF5XhVcRis%2B1uewqRxkIlZdDBtS5m3DT66EjAGzusygHicsOJtI%2B740rLC%2Bc581M%2B8kfjm3Q9ziS3Aaxn2yaRcCZ5K1aQkgeQPOJqnydMyt5GF6ToStqAlxziRAkin2BHNewSINPmOEZTHbOO9BMFdyjcFeRi62NXTZ7nX0EQ%3D%3D&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=%2BytGFepKWcehIDK71w0vu3SQr8gNsiVIx3f7Y%2BK3PuSXEEzvZblk%2FMloWDrh303FEKZ4g4fD6ebGhLBrb3a6mrg54C91a%2FlJSAeSFhYG4X91DIaQQMOrvE%2ByqGCvEN%2BS50BUXcdELe%2B3r9LXSwSKfMl70Cz2ZLLZhBB5l89mTP0m9j%2Fuy%2BwYiIMz%2FARjzw8MCy33EMiWzWmqPofb41KdwSbZGK79DdHMHJ2gKUne2FRWS739hyP771i%2FxpS7pj%2F97e3bHc70J7Hfya2Juf5cT8Nc%2FxwJ3Wj9jlzDIjhqxkR6tx8WPozX4GO62f8Uvb8wxkNQHjv4HxqZq%2BIJRl2JVQzq5jTqKTMqnApug2Dvk%2B8c%2BFCNgs4BZ4wD038%2FD9Ztx16vUy3iGqP%2FTpcAezxiKQnDu7UfJRuIZZeOmgVt4yshmYGA9BGZcndMubRltOHHLJBzspuJK0CpjiVLEOAZppYWzdUZoA2%2Fwk%2FkgVdeyddPyQmL4b5i9zFMfWrqlPdGS3qRDcr7P24XGrdzfJ2zGDGPLcFB%2BzhRQIANrUttIXYXDdE4L4B0bL63gblwC0HDvIv9b%2BFERg%2FAsi6x3ZNErFktiJwWzMmx%2BVWFT4P1zjU9B0Zh8iVOTXTttiZgVgP2bTeYnkzlk%2FH4kA1YsycqctCig0dv8mWr2uD4bBcJ5jwQ4k3EtYlgRfonAcJRtVF4nJAh1%2FCHT%2Fyc3XDbv35RPniBc3VSRCn%2BY8vPjEQ5GyDKSA4G9HpVdSqFqBnumwy8giKR0c9yJP%2BLoLo6AMx8%2FAi6qIIScdM%2BpSqIvPRwFX2pFZRLK98gtuNmCKHCdybf63g8oDjeDLj41EMBk1TOBZsvAX8aFgLaAkEqsxmoul8jfMEqBL2S2idOC7T%2BdUsyE8qVsNgprYUQTHYpq5%2BN4g1CtjWHZgKUl0F%2BxFdAXYWzAtf%2B5pi5XfN5VpSt%2Fm6geCOo478kSmLyP6IYi4EAB%2F%2FQsMFGIpQbI0IlMLYp2B66szUW6PgOfkx%2FT4kkzaGBp2J%2BndIVEtunYZwTC5rxBPOR5hRRaicm2Po7BlInP06ZuvCsqMSBSCxKOc%2BhKWvLgRxNXPEwK%2Bele8jgR5ZIPJ9uCmvC02Zsf46CC%2FaLr%2BkzxRtC9%2B%2F%2FDfYHSn3p3ZMlSAjgFJI9UUsUKW5J%2BwbGB5z7mACr4hOlBc0lyJAr7OBpVmCUNBNNgElKVu7zoRC%2BYDMcQXBWphha9gHvUOtqzIaVTVzwS6F2WUd8HEacJaf27O9nrd%2B8JRbmluZhbSpJYbitpW6WHsc1y5hiJwGyvyrQn%2BwDd9%2BtM1PbDf%2FQhXAgh0mgXfRPuhpuPF7QFQLUx11yNXelq7i2IzUlU08SAbQTN7dxYUCFa92YXYX60To56PZObf5m6jjgCR%2F7Z9Sd&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=%2BytGFepKWcehIDK71w0vu3SQr8gNsiVIx3f7Y%2BK3PuSXEEzvZblk%2FMloWDrh303FEKZ4g4fD6ebGhLBrb3a6mrg54C91a%2FlJSAeSFhYG4X91DIaQQMOrvE%2ByqGCvEN%2BS50BUXcdELe%2B3r9LXSwSKfMl70Cz2ZLLZhBB5l89mTP0m9j%2Fuy%2BwYiIMz%2FARjzw8MCy33EMiWzWmqPofb41KdwSbZGK79DdHMHJ2gKUne2FRWS739hyP771i%2FxpS7pj%2F97e3bHc70J7Hfya2Juf5cT8Nc%2FxwJ3Wj9jlzDIjhqxkR6tx8WPozX4GO62f8Uvb8wxkNQHjv4HxqZq%2BIJRl2JVQzq5jTqKTMqnApug2Dvk%2B8c%2BFCNgs4BZ4wD038%2FD9Ztx16vUy3iGqP%2FTpcAezxiKQnDu7UfJRuIZZeOmgVt4yshmYGA9BGZcndMubRltOHHLJBzspuJK0CpjiVLEOAZppYWzdUZoA2%2Fwk%2FkgVdeyddPyQmL4b5i9zFMfWrqlPdGS3qRDcr7P24XGrdzfJ2zGDGPLcFB%2BzhRQIANrUttIXYXDdE4L4B0bL63gblwC0HDvIv9b%2BFERg%2FAsi6x3ZNErFktiJwWzMmx%2BVWFT4P1zjU9B0Zh8iVOTXTttiZgVgP2bTeYnkzlk%2FH4kA1YsycqctCig0dv8mWr2uD4bBcJ5jwQ4k3EtYlgRfonAcJRtVF4nJAh1%2FCHT%2Fyc3XDbv35RPniBc3VSRCn%2BY8vPjEQ5GyDKSA4G9HpVdSqFqBnumwy8giKR0c9yJP%2BLoLo6AMx8%2FAi6qIIScdM%2BpSqIvPRwFX2pFZRLK98gtuNmCKHCdybf63g8oDjeDLj41EMBk1TOBZsvAX8aFgLaAkEqsxmoul8jfMEqBL2S2idOC7T%2BdUsyE8qVsNgprYUQTHYpq5%2BN4g1CtjWHZgKUl0F%2BxFdAXYWzAtf%2B5pi5XfN5VpSt%2Fm6geCOo478kSmLyP6IYi4EAB%2F%2FQsMFGIpQbI0IlMLYp2B66szUW6PgOfkx%2FT4kkzaGBp2J%2BndIVEtunYZwTC5rxBPOR5hRRaicm2Po7BlInP06ZuvCsqMSBSCxKOc%2BhKWvLgRxNXPEwK%2Bele8jgR5ZIPJ9uCmvC02Zsf46CC%2FaLr%2BkzxRtC9%2B%2F%2FDfYHSn3p3ZMlSAjgFJI9UUsUKW5J%2BwbGB5z7mACr4hOlBc0lyJAr7OBpVmCUNBNNgElKVu7zoRC%2BYDMcQXBWphha9gHvUOtqzIaVTVzwS6F2WUd8HEacJaf27O9nrd%2B8JRbmluZhbSpJYbitpW6WHsc1y5hiJwGyvyrQn%2BwDd9%2BtM1PbDf%2FQhXAgh0mgXfRPuhpuPF7QFQLUx11yNXelq7i2IzUlU08SAbQTN7dxYUCFa92YXYX60To56PZObf5m6jjgCR%2F7Z9Sd&s2s=1"
+  },
+  {
+    "text": "Revcontent's Privacy Policy",
+    "url": "https://help.revcontent.com/en/knowledge/revcontent-privacy-policy"
+  },
+  {
+    "text": "Increase Your Engagement Now!",
+    "url": "https://www.revcontent.com/popup?utm_source=ads&utm_medium=organic&utm_term=signup"
+  },
+  {
+    "text": "Submit a Report",
+    "url": "https://help.revcontent.com/en/knowledge/fake-news-complaints"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "\n                    Home\n                ",
+    "url": "/frontpage/"
+  },
+  {
+    "text": "\n                    News\n                ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n                    Sports\n                ",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                    Local Events\n                ",
+    "url": "/local-events/"
+  },
+  {
+    "text": "\n                    Features\n                ",
+    "url": "/features"
+  },
+  {
+    "text": "\n                    Photos and Videos\n                ",
+    "url": "/multimedia/"
+  },
+  {
+    "text": "\n                    Opinion\n                ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                    Obituaries\n                ",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "\n                    Online Features\n                ",
+    "url": "/online_features/"
+  },
+  {
+    "text": "\n                    Anniversaries\n                ",
+    "url": "/announcements/anniversaries"
+  },
+  {
+    "text": "\n                    Births\n                ",
+    "url": "/announcements/births"
+  },
+  {
+    "text": "\n                    College Notes\n                ",
+    "url": "/community/college_notes/"
+  },
+  {
+    "text": "\n                    Engagements\n                ",
+    "url": "/announcements/engagements"
+  },
+  {
+    "text": "\n                    Weddings\n                ",
+    "url": "/announcements/weddings"
+  },
+  {
+    "text": "\n                    Worship Directory\n                ",
+    "url": "/community/worship_directory/"
+  },
+  {
+    "text": "\n                    Submit an Announcement\n                ",
+    "url": "/site/forms/announcements/"
+  },
+  {
+    "text": "\n                    Submit a News Tip\n                ",
+    "url": "/site/forms/online_services/submit_news/"
+  },
+  {
+    "text": "\n                    Submit an Announcement\n                ",
+    "url": "/site/forms/announcements/"
+  },
+  {
+    "text": "\n                    Promote Your Event\n                ",
+    "url": "https://portal.cityspark.com/advertise/AlbanyHerald"
+  },
+  {
+    "text": "\n                    Submit a Classified Ad\n                ",
+    "url": "https://www.albanyherald.com/site/forms/online_services/classified_ad"
+  },
+  {
+    "text": "\n                    Submit an Advertisement\n                ",
+    "url": "https://www.albanyherald.com/site/forms/online_services/classified_ad"
+  },
+  {
+    "text": "\n                    Submit a Letter to the Editor\n                ",
+    "url": "https://www.albanyherald.com/site/forms/online_services/letter_editor/"
+  },
+  {
+    "text": "Classifieds",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "SWGA Jobs",
+    "url": "/classifieds/vehicle/?l=25?s=start_time>Autos</a></li>\n<li><a href="
+  },
+  {
+    "text": "SWGA Farm Beat",
+    "url": "/site/swga_farm_beat.html/"
+  },
+  {
+    "text": "Cars",
+    "url": "/classifieds/vehicle/"
+  },
+  {
+    "text": "Real Estate",
+    "url": "/classifieds/housing/sale/"
+  },
+  {
+    "text": " Special Section",
+    "url": "https://issuu.com/albanyherald"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/albanyherald"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/albany_herald"
+  },
+  {
+    "text": "\n                    \n                    LinkedIn\n                ",
+    "url": "https://www.linkedin.com/company/the-albany-herald"
+  },
+  {
+    "text": "\n                    \n                    YouTube\n                ",
+    "url": "https://www.youtube.com/channel/UCaiXNQemIhhfpVvyrw_S_kA"
+  },
+  {
+    "text": "\n                    \n                    Instagram\n                ",
+    "url": "https://instagram.com/albanyherald"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/Albany-Area-Sports-120842944640864/timeline/"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/albany_herald"
+  },
+  {
+    "text": "Newsroom",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "Advertising",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "Subscriber Services",
+    "url": "/site/forms/subscription_services"
+  },
+  {
+    "text": "Website help",
+    "url": "/site/forms/web_help"
+  },
+  {
+    "text": "News Edition",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Sports Edition",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Breaking News",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Get Online Access",
+    "url": "/subscribe/"
+  },
+  {
+    "text": "Get a Print Subscription",
+    "url": "/site/forms/subscription_services/subscribe_pay_now/subscribe__pay_now/"
+  },
+  {
+    "text": "Vacation Stop",
+    "url": "/site/forms/subscription_services/vacation/"
+  },
+  {
+    "text": "Delivery Issues",
+    "url": "/site/forms/subscription_services/delivery_issues/"
+  },
+  {
+    "text": "Online Access Help",
+    "url": "/site/forms/online_access_help/"
+  },
+  {
+    "text": "Albany Herald",
+    "url": "/"
+  },
+  {
+    "text": "Terms of Use",
+    "url": "/site/terms.html"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/site/privacy.html"
+  },
+  {
+    "text": "Do Not Sell My Info",
+    "url": "/site/privacy.html"
+  },
+  {
+    "text": "BLOX Content Management System",
+    "url": "https://bloxcms.com"
+  },
+  {
+    "text": "TownNews.com",
+    "url": "https://townnews.com/"
+  },
+  {
+    "text": "",
+    "url": "{{url}}"
+  },
+  {
+    "text": "Notifications",
+    "url": "#notify-panel-content"
+  },
+  {
+    "text": "Settings",
+    "url": "#notify-panel-settings"
+  },
+  {
+    "text": "More information",
+    "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
+  },
+  {
+    "text": "",
+    "url": "https://onetrust.com/poweredbyonetrust"
+  },
+  {
+    "text": "",
+    "url": "https://onetrust.com/poweredbyonetrust"
+  }
+]

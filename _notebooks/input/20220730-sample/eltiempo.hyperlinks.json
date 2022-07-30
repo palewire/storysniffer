@@ -1,0 +1,1834 @@
+[
+  {
+    "text": "\n\nSUSCR\u00cdBETE X $900\n/ MES\n\n .indicators-board2-container{ display:none; } \n\n#header_new .top-contenedor .topbar .cliente #suscribase-header,\n#header_new .top-contenedor .topbar3 .cliente #suscribase-header,\n#header_new .top-contenedor .content-sections .suscribase-header {\nbackground: #FF691A !important;\n/*AQUI SE CAMBIA DE COLOR DEL BOTON, SIN OMITIR EL !important*/\ncolor: #fff;\n}\n#header_new .top-contenedor .topbar .cliente #suscribase-header span,\n#header_new .top-contenedor .top_bar .cliente #suscribase-header .suscribase,\n#header_new .top-contenedor .top_bar .cliente #suscribase-header .suscribase .texto-light,\n#header_new .top-contenedor .content-sections .suscribase-header .suscribase,\n#header_new .top-contenedor .content-sections .suscribase-header .texto-light {\ncolor: inherit;\n}\n@media screen and (max-width: 768px) {\nheader .header_mobile.stickyMobile .header_modulo_suscripcion p a[href*=\"suscripcion-digital\"].btn_suscribirme {\ncolor: #fff !important;\n}\n.m-registro-login .btn_subscription {\nfont-size: 0;\nbackground: #FF691A;\ncolor: #fff;\n}\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme {\nbackground: #FF691A !important;\n/*AQUI SE CAMBIA DE COLOR DEL BOTON, SIN OMITIR EL !important*/\ncolor: #fff !important;\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme .texto-light {\ncolor: #fff !important;\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme .texto-light {\ncolor: #fff\n}\n.m-registro-login .btn_subscription::before {\ncontent: \"suscribirme\";\nfont-size: 15px;\n}\n#header_new .top-contenedor .content-sections #suscribase-header {\nfloat: left;\nheight: 35px;\nbackground: #FF691A;\nfont-size: .6875rem;\nfont-weight: normal;\nline-height: 35px;\nfont-family: \"open_sansbold\", Arial, Helvetica, sans-serif;\ncolor: #fff;\ndisplay: inline-block;\noverflow-wrap: break-word;\nword-wrap: break-word;\nborder-radius: 20px;\npadding: 0 12px;\n}\n\n",
+    "url": "https://www.eltiempo.com/suscripcion-digital"
+  },
+  {
+    "text": "opini\u00f3n",
+    "url": "/opinion"
+  },
+  {
+    "text": "columnistas",
+    "url": "/opinion"
+  },
+  {
+    "text": "editorial",
+    "url": "/opinion/editorial"
+  },
+  {
+    "text": "caricaturas",
+    "url": "/opinion/caricaturas"
+  },
+  {
+    "text": "blogs",
+    "url": "http://blogs.eltiempo.com/"
+  },
+  {
+    "text": "colombia",
+    "url": "/colombia"
+  },
+  {
+    "text": "bogot\u00e1",
+    "url": "/bogota"
+  },
+  {
+    "text": "medell\u00edn",
+    "url": "/colombia/medellin"
+  },
+  {
+    "text": "barranquilla",
+    "url": "/colombia/barranquilla"
+  },
+  {
+    "text": "cali",
+    "url": "/colombia/cali"
+  },
+  {
+    "text": "santander",
+    "url": "/colombia/santander"
+  },
+  {
+    "text": "bogot\u00e1",
+    "url": "/bogota"
+  },
+  {
+    "text": "elecciones 2022",
+    "url": "/elecciones-2022"
+  },
+  {
+    "text": "internacional",
+    "url": "/mundo"
+  },
+  {
+    "text": "latinoam\u00e9rica",
+    "url": "/mundo/latinoamerica"
+  },
+  {
+    "text": "venezuela",
+    "url": "/mundo/venezuela"
+  },
+  {
+    "text": "eeuu y canad\u00e1",
+    "url": "/mundo/eeuu-y-canada"
+  },
+  {
+    "text": "europa",
+    "url": "/mundo/europa"
+  },
+  {
+    "text": "\u00c1frica",
+    "url": "/mundo/africa"
+  },
+  {
+    "text": "medio oriente",
+    "url": "/mundo/medio-oriente"
+  },
+  {
+    "text": "asia",
+    "url": "/mundo/asia"
+  },
+  {
+    "text": "m\u00e1s regiones",
+    "url": "/mundo/mas-regiones"
+  },
+  {
+    "text": "pol\u00edtica",
+    "url": "/politica"
+  },
+  {
+    "text": "gobierno",
+    "url": "/politica/gobierno"
+  },
+  {
+    "text": "congreso",
+    "url": "/politica/congreso"
+  },
+  {
+    "text": "proceso de paz",
+    "url": "/politica/proceso-de-paz"
+  },
+  {
+    "text": "partidos pol\u00edticos",
+    "url": "/politica/partidos-politicos"
+  },
+  {
+    "text": "justicia",
+    "url": "/justicia"
+  },
+  {
+    "text": "cortes",
+    "url": "/justicia/cortes"
+  },
+  {
+    "text": "conflicto y narcotr\u00e1fico",
+    "url": "/justicia/conflicto-y-narcotrafico"
+  },
+  {
+    "text": "investigaci\u00f3n",
+    "url": "/justicia/investigacion"
+  },
+  {
+    "text": "delitos",
+    "url": "/justicia/delitos"
+  },
+  {
+    "text": "servicios",
+    "url": "/justicia/servicios"
+  },
+  {
+    "text": "jurisdicci\u00f3n especial paz",
+    "url": "/justicia/jep-colombia"
+  },
+  {
+    "text": "paz y derechos humanos",
+    "url": "/justicia/paz-y-derechos-humanos"
+  },
+  {
+    "text": "econom\u00eda",
+    "url": "/economia"
+  },
+  {
+    "text": "finanzas personales",
+    "url": "/economia/finanzas-personales"
+  },
+  {
+    "text": "empresas",
+    "url": "/economia/empresas"
+  },
+  {
+    "text": "sectores",
+    "url": "/economia/sectores"
+  },
+  {
+    "text": "sector financiero",
+    "url": "/economia/sector-financiero"
+  },
+  {
+    "text": "deportes",
+    "url": "/deportes"
+  },
+  {
+    "text": "f\u00fatbol internacional",
+    "url": "/deportes/futbol-internacional"
+  },
+  {
+    "text": "f\u00fatbol colombiano",
+    "url": "/deportes/futbol-colombiano"
+  },
+  {
+    "text": "tenis",
+    "url": "/deportes/tenis"
+  },
+  {
+    "text": "ciclismo",
+    "url": "/deportes/ciclismo"
+  },
+  {
+    "text": "automovilismo",
+    "url": "/deportes/automovilismo"
+  },
+  {
+    "text": "m\u00e1s deportes",
+    "url": "/deportes/otros-deportes"
+  },
+  {
+    "text": "copa am\u00e9rica 2019",
+    "url": "/deportes/copa-america-2019"
+  },
+  {
+    "text": "cultura",
+    "url": "/cultura"
+  },
+  {
+    "text": "cine y tv",
+    "url": "/cultura/cine-y-tv"
+  },
+  {
+    "text": "arte y teatro",
+    "url": "/cultura/arte-y-teatro"
+  },
+  {
+    "text": "m\u00fasica y libros",
+    "url": "/cultura/musica-y-libros"
+  },
+  {
+    "text": "gastronom\u00eda",
+    "url": "/cultura/gastronomia"
+  },
+  {
+    "text": "entretenimiento",
+    "url": "/cultura/entretenimiento"
+  },
+  {
+    "text": "gente",
+    "url": "/cultura/gente"
+  },
+  {
+    "text": "tecnolog\u00eda",
+    "url": "/tecnosfera"
+  },
+  {
+    "text": "apps",
+    "url": "/tecnosfera/apps"
+  },
+  {
+    "text": "dispositivos",
+    "url": "/tecnosfera/dispositivos"
+  },
+  {
+    "text": "videojuegos",
+    "url": "/tecnosfera/videojuegos"
+  },
+  {
+    "text": "\u00daltimas noticias",
+    "url": "/ultimas-noticias"
+  },
+  {
+    "text": "vida",
+    "url": "/vida"
+  },
+  {
+    "text": "ciencia",
+    "url": "/vida/ciencia"
+  },
+  {
+    "text": "educaci\u00f3n",
+    "url": "/vida/educacion"
+  },
+  {
+    "text": "viajar",
+    "url": "/vida/viajar"
+  },
+  {
+    "text": "medio ambiente",
+    "url": "/vida/medio-ambiente"
+  },
+  {
+    "text": "mujeres",
+    "url": "/vida/mujeres"
+  },
+  {
+    "text": "salud",
+    "url": "/salud"
+  },
+  {
+    "text": "unidad investigativa",
+    "url": "/unidad-investigativa"
+  },
+  {
+    "text": "el tiempo play",
+    "url": "/eltiempoplay"
+  },
+  {
+    "text": "especiales",
+    "url": "/especiales"
+  },
+  {
+    "text": "fotos",
+    "url": "/multimedia/galeria-de-fotos"
+  },
+  {
+    "text": "podcast",
+    "url": "/podcast"
+  },
+  {
+    "text": "datos el tiempo",
+    "url": "/datos"
+  },
+  {
+    "text": "motor",
+    "url": "http://www.motor.com.co/"
+  },
+  {
+    "text": "carrusel",
+    "url": "/carrusel"
+  },
+  {
+    "text": "bocas",
+    "url": "/bocas"
+  },
+  {
+    "text": "lecturas",
+    "url": "/lecturas-dominicales"
+  },
+  {
+    "text": "don juan",
+    "url": "/don-juan"
+  },
+  {
+    "text": "huella social",
+    "url": "http://www.eltiempo.com/noticias/huella-social"
+  },
+  {
+    "text": "ayuda",
+    "url": "/ayuda"
+  },
+  {
+    "text": "servicio al cliente",
+    "url": "/servicio-al-cliente"
+  },
+  {
+    "text": "l\u00ednea \u00c9tica",
+    "url": "https://www.ceet.co/linea-etica"
+  },
+  {
+    "text": "nuestros portales",
+    "url": "#"
+  },
+  {
+    "text": "portafolio.co - noticias de econom\u00eda",
+    "url": "http://www.portafolio.co"
+  },
+  {
+    "text": "futbolred.com - futbol colombiano",
+    "url": "http://www.futbolred.com"
+  },
+  {
+    "text": "alo.co - consejos para mujeres",
+    "url": "http://www.alo.co"
+  },
+  {
+    "text": "motor.com.co - novedades del sector automotriz",
+    "url": "http://www.motor.com.co/"
+  },
+  {
+    "text": "diarioadn.co - noticias de actualidad",
+    "url": "http://www.diarioadn.co"
+  },
+  {
+    "text": "abcdelbebe.com - toda la informaci\u00f3n para padres",
+    "url": "https://www.abcdelbebe.com/"
+  },
+  {
+    "text": "loencontraste.com - consulte antes de comprar",
+    "url": "http://www.loencontraste.com"
+  },
+  {
+    "text": "citytv.com.co - videos de entretenimiento",
+    "url": "http://www.citytv.com.co"
+  },
+  {
+    "text": "clasificados.eltiempo.com - clasificados",
+    "url": "http://clasificados.eltiempo.com"
+  },
+  {
+    "text": "canaleltiempo.tv - noticias 24 horas",
+    "url": "http://www.eltiempo.com/eltiempo-television"
+  },
+  {
+    "text": "elempleo.com - empleos en colombia",
+    "url": "http://www.elempleo.com"
+  },
+  {
+    "text": "metrocuadrado.com - finca ra\u00edz",
+    "url": "http://www.metrocuadrado.com"
+  },
+  {
+    "text": "guiaacademica.com - carreras profesionales",
+    "url": "http://www.guiaacademica.com"
+  },
+  {
+    "text": "e-hunters.com - head hunters",
+    "url": "http://www.elempleo.com/sitios-empresariales/colombia/e-hunters/candidatos/index.asp"
+  },
+  {
+    "text": "audienciadigital.co - paute en internet",
+    "url": "http://www.audienciadigital.co"
+  },
+  {
+    "text": "reserva de canchas de f\u00fatbol",
+    "url": "https://www.canchasfutbolred.com/"
+  },
+  {
+    "text": "pasatiempos",
+    "url": "#"
+  },
+  {
+    "text": "el tiempo play",
+    "url": "https://www.eltiempo.com/eltiempoplay/juegos"
+  },
+  {
+    "text": "crucigrama",
+    "url": "http://eltiempo.com/crucigrama"
+  },
+  {
+    "text": "sudoku",
+    "url": "http://eltiempo.com/sudoku"
+  },
+  {
+    "text": "",
+    "url": "https://api.whatsapp.com/send/?phone=573223090079&text&app_absent=0"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/eltiempo"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/eltiempo/"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/eltiempo"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/ElTiempoPLAY"
+  },
+  {
+    "text": "\n\n\n\n",
+    "url": "/"
+  },
+  {
+    "text": "\n\nSUSCR\u00cdBETE X $900\n/ MES\n\n .indicators-board2-container{ display:none; } \n\n#header_new .top-contenedor .topbar .cliente #suscribase-header,\n#header_new .top-contenedor .topbar3 .cliente #suscribase-header,\n#header_new .top-contenedor .content-sections .suscribase-header {\nbackground: #FF691A !important;\n/*AQUI SE CAMBIA DE COLOR DEL BOTON, SIN OMITIR EL !important*/\ncolor: #fff;\n}\n#header_new .top-contenedor .topbar .cliente #suscribase-header span,\n#header_new .top-contenedor .top_bar .cliente #suscribase-header .suscribase,\n#header_new .top-contenedor .top_bar .cliente #suscribase-header .suscribase .texto-light,\n#header_new .top-contenedor .content-sections .suscribase-header .suscribase,\n#header_new .top-contenedor .content-sections .suscribase-header .texto-light {\ncolor: inherit;\n}\n@media screen and (max-width: 768px) {\nheader .header_mobile.stickyMobile .header_modulo_suscripcion p a[href*=\"suscripcion-digital\"].btn_suscribirme {\ncolor: #fff !important;\n}\n.m-registro-login .btn_subscription {\nfont-size: 0;\nbackground: #FF691A;\ncolor: #fff;\n}\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme {\nbackground: #FF691A !important;\n/*AQUI SE CAMBIA DE COLOR DEL BOTON, SIN OMITIR EL !important*/\ncolor: #fff !important;\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme .texto-light {\ncolor: #fff !important;\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme .texto-light {\ncolor: #fff\n}\n.m-registro-login .btn_subscription::before {\ncontent: \"suscribirme\";\nfont-size: 15px;\n}\n#header_new .top-contenedor .content-sections #suscribase-header {\nfloat: left;\nheight: 35px;\nbackground: #FF691A;\nfont-size: .6875rem;\nfont-weight: normal;\nline-height: 35px;\nfont-family: \"open_sansbold\", Arial, Helvetica, sans-serif;\ncolor: #fff;\ndisplay: inline-block;\noverflow-wrap: break-word;\nword-wrap: break-word;\nborder-radius: 20px;\npadding: 0 12px;\n}\n\n",
+    "url": "https://www.eltiempo.com/suscripcion-digital"
+  },
+  {
+    "text": "Iniciar sesi\u00f3n",
+    "url": "/login"
+  },
+  {
+    "text": "clic aqu\u00ed",
+    "url": "https://www.eltiempo.com/legal/POLITICA_DE_TRATAMIENTO_Y_PROCEDIMIENTOS_EN_MATERIA_DE_PROTECCION_DE_DATOS_PERSONALES.pdf"
+  },
+  {
+    "text": "\nConfigurar mis datos\n",
+    "url": "/zona-usuario/configurar-mis-datos"
+  },
+  {
+    "text": "\nActivar Acceso Digital\n",
+    "url": "/zona-usuario/activar"
+  },
+  {
+    "text": "\nSUSCR\u00cdBETE X $900\n/ MES\n .indicators-board2-container{ display:none; } \n\n#header_new .top-contenedor .topbar .cliente #suscribase-header,\n#header_new .top-contenedor .topbar3 .cliente #suscribase-header,\n#header_new .top-contenedor .content-sections .suscribase-header {\nbackground: #FF691A !important;\n/*AQUI SE CAMBIA DE COLOR DEL BOTON, SIN OMITIR EL !important*/\ncolor: #fff;\n}\n#header_new .top-contenedor .topbar .cliente #suscribase-header span,\n#header_new .top-contenedor .top_bar .cliente #suscribase-header .suscribase,\n#header_new .top-contenedor .top_bar .cliente #suscribase-header .suscribase .texto-light,\n#header_new .top-contenedor .content-sections .suscribase-header .suscribase,\n#header_new .top-contenedor .content-sections .suscribase-header .texto-light {\ncolor: inherit;\n}\n@media screen and (max-width: 768px) {\nheader .header_mobile.stickyMobile .header_modulo_suscripcion p a[href*=\"suscripcion-digital\"].btn_suscribirme {\ncolor: #fff !important;\n}\n.m-registro-login .btn_subscription {\nfont-size: 0;\nbackground: #FF691A;\ncolor: #fff;\n}\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme {\nbackground: #FF691A !important;\n/*AQUI SE CAMBIA DE COLOR DEL BOTON, SIN OMITIR EL !important*/\ncolor: #fff !important;\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme .texto-light {\ncolor: #fff !important;\n}\nheader .header_mobile .header_modulo_suscripcion a[href*=\"suscripcion-digital\"].btn_suscribirme .texto-light {\ncolor: #fff\n}\n.m-registro-login .btn_subscription::before {\ncontent: \"suscribirme\";\nfont-size: 15px;\n}\n#header_new .top-contenedor .content-sections #suscribase-header {\nfloat: left;\nheight: 35px;\nbackground: #FF691A;\nfont-size: .6875rem;\nfont-weight: normal;\nline-height: 35px;\nfont-family: \"open_sansbold\", Arial, Helvetica, sans-serif;\ncolor: #fff;\ndisplay: inline-block;\noverflow-wrap: break-word;\nword-wrap: break-word;\nborder-radius: 20px;\npadding: 0 12px;\n}\n\n",
+    "url": "{{ path('etsso_subscription') }}"
+  },
+  {
+    "text": "\nMi suscripci\u00f3n\n",
+    "url": "/zona-usuario/mi-suscripcion"
+  },
+  {
+    "text": "\nVersi\u00f3n impresa\n",
+    "url": "/zona-usuario/version-impresa"
+  },
+  {
+    "text": "\nArt\u00edculos guardados\n",
+    "url": "/zona-usuario/articulos-guardados"
+  },
+  {
+    "text": "\nBoletines\n",
+    "url": "/zona-usuario/boletines"
+  },
+  {
+    "text": "\nClub vivamos El Tiempo\n",
+    "url": "/zona-usuario/club-vivamos"
+  },
+  {
+    "text": "\nPreguntas frecuentes\n",
+    "url": "/preguntas-frecuentes"
+  },
+  {
+    "text": "Pol\u00edtica de privacidad",
+    "url": "https://www.eltiempo.com/legal/POLITICA_DE_TRATAMIENTO_Y_PROCEDIMIENTOS_EN_MATERIA_DE_PROTECCION_DE_DATOS_PERSONALES.pdf"
+  },
+  {
+    "text": "Pol\u00edtica de datos de navegaci\u00f3n",
+    "url": "/politica-de-cookies"
+  },
+  {
+    "text": "\n\n\n\n\n.st0{fill:#0E65A5;}\n\nSVG - Logo\nCreated with Sketch.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "https://api.whatsapp.com/send/?phone=573223090079&text&app_absent=0"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/eltiempo"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/eltiempo"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/ElTiempoPLAY"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/eltiempo/"
+  },
+  {
+    "text": "Opini\u00f3n",
+    "url": "/opinion"
+  },
+  {
+    "text": "Colombia",
+    "url": "/colombia"
+  },
+  {
+    "text": "Bogot\u00e1",
+    "url": "/bogota"
+  },
+  {
+    "text": "Internacional",
+    "url": "/mundo"
+  },
+  {
+    "text": "Pol\u00edtica",
+    "url": "/politica"
+  },
+  {
+    "text": "Justicia",
+    "url": "/justicia"
+  },
+  {
+    "text": "Econom\u00eda",
+    "url": "/economia"
+  },
+  {
+    "text": "Deportes",
+    "url": "/deportes"
+  },
+  {
+    "text": "Cultura",
+    "url": "/cultura"
+  },
+  {
+    "text": "Tecnolog\u00eda",
+    "url": "/tecnosfera"
+  },
+  {
+    "text": "Vida",
+    "url": "/vida"
+  },
+  {
+    "text": "Salud",
+    "url": "/salud"
+  },
+  {
+    "text": "Unidad Investigativa",
+    "url": "/unidad-investigativa"
+  },
+  {
+    "text": "El Tiempo Play",
+    "url": "/eltiempoplay"
+  },
+  {
+    "text": "El Tiempo Play",
+    "url": "/eltiempoplay"
+  },
+  {
+    "text": "Especiales",
+    "url": "/especiales"
+  },
+  {
+    "text": "Galer\u00edas",
+    "url": "/multimedia/galeria-de-fotos"
+  },
+  {
+    "text": "Podcast",
+    "url": "/podcast"
+  },
+  {
+    "text": "Datos El Tiempo",
+    "url": "/datos"
+  },
+  {
+    "text": "Motor",
+    "url": "http://www.motor.com.co/"
+  },
+  {
+    "text": "Carrusel",
+    "url": "/carrusel"
+  },
+  {
+    "text": "Bocas",
+    "url": "/bocas"
+  },
+  {
+    "text": "Lecturas",
+    "url": "/lecturas-dominicales"
+  },
+  {
+    "text": "Libro Fotografias",
+    "url": "/libro-fotografia-2020"
+  },
+  {
+    "text": "Boletines",
+    "url": "/zona-usuario/boletines"
+  },
+  {
+    "text": "\nVerificar correo.\n",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "cambiar correo.",
+    "url": "/zona-usuario/actualizar-email"
+  },
+  {
+    "text": "\nNO, CAMBIAR CORREO\n",
+    "url": "/zona-usuario/actualizar-email"
+  },
+  {
+    "text": "\nSI, ENVIAR\n",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "",
+    "url": "#"
+  },
+  {
+    "text": "\n\nmis noticias\n\n",
+    "url": "/login"
+  },
+  {
+    "text": "",
+    "url": "/login"
+  },
+  {
+    "text": "",
+    "url": "/login"
+  },
+  {
+    "text": "\u00a1el\u00edgelos!",
+    "url": "/login"
+  },
+  {
+    "text": "",
+    "url": "https://play.google.com/store/apps/details?id=com.kubo.web"
+  },
+  {
+    "text": "",
+    "url": "https://apps.apple.com/us/app/el-tiempo-noticias/id1002696749?l=es&ls=1"
+  },
+  {
+    "text": "Intentar de nuevo",
+    "url": "#"
+  },
+  {
+    "text": "\nver todas mis noticias\n\n",
+    "url": "/login"
+  },
+  {
+    "text": "\u00a1el\u00edgelos!",
+    "url": "/login"
+  },
+  {
+    "text": "Lo har\u00e9 despu\u00e9s",
+    "url": "#"
+  },
+  {
+    "text": "Ir a mis noticias",
+    "url": "/login"
+  },
+  {
+    "text": "VER MIS NOTICIAS",
+    "url": "/login"
+  },
+  {
+    "text": "Lo har\u00e9 despu\u00e9s",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "https://play.google.com/store/apps/details?id=com.kubo.web"
+  },
+  {
+    "text": "",
+    "url": "https://itunes.apple.com/us/app/el-tiempo-noticias/id1002696749"
+  },
+  {
+    "text": "FB",
+    "url": "https://www.facebook.com/eltiempo"
+  },
+  {
+    "text": "Twitter",
+    "url": "https://twitter.com/eltiempo"
+  },
+  {
+    "text": "Instagram",
+    "url": "https://www.instagram.com/eltiempo/"
+  },
+  {
+    "text": "Apple Store",
+    "url": "https://itunes.apple.com/co/app/el-tiempo-noticias/id1002696749?l=en&mt=8"
+  },
+  {
+    "text": "Google Store",
+    "url": "https://play.google.com/store/apps/details?id=com.kubo.web"
+  },
+  {
+    "text": "\u00bfQu\u00e9 cubre el Soat en caso de accidente de tr\u00e1nsito?",
+    "url": "/economia/finanzas-personales/soat-que-cosas-cubre-y-que-no-en-caso-de-accidente-de-transito-690969"
+  },
+  {
+    "text": "\nComun\u00edcate con nosotros y resolveremos tus dudas.\nChatea con nosotros y resolveremos tus dudas.\n\n\n\n",
+    "url": "https://api.whatsapp.com/send/?phone=573223090079&text&app_absent=0"
+  },
+  {
+    "text": "Unidad Investigativa",
+    "url": "/unidad-investigativa"
+  },
+  {
+    "text": "\nMEDIA",
+    "url": "/unidad-investigativa/plan-pistola-la-estrategia-de-bandas-para-sacar-ventaja-de-un-sometimiento-691216"
+  },
+  {
+    "text": "El plan secreto de bandas criminales para sacar ventaja de un sometimiento",
+    "url": "/unidad-investigativa/plan-pistola-la-estrategia-de-bandas-para-sacar-ventaja-de-un-sometimiento-691216"
+  },
+  {
+    "text": "Con plan pistola presionan negociaci\u00f3n y hasta repatriaci\u00f3n de l\u00edderes. Incluir\u00edan a Sim\u00f3n Trinidad.",
+    "url": "/unidad-investigativa/plan-pistola-la-estrategia-de-bandas-para-sacar-ventaja-de-un-sometimiento-691216"
+  },
+  {
+    "text": "",
+    "url": "/unidad-investigativa/plan-pistola-la-estrategia-de-bandas-para-sacar-ventaja-de-un-sometimiento-691216"
+  },
+  {
+    "text": "",
+    "url": "/bogota/la-nina-que-aviso-con-una-sena-que-su-profe-la-abuso-691187"
+  },
+  {
+    "text": "Bogot\u00e1",
+    "url": "/bogota"
+  },
+  {
+    "text": "\nGaler\u00eda",
+    "url": "/bogota/la-nina-que-aviso-con-una-sena-que-su-profe-la-abuso-691187"
+  },
+  {
+    "text": "La ni\u00f1a que avis\u00f3 con una se\u00f1a que su profe la abus\u00f3",
+    "url": "/bogota/la-nina-que-aviso-con-una-sena-que-su-profe-la-abuso-691187"
+  },
+  {
+    "text": "En el sal\u00f3n de clase de un colegio un docente de matem\u00e1ticas se aprovech\u00f3 de una alumna de 8 a\u00f1os\u00a0",
+    "url": "/bogota/la-nina-que-aviso-con-una-sena-que-su-profe-la-abuso-691187"
+  },
+  {
+    "text": "",
+    "url": "/deportes/futbol-internacional/seleccion-colombia-femenina-vs-brasil-previo-hora-y-tv-en-copa-america-691222"
+  },
+  {
+    "text": "F\u00fatbol Internacional",
+    "url": "/deportes/futbol-internacional"
+  },
+  {
+    "text": "\nEn Vivo",
+    "url": "/deportes/futbol-internacional/seleccion-colombia-femenina-vs-brasil-previo-hora-y-tv-en-copa-america-691222"
+  },
+  {
+    "text": "Selecci\u00f3n Colombia, lista para la batalla final contra Brasil: \u00a1s\u00ed se puede!",
+    "url": "/deportes/futbol-internacional/seleccion-colombia-femenina-vs-brasil-previo-hora-y-tv-en-copa-america-691222"
+  },
+  {
+    "text": "Este s\u00e1bado en Bucaramanga se define el t\u00edtulo de la Copa Am\u00e9rica.",
+    "url": "/deportes/futbol-internacional/seleccion-colombia-femenina-vs-brasil-previo-hora-y-tv-en-copa-america-691222"
+  },
+  {
+    "text": "",
+    "url": "/lecturas-dominicales/monasterios-bogota-como-se-vive-en-clausura-y-que-se-hace-en-ellos-691215"
+  },
+  {
+    "text": "Lecturas Dominicales",
+    "url": "/lecturas-dominicales"
+  },
+  {
+    "text": "\nGaler\u00eda",
+    "url": "/lecturas-dominicales/monasterios-bogota-como-se-vive-en-clausura-y-que-se-hace-en-ellos-691215"
+  },
+  {
+    "text": "Ni pareja ni rumba ni alcohol: j\u00f3venes dejaron todo por la clausura y oraci\u00f3n",
+    "url": "/lecturas-dominicales/monasterios-bogota-como-se-vive-en-clausura-y-que-se-hace-en-ellos-691215"
+  },
+  {
+    "text": "Isabel Cifuentes y Yohanna Orjuela dejaron todo para entregarse a la vida de clausura en Bogot\u00e1.",
+    "url": "/lecturas-dominicales/monasterios-bogota-como-se-vive-en-clausura-y-que-se-hace-en-ellos-691215"
+  },
+  {
+    "text": "Europa",
+    "url": "/mundo/europa"
+  },
+  {
+    "text": "\nen vivo",
+    "url": "/mundo/europa/shakira-por-que-la-fiscalia-en-espana-la-senala-de-fraude-fiscal-691169"
+  },
+  {
+    "text": "Shakira: estos son los l\u00edos que tiene la cantante con el temido fisco de Espa\u00f1a",
+    "url": "/mundo/europa/shakira-por-que-la-fiscalia-en-espana-la-senala-de-fraude-fiscal-691169"
+  },
+  {
+    "text": "Sector Financiero",
+    "url": "/economia/sector-financiero"
+  },
+  {
+    "text": "\nen vivo",
+    "url": "/economia/sector-financiero/cuanto-elevo-su-tasa-de-interes-el-banco-de-la-republica-este-viernes-691068"
+  },
+  {
+    "text": "Banco de la Rep\u00fablica ha triplicado sus tasas de inter\u00e9s este a\u00f1o: \u00bfpor qu\u00e9?",
+    "url": "/economia/sector-financiero/cuanto-elevo-su-tasa-de-interes-el-banco-de-la-republica-este-viernes-691068"
+  },
+  {
+    "text": "Gente",
+    "url": "/cultura/gente"
+  },
+  {
+    "text": "\nEN VIVO",
+    "url": "/cultura/gente/big-boy-rapero-de-mis-ojos-lloran-por-ti-a-que-se-dedica-hoy-en-dia-689837"
+  },
+  {
+    "text": "A qu\u00e9 se dedica hoy en d\u00eda Big Boy, el rapero de 'Mis ojos lloran por ti'",
+    "url": "/cultura/gente/big-boy-rapero-de-mis-ojos-lloran-por-ti-a-que-se-dedica-hoy-en-dia-689837"
+  },
+  {
+    "text": "Congreso",
+    "url": "/politica/congreso"
+  },
+  {
+    "text": "\nen vivo",
+    "url": "/politica/congreso/ivan-cepeda-explica-como-las-bandas-criminales-se-someteran-a-la-justicia-691184"
+  },
+  {
+    "text": "Iv\u00e1n Cepeda sobre la paz total: \u2018No cualquier banda podr\u00e1 acceder a beneficios\u2019",
+    "url": "/politica/congreso/ivan-cepeda-explica-como-las-bandas-criminales-se-someteran-a-la-justicia-691184"
+  },
+  {
+    "text": "Investigaci\u00f3n",
+    "url": "/justicia/investigacion"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/justicia/investigacion/fugas-de-presos-alias-meme-se-escapo-de-la-picota-en-bogota-691174"
+  },
+  {
+    "text": "Alias Meme: este es el preso que se fug\u00f3 de La Picota por un ducto",
+    "url": "/justicia/investigacion/fugas-de-presos-alias-meme-se-escapo-de-la-picota-en-bogota-691174"
+  },
+  {
+    "text": "Sectores",
+    "url": "/economia/sectores"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/economia/sectores/transito-y-seguridad-vial-lo-que-dejo-duque-y-lo-que-falta-por-hacer-691161"
+  },
+  {
+    "text": "Tr\u00e1nsito y seguridad vial: \u00bfqu\u00e9 dej\u00f3 el gobierno Duque y qu\u00e9 falta por hacer?",
+    "url": "/economia/sectores/transito-y-seguridad-vial-lo-que-dejo-duque-y-lo-que-falta-por-hacer-691161"
+  },
+  {
+    "text": "Bogot\u00e1",
+    "url": "/bogota"
+  },
+  {
+    "text": "\nContenido Patrocinado",
+    "url": "/bogota/bogota-las-peores-vias-de-barrios-691195"
+  },
+  {
+    "text": "Algunas de las peores v\u00edas de barrios de Bogot\u00e1, seg\u00fan la ciudadan\u00eda",
+    "url": "/bogota/bogota-las-peores-vias-de-barrios-691195"
+  },
+  {
+    "text": "Otros Deportes",
+    "url": "/deportes/otros-deportes"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/deportes/otros-deportes/yuberjen-martinez-gana-por-nocaut-en-su-estreno-como-profesional-691219"
+  },
+  {
+    "text": "Yuberjen Mart\u00ednez vence por nocaut en su estreno como profesional",
+    "url": "/deportes/otros-deportes/yuberjen-martinez-gana-por-nocaut-en-su-estreno-como-profesional-691219"
+  },
+  {
+    "text": "",
+    "url": "/podcast/la-luna-llena-puede-volvernos-lunaticos-691076"
+  },
+  {
+    "text": "\n",
+    "url": "/podcast/la-luna-llena-puede-volvernos-lunaticos-691076"
+  },
+  {
+    "text": "(P\u00f3dcast) \u00bfLa luna llena puede volvernos 'lun\u00e1ticos'?",
+    "url": "/podcast/la-luna-llena-puede-volvernos-lunaticos-691076"
+  },
+  {
+    "text": "",
+    "url": "/podcast"
+  },
+  {
+    "text": "Bicitaxis y seguridad vial",
+    "url": "/opinion/editorial/bicitaxis-y-seguridad-vial-editorial-el-tiempo-691183"
+  },
+  {
+    "text": "Tiene raz\u00f3n la Alcald\u00eda en encarar sus riesgos, distinguiendo los mototaxis de los bicitaxis.",
+    "url": "/opinion/editorial/bicitaxis-y-seguridad-vial-editorial-el-tiempo-691183"
+  },
+  {
+    "text": "Investigaci\u00f3n",
+    "url": "/justicia/investigacion"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/justicia/investigacion/fugas-de-presos-alias-meme-se-escapo-de-la-picota-en-bogota-691174"
+  },
+  {
+    "text": "Alias Meme: este es el preso que se fug\u00f3 de La Picota por un ducto",
+    "url": "/justicia/investigacion/fugas-de-presos-alias-meme-se-escapo-de-la-picota-en-bogota-691174"
+  },
+  {
+    "text": "Sectores",
+    "url": "/economia/sectores"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/economia/sectores/transito-y-seguridad-vial-lo-que-dejo-duque-y-lo-que-falta-por-hacer-691161"
+  },
+  {
+    "text": "Tr\u00e1nsito y seguridad vial: \u00bfqu\u00e9 dej\u00f3 el gobierno Duque y qu\u00e9 falta por hacer?",
+    "url": "/economia/sectores/transito-y-seguridad-vial-lo-que-dejo-duque-y-lo-que-falta-por-hacer-691161"
+  },
+  {
+    "text": "Bogot\u00e1",
+    "url": "/bogota"
+  },
+  {
+    "text": "\nContenido Patrocinado",
+    "url": "/bogota/bogota-las-peores-vias-de-barrios-691195"
+  },
+  {
+    "text": "Algunas de las peores v\u00edas de barrios de Bogot\u00e1, seg\u00fan la ciudadan\u00eda",
+    "url": "/bogota/bogota-las-peores-vias-de-barrios-691195"
+  },
+  {
+    "text": "Otros Deportes",
+    "url": "/deportes/otros-deportes"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/deportes/otros-deportes/yuberjen-martinez-gana-por-nocaut-en-su-estreno-como-profesional-691219"
+  },
+  {
+    "text": "Yuberjen Mart\u00ednez vence por nocaut en su estreno como profesional",
+    "url": "/deportes/otros-deportes/yuberjen-martinez-gana-por-nocaut-en-su-estreno-como-profesional-691219"
+  },
+  {
+    "text": "EEUU",
+    "url": "/mundo/eeuu-y-canada"
+  },
+  {
+    "text": "\n",
+    "url": "/mundo/eeuu-y-canada/blinken-y-lavrov-hablan-por-primera-vez-desde-febrero-691063"
+  },
+  {
+    "text": "Los ejes de la charla entre los jefes de las diplomacias de EE. UU. y Rusia",
+    "url": "/mundo/eeuu-y-canada/blinken-y-lavrov-hablan-por-primera-vez-desde-febrero-691063"
+  },
+  {
+    "text": "Sectores",
+    "url": "/economia/sectores"
+  },
+  {
+    "text": "\n",
+    "url": "/economia/sectores/gas-ecopetrol-y-petrobras-hacen-nuevo-gran-hallazgo-en-el-mar-caribe-690963"
+  },
+  {
+    "text": "\u00bfPor qu\u00e9 es clave para el pa\u00eds el nuevo hallazgo de gas en el mar Caribe?",
+    "url": "/economia/sectores/gas-ecopetrol-y-petrobras-hacen-nuevo-gran-hallazgo-en-el-mar-caribe-690963"
+  },
+  {
+    "text": "",
+    "url": "/cultura/gente/andrea-valdiri-termino-su-amistad-con-epa-colombia-691115"
+  },
+  {
+    "text": "La actitud de \u2018Epa Colombia\u2019 que desilusion\u00f3 a Andrea Valdiri; ya no son amigas",
+    "url": "/cultura/gente/andrea-valdiri-termino-su-amistad-con-epa-colombia-691115"
+  },
+  {
+    "text": "",
+    "url": "/cultura/gente/inglaterra-mujer-murio-en-su-apartamento-y-no-la-encontraron-por-dos-anos-691072"
+  },
+  {
+    "text": "Sheila Seleoane: la mujer que muri\u00f3 sola en 2019 y nadie lo not\u00f3 hasta 2022",
+    "url": "/cultura/gente/inglaterra-mujer-murio-en-su-apartamento-y-no-la-encontraron-por-dos-anos-691072"
+  },
+  {
+    "text": "",
+    "url": "/colombia/barranquilla/premio-a-mansion-construida-en-la-sierra-nevada-690983"
+  },
+  {
+    "text": "Video: la mansi\u00f3n en la Sierra Nevada que gan\u00f3 premio mundial de arquitectura",
+    "url": "/colombia/barranquilla/premio-a-mansion-construida-en-la-sierra-nevada-690983"
+  },
+  {
+    "text": "",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "Europa",
+    "url": "mundo/europa"
+  },
+  {
+    "text": "",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "Cambios en ley migratoria espa\u00f1ola permitir\u00e1n a extranjeros trabajar y residir",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "La reforma facilitar\u00e1 el acceso al mercado de trabajo de los estudiantes, mejora las contrataciones en origen, flexibiliza los requisitos para la reagrupaci\u00f3n familiar y crea la figura del arraigo por formaci\u00f3n.",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "",
+    "url": "/mas-contenido/el-valle-con-mucho-para-dar-688235"
+  },
+  {
+    "text": "M\u00e1s Contenido",
+    "url": "/mas-contenido"
+  },
+  {
+    "text": "\n",
+    "url": "/mas-contenido/el-valle-con-mucho-para-dar-688235"
+  },
+  {
+    "text": "El Valle, una regi\u00f3n con mucho para dar",
+    "url": "/mas-contenido/el-valle-con-mucho-para-dar-688235"
+  },
+  {
+    "text": "",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "Contenido Patrocinado",
+    "url": "/contenido-comercial"
+  },
+  {
+    "text": "\n",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "Regresa la feria ExpoCamacol en su vig\u00e9sima cuarta edici\u00f3n",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "De manera presencial en Medell\u00edn y con gran fuerza, vuelve para reunir al sector de la construcci\u00f3n.",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "Bicitaxis y seguridad vial",
+    "url": "/opinion/editorial/bicitaxis-y-seguridad-vial-editorial-el-tiempo-691183"
+  },
+  {
+    "text": "Tiene raz\u00f3n la Alcald\u00eda en encarar sus riesgos, distinguiendo los mototaxis de los bicitaxis.",
+    "url": "/opinion/editorial/bicitaxis-y-seguridad-vial-editorial-el-tiempo-691183"
+  },
+  {
+    "text": "",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "Europa",
+    "url": "mundo/europa"
+  },
+  {
+    "text": "",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "Cambios en ley migratoria espa\u00f1ola permitir\u00e1n a extranjeros trabajar y residir",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "La reforma facilitar\u00e1 el acceso al mercado de trabajo de los estudiantes, mejora las contrataciones en origen, flexibiliza los requisitos para la reagrupaci\u00f3n familiar y crea la figura del arraigo por formaci\u00f3n.",
+    "url": "/mundo/europa/cambios-en-ley-migratoria-espanola-permitiran-a-extranjeros-trabajar-690916"
+  },
+  {
+    "text": "",
+    "url": "/mas-contenido/el-valle-con-mucho-para-dar-688235"
+  },
+  {
+    "text": "M\u00e1s Contenido",
+    "url": "/mas-contenido"
+  },
+  {
+    "text": "\n",
+    "url": "/mas-contenido/el-valle-con-mucho-para-dar-688235"
+  },
+  {
+    "text": "El Valle, una regi\u00f3n con mucho para dar",
+    "url": "/mas-contenido/el-valle-con-mucho-para-dar-688235"
+  },
+  {
+    "text": "",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "Contenido Patrocinado",
+    "url": "/contenido-comercial"
+  },
+  {
+    "text": "\n",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "Regresa la feria ExpoCamacol en su vig\u00e9sima cuarta edici\u00f3n",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "De manera presencial en Medell\u00edn y con gran fuerza, vuelve para reunir al sector de la construcci\u00f3n.",
+    "url": "/contenido-comercial/regresa-la-feria-expocamacol-en-su-vigesima-cuarta-edicion-690522"
+  },
+  {
+    "text": "BANDAS CRIMINALES",
+    "url": "https://www.eltiempo.com/unidad-investigativa/plan-pistola-la-estrategia-de-bandas-para-sacar-ventaja-de-un-sometimiento-691216"
+  },
+  {
+    "text": "TASAS DE INTER\u00c9S",
+    "url": "https://www.eltiempo.com/economia/sector-financiero/cuanto-elevo-su-tasa-de-interes-el-banco-de-la-republica-este-viernes-691068"
+  },
+  {
+    "text": "PAZ TOTAL",
+    "url": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-explica-como-las-bandas-criminales-se-someteran-a-la-justicia-691184"
+  },
+  {
+    "text": "SHAKIRA",
+    "url": "https://www.eltiempo.com/mundo/europa/shakira-por-que-la-fiscalia-en-espana-la-senala-de-fraude-fiscal-691169"
+  },
+  {
+    "text": "SELECCI\u00d3N COLOMBIA FEMENINA",
+    "url": "https://www.eltiempo.com/deportes/futbol-internacional/seleccion-colombia-femenina-vs-brasil-previo-hora-y-tv-en-copa-america-691222"
+  },
+  {
+    "text": "Exclusivo suscriptores",
+    "url": "https://www.eltiempo.com/noticias/exclusivo-suscriptores"
+  },
+  {
+    "text": "ESPECIALES EL TIEMPO",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/deportes/futbol-internacional/liverpool-vs-manchester-city-hora-y-donde-ver-en-television-luis-diaz-691054"
+  },
+  {
+    "text": "F\u00fatbol Internacional",
+    "url": "/deportes/futbol-internacional"
+  },
+  {
+    "text": "\nGaler\u00eda",
+    "url": "/deportes/futbol-internacional/liverpool-vs-manchester-city-hora-y-donde-ver-en-television-luis-diaz-691054"
+  },
+  {
+    "text": "Luis D\u00edaz va por otro t\u00edtulo, Liverpool vs. Manchester City: hora y d\u00f3nde ver",
+    "url": "/deportes/futbol-internacional/liverpool-vs-manchester-city-hora-y-donde-ver-en-television-luis-diaz-691054"
+  },
+  {
+    "text": "M\u00e1s especiales",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/salud/entrevista-a-juan-manuel-anaya-galardonado-investigador-nacional-2022-691185"
+  },
+  {
+    "text": "Salud",
+    "url": "/salud"
+  },
+  {
+    "text": "\nMEDIA",
+    "url": "/salud/entrevista-a-juan-manuel-anaya-galardonado-investigador-nacional-2022-691185"
+  },
+  {
+    "text": "\u2018Todo en ciencia, incluyendo la publicaci\u00f3n de resultados, exige perseverancia\u2019",
+    "url": "/salud/entrevista-a-juan-manuel-anaya-galardonado-investigador-nacional-2022-691185"
+  },
+  {
+    "text": "",
+    "url": "/datos/streaming-en-cifras-asi-evoluciona-la-forma-en-que-consumimos-musica-690802"
+  },
+  {
+    "text": "Datos",
+    "url": "/datos"
+  },
+  {
+    "text": "ESPECIALES EL TIEMPO",
+    "url": "#"
+  },
+  {
+    "text": "\nMEDIA",
+    "url": "/datos/streaming-en-cifras-asi-evoluciona-la-forma-en-que-consumimos-musica-690802"
+  },
+  {
+    "text": "Del CD al streaming, en cifras: as\u00ed evoluciona la forma en que escuchamos m\u00fasica",
+    "url": "/datos/streaming-en-cifras-asi-evoluciona-la-forma-en-que-consumimos-musica-690802"
+  },
+  {
+    "text": "M\u00e1s especiales",
+    "url": "#"
+  },
+  {
+    "text": "Aporta la mayor\u00eda de las ganancias del sector de m\u00fasica grabada.",
+    "url": "/datos/streaming-en-cifras-asi-evoluciona-la-forma-en-que-consumimos-musica-690802"
+  },
+  {
+    "text": "",
+    "url": "/salud/ley-jeronimo-en-que-consiste-la-nueva-ley-para-pacientes-con-cancer-690827"
+  },
+  {
+    "text": "Salud",
+    "url": "/salud"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/salud/ley-jeronimo-en-que-consiste-la-nueva-ley-para-pacientes-con-cancer-690827"
+  },
+  {
+    "text": "Ley Jer\u00f3nimo: 'Colombia gana otra batalla en la lucha contra el C\u00e1ncer'",
+    "url": "/salud/ley-jeronimo-en-que-consiste-la-nueva-ley-para-pacientes-con-cancer-690827"
+  },
+  {
+    "text": "El suceso se convierte en una esperanza de vida.",
+    "url": "/salud/ley-jeronimo-en-que-consiste-la-nueva-ley-para-pacientes-con-cancer-690827"
+  },
+  {
+    "text": "Cine y Tv",
+    "url": "/cultura/cine-y-tv"
+  },
+  {
+    "text": "\n",
+    "url": "/cultura/cine-y-tv/la-escritora-isabel-allende-cumple-80-anos-691088"
+  },
+  {
+    "text": "La escritora Isabel Allende cumple 80 a\u00f1os llenos de historias... y de series",
+    "url": "/cultura/cine-y-tv/la-escritora-isabel-allende-cumple-80-anos-691088"
+  },
+  {
+    "text": "Gente",
+    "url": "/cultura/gente"
+  },
+  {
+    "text": "\n",
+    "url": "/cultura/gente/oscar-naranjo-de-protagonistas-de-novela-reaparece-vendiendo-en-la-calle-691132"
+  },
+  {
+    "text": "\u00d3scar Naranjo, de \u2018Protagonistas de Nuestra Tele\u2019, ahora es vendedor informal",
+    "url": "/cultura/gente/oscar-naranjo-de-protagonistas-de-novela-reaparece-vendiendo-en-la-calle-691132"
+  },
+  {
+    "text": "Seleccionar temas",
+    "url": "/login"
+  },
+  {
+    "text": "editar",
+    "url": "/login"
+  },
+  {
+    "text": "ver todas",
+    "url": "/login"
+  },
+  {
+    "text": "\u00d3scar Naranjo, de \u2018Protagonistas de Nuestra Tele\u2019, ahora es vendedor informal",
+    "url": "/cultura/gente/oscar-naranjo-de-protagonistas-de-novela-reaparece-vendiendo-en-la-calle-691132"
+  },
+  {
+    "text": "Rodolfo Hern\u00e1ndez renunciar\u00eda al Senado, \u00bfpor qu\u00e9?",
+    "url": "/politica/congreso/rodolfo-hernandez-dejaria-el-senado-para-aspirar-a-la-gobernacion-690993"
+  },
+  {
+    "text": "\u00bfShakira y Piqu\u00e9 no se separan? As\u00ed son\u00f3 'Te felicito' en camerino de Barcelona",
+    "url": "/deportes/futbol-internacional/shakira-y-pique-te-felicito-sono-en-el-camerino-del-barcelona-en-dallas-690437"
+  },
+  {
+    "text": "Roy Barreras habla de su hijo que practica poliamor: 'No tiene pareja sino nido'",
+    "url": "/cultura/gente/roy-barreras-habla-de-su-hijo-que-practica-el-poliamor-690971"
+  },
+  {
+    "text": "\u00bfCu\u00e1nto cobraba Dar\u00edo G\u00f3mez por un concierto?",
+    "url": "/cultura/musica-y-libros/dario-gomez-cuanto-cobraba-por-un-concierto-privado-690961"
+  },
+  {
+    "text": "Mary M\u00e9ndez dice que alguien cercano la traicion\u00f3 tras filtraci\u00f3n de su vida",
+    "url": "/cultura/gente/mary-mendez-dice-que-un-amigo-cercano-revelo-informacion-privada-690970"
+  },
+  {
+    "text": "Tres cosas para las cuales nunca se debe adquirir una deuda",
+    "url": "/economia/finanzas-personales/deudas-las-tres-cosas-para-las-cuales-nunca-se-debe-pedir-prestado-690637"
+  },
+  {
+    "text": "M\u00e1s boletines",
+    "url": "https://www.eltiempo.com/zona-usuario/boletines"
+  },
+  {
+    "text": "T\u00e9rminos y Condiciones",
+    "url": "https://www.eltiempo.com/terminos-condiciones"
+  },
+  {
+    "text": "Pol\u00edtica de Tratamiento de Datos de CASA EDITORIAL EL TIEMPO S.A",
+    "url": "https://www.eltiempo.com/legal/POLITICA_DE_TRATAMIENTO_Y_PROCEDIMIENTOS_EN_MATERIA_DE_PROTECCION_DE_DATOS_PERSONALES.pdf"
+  },
+  {
+    "text": " Pol\u00edtica de datos de Navegaci\u00f3n/cookies.",
+    "url": "/politica-de-cookies"
+  },
+  {
+    "text": "En Vivo",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "En Vivo",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "Conflicto y Narcotr\u00e1fico",
+    "url": "/justicia/conflicto-y-narcotrafico"
+  },
+  {
+    "text": "Eln dice que dos secuestrados murieron en choque con la Fuerza P\u00fablica",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "Las v\u00edctimas, seg\u00fan esa guerrilla, son Vladimir Herrera y Jaime Le\u00f3n Ram\u00edrez.",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "",
+    "url": "/mundo/eeuu-y-canada/no-quiero-morir-ultimo-grito-de-estudiante-antes-de-ataque-de-orcas-691052"
+  },
+  {
+    "text": "EEUU",
+    "url": "/mundo/eeuu-y-canada"
+  },
+  {
+    "text": "\nGaler\u00eda",
+    "url": "/mundo/eeuu-y-canada/no-quiero-morir-ultimo-grito-de-estudiante-antes-de-ataque-de-orcas-691052"
+  },
+  {
+    "text": "\u00a1No quiero morir!: El \u00faltimo grito de estudiante antes de ser atacada por orcas",
+    "url": "/mundo/eeuu-y-canada/no-quiero-morir-ultimo-grito-de-estudiante-antes-de-ataque-de-orcas-691052"
+  },
+  {
+    "text": "El animal habr\u00eda matado a tres personas mientras estaba en cautiverio. ",
+    "url": "/mundo/eeuu-y-canada/no-quiero-morir-ultimo-grito-de-estudiante-antes-de-ataque-de-orcas-691052"
+  },
+  {
+    "text": "",
+    "url": "https://cursos.eltiempo.com/curso/transformacion-digital/?utm_source=eltiempo&utm_medium=enlace&utm_campaign=publirreportaje&utm_content=publirreportaje-transformacion-digital-29-07-2022"
+  },
+  {
+    "text": "Contenido Patrocinado",
+    "url": "https://cursos.eltiempo.com/curso/transformacion-digital/?utm_source=eltiempo&utm_medium=enlace&utm_campaign=publirreportaje&utm_content=publirreportaje-transformacion-digital-29-07-2022"
+  },
+  {
+    "text": "\n",
+    "url": "https://cursos.eltiempo.com/curso/transformacion-digital/?utm_source=eltiempo&utm_medium=enlace&utm_campaign=publirreportaje&utm_content=publirreportaje-transformacion-digital-29-07-2022"
+  },
+  {
+    "text": "Transformaci\u00f3n digital: Descubra el nuevo mundo digital en los negocios",
+    "url": "https://cursos.eltiempo.com/curso/transformacion-digital/?utm_source=eltiempo&utm_medium=enlace&utm_campaign=publirreportaje&utm_content=publirreportaje-transformacion-digital-29-07-2022"
+  },
+  {
+    "text": "Aprenda como crear estrategias digitales en gobernanza de datos, procesos y tecnolog\u00eda",
+    "url": "https://cursos.eltiempo.com/curso/transformacion-digital/?utm_source=eltiempo&utm_medium=enlace&utm_campaign=publirreportaje&utm_content=publirreportaje-transformacion-digital-29-07-2022"
+  },
+  {
+    "text": "",
+    "url": "/cultura/musica-y-libros/kiss-y-otras-bandas-con-integrantes-que-se-detestan-mutuamente-690520"
+  },
+  {
+    "text": "M\u00fasica y Libros",
+    "url": "/cultura/musica-y-libros"
+  },
+  {
+    "text": "\nGaler\u00eda",
+    "url": "/cultura/musica-y-libros/kiss-y-otras-bandas-con-integrantes-que-se-detestan-mutuamente-690520"
+  },
+  {
+    "text": "Compa\u00f1eros de bandas exitosas que se detestan mutuamente",
+    "url": "/cultura/musica-y-libros/kiss-y-otras-bandas-con-integrantes-que-se-detestan-mutuamente-690520"
+  },
+  {
+    "text": "Oasis, Kiss y Blink-182 son algunas de las agrupaciones cuyos miembros no se soportan. \u00bfPor qu\u00e9?",
+    "url": "/cultura/musica-y-libros/kiss-y-otras-bandas-con-integrantes-que-se-detestan-mutuamente-690520"
+  },
+  {
+    "text": "",
+    "url": "/cultura/arte-y-teatro/luis-caballero-su-hermana-presenta-un-libro-con-fotos-e-historias-intimas-691098"
+  },
+  {
+    "text": "Arte y Teatro",
+    "url": "/cultura/arte-y-teatro"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/cultura/arte-y-teatro/luis-caballero-su-hermana-presenta-un-libro-con-fotos-e-historias-intimas-691098"
+  },
+  {
+    "text": "Beatriz Caballero: 'A Luis le gustaban Visconti, Bu\u00f1uel, Fellini...Y porno'",
+    "url": "/cultura/arte-y-teatro/luis-caballero-su-hermana-presenta-un-libro-con-fotos-e-historias-intimas-691098"
+  },
+  {
+    "text": "La hermana de Luis Caballero acaba de publicar un libro de instant\u00e1neas personales del artista.",
+    "url": "/cultura/arte-y-teatro/luis-caballero-su-hermana-presenta-un-libro-con-fotos-e-historias-intimas-691098"
+  },
+  {
+    "text": "M\u00c1S PODCAST",
+    "url": "/podcast"
+  },
+  {
+    "text": "Pacto Hist\u00f3rico habla del 'Plan Pistola', 'paz total' y agenda legislativa",
+    "url": "/podcast/el-primer-cafe/pacto-historico-habla-de-plan-pistola-paz-total-y-agenda-legislativa-690918"
+  },
+  {
+    "text": "M\u00c1S PODCAST",
+    "url": "/podcast"
+  },
+  {
+    "text": "tema del d\u00eda",
+    "url": "https://www.eltiempo.com/foro-w/w-radio-senal-en-vivo-tema-del-dia-usted-que-piensa-de-venezuela-690923"
+  },
+  {
+    "text": "\u00bfUsted qu\u00e9 piensa de Venezuela? #DeVenezuelaPienso",
+    "url": "https://www.eltiempo.com/foro-w/w-radio-senal-en-vivo-tema-del-dia-usted-que-piensa-de-venezuela-690923"
+  },
+  {
+    "text": "ESCUCHA LA SE\u00d1AL EN VIVO",
+    "url": "https://www.eltiempo.com/foro-w/foro-w-senal-en-vivo-de-la-emisora-w-radio-631131"
+  },
+  {
+    "text": "opina",
+    "url": "https://www.eltiempo.com/foro-w/w-radio-senal-en-vivo-tema-del-dia-usted-que-piensa-de-venezuela-690923"
+  },
+  {
+    "text": "En Vivo",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "En Vivo",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "Conflicto y Narcotr\u00e1fico",
+    "url": "/justicia/conflicto-y-narcotrafico"
+  },
+  {
+    "text": "Eln dice que dos secuestrados murieron en choque con la Fuerza P\u00fablica",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "Las v\u00edctimas, seg\u00fan esa guerrilla, son Vladimir Herrera y Jaime Le\u00f3n Ram\u00edrez.",
+    "url": "/justicia/conflicto-y-narcotrafico/eln-secuestrados-en-su-poder-habrian-muerto-por-combates-con-el-ejercito-691221"
+  },
+  {
+    "text": "Europa",
+    "url": "/mundo/europa"
+  },
+  {
+    "text": "\n",
+    "url": "/mundo/europa/guerra-rusia-ucrania-fuertes-acusaciones-por-ataque-con-misiles-691022"
+  },
+  {
+    "text": "Rusia y Ucrania cruzan acusaciones por ataque contra prisioneros de guerra",
+    "url": "/mundo/europa/guerra-rusia-ucrania-fuertes-acusaciones-por-ataque-con-misiles-691022"
+  },
+  {
+    "text": "El ministerio ruso de Defensa afirm\u00f3 que el ataque se llev\u00f3 a cabo con misiles de largo alcance.",
+    "url": "/mundo/europa/guerra-rusia-ucrania-fuertes-acusaciones-por-ataque-con-misiles-691022"
+  },
+  {
+    "text": "Educaci\u00f3n",
+    "url": "/vida/educacion"
+  },
+  {
+    "text": "\n",
+    "url": "/vida/educacion/gustavo-petro-petro-insiste-en-catedra-de-historia-en-colegios-publicos-691176"
+  },
+  {
+    "text": "Petro insiste en la c\u00e1tedra de Historia en colegios p\u00fablicos",
+    "url": "/vida/educacion/gustavo-petro-petro-insiste-en-catedra-de-historia-en-colegios-publicos-691176"
+  },
+  {
+    "text": "A su vez, el Ministerio de Educaci\u00f3n present\u00f3 avances en la reglamentaci\u00f3n de esta materia.",
+    "url": "/vida/educacion/gustavo-petro-petro-insiste-en-catedra-de-historia-en-colegios-publicos-691176"
+  },
+  {
+    "text": "Europa",
+    "url": "/mundo/europa"
+  },
+  {
+    "text": "\n",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "Inflaci\u00f3n en la zona euro marca un nuevo r\u00e9cord, pero su econom\u00eda resiste",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "A pesar de que los precios al consumidor llegaron a un 8,9 %, el PIB creci\u00f3 t\u00edmidamente un 0,7 %.",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "Europa",
+    "url": "/mundo/europa"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "Inflaci\u00f3n en la zona euro marca un nuevo r\u00e9cord, pero su econom\u00eda resiste",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "",
+    "url": "/economia/finanzas-personales/conjuntos-residenciales-bienes-comunes-patio-interior-691065"
+  },
+  {
+    "text": "Finanzas Personales",
+    "url": "/economia/finanzas-personales"
+  },
+  {
+    "text": "\nEn Vivo",
+    "url": "/economia/finanzas-personales/conjuntos-residenciales-bienes-comunes-patio-interior-691065"
+  },
+  {
+    "text": "Qu\u00e9 hacer frente a un cubrimiento ilegal de un patio interior",
+    "url": "/economia/finanzas-personales/conjuntos-residenciales-bienes-comunes-patio-interior-691065"
+  },
+  {
+    "text": "Sectores",
+    "url": "/economia/sectores"
+  },
+  {
+    "text": "\nEn Vivo",
+    "url": "/economia/sectores/desempleo-en-colombia-en-junio-bajo-a-11-por-ciento-691008"
+  },
+  {
+    "text": "Baja el desempleo en junio y se crean casi 2 millones de puestos nuevos",
+    "url": "/economia/sectores/desempleo-en-colombia-en-junio-bajo-a-11-por-ciento-691008"
+  },
+  {
+    "text": "Gobierno",
+    "url": "/politica/gobierno"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/politica/gobierno/presupuesto-nacional-para-2023-de-cuanto-sera-691181"
+  },
+  {
+    "text": "Minhacienda radica proyecto del presupuesto para 2023: ser\u00e1 de $391,4 billones",
+    "url": "/politica/gobierno/presupuesto-nacional-para-2023-de-cuanto-sera-691181"
+  },
+  {
+    "text": "\u00d3scar Naranjo, de \u2018Protagonistas de Nuestra Tele\u2019, ahora es vendedor informal",
+    "url": "/cultura/gente/oscar-naranjo-de-protagonistas-de-novela-reaparece-vendiendo-en-la-calle-691132"
+  },
+  {
+    "text": "Rodolfo Hern\u00e1ndez renunciar\u00eda al Senado, \u00bfpor qu\u00e9?",
+    "url": "/politica/congreso/rodolfo-hernandez-dejaria-el-senado-para-aspirar-a-la-gobernacion-690993"
+  },
+  {
+    "text": "\u00bfShakira y Piqu\u00e9 no se separan? As\u00ed son\u00f3 'Te felicito' en camerino de Barcelona",
+    "url": "/deportes/futbol-internacional/shakira-y-pique-te-felicito-sono-en-el-camerino-del-barcelona-en-dallas-690437"
+  },
+  {
+    "text": "Roy Barreras habla de su hijo que practica poliamor: 'No tiene pareja sino nido'",
+    "url": "/cultura/gente/roy-barreras-habla-de-su-hijo-que-practica-el-poliamor-690971"
+  },
+  {
+    "text": "\u00bfCu\u00e1nto cobraba Dar\u00edo G\u00f3mez por un concierto?",
+    "url": "/cultura/musica-y-libros/dario-gomez-cuanto-cobraba-por-un-concierto-privado-690961"
+  },
+  {
+    "text": "Mary M\u00e9ndez dice que alguien cercano la traicion\u00f3 tras filtraci\u00f3n de su vida",
+    "url": "/cultura/gente/mary-mendez-dice-que-un-amigo-cercano-revelo-informacion-privada-690970"
+  },
+  {
+    "text": "Tres cosas para las cuales nunca se debe adquirir una deuda",
+    "url": "/economia/finanzas-personales/deudas-las-tres-cosas-para-las-cuales-nunca-se-debe-pedir-prestado-690637"
+  },
+  {
+    "text": "M\u00e1s boletines",
+    "url": "https://www.eltiempo.com/zona-usuario/boletines"
+  },
+  {
+    "text": "T\u00e9rminos y Condiciones",
+    "url": "https://www.eltiempo.com/terminos-condiciones"
+  },
+  {
+    "text": "Pol\u00edtica de Tratamiento de Datos de CASA EDITORIAL EL TIEMPO S.A",
+    "url": "https://www.eltiempo.com/legal/POLITICA_DE_TRATAMIENTO_Y_PROCEDIMIENTOS_EN_MATERIA_DE_PROTECCION_DE_DATOS_PERSONALES.pdf"
+  },
+  {
+    "text": " Pol\u00edtica de datos de Navegaci\u00f3n/cookies.",
+    "url": "/politica-de-cookies"
+  },
+  {
+    "text": "Europa",
+    "url": "/mundo/europa"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "Inflaci\u00f3n en la zona euro marca un nuevo r\u00e9cord, pero su econom\u00eda resiste",
+    "url": "/mundo/europa/inflacion-en-la-eurozona-bate-record-y-sube-a-8-9-por-ciento-691035"
+  },
+  {
+    "text": "Finanzas Personales",
+    "url": "/economia/finanzas-personales"
+  },
+  {
+    "text": "\nEn Vivo",
+    "url": "/economia/finanzas-personales/conjuntos-residenciales-bienes-comunes-patio-interior-691065"
+  },
+  {
+    "text": "Qu\u00e9 hacer frente a un cubrimiento ilegal de un patio interior",
+    "url": "/economia/finanzas-personales/conjuntos-residenciales-bienes-comunes-patio-interior-691065"
+  },
+  {
+    "text": "Sectores",
+    "url": "/economia/sectores"
+  },
+  {
+    "text": "\nEn Vivo",
+    "url": "/economia/sectores/desempleo-en-colombia-en-junio-bajo-a-11-por-ciento-691008"
+  },
+  {
+    "text": "Baja el desempleo en junio y se crean casi 2 millones de puestos nuevos",
+    "url": "/economia/sectores/desempleo-en-colombia-en-junio-bajo-a-11-por-ciento-691008"
+  },
+  {
+    "text": "Gobierno",
+    "url": "/politica/gobierno"
+  },
+  {
+    "text": "\nVideo",
+    "url": "/politica/gobierno/presupuesto-nacional-para-2023-de-cuanto-sera-691181"
+  },
+  {
+    "text": "Minhacienda radica proyecto del presupuesto para 2023: ser\u00e1 de $391,4 billones",
+    "url": "/politica/gobierno/presupuesto-nacional-para-2023-de-cuanto-sera-691181"
+  },
+  {
+    "text": "\n\n",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "https://api.whatsapp.com/send/?phone=573223090079&text&app_absent=0"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/eltiempo"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/eltiempo"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/ElTiempoPLAY"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/eltiempo/"
+  },
+  {
+    "text": "Ayuda",
+    "url": "/ayuda"
+  },
+  {
+    "text": "Aviso de Privacidad",
+    "url": "/politica-privacidad"
+  },
+  {
+    "text": "T\u00e9rminos y condiciones",
+    "url": "/terminos-condiciones"
+  },
+  {
+    "text": "Pol\u00edtica de Cookies",
+    "url": "/politica-de-cookies"
+  },
+  {
+    "text": "Mapa del Sitio",
+    "url": "/mapa-sitio"
+  },
+  {
+    "text": "Conoce Nuestros Portales",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "Servicio al Cliente",
+    "url": "/servicio-al-cliente"
+  },
+  {
+    "text": "L\u00ednea \u00c9tica",
+    "url": "https://www.eltiempocasaeditorial.com/linea-etica"
+  },
+  {
+    "text": "Club de suscriptores Vivamos",
+    "url": "http://www.clubvivamos.com/"
+  },
+  {
+    "text": "RSS",
+    "url": "/rss"
+  },
+  {
+    "text": "Cursos El Tiempo",
+    "url": "https://cursos.eltiempo.com/"
+  },
+  {
+    "text": "Casa Editorial El Tiempo",
+    "url": "https://www.eltiempocasaeditorial.com/"
+  },
+  {
+    "text": "Colecciones El Tiempo",
+    "url": "https://tienda.eltiempo.com/"
+  },
+  {
+    "text": "Paute con nosotros",
+    "url": "http://www.audienciadigital.co/"
+  },
+  {
+    "text": "Trabaje con nosotros",
+    "url": "http://www.elempleo.com/sitios-empresariales/colombia/el-tiempo-casa-editorial/"
+  },
+  {
+    "text": "Publicidad Pol\u00edtica Pagada",
+    "url": "/publicidad-politica-pagada"
+  },
+  {
+    "text": "Suscribirse",
+    "url": "https://seg.eltiempo.com/suscripciones/impreso/eltiempodigital"
+  },
+  {
+    "text": "Reversi\u00f3n de Pago",
+    "url": "https://www.eltiempocasaeditorial.com/solicitud-reversion-de-pago"
+  },
+  {
+    "text": "\n\n\n\n",
+    "url": "https://ami.org.co/"
+  },
+  {
+    "text": "\nAsociaci\u00f3n Colombiana de Medios de Informaci\u00f3n\n",
+    "url": "https://ami.org.co/"
+  },
+  {
+    "text": "\n\n\n\n",
+    "url": "https://www.sic.gov.co/"
+  },
+  {
+    "text": "\nSuperintendencia de Industria y Comercio\n",
+    "url": "https://www.sic.gov.co/"
+  },
+  {
+    "text": "Noticias de econom\u00eda - portafolio.co",
+    "url": "http://portafolio.co"
+  },
+  {
+    "text": "Toda la informaci\u00f3n para padres - abcdelbebe.co",
+    "url": "https://www.abcdelbebe.com/"
+  },
+  {
+    "text": "Empleos en Colombia - elempleo.com",
+    "url": "http://www.elempleo.com/co/ofertas-empleo/"
+  },
+  {
+    "text": "Noticias de f\u00fatbol - futbolred.com",
+    "url": "http://www.futbolred.com"
+  },
+  {
+    "text": "Novedades del sector automotriz - motor.com.co",
+    "url": "https://www.motor.com.co/"
+  },
+  {
+    "text": "Fotos y modelos - revistadonjuan.com",
+    "url": "http://www.revistadonjuan.com"
+  },
+  {
+    "text": "Noticias de Actualidad - diarioadn.co",
+    "url": "http://www.diarioadn.co"
+  },
+  {
+    "text": "Espacio dedicado a mujeres - alo.co",
+    "url": "https://www.alo.co/"
+  }
+]

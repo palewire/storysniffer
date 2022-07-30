@@ -1,0 +1,954 @@
+[
+  {
+    "text": "",
+    "url": "https://www.bleepingcomputer.com/"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/BleepingComputer"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/BleepinComputer"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/BleepingComputer"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/BleepingComputer"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/BleepinComputer"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/BleepingComputer"
+  },
+  {
+    "text": "News",
+    "url": "https://www.bleepingcomputer.com/"
+  },
+  {
+    "text": "Featured",
+    "url": "#nfeatured"
+  },
+  {
+    "text": "Latest",
+    "url": "#nlatest"
+  },
+  {
+    "text": "\n\nMicrosoft releases Windows 10 22H2 preview for enterprise testing\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-22h2-preview-for-enterprise-testing/"
+  },
+  {
+    "text": "\n\nMalicious npm packages steal Discord users\u2019 payment card info\n",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/"
+  },
+  {
+    "text": "\n\nCyberspies use Google Chrome extension to steal emails undetected\n",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/"
+  },
+  {
+    "text": "\n\nAkamai blocked largest DDoS in Europe against one of its customers\n",
+    "url": "https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"
+  },
+  {
+    "text": "\n\nCISA warns of critical Confluence bug exploited in attacks\n",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/"
+  },
+  {
+    "text": "\n\nUS govt warns Americans of escalating SMS phishing attacks\n",
+    "url": "https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/"
+  },
+  {
+    "text": "\n\nLockBit operator abuses Windows Defender to load Cobalt Strike\n",
+    "url": "https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"
+  },
+  {
+    "text": "\n\nWindows 11\u2019s new kiosk mode lets admins limit available apps\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-s-new-kiosk-mode-lets-admins-limit-available-apps/"
+  },
+  {
+    "text": "Downloads",
+    "url": "https://www.bleepingcomputer.com/download/"
+  },
+  {
+    "text": "Latest",
+    "url": "#dlatest"
+  },
+  {
+    "text": "Most Downloaded",
+    "url": "#most"
+  },
+  {
+    "text": "\n\nQualys BrowserCheck\n",
+    "url": "https://www.bleepingcomputer.com/download/qualys-browsercheck/"
+  },
+  {
+    "text": "\n\nSTOPDecrypter\n",
+    "url": "https://www.bleepingcomputer.com/download/stopdecrypter/"
+  },
+  {
+    "text": "\n\nAuroraDecrypter\n",
+    "url": "https://www.bleepingcomputer.com/download/auroradecrypter/"
+  },
+  {
+    "text": "\n\nFilesLockerDecrypter\n",
+    "url": "https://www.bleepingcomputer.com/download/fileslockerdecrypter/"
+  },
+  {
+    "text": "\n\nAdwCleaner\n",
+    "url": "/download/adwcleaner/"
+  },
+  {
+    "text": "\n\nComboFix\n",
+    "url": "/download/combofix/"
+  },
+  {
+    "text": "\n\nRKill\n",
+    "url": "/download/rkill/"
+  },
+  {
+    "text": "\n\nJunkware Removal Tool\n",
+    "url": "/download/junkware-removal-tool/"
+  },
+  {
+    "text": "Virus Removal Guides",
+    "url": "https://www.bleepingcomputer.com/virus-removal/"
+  },
+  {
+    "text": "Latest",
+    "url": "#vlatest"
+  },
+  {
+    "text": "Most Viewed",
+    "url": "#vmost"
+  },
+  {
+    "text": "Ransomware",
+    "url": "#ransomware"
+  },
+  {
+    "text": "\n\nHow to remove the PBlock+ adware browser extension\n",
+    "url": "/virus-removal/how-to-remove-the-pblock-adware-extension"
+  },
+  {
+    "text": "\n\nRemove the Toksearches.xyz Search Redirect\n",
+    "url": "/virus-removal/remove-toksearches.xyz-search-redirect"
+  },
+  {
+    "text": "\n\nRemove the Smashapps.net Search Redirect\n",
+    "url": "/virus-removal/remove-smashapps.net-search-redirect"
+  },
+  {
+    "text": "\n\nRemove the Smashappsearch.com Search Redirect\n",
+    "url": "/virus-removal/remove-smashappsearch.com-search-redirect"
+  },
+  {
+    "text": "\n\nRemove Security Tool and SecurityTool (Uninstall Guide)\n",
+    "url": "/virus-removal/remove-security-tool"
+  },
+  {
+    "text": "\n\nHow to remove Antivirus 2009 (Uninstall Instructions)\n",
+    "url": "/virus-removal/uninstall-antivirus-2009"
+  },
+  {
+    "text": "\n\nHow to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo\n",
+    "url": "/virus-removal/remove-vundo-virtumonde"
+  },
+  {
+    "text": "\n\nHow to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller\n",
+    "url": "/virus-removal/remove-tdss-tdl3-alureon-rootkit-using-tdsskiller"
+  },
+  {
+    "text": "\n\nLocky Ransomware Information, Help Guide, and FAQ\n",
+    "url": "/virus-removal/locky-ransomware-information-help"
+  },
+  {
+    "text": "\n\nCryptoLocker Ransomware Information Guide and FAQ\n",
+    "url": "/virus-removal/cryptolocker-ransomware-information"
+  },
+  {
+    "text": "\n\nCryptorBit and HowDecrypt Information Guide and FAQ\n",
+    "url": "/virus-removal/cryptorbit-ransomware-information"
+  },
+  {
+    "text": "\n\nCryptoDefense and How_Decrypt Ransomware Information Guide and FAQ\n",
+    "url": "/virus-removal/cryptodefense-ransomware-information"
+  },
+  {
+    "text": "Tutorials",
+    "url": "https://www.bleepingcomputer.com/tutorials/"
+  },
+  {
+    "text": "Latest",
+    "url": "#tlatest"
+  },
+  {
+    "text": "Popular",
+    "url": "#popular"
+  },
+  {
+    "text": "\n\nHow to open a Windows 11 Command Prompt as Administrator\n",
+    "url": "/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/"
+  },
+  {
+    "text": "\n\nHow to make the Start menu full screen in Windows 10\n",
+    "url": "/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/"
+  },
+  {
+    "text": "\n\nHow to install the Microsoft Visual C++ 2015 Runtime\n",
+    "url": "/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/"
+  },
+  {
+    "text": "\n\nHow to open an elevated PowerShell Admin prompt in Windows 10\n",
+    "url": "/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/"
+  },
+  {
+    "text": "\n\nHow to start Windows in Safe Mode\n",
+    "url": "/tutorials/how-to-start-windows-in-safe-mode/"
+  },
+  {
+    "text": "\n\nHow to remove a Trojan, Virus, Worm, or other Malware\n",
+    "url": "/tutorials/how-to-remove-a-trojan-virus-worm-or-malware/"
+  },
+  {
+    "text": "\n\nHow to show hidden files in Windows 7\n",
+    "url": "/tutorials/show-hidden-files-in-windows-7/"
+  },
+  {
+    "text": "\n\nHow to see hidden files in Windows\n",
+    "url": "/tutorials/how-to-see-hidden-files-in-windows/"
+  },
+  {
+    "text": "Deals",
+    "url": "https://deals.bleepingcomputer.com/"
+  },
+  {
+    "text": "Categories",
+    "url": "#dcategories"
+  },
+  {
+    "text": "\n\neLearning\n",
+    "url": "https://deals.bleepingcomputer.com/deals/elearning?utm_source=bleepingcomputer.com&utm_medium=dd_cat"
+  },
+  {
+    "text": "\n\nIT Certification Courses\n",
+    "url": "https://deals.bleepingcomputer.com/deals/certifications?utm_source=bleepingcomputer.com&utm_medium=dd_cat"
+  },
+  {
+    "text": "\n\nGear + Gadgets\n",
+    "url": "https://deals.bleepingcomputer.com/deals/gear-gadgets?utm_source=bleepingcomputer.com&utm_medium=dd_cat"
+  },
+  {
+    "text": "\n\nSecurity\n",
+    "url": "https://deals.bleepingcomputer.com/collections/tag-cyber-security?utm_source=bleepingcomputer.com&utm_medium=dd_cat"
+  },
+  {
+    "text": "Forums",
+    "url": "https://www.bleepingcomputer.com/forums/"
+  },
+  {
+    "text": "More",
+    "url": "#"
+  },
+  {
+    "text": "Startup Database",
+    "url": "https://www.bleepingcomputer.com/startups/"
+  },
+  {
+    "text": "Uninstall Database",
+    "url": "https://www.bleepingcomputer.com/uninstall/"
+  },
+  {
+    "text": "File Database",
+    "url": "https://www.bleepingcomputer.com/filedb/"
+  },
+  {
+    "text": "Glossary",
+    "url": "https://www.bleepingcomputer.com/glossary/"
+  },
+  {
+    "text": "Chat on Discord",
+    "url": "https://www.bleepingcomputer.com/forums/t/730914/the-bleepingcomputer-official-discord-chat-server-come-join-the-fun/"
+  },
+  {
+    "text": "Send us a Tip!",
+    "url": "https://www.bleepingcomputer.com/news-tip/"
+  },
+  {
+    "text": "Welcome Guide",
+    "url": "https://www.bleepingcomputer.com/welcome-guide/"
+  },
+  {
+    "text": "\n\nMicrosoft releases Windows 10 22H2 preview for enterprise testing\n\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-22h2-preview-for-enterprise-testing/"
+  },
+  {
+    "text": "\n\nMalicious npm packages steal Discord users\u2019 payment card info\n\n",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/"
+  },
+  {
+    "text": "\n\nCyberspies use Google Chrome extension to steal emails undetected\n\n",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/"
+  },
+  {
+    "text": "\n\nAkamai blocked largest DDoS in Europe against one of its customers\n\n",
+    "url": "https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"
+  },
+  {
+    "text": "\n\nMicrosoft releases Windows 10 22H2 preview for enterprise testing\n\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-22h2-preview-for-enterprise-testing/"
+  },
+  {
+    "text": "\n\nMalicious npm packages steal Discord users\u2019 payment card info\n\n",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/"
+  },
+  {
+    "text": "\n\nCyberspies use Google Chrome extension to steal emails undetected\n\n",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/"
+  },
+  {
+    "text": "\n\nAkamai blocked largest DDoS in Europe against one of its customers\n\n",
+    "url": "https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "CISA warns of critical Confluence bug exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "US govt warns Americans of escalating SMS phishing attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "LockBit operator abuses Windows Defender to load Cobalt Strike",
+    "url": "https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"
+  },
+  {
+    "text": "Bill Toulas",
+    "url": "https://www.bleepingcomputer.com/author/bill-toulas/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-s-new-kiosk-mode-lets-admins-limit-available-apps/"
+  },
+  {
+    "text": "Microsoft",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/"
+  },
+  {
+    "text": "Windows 11\u2019s new kiosk mode lets admins limit available apps",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-s-new-kiosk-mode-lets-admins-limit-available-apps/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-s-new-kiosk-mode-lets-admins-limit-available-apps/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Microsoft",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/"
+  },
+  {
+    "text": "Microsoft links Raspberry Robin malware to Evil Corp attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/offer/deals/put-a-mac-in-your-travel-kit-with-this-refurbished-macbook-air-deal/"
+  },
+  {
+    "text": "Deals",
+    "url": "https://www.bleepingcomputer.com/offer/deals/"
+  },
+  {
+    "text": "Put a Mac in your travel kit with this refurbished MacBook Air deal",
+    "url": "https://www.bleepingcomputer.com/offer/deals/put-a-mac-in-your-travel-kit-with-this-refurbished-macbook-air-deal/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/offer/deals/put-a-mac-in-your-travel-kit-with-this-refurbished-macbook-air-deal/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/ransom-payments-fall-as-fewer-victims-choose-to-pay-hackers/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Ransom payments fall as fewer victims choose to pay hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/ransom-payments-fall-as-fewer-victims-choose-to-pay-hackers/"
+  },
+  {
+    "text": "Bill Toulas",
+    "url": "https://www.bleepingcomputer.com/author/bill-toulas/"
+  },
+  {
+    "text": " 3",
+    "url": "https://www.bleepingcomputer.com/news/security/ransom-payments-fall-as-fewer-victims-choose-to-pay-hackers/#comments"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/offer/deals/learn-a-new-language-quickly-with-this-lifetime-app-subscription-deal/"
+  },
+  {
+    "text": "Deals",
+    "url": "https://www.bleepingcomputer.com/offer/deals/"
+  },
+  {
+    "text": "Learn a new language quickly with this lifetime app subscription deal",
+    "url": "https://www.bleepingcomputer.com/offer/deals/learn-a-new-language-quickly-with-this-lifetime-app-subscription-deal/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/offer/deals/learn-a-new-language-quickly-with-this-lifetime-app-subscription-deal/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-22h2-preview-for-enterprise-testing/"
+  },
+  {
+    "text": "Microsoft",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/"
+  },
+  {
+    "text": "Microsoft releases Windows 10 22H2 preview for enterprise testing",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-22h2-preview-for-enterprise-testing/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-22h2-preview-for-enterprise-testing/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Technology",
+    "url": "https://www.bleepingcomputer.com/news/technology/"
+  },
+  {
+    "text": "Microsoft SQL servers hacked to steal bandwidth for proxy services",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/"
+  },
+  {
+    "text": "Bill Toulas",
+    "url": "https://www.bleepingcomputer.com/author/bill-toulas/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-knocks-down-admin-center-in-north-america/"
+  },
+  {
+    "text": "Microsoft",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/"
+  },
+  {
+    "text": "Microsoft 365 outage knocks down admin center in North America",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-knocks-down-admin-center-in-north-america/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-knocks-down-admin-center-in-north-america/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/libreoffice-addresses-security-issues-with-macros-passwords/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "LibreOffice addresses security issues with macros, passwords",
+    "url": "https://www.bleepingcomputer.com/news/security/libreoffice-addresses-security-issues-with-macros-passwords/"
+  },
+  {
+    "text": "Bill Toulas",
+    "url": "https://www.bleepingcomputer.com/author/bill-toulas/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/libreoffice-addresses-security-issues-with-macros-passwords/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Cyberspies use Google Chrome extension to steal emails undetected",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Akamai blocked largest DDoS in Europe against one of its customers",
+    "url": "https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"
+  },
+  {
+    "text": "Bill Toulas",
+    "url": "https://www.bleepingcomputer.com/author/bill-toulas/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Malicious npm packages steal Discord users\u2019 payment card info",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/offer/deals/add-a-mac-to-your-network-with-this-deal-on-a-refurbished-macbook-air/"
+  },
+  {
+    "text": "Deals",
+    "url": "https://www.bleepingcomputer.com/offer/deals/"
+  },
+  {
+    "text": "Add a Mac to your network with this deal on a refurbished MacBook Air",
+    "url": "https://www.bleepingcomputer.com/offer/deals/add-a-mac-to-your-network-with-this-deal-on-a-refurbished-macbook-air/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/offer/deals/add-a-mac-to-your-network-with-this-deal-on-a-refurbished-macbook-air/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/as-microsoft-blocks-office-macros-hackers-find-new-attack-vectors/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "As Microsoft blocks Office macros, hackers find new attack vectors",
+    "url": "https://www.bleepingcomputer.com/news/security/as-microsoft-blocks-office-macros-hackers-find-new-attack-vectors/"
+  },
+  {
+    "text": "Bill Toulas",
+    "url": "https://www.bleepingcomputer.com/author/bill-toulas/"
+  },
+  {
+    "text": " 3",
+    "url": "https://www.bleepingcomputer.com/news/security/as-microsoft-blocks-office-macros-hackers-find-new-attack-vectors/#comments"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "text": "Kansas MSP shuts down cloud services to fend off cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/"
+  },
+  {
+    "text": "Lawrence Abrams",
+    "url": "https://www.bleepingcomputer.com/author/lawrence-abrams/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/#comment_form"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-improves-performance-by-compressing-disk-cache/"
+  },
+  {
+    "text": "Microsoft",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/"
+  },
+  {
+    "text": "Microsoft Edge now improves performance by compressing disk cache",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-improves-performance-by-compressing-disk-cache/"
+  },
+  {
+    "text": "Sergiu Gatlan",
+    "url": "https://www.bleepingcomputer.com/author/sergiu-gatlan/"
+  },
+  {
+    "text": " 1",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-improves-performance-by-compressing-disk-cache/#comments"
+  },
+  {
+    "text": "\n",
+    "url": "https://www.bleepingcomputer.com/offer/deals/expand-your-macbook-with-a-second-screen-and-microsoft-office/"
+  },
+  {
+    "text": "Deals",
+    "url": "https://www.bleepingcomputer.com/offer/deals/"
+  },
+  {
+    "text": "Expand your MacBook with a second screen and Microsoft Office",
+    "url": "https://www.bleepingcomputer.com/offer/deals/expand-your-macbook-with-a-second-screen-and-microsoft-office/"
+  },
+  {
+    "text": " 0",
+    "url": "https://www.bleepingcomputer.com/offer/deals/expand-your-macbook-with-a-second-screen-and-microsoft-office/#comment_form"
+  },
+  {
+    "text": "2",
+    "url": "https://www.bleepingcomputer.com/page/2/"
+  },
+  {
+    "text": "3",
+    "url": "https://www.bleepingcomputer.com/page/3/"
+  },
+  {
+    "text": "4",
+    "url": "https://www.bleepingcomputer.com/page/4/"
+  },
+  {
+    "text": "5",
+    "url": "https://www.bleepingcomputer.com/page/5/"
+  },
+  {
+    "text": "",
+    "url": "https://www.bleepingcomputer.com/page/2/"
+  },
+  {
+    "text": "",
+    "url": "https://www.bleepingcomputer.com/page/703/"
+  },
+  {
+    "text": "View More",
+    "url": ""
+  },
+  {
+    "text": "\n\n\n\nAs Microsoft blocks Office macros, hackers find new attack vectors\n",
+    "url": "https://www.bleepingcomputer.com/news/security/as-microsoft-blocks-office-macros-hackers-find-new-attack-vectors/"
+  },
+  {
+    "text": "\n\n\n\nMicrosoft SQL servers hacked to steal bandwidth for proxy services\n",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/"
+  },
+  {
+    "text": "Windows 10 doesn't boot, partition letters have changed.",
+    "url": "https://www.bleepingcomputer.com/forums/t/775259/windows-10-doesnt-boot-partition-letters-have-changed/"
+  },
+  {
+    "text": "kferterro",
+    "url": "https://www.bleepingcomputer.com/forums/u/1254056/kferterro/"
+  },
+  {
+    "text": "Internal Hardware",
+    "url": "https://www.bleepingcomputer.com/forums/f/7/internal-hardware/"
+  },
+  {
+    "text": "Need specs",
+    "url": "https://www.bleepingcomputer.com/forums/t/775255/need-specs/"
+  },
+  {
+    "text": "Tarawilla",
+    "url": "https://www.bleepingcomputer.com/forums/u/451615/tarawilla/"
+  },
+  {
+    "text": "Questions and advice for Buying a New Computer",
+    "url": "https://www.bleepingcomputer.com/forums/f/171/questions-and-advice-for-buying-a-new-computer/"
+  },
+  {
+    "text": "Sitecore third party form inside the sitecore form",
+    "url": "https://www.bleepingcomputer.com/forums/t/775251/sitecore-third-party-form-inside-the-sitecore-form/"
+  },
+  {
+    "text": "syamalaji",
+    "url": "https://www.bleepingcomputer.com/forums/u/1254035/syamalaji/"
+  },
+  {
+    "text": "General Security",
+    "url": "https://www.bleepingcomputer.com/forums/f/45/general-security/"
+  },
+  {
+    "text": "BleepingComputer",
+    "url": "/"
+  },
+  {
+    "text": "\n\n\n\n\nHow to remove the PBlock+ adware browser extension\nFiled Under: Adware\n\n",
+    "url": "/virus-removal/how-to-remove-the-pblock-adware-extension"
+  },
+  {
+    "text": "\n\n\n\n\nRemove the Toksearches.xyz Search Redirect\nFiled Under: Adware\n\n",
+    "url": "/virus-removal/remove-toksearches.xyz-search-redirect"
+  },
+  {
+    "text": "\n\n\n \n\nRemove the Smashapps.net Search Redirect\nFiled Under: Adware\n\n",
+    "url": "/virus-removal/remove-smashapps.net-search-redirect"
+  },
+  {
+    "text": "\n\n\n\n\nRemove the Smashappsearch.com Search Redirect\nFiled Under: Adware\n\n",
+    "url": "/virus-removal/remove-smashappsearch.com-search-redirect"
+  },
+  {
+    "text": "\n\n\n\n\nRemove the BipApp Chrome Extension\nFiled Under: Adware\n\n",
+    "url": "/virus-removal/remove-bipapp-chrome-extension"
+  },
+  {
+    "text": "Malwarebytes Anti-Malware",
+    "url": "https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/"
+  },
+  {
+    "text": "Everything Desktop Search",
+    "url": "https://www.bleepingcomputer.com/download/everything-desktop-search/"
+  },
+  {
+    "text": "Zemana AntiLogger Free",
+    "url": "https://www.bleepingcomputer.com/download/zemana-antilogger-free/"
+  },
+  {
+    "text": "Zemana AntiMalware",
+    "url": "https://www.bleepingcomputer.com/download/zemana-antimalware/"
+  },
+  {
+    "text": "Windows Repair (All In One)",
+    "url": "https://www.bleepingcomputer.com/download/windows-repair-all-in-one/"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/BleepingComputer"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/BleepinComputer"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/BleepingComputer"
+  },
+  {
+    "text": "",
+    "url": "https://www.bleepingcomputer.com/feed/"
+  },
+  {
+    "text": "News",
+    "url": "https://www.bleepingcomputer.com/"
+  },
+  {
+    "text": "Downloads",
+    "url": "https://www.bleepingcomputer.com/download/"
+  },
+  {
+    "text": "Virus Removal Guides",
+    "url": "https://www.bleepingcomputer.com/virus-removal/"
+  },
+  {
+    "text": "Tutorials",
+    "url": "https://www.bleepingcomputer.com/tutorials/"
+  },
+  {
+    "text": "Startup Database",
+    "url": "https://www.bleepingcomputer.com/startups/"
+  },
+  {
+    "text": "Uninstall Database",
+    "url": "https://www.bleepingcomputer.com/uninstall/"
+  },
+  {
+    "text": "File Database",
+    "url": "https://www.bleepingcomputer.com/filedb/"
+  },
+  {
+    "text": "Glossary",
+    "url": "https://www.bleepingcomputer.com/glossary/"
+  },
+  {
+    "text": "Forums",
+    "url": "https://www.bleepingcomputer.com/forums/"
+  },
+  {
+    "text": "Forum Rules",
+    "url": "https://www.bleepingcomputer.com/forum-rules/"
+  },
+  {
+    "text": "Chat",
+    "url": "https://www.bleepingcomputer.com/forums/t/730914/the-bleepingcomputer-official-discord-chat-server-come-join-the-fun/"
+  },
+  {
+    "text": "Welcome Guide",
+    "url": "https://www.bleepingcomputer.com/welcome-guide/"
+  },
+  {
+    "text": "Sitemap",
+    "url": "https://www.bleepingcomputer.com/sitemap/"
+  },
+  {
+    "text": "About BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/about/"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://www.bleepingcomputer.com/contact/"
+  },
+  {
+    "text": "Send us a Tip!",
+    "url": "https://www.bleepingcomputer.com/news-tip/"
+  },
+  {
+    "text": "Advertising",
+    "url": "https://www.bleepingcomputer.com/advertise/"
+  },
+  {
+    "text": "Write for BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/write-for-bleepingcomputer/"
+  },
+  {
+    "text": "Social & Feeds",
+    "url": "https://www.bleepingcomputer.com/rss-feeds/"
+  },
+  {
+    "text": "Changelog",
+    "url": "https://www.bleepingcomputer.com/changelog/"
+  },
+  {
+    "text": "Terms of Use",
+    "url": "https://www.bleepingcomputer.com/terms-of-use/"
+  },
+  {
+    "text": " Privacy Policy",
+    "url": "https://www.bleepingcomputer.com/privacy/"
+  },
+  {
+    "text": "Ethics Statement",
+    "url": "https://www.bleepingcomputer.com/ethics-statement/"
+  },
+  {
+    "text": " Bleeping Computer\u00ae LLC ",
+    "url": "https://www.bleepingcomputer.com/"
+  },
+  {
+    "text": "",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "javascript:;"
+  },
+  {
+    "text": " Sign in with Twitter",
+    "url": "https://www.bleepingcomputer.com/forums/index.php?app=core&module=global&section=login&serviceClick=twitter&return=https://www.bleepingcomputer.com/"
+  },
+  {
+    "text": "Register Now",
+    "url": "https://www.bleepingcomputer.com/forums/index.php?app=core&module=global&section=register"
+  }
+]

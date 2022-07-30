@@ -1,0 +1,378 @@
+[
+  {
+    "text": "Skip to Featured Content",
+    "url": "#featured-news-container"
+  },
+  {
+    "text": "Skip to Content Feed",
+    "url": "#news-feed-container"
+  },
+  {
+    "text": "Skip to Most Read",
+    "url": "#most-read-container"
+  },
+  {
+    "text": "Al Jazeera, link to home page",
+    "url": "/"
+  },
+  {
+    "text": "play Live ",
+    "url": "/live"
+  },
+  {
+    "text": "News",
+    "url": "/news/"
+  },
+  {
+    "text": "Middle East",
+    "url": "/middle-east/"
+  },
+  {
+    "text": "Africa",
+    "url": "/africa/"
+  },
+  {
+    "text": "Asia",
+    "url": "/asia/"
+  },
+  {
+    "text": "US & Canada",
+    "url": "/us-canada/"
+  },
+  {
+    "text": "Latin America",
+    "url": "/latin-america/"
+  },
+  {
+    "text": "Europe",
+    "url": "/europe/"
+  },
+  {
+    "text": "Asia Pacific",
+    "url": "/asia-pacific/"
+  },
+  {
+    "text": "Ukraine war",
+    "url": "/tag/ukraine-russia-crisis/"
+  },
+  {
+    "text": "Features",
+    "url": "/features/"
+  },
+  {
+    "text": "Economy",
+    "url": "/economy/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/opinion/"
+  },
+  {
+    "text": "Video",
+    "url": "/videos/"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "https://www.aljazeera.com/tag/coronavirus-pandemic/"
+  },
+  {
+    "text": "Climate Crisis",
+    "url": "https://www.aljazeera.com/climate-crisis"
+  },
+  {
+    "text": "Investigations",
+    "url": "/investigations/"
+  },
+  {
+    "text": "Interactives",
+    "url": "/interactives/"
+  },
+  {
+    "text": "In Pictures",
+    "url": "/gallery/"
+  },
+  {
+    "text": "Science & Technology",
+    "url": "/tag/science-and-technology/"
+  },
+  {
+    "text": "Sports",
+    "url": "/sports/"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts/"
+  },
+  {
+    "text": "play Live ",
+    "url": "/live"
+  },
+  {
+    "text": "Iraqi protesters storm parliament for second time in a week",
+    "url": "/news/2022/7/30/al-sadr-supporters-protest-in-iraq-capital-over-new-pm-nomination"
+  },
+  {
+    "text": "Iraqi protesters storm the parliament in Baghdad\u2019s Green Zone",
+    "url": "/news/2022/7/27/iraqi-protesters-storm-parliament-muqtada-al-sadr-green-zone"
+  },
+  {
+    "text": "Iraq\u2019s political chaos: Why did protesters storm the parliament?",
+    "url": "/news/2022/7/28/iraq-political-chaos-why-did-protesters-storm-parliament-explainer"
+  },
+  {
+    "text": "camera",
+    "url": "/gallery/2022/7/28/photos-protesters-storm-iraqi-parliament-in-baghdad"
+  },
+  {
+    "text": "Photos: Protesters storm Iraqi parliament in Baghdad",
+    "url": "/gallery/2022/7/28/photos-protesters-storm-iraqi-parliament-in-baghdad"
+  },
+  {
+    "text": "Russia-Ukraine live news: UK says Moscow planning new referendums",
+    "url": "/news/liveblog/2022/7/30/ukraine-latest-updates-russia-seeks-to-hold-new-referendums-uk"
+  },
+  {
+    "text": "Pope calls treatment of Indigenous in Canada schools \u2018genocide\u2019",
+    "url": "/news/2022/7/30/pope-calls-treatment-of-indigenous-in-canada-schools-genocide"
+  },
+  {
+    "text": "Elon Musk fires back at Twitter in court battle",
+    "url": "/news/2022/7/30/elon-musk-files-countersuit-against-twitter-over-44bn-deal"
+  },
+  {
+    "text": "Blinken says he \u2018pressed\u2019 Lavrov on release of US prisoners",
+    "url": "/news/2022/7/29/lavrov-confirms-call-request-from-blinken-regarding-prisoner-swap"
+  },
+  {
+    "text": "Red Cross seeks access to site of deadly attack on Ukrainian POWs",
+    "url": "/news/2022/7/29/accusations-fly-after-dozens-of-ukrainian-pows-are-killed"
+  },
+  {
+    "text": "Myanmar used Russian-made aircraft in civilian attacks: Report",
+    "url": "/news/2022/7/30/myanmar-used-russian-made-aircraft-in-civilian-attacks-report"
+  },
+  {
+    "text": "Spain, Brazil report first monkeypox deaths outside Africa",
+    "url": "/news/2022/7/30/spain-brazil-report-first-monkeypox-deaths-outside-africa"
+  },
+  {
+    "text": "US House passes bill banning certain assault rifles",
+    "url": "/news/2022/7/30/us-house-passes-bill-banning-certain-assault-rifles"
+  },
+  {
+    "text": "Death toll rises in Kentucky flooding as rescue efforts continue",
+    "url": "/news/2022/7/29/death-toll-rises-in-kentucky-flooding-as-rescue-efforts-continue"
+  },
+  {
+    "text": "Rus\u00adsia-Ukraine war by the num\u00adbers: Live Track\u00ader",
+    "url": "/news/2022/2/28/russia-ukraine-crisis-in-maps-and-charts-live-news-interactive"
+  },
+  {
+    "text": " The Listening Post",
+    "url": "/program/the-listening-post/"
+  },
+  {
+    "text": "Julian Assange: The threat of extradition and politics behind it",
+    "url": "/program/the-listening-post/2022/7/30/julian-assange-the-threat-of-extradition-and-politics-behind-it"
+  },
+  {
+    "text": "Iraqi protesters storm parliament for second time in a week",
+    "url": "/news/2022/7/30/al-sadr-supporters-protest-in-iraq-capital-over-new-pm-nomination"
+  },
+  {
+    "text": "Wagner deployed like normal army units on Ukraine front line: UK",
+    "url": "/news/2022/7/29/wagner-deployed-like-normal-army-units-in-ukraine-front-line-uk"
+  },
+  {
+    "text": "Elon Musk fires back at Twitter in court battle",
+    "url": "/news/2022/7/30/elon-musk-files-countersuit-against-twitter-over-44bn-deal"
+  },
+  {
+    "text": "China\u2019s BYD was written off by Elon Musk. Now it\u2019s beating Tesla",
+    "url": "/economy/2022/7/28/chinas-byd-was-dismissed-by-elon-musk-now-its-beating-tesla"
+  },
+  {
+    "text": "Spain, Brazil report first monkeypox deaths outside Africa",
+    "url": "/news/2022/7/30/spain-brazil-report-first-monkeypox-deaths-outside-africa"
+  },
+  {
+    "text": "Red Cross seeks access to site of deadly attack on Ukrainian POWs",
+    "url": "/news/2022/7/29/accusations-fly-after-dozens-of-ukrainian-pows-are-killed"
+  },
+  {
+    "text": "Myanmar used Russian-made aircraft in civilian attacks: Report",
+    "url": "/news/2022/7/30/myanmar-used-russian-made-aircraft-in-civilian-attacks-report"
+  },
+  {
+    "text": "Russia (just like the West) is no true friend to Africa",
+    "url": "/opinions/2022/7/30/where-would-africa-be-without-russian-and-western-propaganda"
+  },
+  {
+    "text": "France\u2019s Macron talks energy with Saudi Crown Prince MBS in Paris",
+    "url": "/news/2022/7/29/frances-macron-talks-energy-with-saudi-crown-prince-mbs-in-paris"
+  },
+  {
+    "text": "Blinken to visit Africa to counter Russian charm offensive",
+    "url": "/news/2022/7/29/blinken-to-visit-africa-to-counter-russian-charm-offensive"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://privacy.aljazeera.net/"
+  },
+  {
+    "text": "About Us",
+    "url": "https://www.aljazeera.com/about-us"
+  },
+  {
+    "text": "Code of Ethics",
+    "url": "/news/2014/11/1/code-of-ethics-2"
+  },
+  {
+    "text": "Terms and Conditions",
+    "url": "/news/2017/10/15/terms-and-conditions/"
+  },
+  {
+    "text": "EU/EEA Regulatory Notice",
+    "url": "https://www.aljazeera.com/news/2021/1/20/eu-eea-regulatory"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://privacy.aljazeera.net/"
+  },
+  {
+    "text": "Cookie Policy",
+    "url": "https://privacy.aljazeera.net/cookie/"
+  },
+  {
+    "text": "Cookie PreferencesCookie Preferences",
+    "url": "#cookiesPreferences"
+  },
+  {
+    "text": "Sitemap",
+    "url": "https://www.aljazeera.com/sitemap"
+  },
+  {
+    "text": "Community Guidelines",
+    "url": "/news/2011/01/16/community-rules-guidelines/"
+  },
+  {
+    "text": "Work for us",
+    "url": "https://careers.aljazeera.net/"
+  },
+  {
+    "text": "HR Quality",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/AJMN-Quality-Policy.pdf"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://network.aljazeera.net/contact-us"
+  },
+  {
+    "text": "Advertise with us",
+    "url": "https://commercial.aljazeera.net/"
+  },
+  {
+    "text": "Apps",
+    "url": "https://webapps.aljazeera.net/aje/connect/"
+  },
+  {
+    "text": "Channel Finder",
+    "url": "https://sat.aljazeera.net/en"
+  },
+  {
+    "text": "TV Schedule",
+    "url": "/schedule/"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts/"
+  },
+  {
+    "text": "Submit a Tip",
+    "url": "https://webapps.aljazeera.net/aje/tips/"
+  },
+  {
+    "text": "Al Jazeera Arabic",
+    "url": "http://aljazeera.net/"
+  },
+  {
+    "text": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/"
+  },
+  {
+    "text": "Al Jazeera Investigative Unit",
+    "url": "https://www.ajiunit.com/"
+  },
+  {
+    "text": "Al Jazeera Mubasher",
+    "url": "http://mubasher.aljazeera.net/"
+  },
+  {
+    "text": "Al Jazeera Documentary",
+    "url": "http://doc.aljazeera.net/"
+  },
+  {
+    "text": "Al Jazeera Balkans",
+    "url": "http://balkans.aljazeera.net/"
+  },
+  {
+    "text": "AJ+",
+    "url": "http://ajplus.net/"
+  },
+  {
+    "text": "Al Jazeera Centre for Studies",
+    "url": "http://studies.aljazeera.net/en/"
+  },
+  {
+    "text": "Al Jazeera Media Institute",
+    "url": "http://training.aljazeera.net/"
+  },
+  {
+    "text": "Learn Arabic",
+    "url": "http://learning.aljazeera.net/"
+  },
+  {
+    "text": "Al Jazeera Centre for Public Liberties & Human Rights",
+    "url": "http://liberties.aljazeera.com/en"
+  },
+  {
+    "text": "Al Jazeera Forum",
+    "url": "http://forum.aljazeera.net/"
+  },
+  {
+    "text": "Al Jazeera Hotel Partners",
+    "url": "http://partners.aljazeera.net/"
+  },
+  {
+    "text": "facebook",
+    "url": "https://www.facebook.com/aljazeera"
+  },
+  {
+    "text": "twitter",
+    "url": "https://twitter.com/ajenglish"
+  },
+  {
+    "text": "youtube",
+    "url": "https://www.youtube.com/aljazeeraenglish"
+  },
+  {
+    "text": "instagram-colored-outline",
+    "url": "https://www.instagram.com/aljazeeraenglish/?hl=en"
+  },
+  {
+    "text": "rss",
+    "url": "/xml/rss/all.xml"
+  },
+  {
+    "text": "View Our Cookie Policy",
+    "url": "https://privacy.aljazeera.net/cookie/"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  },
+  {
+    "text": "To learn more, please view our Cookie Policy.",
+    "url": "https://privacy.aljazeera.net/cookie/"
+  }
+]

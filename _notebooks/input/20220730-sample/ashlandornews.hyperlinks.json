@@ -1,0 +1,798 @@
+[
+  {
+    "text": " Skip to content",
+    "url": "#content"
+  },
+  {
+    "text": "  Subscribe to the newsletter (it's free!)  ",
+    "url": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MjAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+  },
+  {
+    "text": "  ",
+    "url": "https://ashland.news"
+  },
+  {
+    "text": "  Sponsor Ashland.news  ",
+    "url": "/sponsorship-guidelines/"
+  },
+  {
+    "text": "  Support Ashland.news  ",
+    "url": "https://www.paypal.com/donate?hosted_button_id=24QN8YQHJB83G"
+  },
+  {
+    "text": "Home",
+    "url": "https://ashland.news/"
+  },
+  {
+    "text": "News",
+    "url": "https://ashland.news/news/"
+  },
+  {
+    "text": "City Government",
+    "url": "https://ashland.news/news/city-government/"
+  },
+  {
+    "text": "County Government",
+    "url": "https://ashland.news/news/county-government/"
+  },
+  {
+    "text": "Environment",
+    "url": "https://ashland.news/news/environment/"
+  },
+  {
+    "text": "Health",
+    "url": "https://ashland.news/news/health/"
+  },
+  {
+    "text": "Obituaries",
+    "url": "https://ashland.news/news/obituaries/"
+  },
+  {
+    "text": "Parks & Recreation",
+    "url": "https://ashland.news/community/parks-recreation/"
+  },
+  {
+    "text": "Public Safety & Courts",
+    "url": "https://ashland.news/news/police-fire/"
+  },
+  {
+    "text": "Politics",
+    "url": "https://ashland.news/news/politics/"
+  },
+  {
+    "text": "Service Clubs",
+    "url": "https://ashland.news/community/service-clubs/"
+  },
+  {
+    "text": "State news",
+    "url": "https://ashland.news/news/state-government/"
+  },
+  {
+    "text": "Education",
+    "url": "https://ashland.news/education/"
+  },
+  {
+    "text": "SOU",
+    "url": "https://ashland.news/education/sou-education/"
+  },
+  {
+    "text": "Ashland School District",
+    "url": "https://ashland.news/education/ashland-school-district/"
+  },
+  {
+    "text": "Osher Lifelong Learning Institute",
+    "url": "https://ashland.news/education/osher-lifelong-learning-institute/"
+  },
+  {
+    "text": "Economy",
+    "url": "https://ashland.news/economy/"
+  },
+  {
+    "text": "Business",
+    "url": "https://ashland.news/economy/business/"
+  },
+  {
+    "text": "Labor",
+    "url": "https://ashland.news/economy/labor/"
+  },
+  {
+    "text": "Housing",
+    "url": "https://ashland.news/economy/housing/"
+  },
+  {
+    "text": "Culture",
+    "url": "https://ashland.news/culture/"
+  },
+  {
+    "text": "Art",
+    "url": "https://ashland.news/culture/art/"
+  },
+  {
+    "text": "Books",
+    "url": "https://ashland.news/culture/books/"
+  },
+  {
+    "text": "Cinema",
+    "url": "https://ashland.news/culture/cinema/"
+  },
+  {
+    "text": "Events",
+    "url": "https://ashland.news/community/events/"
+  },
+  {
+    "text": "Food",
+    "url": "https://ashland.news/culture/food/"
+  },
+  {
+    "text": "History",
+    "url": "https://ashland.news/culture/history/"
+  },
+  {
+    "text": "Music",
+    "url": "https://ashland.news/culture/music/"
+  },
+  {
+    "text": "People",
+    "url": "https://ashland.news/community/people/"
+  },
+  {
+    "text": "Theater",
+    "url": "https://ashland.news/culture/theater/"
+  },
+  {
+    "text": "Wine",
+    "url": "https://ashland.news/culture/wine/"
+  },
+  {
+    "text": "Community",
+    "url": "https://ashland.news/community/"
+  },
+  {
+    "text": "Events",
+    "url": "https://ashland.news/community/events/"
+  },
+  {
+    "text": "Nonprofit Organizations",
+    "url": "https://ashland.news/community/nonprofit-organizations/"
+  },
+  {
+    "text": "Parks & Recreation",
+    "url": "https://ashland.news/community/parks-recreation/"
+  },
+  {
+    "text": "People",
+    "url": "https://ashland.news/community/people/"
+  },
+  {
+    "text": "Reader Photos",
+    "url": "https://ashland.news/reader-photos/"
+  },
+  {
+    "text": "Service Clubs",
+    "url": "https://ashland.news/community/service-clubs/"
+  },
+  {
+    "text": "Sports",
+    "url": "https://ashland.news/sports/"
+  },
+  {
+    "text": "AHS Sports",
+    "url": "https://ashland.news/sports/ahs-sports/"
+  },
+  {
+    "text": "Outdoors",
+    "url": "https://ashland.news/sports/outdoors/"
+  },
+  {
+    "text": "SOU Sports",
+    "url": "https://ashland.news/sports/sou-sports/"
+  },
+  {
+    "text": "Youth Sports",
+    "url": "https://ashland.news/sports/youth-sports/"
+  },
+  {
+    "text": "Columnists",
+    "url": "https://ashland.news/columnists/"
+  },
+  {
+    "text": "Ashland Past Times",
+    "url": "https://ashland.news/columnists/ashland-past-times/"
+  },
+  {
+    "text": "Chris Honor\u00e9",
+    "url": "https://ashland.news/columnists/chris-honore/"
+  },
+  {
+    "text": "Climate Spotlight",
+    "url": "https://ashland.news/columnists/climate-spotlight/"
+  },
+  {
+    "text": "Entre Amigos",
+    "url": "https://ashland.news/columnists/entre-amigos/"
+  },
+  {
+    "text": "Field Notes",
+    "url": "https://ashland.news/columnists/field-notes/"
+  },
+  {
+    "text": "Inner Peace",
+    "url": "https://ashland.news/columnists/inner-peace/"
+  },
+  {
+    "text": "John Darling",
+    "url": "https://ashland.news/columnists/john-darling/"
+  },
+  {
+    "text": "KS Wild Side",
+    "url": "https://ashland.news/columnists/ks-wild-side/"
+  },
+  {
+    "text": "Peter Finkle",
+    "url": "https://ashland.news/columnists/peter-finkle/"
+  },
+  {
+    "text": "Relocations",
+    "url": "https://ashland.news/columnists/relocations/"
+  },
+  {
+    "text": "Rogue Grapevine",
+    "url": "https://ashland.news/columnists/rogue-grapevine/"
+  },
+  {
+    "text": "Writers on the Range",
+    "url": "https://ashland.news/columnists/writers-on-the-range/"
+  },
+  {
+    "text": "Forum",
+    "url": "https://ashland.news/forum/"
+  },
+  {
+    "text": "Letters to the Editor",
+    "url": "https://ashland.news/forum/letters-to-the-editor/"
+  },
+  {
+    "text": "Viewpoints",
+    "url": "https://ashland.news/forum/viewpoints/"
+  },
+  {
+    "text": "Sponsors",
+    "url": "https://ashland.news/our-sponsors/"
+  },
+  {
+    "text": "Notices",
+    "url": "https://ashland.news/public-notices/"
+  },
+  {
+    "text": "Home",
+    "url": "https://ashland.news/"
+  },
+  {
+    "text": "News",
+    "url": "https://ashland.news/news/"
+  },
+  {
+    "text": "City Government",
+    "url": "https://ashland.news/news/city-government/"
+  },
+  {
+    "text": "County Government",
+    "url": "https://ashland.news/news/county-government/"
+  },
+  {
+    "text": "Environment",
+    "url": "https://ashland.news/news/environment/"
+  },
+  {
+    "text": "Health",
+    "url": "https://ashland.news/news/health/"
+  },
+  {
+    "text": "Obituaries",
+    "url": "https://ashland.news/news/obituaries/"
+  },
+  {
+    "text": "Parks & Recreation",
+    "url": "https://ashland.news/community/parks-recreation/"
+  },
+  {
+    "text": "Public Safety & Courts",
+    "url": "https://ashland.news/news/police-fire/"
+  },
+  {
+    "text": "Politics",
+    "url": "https://ashland.news/news/politics/"
+  },
+  {
+    "text": "Service Clubs",
+    "url": "https://ashland.news/community/service-clubs/"
+  },
+  {
+    "text": "State news",
+    "url": "https://ashland.news/news/state-government/"
+  },
+  {
+    "text": "Education",
+    "url": "https://ashland.news/education/"
+  },
+  {
+    "text": "SOU",
+    "url": "https://ashland.news/education/sou-education/"
+  },
+  {
+    "text": "Ashland School District",
+    "url": "https://ashland.news/education/ashland-school-district/"
+  },
+  {
+    "text": "Osher Lifelong Learning Institute",
+    "url": "https://ashland.news/education/osher-lifelong-learning-institute/"
+  },
+  {
+    "text": "Economy",
+    "url": "https://ashland.news/economy/"
+  },
+  {
+    "text": "Business",
+    "url": "https://ashland.news/economy/business/"
+  },
+  {
+    "text": "Labor",
+    "url": "https://ashland.news/economy/labor/"
+  },
+  {
+    "text": "Housing",
+    "url": "https://ashland.news/economy/housing/"
+  },
+  {
+    "text": "Culture",
+    "url": "https://ashland.news/culture/"
+  },
+  {
+    "text": "Art",
+    "url": "https://ashland.news/culture/art/"
+  },
+  {
+    "text": "Books",
+    "url": "https://ashland.news/culture/books/"
+  },
+  {
+    "text": "Cinema",
+    "url": "https://ashland.news/culture/cinema/"
+  },
+  {
+    "text": "Events",
+    "url": "https://ashland.news/community/events/"
+  },
+  {
+    "text": "Food",
+    "url": "https://ashland.news/culture/food/"
+  },
+  {
+    "text": "History",
+    "url": "https://ashland.news/culture/history/"
+  },
+  {
+    "text": "Music",
+    "url": "https://ashland.news/culture/music/"
+  },
+  {
+    "text": "People",
+    "url": "https://ashland.news/community/people/"
+  },
+  {
+    "text": "Theater",
+    "url": "https://ashland.news/culture/theater/"
+  },
+  {
+    "text": "Wine",
+    "url": "https://ashland.news/culture/wine/"
+  },
+  {
+    "text": "Community",
+    "url": "https://ashland.news/community/"
+  },
+  {
+    "text": "Events",
+    "url": "https://ashland.news/community/events/"
+  },
+  {
+    "text": "Nonprofit Organizations",
+    "url": "https://ashland.news/community/nonprofit-organizations/"
+  },
+  {
+    "text": "Parks & Recreation",
+    "url": "https://ashland.news/community/parks-recreation/"
+  },
+  {
+    "text": "People",
+    "url": "https://ashland.news/community/people/"
+  },
+  {
+    "text": "Reader Photos",
+    "url": "https://ashland.news/reader-photos/"
+  },
+  {
+    "text": "Service Clubs",
+    "url": "https://ashland.news/community/service-clubs/"
+  },
+  {
+    "text": "Sports",
+    "url": "https://ashland.news/sports/"
+  },
+  {
+    "text": "AHS Sports",
+    "url": "https://ashland.news/sports/ahs-sports/"
+  },
+  {
+    "text": "Outdoors",
+    "url": "https://ashland.news/sports/outdoors/"
+  },
+  {
+    "text": "SOU Sports",
+    "url": "https://ashland.news/sports/sou-sports/"
+  },
+  {
+    "text": "Youth Sports",
+    "url": "https://ashland.news/sports/youth-sports/"
+  },
+  {
+    "text": "Columnists",
+    "url": "https://ashland.news/columnists/"
+  },
+  {
+    "text": "Ashland Past Times",
+    "url": "https://ashland.news/columnists/ashland-past-times/"
+  },
+  {
+    "text": "Chris Honor\u00e9",
+    "url": "https://ashland.news/columnists/chris-honore/"
+  },
+  {
+    "text": "Climate Spotlight",
+    "url": "https://ashland.news/columnists/climate-spotlight/"
+  },
+  {
+    "text": "Entre Amigos",
+    "url": "https://ashland.news/columnists/entre-amigos/"
+  },
+  {
+    "text": "Field Notes",
+    "url": "https://ashland.news/columnists/field-notes/"
+  },
+  {
+    "text": "Inner Peace",
+    "url": "https://ashland.news/columnists/inner-peace/"
+  },
+  {
+    "text": "John Darling",
+    "url": "https://ashland.news/columnists/john-darling/"
+  },
+  {
+    "text": "KS Wild Side",
+    "url": "https://ashland.news/columnists/ks-wild-side/"
+  },
+  {
+    "text": "Peter Finkle",
+    "url": "https://ashland.news/columnists/peter-finkle/"
+  },
+  {
+    "text": "Relocations",
+    "url": "https://ashland.news/columnists/relocations/"
+  },
+  {
+    "text": "Rogue Grapevine",
+    "url": "https://ashland.news/columnists/rogue-grapevine/"
+  },
+  {
+    "text": "Writers on the Range",
+    "url": "https://ashland.news/columnists/writers-on-the-range/"
+  },
+  {
+    "text": "Forum",
+    "url": "https://ashland.news/forum/"
+  },
+  {
+    "text": "Letters to the Editor",
+    "url": "https://ashland.news/forum/letters-to-the-editor/"
+  },
+  {
+    "text": "Viewpoints",
+    "url": "https://ashland.news/forum/viewpoints/"
+  },
+  {
+    "text": "Sponsors",
+    "url": "https://ashland.news/our-sponsors/"
+  },
+  {
+    "text": "Notices",
+    "url": "https://ashland.news/public-notices/"
+  },
+  {
+    "text": " James Webb Telescope first images celebrated in Ashland ",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": "    Read More >  ",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": " Brushfire in mown field quickly brought under control ",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/reader-photo-double-rainbow-over-grizzly-peak/"
+  },
+  {
+    "text": " Reader Photo: Double rainbow over Grizzly Peak ",
+    "url": "https://ashland.news/reader-photo-double-rainbow-over-grizzly-peak/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/reader-photo-double-rainbow-over-grizzly-peak/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/reader-photo-navigating-a-cloudy-surface/"
+  },
+  {
+    "text": " Reader Photo: Navigating a cloudy surface ",
+    "url": "https://ashland.news/reader-photo-navigating-a-cloudy-surface/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/reader-photo-navigating-a-cloudy-surface/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/relocations-the-intertwining-of-civility-and-savagery/"
+  },
+  {
+    "text": " Relocations: The intertwining of civility and savagery ",
+    "url": "https://ashland.news/relocations-the-intertwining-of-civility-and-savagery/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/relocations-the-intertwining-of-civility-and-savagery/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/viewpoint-ashland-news-for-ashland/"
+  },
+  {
+    "text": " Viewpoint: Ashland.News for Ashland ",
+    "url": "https://ashland.news/viewpoint-ashland-news-for-ashland/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/viewpoint-ashland-news-for-ashland/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/inner-peace-lets-travel-in-complete-safety-this-summer/"
+  },
+  {
+    "text": " Inner Peace: Let\u2019s travel, in complete safety, this summer! ",
+    "url": "https://ashland.news/inner-peace-lets-travel-in-complete-safety-this-summer/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/inner-peace-lets-travel-in-complete-safety-this-summer/"
+  },
+  {
+    "text": "City of Ashland ",
+    "url": "/news/city-government/"
+  },
+  {
+    "text": "OSF ",
+    "url": "/culture/theater/"
+  },
+  {
+    "text": "SOU ",
+    "url": "/education/sou-education/"
+  },
+  {
+    "text": "Ashland Schools ",
+    "url": "/education/ashland-school-district/"
+  },
+  {
+    "text": "Ashland Police ",
+    "url": "/news/police-fire/"
+  },
+  {
+    "text": "Hospital ",
+    "url": "/news/health/"
+  },
+  {
+    "text": "Parks & Rec ",
+    "url": "/news/city-government/"
+  },
+  {
+    "text": " James Webb Telescope first images celebrated in Ashland ",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": " Brushfire in mown field quickly brought under control ",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": " Reader Photo: Double rainbow over Grizzly Peak ",
+    "url": "https://ashland.news/reader-photo-double-rainbow-over-grizzly-peak/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/reader-photo-double-rainbow-over-grizzly-peak/"
+  },
+  {
+    "text": " Reader Photo: Navigating a cloudy surface ",
+    "url": "https://ashland.news/reader-photo-navigating-a-cloudy-surface/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/reader-photo-navigating-a-cloudy-surface/"
+  },
+  {
+    "text": " Reader photos: Lincoln and Jefferson in Ashland ",
+    "url": "https://ashland.news/reader-photos-lincoln-and-jefferson-in-ashland/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/reader-photos-lincoln-and-jefferson-in-ashland/"
+  },
+  {
+    "text": " Weather service issues heat warning for Monday through Saturday ",
+    "url": "https://ashland.news/weather-service-issues-heat-warning-for-monday-through-saturday/"
+  },
+  {
+    "text": " Read More > ",
+    "url": "https://ashland.news/weather-service-issues-heat-warning-for-monday-through-saturday/"
+  },
+  {
+    "text": "Weather forecast Ashland, Oregon \u25b8",
+    "url": "https://www.weather-us.com/en/oregon-usa/ashland"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": " James Webb Telescope first images celebrated in Ashland ",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": "    Read More >  ",
+    "url": "https://ashland.news/james-webb-telescope-first-images-celebrated-in-ashland/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/the-journey-a-lost-sculpture-now-on-water-street/"
+  },
+  {
+    "text": " The Journey \u2014 a \u2018lost\u2019 sculpture now on Water Street ",
+    "url": "https://ashland.news/the-journey-a-lost-sculpture-now-on-water-street/"
+  },
+  {
+    "text": "    Read More >  ",
+    "url": "https://ashland.news/the-journey-a-lost-sculpture-now-on-water-street/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": " Brushfire in mown field quickly brought under control ",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": "    Read More >  ",
+    "url": "https://ashland.news/brushfire-in-mown-field-quickly-brought-under-control/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/ashland-city-band-part-3-the-bands-history-since-1876/"
+  },
+  {
+    "text": " Ashland City Band, Part 3: The band\u2019s history since 1876! ",
+    "url": "https://ashland.news/ashland-city-band-part-3-the-bands-history-since-1876/"
+  },
+  {
+    "text": "    Read More >  ",
+    "url": "https://ashland.news/ashland-city-band-part-3-the-bands-history-since-1876/"
+  },
+  {
+    "text": "",
+    "url": "https://ashland.news/weather-service-issues-heat-warning-for-monday-through-saturday/"
+  },
+  {
+    "text": " Weather service issues heat warning for Monday through Saturday ",
+    "url": "https://ashland.news/weather-service-issues-heat-warning-for-monday-through-saturday/"
+  },
+  {
+    "text": "    Read More >  ",
+    "url": "https://ashland.news/weather-service-issues-heat-warning-for-monday-through-saturday/"
+  },
+  {
+    "text": " Mission Statement ",
+    "url": "/mission-statement/"
+  },
+  {
+    "text": " Board Members ",
+    "url": "/board-members/"
+  },
+  {
+    "text": " Staff ",
+    "url": "/staff/"
+  },
+  {
+    "text": " Work with Us ",
+    "url": "/job-openings/"
+  },
+  {
+    "text": " Policies ",
+    "url": "/mission-statement#policies"
+  },
+  {
+    "text": " Donors ",
+    "url": "/donors/"
+  },
+  {
+    "text": " Sitemap ",
+    "url": "/sitemap/"
+  },
+  {
+    "text": "    541-631-1313 ",
+    "url": "tel:+541-631-1313"
+  },
+  {
+    "text": "    news@ashland.news ",
+    "url": "mailto:news@ashland.news"
+  },
+  {
+    "text": "    PO Box 640, Ashland OR 97520 ",
+    "url": "https://goo.gl/maps/UaPhwTsqsxfTQDgm6"
+  },
+  {
+    "text": " Facebook  ",
+    "url": "https://www.facebook.com/AshlandORNews"
+  },
+  {
+    "text": " Twitter  ",
+    "url": "https://twitter.com/AshlandORNews"
+  },
+  {
+    "text": " Instagram  ",
+    "url": "https://www.instagram.com/ashland.news/"
+  },
+  {
+    "text": " Rss  ",
+    "url": "/feed"
+  },
+  {
+    "text": "     Donate  ",
+    "url": "https://www.paypal.com/donate?hosted_button_id=24QN8YQHJB83G"
+  },
+  {
+    "text": "     Interested in becoming a sponsor?  ",
+    "url": "/sponsorship-guidelines/"
+  },
+  {
+    "text": "     Article Submission Form  ",
+    "url": "/article-submission-form/"
+  }
+]

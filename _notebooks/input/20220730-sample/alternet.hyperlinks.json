@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Home",
+    "url": "/"
+  },
+  {
+    "text": "MSN",
+    "url": "https://www.alternet.org/msn/"
+  },
+  {
+    "text": "Commentary",
+    "url": "https://www.alternet.org/commentary/"
+  },
+  {
+    "text": "Frontpage featured",
+    "url": "https://www.alternet.org/frontpage-feature/"
+  },
+  {
+    "text": "Frontpage videos",
+    "url": "https://www.alternet.org/frontpage-videos/"
+  },
+  {
+    "text": "Frontpage news and politics",
+    "url": "https://www.alternet.org/frontpage-news-and-politics/"
+  },
+  {
+    "text": "Culture",
+    "url": "https://www.alternet.org/culture/"
+  },
+  {
+    "text": "Video",
+    "url": "https://www.alternet.org/video/"
+  },
+  {
+    "text": "new-stories",
+    "url": "https://www.alternet.org/new-stories/"
+  },
+  {
+    "text": "Science",
+    "url": "https://www.alternet.org/science/"
+  },
+  {
+    "text": "Human Rights",
+    "url": "https://www.alternet.org/human-rights/"
+  },
+  {
+    "text": "most-popular",
+    "url": "https://www.alternet.org/most-popular/"
+  },
+  {
+    "text": "AlterNet All-Access",
+    "url": "https://www.alternet.org/alternet-2020/"
+  },
+  {
+    "text": "Uncategorized",
+    "url": "https://www.alternet.org/uncategorized/"
+  },
+  {
+    "text": "News & Politics",
+    "url": "https://www.alternet.org/news-politics/"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "https://www.alternet.org/the-right-wing/"
+  },
+  {
+    "text": "Election '20",
+    "url": "https://www.alternet.org/election-2020/"
+  },
+  {
+    "text": "Environment",
+    "url": "https://www.alternet.org/environment/"
+  },
+  {
+    "text": "Economy",
+    "url": "https://www.alternet.org/economy/"
+  },
+  {
+    "text": "World",
+    "url": "https://www.alternet.org/world/"
+  },
+  {
+    "text": "Media",
+    "url": "https://www.alternet.org/media/"
+  },
+  {
+    "text": "Trump",
+    "url": "https://www.alternet.org/trump/"
+  },
+  {
+    "text": "Labor",
+    "url": "https://www.alternet.org/labor/"
+  },
+  {
+    "text": "Immigration",
+    "url": "https://www.alternet.org/immigration/"
+  },
+  {
+    "text": "DC Report",
+    "url": "https://www.alternet.org/dc-report/"
+  },
+  {
+    "text": "Documentaries",
+    "url": "https://www.alternet.org/documentaries/"
+  },
+  {
+    "text": "Personal Health",
+    "url": "https://www.alternet.org/personal-health/"
+  },
+  {
+    "text": "Drugs",
+    "url": "https://www.alternet.org/drugs/"
+  },
+  {
+    "text": "Belief",
+    "url": "https://www.alternet.org/belief/"
+  },
+  {
+    "text": "Education",
+    "url": "https://www.alternet.org/education/"
+  },
+  {
+    "text": "Gender",
+    "url": "https://www.alternet.org/gender/"
+  },
+  {
+    "text": "Food",
+    "url": "https://www.alternet.org/food/"
+  },
+  {
+    "text": "LGBTQ",
+    "url": "https://www.alternet.org/lgbtq/"
+  },
+  {
+    "text": "Books",
+    "url": "https://www.alternet.org/books/"
+  },
+  {
+    "text": "Election '04",
+    "url": "https://www.alternet.org/election-04/"
+  },
+  {
+    "text": "Water",
+    "url": "https://www.alternet.org/water/"
+  },
+  {
+    "text": "Election '08",
+    "url": "https://www.alternet.org/election-08/"
+  },
+  {
+    "text": "Election '16",
+    "url": "https://www.alternet.org/election-16/"
+  },
+  {
+    "text": "Election '18",
+    "url": "https://www.alternet.org/election-18/"
+  },
+  {
+    "text": "alternet",
+    "url": "https://www.alternet.org/alternet/"
+  },
+  {
+    "text": "Stack Commerce",
+    "url": "https://www.alternet.org/stack-commerce/"
+  },
+  {
+    "text": "Poll",
+    "url": "https://www.alternet.org/poll/"
+  },
+  {
+    "text": "SEO SideBar",
+    "url": "https://www.alternet.org/trending-topics/"
+  },
+  {
+    "text": "Trending Topics Sister Sites",
+    "url": "https://www.alternet.org/trending-topics-sister-sites/"
+  },
+  {
+    "text": "news",
+    "url": "https://www.alternet.org/news/"
+  },
+  {
+    "text": "Subscriptions\n        ",
+    "url": "/core/r_dashboard/subscriptions"
+  },
+  {
+    "text": "Log in\n        ",
+    "url": "/login"
+  },
+  {
+    "text": "\n        \n\n            \n                \n            \n    ",
+    "url": "/"
+  },
+  {
+    "text": "news & politics",
+    "url": "/news-politics"
+  },
+  {
+    "text": "trump",
+    "url": "/trump"
+  },
+  {
+    "text": "the right wing",
+    "url": "/the-right-wing/"
+  },
+  {
+    "text": "election '20",
+    "url": "/election-2020/"
+  },
+  {
+    "text": "media",
+    "url": "/media"
+  },
+  {
+    "text": "belief",
+    "url": "/belief"
+  },
+  {
+    "text": "culture",
+    "url": "/culture"
+  },
+  {
+    "text": "books",
+    "url": "/books"
+  },
+  {
+    "text": "documentaries",
+    "url": "/documentaries"
+  },
+  {
+    "text": "economy",
+    "url": "/economy"
+  },
+  {
+    "text": "labor",
+    "url": "/labor"
+  },
+  {
+    "text": "immigration",
+    "url": "/immigration"
+  },
+  {
+    "text": "rights",
+    "url": "/human-rights"
+  },
+  {
+    "text": "water",
+    "url": "/water"
+  },
+  {
+    "text": "food",
+    "url": "/food"
+  },
+  {
+    "text": "health",
+    "url": "/personal-health"
+  },
+  {
+    "text": "\n    \n",
+    "url": "https://www.facebook.com/AlterNetNews/"
+  },
+  {
+    "text": "\n    \n",
+    "url": "https://twitter.com/AlterNet"
+  },
+  {
+    "text": "",
+    "url": "/feeds/feed.rss"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/AlterNetNews/"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/AlterNet"
+  },
+  {
+    "text": "",
+    "url": "/feeds/feed.rss"
+  },
+  {
+    "text": "Politics",
+    "url": "/news-politics"
+  },
+  {
+    "text": "News & Politics",
+    "url": "/news-politics"
+  },
+  {
+    "text": "Trump",
+    "url": "/trump"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "/the-right-wing"
+  },
+  {
+    "text": "Election \u201920",
+    "url": "https://www.alternet.org/category/election-2020/"
+  },
+  {
+    "text": "Media",
+    "url": "/media"
+  },
+  {
+    "text": "Culture",
+    "url": "/culture"
+  },
+  {
+    "text": "Belief",
+    "url": "/belief"
+  },
+  {
+    "text": "Culture",
+    "url": "/culture"
+  },
+  {
+    "text": "Books",
+    "url": "/books"
+  },
+  {
+    "text": "Documentaries",
+    "url": "/documentaries"
+  },
+  {
+    "text": "Economy",
+    "url": "/economy"
+  },
+  {
+    "text": "Economy",
+    "url": "/economy"
+  },
+  {
+    "text": "Labor",
+    "url": "/labor"
+  },
+  {
+    "text": "Immigration",
+    "url": "/immigration"
+  },
+  {
+    "text": "Rights",
+    "url": "/human-rights"
+  },
+  {
+    "text": "Environment",
+    "url": "/environment/"
+  },
+  {
+    "text": "Water",
+    "url": "/water"
+  },
+  {
+    "text": "Food",
+    "url": "/food"
+  },
+  {
+    "text": "Health",
+    "url": "/health"
+  },
+  {
+    "text": "Hot Topics >>",
+    "url": "/"
+  },
+  {
+    "text": "FAQs",
+    "url": "/2021/12/faqs/"
+  },
+  {
+    "text": "GET OUR DAILY NEWSLETTER!",
+    "url": "/st/sign-up-for-alternets-newsletter"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "/the-right-wing"
+  },
+  {
+    "text": "Religious right",
+    "url": "/tag/religious-right"
+  },
+  {
+    "text": "GO AD FREE!",
+    "url": "https://www.alternet.org/st/AlterNet_Plus_Signup"
+  },
+  {
+    "text": "MAKE A ONE-TIME DONATION",
+    "url": "https://kindest.com/442355-defend-democracy-today-support-fearless-insightful-journalism"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/these-non-maga-conservatives-believe-their-third-party-can-prevent-the-demise-of-our-democracy/"
+  },
+  {
+    "text": "\n        These non-MAGA conservatives believe their third party can help prevent 'the demise of our democracy'\n    ",
+    "url": "https://www.alternet.org/2022/07/these-non-maga-conservatives-believe-their-third-party-can-prevent-the-demise-of-our-democracy/"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/watch-video-captures-ted-cruz-fist-bumping-republicans-after-blocking-bill-to-help-vets-suffering-from-toxic-burn-pits/"
+  },
+  {
+    "text": "\n        Watch: Video captures Ted Cruz fist-bumping Republicans after blocking bill to help vets suffering from toxic burn pits\n    ",
+    "url": "https://www.alternet.org/2022/07/watch-video-captures-ted-cruz-fist-bumping-republicans-after-blocking-bill-to-help-vets-suffering-from-toxic-burn-pits/"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/libertarian-writer-slams-the-gops-creepy-affection-for-viktor-orban/"
+  },
+  {
+    "text": "\n        Libertarian writer slams MAGA Republicans' \u2018creepy\u2019 affection for Viktor Orb\u00e1n\n    ",
+    "url": "https://www.alternet.org/2022/07/libertarian-writer-slams-the-gops-creepy-affection-for-viktor-orban/"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/not-even-close-rupert-murdoch-told-kushner-that-bidens-arizona-victory-was-ironclad/"
+  },
+  {
+    "text": "\n        'Not even close': Rupert Murdoch told Kushner that Biden\u2019s Arizona victory was 'ironclad' on election night\n    ",
+    "url": "https://www.alternet.org/2022/07/not-even-close-rupert-murdoch-told-kushner-that-bidens-arizona-victory-was-ironclad/"
+  },
+  {
+    "text": "",
+    "url": "#"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/voter-guides-could-be-key/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/commentary/"
+  },
+  {
+    "text": "\n        Voter guides could be key to cutting through partisan midterm noise\n    ",
+    "url": "https://www.alternet.org/2022/07/voter-guides-could-be-key/"
+  },
+  {
+    "text": "Steven Rosenfeld",
+    "url": "https://www.alternet.org/author/steven-rosenfeld"
+  },
+  {
+    "text": "Independent Media Institute",
+    "url": "https://www.alternet.org/author/independent-media-institute"
+  },
+  {
+    "text": "Commentary",
+    "url": "https://www.alternet.org/commentary/"
+  },
+  {
+    "text": "MSN",
+    "url": "https://www.alternet.org/msn/"
+  },
+  {
+    "text": "Frontpage news and politics",
+    "url": "https://www.alternet.org/frontpage-news-and-politics/"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "https://www.alternet.org/the-right-wing/"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/schumer-manchin-bill-is-conservative/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/commentary/"
+  },
+  {
+    "text": "Economy",
+    "url": "https://www.alternet.org/economy/"
+  },
+  {
+    "text": "Commentary",
+    "url": "https://www.alternet.org/commentary/"
+  },
+  {
+    "text": "AlterNet All-Access",
+    "url": "https://www.alternet.org/alternet-2020/"
+  },
+  {
+    "text": "MSN",
+    "url": "https://www.alternet.org/msn/"
+  },
+  {
+    "text": "Human Rights",
+    "url": "https://www.alternet.org/human-rights/"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "https://www.alternet.org/the-right-wing/"
+  },
+  {
+    "text": "Environment",
+    "url": "https://www.alternet.org/environment/"
+  },
+  {
+    "text": "Science",
+    "url": "https://www.alternet.org/science/"
+  },
+  {
+    "text": "\n        The Schumer-Manchin bill is 'conservative.' So what?: Opinion\n    ",
+    "url": "https://www.alternet.org/2022/07/schumer-manchin-bill-is-conservative/"
+  },
+  {
+    "text": "John Stoehr",
+    "url": "https://www.alternet.org/author/johnstoehr"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/paranoid-nature-of-american-olicy/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/commentary/"
+  },
+  {
+    "text": "World",
+    "url": "https://www.alternet.org/world/"
+  },
+  {
+    "text": "Commentary",
+    "url": "https://www.alternet.org/commentary/"
+  },
+  {
+    "text": "Frontpage news and politics",
+    "url": "https://www.alternet.org/frontpage-news-and-politics/"
+  },
+  {
+    "text": "Human Rights",
+    "url": "https://www.alternet.org/human-rights/"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "https://www.alternet.org/the-right-wing/"
+  },
+  {
+    "text": "\n        The paranoid nature of American foreign and domestic policy\n    ",
+    "url": "https://www.alternet.org/2022/07/paranoid-nature-of-american-olicy/"
+  },
+  {
+    "text": "William Astore",
+    "url": "https://www.alternet.org/author/william-astore"
+  },
+  {
+    "text": "TomDispatch",
+    "url": "https://www.alternet.org/author/tomdispatch"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/mexico-president-joe-biden-history/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/commentary/"
+  },
+  {
+    "text": "World",
+    "url": "https://www.alternet.org/world/"
+  },
+  {
+    "text": "Commentary",
+    "url": "https://www.alternet.org/commentary/"
+  },
+  {
+    "text": "Frontpage news and politics",
+    "url": "https://www.alternet.org/frontpage-news-and-politics/"
+  },
+  {
+    "text": "Culture",
+    "url": "https://www.alternet.org/culture/"
+  },
+  {
+    "text": "\n        Joe Biden gets a history lesson from Mexico's president\n    ",
+    "url": "https://www.alternet.org/2022/07/mexico-president-joe-biden-history/"
+  },
+  {
+    "text": "Rodrigo Guillot",
+    "url": "https://www.alternet.org/author/rodrigo_guillot"
+  },
+  {
+    "text": "Globetrotter",
+    "url": "https://www.alternet.org/author/globetrotter4"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/centrist-democrats-obstructing-raising-taxes/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/commentary/"
+  },
+  {
+    "text": "Economy",
+    "url": "https://www.alternet.org/economy/"
+  },
+  {
+    "text": "Commentary",
+    "url": "https://www.alternet.org/commentary/"
+  },
+  {
+    "text": "AlterNet All-Access",
+    "url": "https://www.alternet.org/alternet-2020/"
+  },
+  {
+    "text": "Trump",
+    "url": "https://www.alternet.org/trump/"
+  },
+  {
+    "text": "MSN",
+    "url": "https://www.alternet.org/msn/"
+  },
+  {
+    "text": "The Right Wing",
+    "url": "https://www.alternet.org/the-right-wing/"
+  },
+  {
+    "text": "\n        Centrist Democrats are obstructing raising taxes on the rich | Opinion\n    ",
+    "url": "https://www.alternet.org/2022/07/centrist-democrats-obstructing-raising-taxes/"
+  },
+  {
+    "text": "Noah Berlatsky",
+    "url": "https://www.alternet.org/author/noah-berlatsky"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/mike-flynn/"
+  },
+  {
+    "text": "\n        Inside the secret campaign to distance a former Trump NSA official from Michael Flynn's security team\n    ",
+    "url": "https://www.alternet.org/2022/07/mike-flynn/"
+  },
+  {
+    "text": "Jordan Green",
+    "url": "https://www.alternet.org/author/jordangreen"
+  },
+  {
+    "text": "Raw Story",
+    "url": "https://www.alternet.org/author/raw-story"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/trump-mueller/"
+  },
+  {
+    "text": "\n        Ex-Mueller prosecutor highlights a piece of Trump's Jan. 7 speech that might expose a White House cover-up\n    ",
+    "url": "https://www.alternet.org/2022/07/trump-mueller/"
+  },
+  {
+    "text": "Sarah K. Burris",
+    "url": "https://www.alternet.org/author/sarah-k-burris"
+  },
+  {
+    "text": "Raw Story",
+    "url": "https://www.alternet.org/author/raw-story"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/donna-edwards/"
+  },
+  {
+    "text": "\n        The Israel lobby is spending millions to defeat progressive Democrats in primary races: columnist\n    ",
+    "url": "https://www.alternet.org/2022/07/donna-edwards/"
+  },
+  {
+    "text": "Amy Goodman",
+    "url": "https://www.alternet.org/author/amy-goodman"
+  },
+  {
+    "text": "Democracy Now",
+    "url": "https://www.alternet.org/author/democracy-now"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/bannon-cnn/"
+  },
+  {
+    "text": "\n        Steve Bannon lawyer squirms as CNN host backs him into corner over damning leaked recording of his client\n    ",
+    "url": "https://www.alternet.org/2022/07/bannon-cnn/"
+  },
+  {
+    "text": "Matthew Chapman",
+    "url": "https://www.alternet.org/author/matthew-chapman"
+  },
+  {
+    "text": "Raw Story",
+    "url": "https://www.alternet.org/author/raw-story"
+  },
+  {
+    "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+    "url": "https://www.alternet.org/2022/07/ginni-thomas/"
+  },
+  {
+    "text": "\n        Liz Cheney serves notice to Ginni Thomas\n    ",
+    "url": "https://www.alternet.org/2022/07/ginni-thomas/"
+  },
+  {
+    "text": "Tom Boggioni",
+    "url": "https://www.alternet.org/author/tom-boggioni"
+  },
+  {
+    "text": "Raw Story",
+    "url": "https://www.alternet.org/author/raw-story"
+  },
+  {
+    "text": "\n    \n",
+    "url": "https://www.facebook.com/alternet"
+  },
+  {
+    "text": "\n    \n",
+    "url": "https://twitter.com/alternet"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "\n    \n",
+    "url": "https://www.instagram.com/alternet/"
+  },
+  {
+    "text": "\n    \n",
+    "url": "https://www.pinterest.com/alternet/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "Contact",
+    "url": "/contact"
+  },
+  {
+    "text": "Advertise with AlterNet",
+    "url": "/2020/09/advertise-with-alternet-2647452698/"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/2020/09/privacy-policy-2647452896/"
+  },
+  {
+    "text": "Writer Guidelines",
+    "url": "/2020/09/writer-guidelines-2647452912/"
+  },
+  {
+    "text": "Press Information",
+    "url": "/2020/09/press-information-2647452975/"
+  },
+  {
+    "text": "About AlterNet",
+    "url": "/about-alternet"
+  },
+  {
+    "text": "Meet the AlterNet Staff",
+    "url": "/2020/09/meet-the-alternet-staff-2647453134/"
+  }
+]

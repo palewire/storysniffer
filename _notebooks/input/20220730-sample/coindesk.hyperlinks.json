@@ -1,0 +1,1874 @@
+[
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "DESK HUB",
+    "url": "https://desk.coindesk.com"
+  },
+  {
+    "text": "Markets",
+    "url": "/markets/"
+  },
+  {
+    "text": "Business",
+    "url": "/business/"
+  },
+  {
+    "text": "Tech",
+    "url": "/tech/"
+  },
+  {
+    "text": "Policy",
+    "url": "/policy/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Indices",
+    "url": "/indices/"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts/"
+  },
+  {
+    "text": "Crypto Explainer+",
+    "url": "/learn/"
+  },
+  {
+    "text": "Events",
+    "url": "/events/"
+  },
+  {
+    "text": "Research",
+    "url": "/research/"
+  },
+  {
+    "text": "About",
+    "url": "/about/"
+  },
+  {
+    "text": "Sponsored Content",
+    "url": "/sponsored-content/"
+  },
+  {
+    "text": "Layer 2",
+    "url": "/layer2/"
+  },
+  {
+    "text": "DESK HUB",
+    "url": "https://desk.coindesk.com"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "Layer 2",
+    "url": "/layer2/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Markets",
+    "url": "/markets/"
+  },
+  {
+    "text": "Business",
+    "url": "/business/"
+  },
+  {
+    "text": "Tech",
+    "url": "/tech/"
+  },
+  {
+    "text": "Policy",
+    "url": "/policy/"
+  },
+  {
+    "text": "Indices",
+    "url": "/indices/"
+  },
+  {
+    "text": "TV & Videos",
+    "url": "/tv/"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts/"
+  },
+  {
+    "text": "Crypto Explainer+",
+    "url": "/learn/"
+  },
+  {
+    "text": "Events",
+    "url": "/events/"
+  },
+  {
+    "text": "Research",
+    "url": "/research/"
+  },
+  {
+    "text": "About",
+    "url": "/about/"
+  },
+  {
+    "text": "Sponsored Content",
+    "url": "/sponsored-content/"
+  },
+  {
+    "text": "Bitcoin$23,847.77-0.66%",
+    "url": "/price/bitcoin/"
+  },
+  {
+    "text": "Ethereum$1,689.68-1.78%",
+    "url": "/price/ethereum/"
+  },
+  {
+    "text": "Binance Coin$287.07-0.13%",
+    "url": "/price/binance-coin/"
+  },
+  {
+    "text": "XRP$0.368523-0.77%",
+    "url": "/price/xrp/"
+  },
+  {
+    "text": "Solana$42.18-1.62%",
+    "url": "/price/solana/"
+  },
+  {
+    "text": "Binance USD$1.00+0.07%",
+    "url": "/price/binance-usd/"
+  },
+  {
+    "text": "Cardano$0.524923-1.97%",
+    "url": "/price/cardano/"
+  },
+  {
+    "text": "Crypto.com$0.137303+0.93%",
+    "url": "/price/cryptocom/"
+  },
+  {
+    "text": "Stellar$0.118133+0.28%",
+    "url": "/price/stellar/"
+  },
+  {
+    "text": "FTX Token$31.14+1.42%",
+    "url": "/price/ftx-token/"
+  },
+  {
+    "text": "Polkadot$8.59+7.01%",
+    "url": "/price/polkadot/"
+  },
+  {
+    "text": "Avalanche$24.27-0.25%",
+    "url": "/price/avax/"
+  },
+  {
+    "text": "Dogecoin$0.071399+2.14%",
+    "url": "/price/dogecoin/"
+  },
+  {
+    "text": "Polygon$0.929700-1.79%",
+    "url": "/price/polygon/"
+  },
+  {
+    "text": "Uniswap$8.69-3.10%",
+    "url": "/price/uniswap/"
+  },
+  {
+    "text": "Chainlink$7.79+0.81%",
+    "url": "/price/chainlink/"
+  },
+  {
+    "text": "Optimism$1.78+10.36%",
+    "url": "/price/optimism/"
+  },
+  {
+    "text": "Shiba Inu$0.000012+1.48%",
+    "url": "/price/shiba-inu/"
+  },
+  {
+    "text": "ApeCoin$6.69-2.71%",
+    "url": "/price/apecoin/"
+  },
+  {
+    "text": "Tron$0.069823-0.36%",
+    "url": "/price/tron/"
+  },
+  {
+    "text": "Wrapped Bitcoin$23,824.51-0.58%",
+    "url": "/price/wrapped-bitcoin/"
+  },
+  {
+    "text": "Ethereum Classic$39.30-7.64%",
+    "url": "/price/ethereum-classic/"
+  },
+  {
+    "text": "Axie Infinity$19.14+4.44%",
+    "url": "/price/axie-infinity/"
+  },
+  {
+    "text": "Litecoin$61.60-0.71%",
+    "url": "/price/litecoin/"
+  },
+  {
+    "text": "The Sandbox$1.33-2.13%",
+    "url": "/price/the-sandbox/"
+  },
+  {
+    "text": "Internet Computer$8.13+12.45%",
+    "url": "/price/internet-computer/"
+  },
+  {
+    "text": "NEAR Protocol$4.43+0.38%",
+    "url": "/price/near-protocol/"
+  },
+  {
+    "text": "Cosmos$10.65-1.03%",
+    "url": "/price/cosmos/"
+  },
+  {
+    "text": "Monero$158.30-2.24%",
+    "url": "/price/monero/"
+  },
+  {
+    "text": "Bitcoin Cash$146.09-7.83%",
+    "url": "/price/bitcoin-cash/"
+  },
+  {
+    "text": "Quant$106.01+0.31%",
+    "url": "/price/quant/"
+  },
+  {
+    "text": "Algorand$0.342686+1.17%",
+    "url": "/price/algorand/"
+  },
+  {
+    "text": "Curve DAO Token$1.38-5.41%",
+    "url": "/price/curve-dao-token/"
+  },
+  {
+    "text": "VeChain$0.027043+0.47%",
+    "url": "/price/vechain/"
+  },
+  {
+    "text": "Immutable X$1.14+10.97%",
+    "url": "/price/immutable-x/"
+  },
+  {
+    "text": "Decentraland$0.989717+0.33%",
+    "url": "/price/decentraland/"
+  },
+  {
+    "text": "Gala$0.056951+2.05%",
+    "url": "/price/gala/"
+  },
+  {
+    "text": "Flow$2.01+5.62%",
+    "url": "/price/flow/"
+  },
+  {
+    "text": "Filecoin$7.29+22.34%",
+    "url": "/price/filecoin/"
+  },
+  {
+    "text": "Hedera$0.072350+0.37%",
+    "url": "/price/hedera/"
+  },
+  {
+    "text": "Tezos$1.76+1.82%",
+    "url": "/price/tezos/"
+  },
+  {
+    "text": "Aave$94.94-2.62%",
+    "url": "/price/aave/"
+  },
+  {
+    "text": "Ethereum Name System$14.86-1.20%",
+    "url": "/price/ethereum-name-service/"
+  },
+  {
+    "text": "Theta$1.42+0.14%",
+    "url": "/price/theta-network/"
+  },
+  {
+    "text": "The Graph$0.134749+4.22%",
+    "url": "/price/the-graph/"
+  },
+  {
+    "text": "Elrond$57.71+0.13%",
+    "url": "/price/elrond/"
+  },
+  {
+    "text": "THORChain$2.71-3.95%",
+    "url": "/price/thorchain/"
+  },
+  {
+    "text": "EOS$1.29-0.78%",
+    "url": "/price/eos/"
+  },
+  {
+    "text": "Bitcoin SV$63.72-5.07%",
+    "url": "/price/bitcoin-sv/"
+  },
+  {
+    "text": "Chiliz$0.132105+11.35%",
+    "url": "/price/chiliz/"
+  },
+  {
+    "text": "NEO$11.38-2.49%",
+    "url": "/price/neo/"
+  },
+  {
+    "text": "Synthetix$3.86-3.22%",
+    "url": "/price/synthetix/"
+  },
+  {
+    "text": "Maker$1,121.04+1.90%",
+    "url": "/price/maker/"
+  },
+  {
+    "text": "Celo$1.01+1.98%",
+    "url": "/price/celo/"
+  },
+  {
+    "text": "BitTorrent$0.000001-0.22%",
+    "url": "/price/bittorrent/"
+  },
+  {
+    "text": "Fantom$0.342893+1.34%",
+    "url": "/price/fantom/"
+  },
+  {
+    "text": "IOTA$0.326410+3.73%",
+    "url": "/price/iota/"
+  },
+  {
+    "text": "Amp$0.009031+0.36%",
+    "url": "/price/amp/"
+  },
+  {
+    "text": "Yield Guild Games$0.896534+2.67%",
+    "url": "/price/yield-guild-games/"
+  },
+  {
+    "text": "Paxos Dollar$1.00+0.07%",
+    "url": "/price/paxos-dollar/"
+  },
+  {
+    "text": "eCash$0.000044-2.93%",
+    "url": "/price/ecash/"
+  },
+  {
+    "text": "Zcash$66.94+2.57%",
+    "url": "/price/zcash/"
+  },
+  {
+    "text": "Moonbeam$0.813940+5.51%",
+    "url": "/price/moonbeam/"
+  },
+  {
+    "text": "Celsius$1.15-13.53%",
+    "url": "/price/celsius/"
+  },
+  {
+    "text": "NuCypher$0.190500+0.83%",
+    "url": "/price/nucypher/"
+  },
+  {
+    "text": "Mina$0.786664+2.05%",
+    "url": "/price/mina/"
+  },
+  {
+    "text": "Oasis Network$0.073395+2.84%",
+    "url": "/price/oasis-network/"
+  },
+  {
+    "text": "Nexo$0.727540-2.02%",
+    "url": "/price/nexo/"
+  },
+  {
+    "text": "Zilliqa$0.042674+0.45%",
+    "url": "/price/zilliqa/"
+  },
+  {
+    "text": "Bitcoin Gold$34.13+0.29%",
+    "url": "/price/bitcoin-gold/"
+  },
+  {
+    "text": "Kusama$65.04+1.40%",
+    "url": "/price/kusama/"
+  },
+  {
+    "text": "Basic Attention Token$0.416000+1.96%",
+    "url": "/price/basic-attention-token/"
+  },
+  {
+    "text": "Enjin$0.623089+1.68%",
+    "url": "/price/enjin-coin/"
+  },
+  {
+    "text": "Waves$5.67-0.79%",
+    "url": "/price/waves/"
+  },
+  {
+    "text": "Loopring$0.437861+1.30%",
+    "url": "/price/loopring/"
+  },
+  {
+    "text": "PAX Gold$1,765.89+0.56%",
+    "url": "/price/pax-gold/"
+  },
+  {
+    "text": "Stacks$0.440944+1.71%",
+    "url": "/price/stacks/"
+  },
+  {
+    "text": "Compound$58.39+0.41%",
+    "url": "/price/compound/"
+  },
+  {
+    "text": "PancakeSwap$3.92-3.25%",
+    "url": "/price/pancakeswap/"
+  },
+  {
+    "text": "Dash$52.03-1.44%",
+    "url": "/price/dash/"
+  },
+  {
+    "text": "JasmyCoin$0.009764+0.95%",
+    "url": "/price/jasmycoin/"
+  },
+  {
+    "text": "Raydium$0.870498-0.20%",
+    "url": "/price/raydium/"
+  },
+  {
+    "text": "Qtum$4.63-5.92%",
+    "url": "/price/qtum/"
+  },
+  {
+    "text": "Kava.io$1.90-0.48%",
+    "url": "/price/kava-io/"
+  },
+  {
+    "text": "NEM$0.050258+0.09%",
+    "url": "/price/nem/"
+  },
+  {
+    "text": "Yearn Finance$11,462.79+28.32%",
+    "url": "/price/yearn-finance/"
+  },
+  {
+    "text": "Ravencoin$0.036879-8.83%",
+    "url": "/price/ravencoin/"
+  },
+  {
+    "text": "Decred$28.53+2.72%",
+    "url": "/price/decred/"
+  },
+  {
+    "text": "Wax$0.106383+2.75%",
+    "url": "/price/wax/"
+  },
+  {
+    "text": "Audius$0.354190+0.61%",
+    "url": "/price/audius/"
+  },
+  {
+    "text": "0x$0.368931+10.92%",
+    "url": "/price/0x/"
+  },
+  {
+    "text": "Sushiswap$1.48-2.63%",
+    "url": "/price/sushiswap/"
+  },
+  {
+    "text": "TerraUSD$0.034983-5.05%",
+    "url": "/price/terrausd/"
+  },
+  {
+    "text": "UMA Protocol$2.99+3.96%",
+    "url": "/price/uma-protocol/"
+  },
+  {
+    "text": "OMG Network$2.31-1.77%",
+    "url": "/price/omgnetwork/"
+  },
+  {
+    "text": "IoTeX$0.034068+2.74%",
+    "url": "/price/iotex/"
+  },
+  {
+    "text": "SuperRare$0.319914+3.01%",
+    "url": "/price/superrare/"
+  },
+  {
+    "text": "Livepeer$12.46-8.73%",
+    "url": "/price/livepeer/"
+  },
+  {
+    "text": "Ankr$0.030152+0.09%",
+    "url": "/price/ankr/"
+  },
+  {
+    "text": "Storj$0.699973+3.22%",
+    "url": "/price/storj/"
+  },
+  {
+    "text": "ICON$0.314148+3.54%",
+    "url": "/price/icon/"
+  },
+  {
+    "text": "Skale$0.057655+3.56%",
+    "url": "/price/skale/"
+  },
+  {
+    "text": "MOBOX$0.708381-0.21%",
+    "url": "/price/mobox/"
+  },
+  {
+    "text": "Serum$1.00-2.20%",
+    "url": "/price/serum/"
+  },
+  {
+    "text": "WazirX$0.270086+0.52%",
+    "url": "/price/wazirx/"
+  },
+  {
+    "text": "Secret$1.15-3.98%",
+    "url": "/price/secret/"
+  },
+  {
+    "text": "Siacoin$0.004442+1.13%",
+    "url": "/price/siacoin/"
+  },
+  {
+    "text": "COTI$0.110466+1.38%",
+    "url": "/price/coti/"
+  },
+  {
+    "text": "Vulcan Forged PYR$4.34-6.72%",
+    "url": "/price/vulcan-forged-pyr/"
+  },
+  {
+    "text": "Polymath Network$0.216154+1.16%",
+    "url": "/price/polymath-network/"
+  },
+  {
+    "text": "SafePal$0.394874-0.05%",
+    "url": "/price/safepal/"
+  },
+  {
+    "text": "Numeraire$17.41-1.88%",
+    "url": "/price/numeraire/"
+  },
+  {
+    "text": "Keep Network$0.186500-0.84%",
+    "url": "/price/keep-network/"
+  },
+  {
+    "text": "DigiByte$0.011614-1.27%",
+    "url": "/price/digibyte/"
+  },
+  {
+    "text": "Band Protocol$1.78+3.64%",
+    "url": "/price/band-protocol/"
+  },
+  {
+    "text": "Nervos Network$0.004475+0.76%",
+    "url": "/price/nervos-network/"
+  },
+  {
+    "text": "Lisk$1.14+1.02%",
+    "url": "/price/lisk/"
+  },
+  {
+    "text": "Moonriver$15.38+6.35%",
+    "url": "/price/moonriver/"
+  },
+  {
+    "text": "Alchemy Pay$0.015549+2.12%",
+    "url": "/price/alchemy-pay/"
+  },
+  {
+    "text": "Civic$0.152382+1.65%",
+    "url": "/price/civic/"
+  },
+  {
+    "text": "Ren$0.148777+1.94%",
+    "url": "/price/ren/"
+  },
+  {
+    "text": "Injective Protocol$1.44+0.03%",
+    "url": "/price/injective-protocol/"
+  },
+  {
+    "text": "Joe$0.361884-8.65%",
+    "url": "/price/joe/"
+  },
+  {
+    "text": "XYO Network$0.010256-17.25%",
+    "url": "/price/xyo-network/"
+  },
+  {
+    "text": "Nano$1.02-0.29%",
+    "url": "/price/nano/"
+  },
+  {
+    "text": "Request$0.133507+4.64%",
+    "url": "/price/request/"
+  },
+  {
+    "text": "Chromia$0.218111+0.02%",
+    "url": "/price/chromia/"
+  },
+  {
+    "text": "SXP$0.429264+1.72%",
+    "url": "/price/sxp/"
+  },
+  {
+    "text": "Sun Token$0.006153-0.79%",
+    "url": "/price/sun-token/"
+  },
+  {
+    "text": "Bancor$0.563449+0.28%",
+    "url": "/price/bancor/"
+  },
+  {
+    "text": "Orchid$0.118482-1.19%",
+    "url": "/price/orchid/"
+  },
+  {
+    "text": "Syscoin$0.179292-1.10%",
+    "url": "/price/syscoin/"
+  },
+  {
+    "text": "CLV$0.113439+3.72%",
+    "url": "/price/clv/"
+  },
+  {
+    "text": "Voyager Token$0.389738-4.19%",
+    "url": "/price/voyager-token/"
+  },
+  {
+    "text": "Steem$0.250216+0.82%",
+    "url": "/price/steem/"
+  },
+  {
+    "text": "Fetch.ai$0.087675-0.34%",
+    "url": "/price/fetchai/"
+  },
+  {
+    "text": "Augur$8.50-1.54%",
+    "url": "/price/augur/"
+  },
+  {
+    "text": "iExec RLC$1.02+6.73%",
+    "url": "/price/iexec-rlc/"
+  },
+  {
+    "text": "Kyber Network$1.65+3.93%",
+    "url": "/price/kyber-network/"
+  },
+  {
+    "text": "Stormx$0.008316+0.74%",
+    "url": "/price/stormx/"
+  },
+  {
+    "text": "Quickswap$83.14-3.39%",
+    "url": "/price/quickswap/"
+  },
+  {
+    "text": "Mirror Protocol$0.219607-1.66%",
+    "url": "/price/mirror-protocol/"
+  },
+  {
+    "text": "Aragon$2.03+1.20%",
+    "url": "/price/aragon/"
+  },
+  {
+    "text": "NKN$0.112422+2.58%",
+    "url": "/price/nkn/"
+  },
+  {
+    "text": "Index Chain$0.078058-3.15%",
+    "url": "/price/index-chain/"
+  },
+  {
+    "text": "Polkastarter$0.636281-0.96%",
+    "url": "/price/polkastarter/"
+  },
+  {
+    "text": "Verge$0.003673+0.45%",
+    "url": "/price/verge/"
+  },
+  {
+    "text": "Enzyme$28.28+1.06%",
+    "url": "/price/melon/"
+  },
+  {
+    "text": "district0x$0.055525+1.60%",
+    "url": "/price/district0x/"
+  },
+  {
+    "text": "Alpaca Finance$0.277696-3.55%",
+    "url": "/price/alpaca-finance/"
+  },
+  {
+    "text": "Harvest Finance$53.49+6.48%",
+    "url": "/price/harvest-finance/"
+  },
+  {
+    "text": "Smooth Love Potion$0.004444-0.89%",
+    "url": "/price/smooth-love-potion/"
+  },
+  {
+    "text": "Quantstamp$0.026203-2.37%",
+    "url": "/price/quantstamp/"
+  },
+  {
+    "text": "SingularDTV$0.0004020.00%",
+    "url": "/price/singulardtv/"
+  },
+  {
+    "text": "Tether$1.00+0.08%",
+    "url": "/price/tether/"
+  },
+  {
+    "text": "USD Coin$1.00+0.06%",
+    "url": "/price/usd-coin/"
+  },
+  {
+    "text": "Dai$0.999992+0.04%",
+    "url": "/price/dai/"
+  },
+  {
+    "text": "Crypto Prices ",
+    "url": "/data/"
+  },
+  {
+    "text": "Top Assets ",
+    "url": "/coindesk20/"
+  },
+  {
+    "text": "Crypto Prices ",
+    "url": "/data/"
+  },
+  {
+    "text": "Top Assets ",
+    "url": "/coindesk20/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/ethereum-classic-almost-triples-matic-and-uni-surge-as-july-brings-relief-to-crypto-market/"
+  },
+  {
+    "text": "Ethereum Classic Almost Triples, MATIC and UNI Surge as July Brings Relief to Crypto Market",
+    "url": "/markets/2022/07/29/ethereum-classic-almost-triples-matic-and-uni-surge-as-july-brings-relief-to-crypto-market/"
+  },
+  {
+    "text": "Omkar Godbole",
+    "url": "/author/ogodbole"
+  },
+  {
+    "text": "Market Wrap: Bitcoin and Other Cryptos Gain for Second Straight Week  ",
+    "url": "/markets/2022/07/29/market-wrap-bitcoin-and-other-cryptos-gain-for-second-straight-week/"
+  },
+  {
+    "text": "Glenn Williams",
+    "url": "/author/glenn-williams"
+  },
+  {
+    "text": "",
+    "url": "/sponsored-content/why-now-is-a-great-time-for-crypto-innovation/"
+  },
+  {
+    "text": "Why Now Is a Great Time for Crypto Innovation",
+    "url": "/sponsored-content/why-now-is-a-great-time-for-crypto-innovation/"
+  },
+  {
+    "text": "CoinDesk Staff",
+    "url": "/author/CoinDesk"
+  },
+  {
+    "text": "Coinbase\u2019s Stock at Crossroads as Cathie Wood\u2019s Ark Sells Some",
+    "url": "/business/2022/07/29/coinbases-stock-at-crossroads-as-cathie-woods-ark-sells-a-portion/"
+  },
+  {
+    "text": "Michael Bellusci",
+    "url": "/author/mbellusci"
+  },
+  {
+    "text": "Crypto\u2019s Slide Hasn't Bled Into the 'Real Economy,' IMF Official Says",
+    "url": "/policy/2022/07/29/cryptos-slide-hasnt-bled-into-the-real-economy-imf-official-says/"
+  },
+  {
+    "text": "Fran Velasquez",
+    "url": "/author/fvelazquez"
+  },
+  {
+    "text": "Two Soccer Teams Transfer a South American Player Using USDC, But There\u2019s Collateral Damage",
+    "url": "/business/2022/07/29/two-soccer-teams-transfer-a-south-american-player-using-usdc-but-theres-collateral-damage/"
+  },
+  {
+    "text": "Market Wrap: Bitcoin and Other Cryptos Gain for Second Straight Week  ",
+    "url": "/markets/2022/07/29/market-wrap-bitcoin-and-other-cryptos-gain-for-second-straight-week/"
+  },
+  {
+    "text": "Crypto\u2019s Slide Hasn't Bled Into the 'Real Economy,' IMF Official Says",
+    "url": "/policy/2022/07/29/cryptos-slide-hasnt-bled-into-the-real-economy-imf-official-says/"
+  },
+  {
+    "text": "Crypto.com and FTX Bet Big on Stadium Naming Rights Before the Crypto Crash. What Happens if They Can\u2019t Afford to Pay?",
+    "url": "/layer2/sportsweek/2022/07/29/cryptocom-and-ftx-bet-big-on-stadium-naming-rights-before-the-crypto-crash-what-happens-if-they-cant-afford-to-pay/"
+  },
+  {
+    "text": "Coinbase\u2019s Stock at Crossroads as Cathie Wood\u2019s Ark Sells Some",
+    "url": "/business/2022/07/29/coinbases-stock-at-crossroads-as-cathie-woods-ark-sells-a-portion/"
+  },
+  {
+    "text": "Voyager Digital\u2019s Clash With US Regulators Followed by Broader FDIC Warning",
+    "url": "/policy/2022/07/29/voyagers-clash-with-us-regulators-followed-by-broader-fdic-warning/"
+  },
+  {
+    "text": "Crypto Exchange CoinFLEX Slashes Team Amid Cost-Cutting Push ",
+    "url": "/business/2022/07/29/crypto-exchange-coinflex-slashes-team-amid-cost-cutting-push/"
+  },
+  {
+    "text": "Schwab Asset Management to List Crypto ETF on NYSE",
+    "url": "/business/2022/07/29/schwab-asset-management-to-list-crypto-etf-on-new-york-stock-exchange/"
+  },
+  {
+    "text": "KuCoin Claims Bragging Rights as First Exchange to Offer NFT ETFs",
+    "url": "/business/2022/07/29/kucoin-claims-bragging-rights-as-first-exchange-to-offer-nft-etfs/"
+  },
+  {
+    "text": "First Mover Americas: Bitcoin Heads for Best Month Since October as PCE Inflation Surprises",
+    "url": "/markets/2022/07/29/first-mover-americas-bitcoin-heads-for-best-month-since-october-as-pce-inflation-surprises/"
+  },
+  {
+    "text": "BNB, Solana Lead Gains in Majors; Traders Point to Dollar Strength for Further Upside",
+    "url": "/markets/2022/07/29/bnb-solana-lead-gains-in-majors-traders-point-to-dollar-strength-for-further-upside/"
+  },
+  {
+    "text": "WisdomTree's Q2 Average Crypto Assets Down Nearly 12% on Year, to $265M",
+    "url": "/business/2022/07/29/wisdomtrees-q2-average-crypto-assets-down-nearly-12-yoy-to-265m/"
+  },
+  {
+    "text": "Cardano's Vasil Upgrade Is Delayed Again for More Testing",
+    "url": "/tech/2022/07/29/cardanos-vasil-upgrade-is-delayed-again-for-more-testing/"
+  },
+  {
+    "text": "El Salvador's Finance Minister Says Bitcoin Adoption is 'Gaining Ground': Report",
+    "url": "/policy/2022/07/29/el-salvadors-finance-minister-says-bitcoin-adoption-is-gaining-ground-report/"
+  },
+  {
+    "text": "Ethereum Classic Almost Triples, MATIC and UNI Surge as July Brings Relief to Crypto Market",
+    "url": "/markets/2022/07/29/ethereum-classic-almost-triples-matic-and-uni-surge-as-july-brings-relief-to-crypto-market/"
+  },
+  {
+    "text": "Lender Babel Finance Lost $280M Trading Customer Funds: Report",
+    "url": "/business/2022/07/29/babel-finance-lost-280m-trading-customer-funds-report/"
+  },
+  {
+    "text": "First Mover Asia: Bitcoin\u2019s Recent Gains Have Been Small. What Will Drive Its Price Higher?",
+    "url": "/markets/2022/07/29/first-mover-asia-bitcoins-recent-gains-have-been-small-what-will-drive-its-price-higher/"
+  },
+  {
+    "text": "Santander Brazil to Launch Crypto Trading Feature in Coming Months, CEO Says",
+    "url": "/business/2022/07/28/santander-brazil-to-launch-crypto-trading-feature-in-coming-months-ceo-says/"
+  },
+  {
+    "text": "What Is the Definition of \u2018Recession?\u2019 And Does Bitcoin Care?",
+    "url": "/markets/2022/07/28/what-is-a-recession-and-does-bitcoin-care/"
+  },
+  {
+    "text": "US Tech Bill Creates White House Blockchain Adviser Role",
+    "url": "/policy/2022/07/28/us-tech-bill-creates-white-house-blockchain-adviser-role/"
+  },
+  {
+    "text": "Crypto Lender Voyager Ordered by US Regulators to Stop Misleading Customers",
+    "url": "/policy/2022/07/28/crypto-lender-voyager-ordered-by-us-regulators-to-stop-misleading-customers/"
+  },
+  {
+    "text": "Sky Mavis Denies Wrongdoing After YouTube Sleuth Links Unusual Transaction to Company\u2019s CEO: Report",
+    "url": "/business/2022/07/28/sky-mavis-denies-wrongdoing-after-youtube-sleuth-links-unusual-transaction-to-companys-ceo-report/"
+  },
+  {
+    "text": "Market Wrap: Bitcoin Pushes Higher Despite Negative GDP Report",
+    "url": "/markets/2022/07/28/market-wrap-bitcoin-pushes-higher-despite-negative-gdp-report/"
+  },
+  {
+    "text": "Apple Seeking Web3-Savvy Content Marketing Directors",
+    "url": "/business/2022/07/28/apple-seeking-web3-savvy-content-marketing-directors/"
+  },
+  {
+    "text": "Apple Is Stifling the Metaverse, Tech Expert Says",
+    "url": "/layer2/2022/07/28/apple-is-stifling-the-metaverse-tech-expert-says/"
+  },
+  {
+    "text": "Janet Yellen Sees No Recession, Calls US Economy \u2018Exceptionally Strong\u2019",
+    "url": "/markets/2022/07/28/janet-yellen-sees-no-recession-calls-us-economy-exceptionally-strong/"
+  },
+  {
+    "text": "Ex-CFTC Chairman Sees Europe\u2019s MiCA Bill as Threat to US Crypto Industry",
+    "url": "/policy/2022/07/28/ex-cftc-chair-giancarlo-sees-europes-mica-bill-as-a-threat-to-us-crypto-industry/"
+  },
+  {
+    "text": "Dick Durbin Joins US Senators Criticizing Fidelity\u2019s Plan to Include Bitcoin in 401(k) Plans",
+    "url": "/policy/2022/07/28/dick-durbin-joins-us-senators-criticizing-fidelitys-plan-to-include-bitcoin-in-401k-plans/"
+  },
+  {
+    "text": "US Senate Republican Seeking Bipartisan Support for Stablecoin Oversight Effort",
+    "url": "/policy/2022/07/28/senates-toomey-says-hes-seeking-bipartisan-support-for-stablecoin-effort/"
+  },
+  {
+    "text": "Crypto Fund Variant Commits $450M to Backing Web3, DeFi Projects",
+    "url": "/business/2022/07/28/crypto-fund-variant-commits-450m-to-backing-web3-defi-projects/"
+  },
+  {
+    "text": "Cross-Chain Bridge Nomad Reveals Crypto Heavyweight Backers for $22.4M Funding Round",
+    "url": "/business/2022/07/28/cross-chain-bridge-nomad-reveals-crypto-heavyweight-backers-for-224m-funding-round/"
+  },
+  {
+    "text": "How the Golden State Warriors Gamified Fandom With NFTs",
+    "url": "/layer2/sportsweek/2022/07/28/how-the-golden-state-warriors-gamified-fandom-with-nfts/"
+  },
+  {
+    "text": "French Lawmaker Calls for Crypto Committee as Legal Questions Loom",
+    "url": "/policy/2022/07/28/french-lawmaker-calls-for-crypto-committee-as-legal-questions-loom/"
+  },
+  {
+    "text": "ApeCoin Proposal to Fund 24-Hour BAYC News Site Wins Community Approval",
+    "url": "/business/2022/07/28/apecoin-proposal-to-fund-24-hour-bayc-news-site-wins-community-approval/"
+  },
+  {
+    "text": "What Is a Flash Loan?",
+    "url": "/learn/2021/02/17/what-is-a-flash-loan/"
+  },
+  {
+    "text": "US Sen. Brown Pressures Apple, Google on Fake Crypto Investing Apps",
+    "url": "/policy/2022/07/28/us-senator-brown-pressures-apple-google-on-fake-crypto-investing-apps/"
+  },
+  {
+    "text": "Step Finance Acquires SolanaFloor to Provide DeFi, NFT Data Insights",
+    "url": "/business/2022/07/28/step-finance-acquires-solanafloor-to-provide-defi-nft-data-insights/"
+  },
+  {
+    "text": "First Mover Americas: No Recession for Bitcoin as U.S. GDP Shrinks, Zipmex Files for Bankruptcy",
+    "url": "/markets/2022/07/28/first-mover-americas-no-recession-for-bitcoin-as-us-gdp-shrinks-zipmex-files-for-bankruptcy/"
+  },
+  {
+    "text": "Health and Fitness App Sweat Economy Raises $13M in Private Token Sale to Move to Web3",
+    "url": "/business/2022/07/28/health-and-fitness-app-sweat-economy-raises-13m-in-private-token-sale-to-move-to-web3/"
+  },
+  {
+    "text": "Foundry Starts New Service to Reduce Supply-Chain Lag for Bitcoin Miners",
+    "url": "/business/2022/07/28/foundry-starts-new-service-to-reduce-supply-chain-lag-for-bitcoin-miners/"
+  },
+  {
+    "text": "View All",
+    "url": "/livewire"
+  },
+  {
+    "text": "Interest in Ether Options Rises to Record as Traders Bet on 'Merge'",
+    "url": "/markets/2022/07/28/ether-open-options-reach-record-high-as-merge-optimism-drives-demand/"
+  },
+  {
+    "text": "Cathie Wood's Ark Invest Offloads Over 1.4M Coinbase Shares as COIN Price Falls",
+    "url": "/markets/2022/07/27/cathie-woods-ark-invest-offloads-over-14m-coinbase-shares-as-coin-price-falls/"
+  },
+  {
+    "text": "",
+    "url": "/tv/"
+  },
+  {
+    "text": "All About Bitcoin",
+    "url": "/tv/all-about-bitcoin/"
+  },
+  {
+    "text": "What Is the Definition of \u2018Recession?\u2019 And Does Bitcoin Care?",
+    "url": "/tv/all-about-bitcoin/all-about-bitcoin-july-29-2022-20220729/"
+  },
+  {
+    "text": "Watch CoinDesk TV",
+    "url": "/tv/"
+  },
+  {
+    "text": "View all videos",
+    "url": "/video/"
+  },
+  {
+    "text": "Interest in Ether Options Rises to Record as Traders Bet on 'Merge'",
+    "url": "/markets/2022/07/28/ether-open-options-reach-record-high-as-merge-optimism-drives-demand/"
+  },
+  {
+    "text": "Cathie Wood's Ark Invest Offloads Over 1.4M Coinbase Shares as COIN Price Falls",
+    "url": "/markets/2022/07/27/cathie-woods-ark-invest-offloads-over-14m-coinbase-shares-as-coin-price-falls/"
+  },
+  {
+    "text": "David Z Morris",
+    "url": "/author/DavidMorris/"
+  },
+  {
+    "text": "Crypto.com and FTX Bet Big on Stadium Naming Rights Before the Crypto Crash. What Happens if They Can\u2019t Afford to Pay?",
+    "url": "/layer2/sportsweek/2022/07/29/cryptocom-and-ftx-bet-big-on-stadium-naming-rights-before-the-crypto-crash-what-happens-if-they-cant-afford-to-pay/"
+  },
+  {
+    "text": "Marcus  Bl\u00e4sche",
+    "url": "/author/MarcusBl\u00e4sche/"
+  },
+  {
+    "text": "Why NBA Athletes Are Turning to Web3 to Build Generational Wealth ",
+    "url": "/layer2/sportsweek/2022/07/28/why-nba-athletes-are-turning-to-web3-to-build-generational-wealth/"
+  },
+  {
+    "text": "Josh Katz",
+    "url": "/author/JoshKatz/"
+  },
+  {
+    "text": "Why We Need NFT Ticketing for Sports Events",
+    "url": "/layer2/sportsweek/2022/07/29/why-we-need-nft-ticketing-for-sports-events/"
+  },
+  {
+    "text": "Jim Daily",
+    "url": "/author/JimDaily/"
+  },
+  {
+    "text": "Building a Sports DAO: 4 Lessons From LinksDAO ",
+    "url": "/layer2/sportsweek/2022/07/28/building-a-sports-dao-4-lessons-from-linksdao/"
+  },
+  {
+    "text": "CoinDesk Staff",
+    "url": "/author/CoinDesk/"
+  },
+  {
+    "text": "How Is Being in Crypto Like Playing a Sport?",
+    "url": "/layer2/sportsweek/2022/07/28/how-is-being-in-crypto-like-playing-a-sport/"
+  },
+  {
+    "text": "Daniel Kuhn",
+    "url": "/author/daniel@coindesk.com/"
+  },
+  {
+    "text": "Is Solana Leading Crypto Into Retail or Trailing Apple?",
+    "url": "/layer2/2022/07/28/is-solana-leading-crypto-into-retail-or-trailing-apple/"
+  },
+  {
+    "text": "View All",
+    "url": "/opinion"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/coindesk-podcast-network/babel-finance-reportedly-lost-280m-trading-customer-funds-and-kucoin-to-offer-nft-etfs/"
+  },
+  {
+    "text": "CoinDesk Podcast Network",
+    "url": "/podcasts/coindesk-podcast-network"
+  },
+  {
+    "text": "Babel Finance Reportedly Lost $280M Trading Customer Funds, and KuCoin to Offer NFT ETFs",
+    "url": "/podcasts/coindesk-podcast-network/babel-finance-reportedly-lost-280m-trading-customer-funds-and-kucoin-to-offer-nft-etfs/"
+  },
+  {
+    "text": "Learn More ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "The Node",
+    "url": "/newsletters/the-node/"
+  },
+  {
+    "text": "First Mover",
+    "url": "/newsletters/first-mover/"
+  },
+  {
+    "text": "Market Wrap",
+    "url": "/newsletters/market-wrap/"
+  },
+  {
+    "text": "Money Reimagined",
+    "url": "/newsletters/money-reimagined/"
+  },
+  {
+    "text": "Crypto Long & Short",
+    "url": "/newsletters/crypto-long-short/"
+  },
+  {
+    "text": "State of Crypto",
+    "url": "/newsletters/state-of-crypto/"
+  },
+  {
+    "text": "Valid Points",
+    "url": "/newsletters/valid-points/"
+  },
+  {
+    "text": "Crypto for Advisors",
+    "url": "/newsletters/crypto-for-advisors/"
+  },
+  {
+    "text": " terms & conditions",
+    "url": "/terms/"
+  },
+  {
+    "text": " privacy policy",
+    "url": "/privacy/"
+  },
+  {
+    "text": "Layer 2",
+    "url": "/layer2/"
+  },
+  {
+    "text": "Theme Week",
+    "url": "/layer2/sportsweek/"
+  },
+  {
+    "text": "For the Fans: How DAOs Could Change Sports",
+    "url": "/layer2/2022/07/25/for-the-fans-how-daos-could-change-sports/"
+  },
+  {
+    "text": "Two Soccer Teams Transfer a South American Player Using USDC, But There\u2019s Collateral Damage",
+    "url": "/business/2022/07/29/two-soccer-teams-transfer-a-south-american-player-using-usdc-but-theres-collateral-damage/"
+  },
+  {
+    "text": "10 Crypto Sports All-Stars",
+    "url": "/layer2/sportsweek/2022/07/26/10-crypto-sports-all-stars/"
+  },
+  {
+    "text": "Why Athletes Are Taking Compensation in Bitcoin ",
+    "url": "/layer2/sportsweek/2022/07/29/why-athletes-are-taking-compensation-in-bitcoin/"
+  },
+  {
+    "text": "Introducing CoinDesk's Sports Week",
+    "url": "/layer2/2022/07/25/introducing-coindesks-sports-week/"
+  },
+  {
+    "text": "Micah Johnson: From MLB to NFT Superstar",
+    "url": "/business/2022/06/08/micah-johnson-from-mlb-to-nft-superstar/"
+  },
+  {
+    "text": "\u2018My Bet Is on Bitcoin,\u2019 Pro Soccer Player Says",
+    "url": "/layer2/sportsweek/2022/07/29/my-bet-is-on-bitcoin-pro-soccer-player-says/"
+  },
+  {
+    "text": "Building a Sports DAO: 4 Lessons From LinksDAO ",
+    "url": "/layer2/sportsweek/2022/07/28/building-a-sports-dao-4-lessons-from-linksdao/"
+  },
+  {
+    "text": "How the Golden State Warriors Gamified Fandom With NFTs",
+    "url": "/layer2/sportsweek/2022/07/28/how-the-golden-state-warriors-gamified-fandom-with-nfts/"
+  },
+  {
+    "text": "DeShone Kizer: From NFL Star to NFT Trailblazer",
+    "url": "/business/2022/06/07/deshone-kizer-from-nfl-star-to-nft-trailblazer/"
+  },
+  {
+    "text": "Read Full Edition ",
+    "url": "https://www.coindesk.com/layer2/sportsweek"
+  },
+  {
+    "text": "",
+    "url": "/layer2/2022/07/20/nominate-your-school-for-the-2022-best-universities-for-blockchain/"
+  },
+  {
+    "text": "Layer 2",
+    "url": "/layer2"
+  },
+  {
+    "text": "Nominate Your School for the 2022 Best Universities for Blockchain",
+    "url": "/layer2/2022/07/20/nominate-your-school-for-the-2022-best-universities-for-blockchain/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/two-soccer-teams-transfer-a-south-american-player-using-usdc-but-theres-collateral-damage/"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "Two Soccer Teams Transfer a South American Player Using USDC, But There\u2019s Collateral Damage",
+    "url": "/business/2022/07/29/two-soccer-teams-transfer-a-south-american-player-using-usdc-but-theres-collateral-damage/"
+  },
+  {
+    "text": "",
+    "url": "/learn/getting-started-with-crypto-twitter/"
+  },
+  {
+    "text": "Learn",
+    "url": "/learn"
+  },
+  {
+    "text": "Getting Started With Crypto Twitter",
+    "url": "/learn/getting-started-with-crypto-twitter/"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/coindesk-podcast-network/babel-finance-reportedly-lost-280m-trading-customer-funds-and-kucoin-to-offer-nft-etfs/"
+  },
+  {
+    "text": "CoinDesk Podcast Network",
+    "url": "/podcasts/coindesk-podcast-network"
+  },
+  {
+    "text": "Babel Finance Reportedly Lost $280M Trading Customer Funds, and KuCoin to Offer NFT ETFs",
+    "url": "/podcasts/coindesk-podcast-network/babel-finance-reportedly-lost-280m-trading-customer-funds-and-kucoin-to-offer-nft-etfs/"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/the-breakdown-with-nlw/the-recession-discussion-is-incredibly-dumb/"
+  },
+  {
+    "text": "The Breakdown, With NLW",
+    "url": "/podcasts/the-breakdown-with-nlw"
+  },
+  {
+    "text": "The Recession Discussion Is Incredibly Dumb",
+    "url": "/podcasts/the-breakdown-with-nlw/the-recession-discussion-is-incredibly-dumb/"
+  },
+  {
+    "text": "",
+    "url": "/learn/are-dapps-the-future-of-the-creator-economy/"
+  },
+  {
+    "text": "Learn",
+    "url": "/learn"
+  },
+  {
+    "text": "Are Dapps the Future of the Creator Economy?",
+    "url": "/learn/are-dapps-the-future-of-the-creator-economy/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/market-wrap-bitcoin-and-other-cryptos-gain-for-second-straight-week/"
+  },
+  {
+    "text": "Market Wrap: Bitcoin and Other Cryptos Gain for Second Straight Week  ",
+    "url": "/markets/2022/07/29/market-wrap-bitcoin-and-other-cryptos-gain-for-second-straight-week/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/2022/07/29/where-traditional-public-financing-fails-blockchain-steps-in/"
+  },
+  {
+    "text": "Where Traditional Public Financing Fails, Blockchain Steps in",
+    "url": "/layer2/2022/07/29/where-traditional-public-financing-fails-blockchain-steps-in/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/sportsweek/2022/07/29/my-bet-is-on-bitcoin-pro-soccer-player-says/"
+  },
+  {
+    "text": "\u2018My Bet Is on Bitcoin,\u2019 Pro Soccer Player Says",
+    "url": "/layer2/sportsweek/2022/07/29/my-bet-is-on-bitcoin-pro-soccer-player-says/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/sportsweek/2022/07/29/why-athletes-are-taking-compensation-in-bitcoin/"
+  },
+  {
+    "text": "Why Athletes Are Taking Compensation in Bitcoin ",
+    "url": "/layer2/sportsweek/2022/07/29/why-athletes-are-taking-compensation-in-bitcoin/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/first-mover-americas-bitcoin-heads-for-best-month-since-october-as-pce-inflation-surprises/"
+  },
+  {
+    "text": "First Mover Americas: Bitcoin Heads for Best Month Since October as PCE Inflation Surprises",
+    "url": "/markets/2022/07/29/first-mover-americas-bitcoin-heads-for-best-month-since-october-as-pce-inflation-surprises/"
+  },
+  {
+    "text": "",
+    "url": "/policy/2022/07/29/el-salvadors-finance-minister-says-bitcoin-adoption-is-gaining-ground-report/"
+  },
+  {
+    "text": "El Salvador's Finance Minister Says Bitcoin Adoption is 'Gaining Ground': Report",
+    "url": "/policy/2022/07/29/el-salvadors-finance-minister-says-bitcoin-adoption-is-gaining-ground-report/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/ethereum-classic-almost-triples-matic-and-uni-surge-as-july-brings-relief-to-crypto-market/"
+  },
+  {
+    "text": "Ethereum Classic Almost Triples, MATIC and UNI Surge as July Brings Relief to Crypto Market",
+    "url": "/markets/2022/07/29/ethereum-classic-almost-triples-matic-and-uni-surge-as-july-brings-relief-to-crypto-market/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/first-mover-asia-bitcoins-recent-gains-have-been-small-what-will-drive-its-price-higher/"
+  },
+  {
+    "text": "First Mover Asia: Bitcoin\u2019s Recent Gains Have Been Small. What Will Drive Its Price Higher?",
+    "url": "/markets/2022/07/29/first-mover-asia-bitcoins-recent-gains-have-been-small-what-will-drive-its-price-higher/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/market-wrap-bitcoin-and-other-cryptos-gain-for-second-straight-week/"
+  },
+  {
+    "text": "Market Wrap: Bitcoin and Other Cryptos Gain for Second Straight Week  ",
+    "url": "/markets/2022/07/29/market-wrap-bitcoin-and-other-cryptos-gain-for-second-straight-week/"
+  },
+  {
+    "text": "",
+    "url": "/learn/what-is-the-merge-and-why-has-it-taken-so-long/"
+  },
+  {
+    "text": "What Is 'the Merge' and Why Has It Taken So Long?",
+    "url": "/learn/what-is-the-merge-and-why-has-it-taken-so-long/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/first-mover-americas-bitcoin-heads-for-best-month-since-october-as-pce-inflation-surprises/"
+  },
+  {
+    "text": "First Mover Americas: Bitcoin Heads for Best Month Since October as PCE Inflation Surprises",
+    "url": "/markets/2022/07/29/first-mover-americas-bitcoin-heads-for-best-month-since-october-as-pce-inflation-surprises/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/first-mover-asia-bitcoins-recent-gains-have-been-small-what-will-drive-its-price-higher/"
+  },
+  {
+    "text": "First Mover Asia: Bitcoin\u2019s Recent Gains Have Been Small. What Will Drive Its Price Higher?",
+    "url": "/markets/2022/07/29/first-mover-asia-bitcoins-recent-gains-have-been-small-what-will-drive-its-price-higher/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/market-wrap-bitcoin-pushes-higher-despite-negative-gdp-report/"
+  },
+  {
+    "text": "Market Wrap: Bitcoin Pushes Higher Despite Negative GDP Report",
+    "url": "/markets/2022/07/28/market-wrap-bitcoin-pushes-higher-despite-negative-gdp-report/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/ether-domina-trading-de-futuros-con-200-millones-de-opciones-cortas-liquidadas/"
+  },
+  {
+    "text": "Ether domina trading de futuros con $200 millones de opciones cortas liquidadas",
+    "url": "/markets/2022/07/28/ether-domina-trading-de-futuros-con-200-millones-de-opciones-cortas-liquidadas/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/first-mover-americas-no-recession-for-bitcoin-as-us-gdp-shrinks-zipmex-files-for-bankruptcy/"
+  },
+  {
+    "text": "First Mover Americas: No Recession for Bitcoin as U.S. GDP Shrinks, Zipmex Files for Bankruptcy",
+    "url": "/markets/2022/07/28/first-mover-americas-no-recession-for-bitcoin-as-us-gdp-shrinks-zipmex-files-for-bankruptcy/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/ether-open-options-reach-record-high-as-merge-optimism-drives-demand/"
+  },
+  {
+    "text": "Interest in Ether Options Rises to Record as Traders Bet on 'Merge'",
+    "url": "/markets/2022/07/28/ether-open-options-reach-record-high-as-merge-optimism-drives-demand/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/bnb-y-sol-lideran-ganancias-y-traders-apuntan-a-un-dolar-fuerte-para-continuar-la-recuperacion-cripto/"
+  },
+  {
+    "text": "BNB y SOL lideran ganancias y traders apuntan a un d\u00f3lar fuerte para continuar la recuperaci\u00f3n cripto",
+    "url": "/markets/2022/07/29/bnb-y-sol-lideran-ganancias-y-traders-apuntan-a-un-dolar-fuerte-para-continuar-la-recuperacion-cripto/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/banco-santander-permitira-en-brasil-operar-cripto-en-los-proximos-meses-segun-ceo/"
+  },
+  {
+    "text": "Banco Santander permitir\u00e1 en Brasil operar cripto en los pr\u00f3ximos meses, seg\u00fan CEO",
+    "url": "/business/2022/07/29/banco-santander-permitira-en-brasil-operar-cripto-en-los-proximos-meses-segun-ceo/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/bnb-solana-lead-gains-in-majors-traders-point-to-dollar-strength-for-further-upside/"
+  },
+  {
+    "text": "BNB, Solana Lead Gains in Majors; Traders Point to Dollar Strength for Further Upside",
+    "url": "/markets/2022/07/29/bnb-solana-lead-gains-in-majors-traders-point-to-dollar-strength-for-further-upside/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/babel-finance-lost-280m-trading-customer-funds-report/"
+  },
+  {
+    "text": "Lender Babel Finance Lost $280M Trading Customer Funds: Report",
+    "url": "/business/2022/07/29/babel-finance-lost-280m-trading-customer-funds-report/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/28/santander-brazil-to-launch-crypto-trading-feature-in-coming-months-ceo-says/"
+  },
+  {
+    "text": "Santander Brazil to Launch Crypto Trading Feature in Coming Months, CEO Says",
+    "url": "/business/2022/07/28/santander-brazil-to-launch-crypto-trading-feature-in-coming-months-ceo-says/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/sportsweek/2022/07/28/how-is-being-in-crypto-like-playing-a-sport/"
+  },
+  {
+    "text": "How Is Being in Crypto Like Playing a Sport?",
+    "url": "/layer2/sportsweek/2022/07/28/how-is-being-in-crypto-like-playing-a-sport/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/ether-domina-trading-de-futuros-con-200-millones-de-opciones-cortas-liquidadas/"
+  },
+  {
+    "text": "Ether domina trading de futuros con $200 millones de opciones cortas liquidadas",
+    "url": "/markets/2022/07/28/ether-domina-trading-de-futuros-con-200-millones-de-opciones-cortas-liquidadas/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/ether-dominates-futures-trading-as-shorts-see-200m-in-liquidations/"
+  },
+  {
+    "text": "Ether Dominates Futures Trading as Shorts See $200M in Liquidations",
+    "url": "/markets/2022/07/28/ether-dominates-futures-trading-as-shorts-see-200m-in-liquidations/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/29/bnb-solana-lead-gains-in-majors-traders-point-to-dollar-strength-for-further-upside/"
+  },
+  {
+    "text": "BNB, Solana Lead Gains in Majors; Traders Point to Dollar Strength for Further Upside",
+    "url": "/markets/2022/07/29/bnb-solana-lead-gains-in-majors-traders-point-to-dollar-strength-for-further-upside/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/2022/07/28/advisors-dont-let-crypto-optimism-override-practical-thinking/"
+  },
+  {
+    "text": "Advisors, Don\u2019t Let Crypto Optimism Override Practical Thinking",
+    "url": "/layer2/2022/07/28/advisors-dont-let-crypto-optimism-override-practical-thinking/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/21/the-case-for-investing-in-bitcoin-during-crypto-winter/"
+  },
+  {
+    "text": "The Case for Investing in Bitcoin During Crypto Winter ",
+    "url": "/markets/2022/07/21/the-case-for-investing-in-bitcoin-during-crypto-winter/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/20/dogecoin-bitcoin-lead-recovery-among-majors-but-some-analysts-warn-of-selling-pressure/"
+  },
+  {
+    "text": "Dogecoin, Bitcoin Lead Recovery Among Majors, But Some Analysts Warn of Selling Pressure",
+    "url": "/markets/2022/07/20/dogecoin-bitcoin-lead-recovery-among-majors-but-some-analysts-warn-of-selling-pressure/"
+  },
+  {
+    "text": "",
+    "url": "/learn/crypto-bear-market-financial-terms-you-should-know/"
+  },
+  {
+    "text": "Crypto Bear Market Financial Terms You Should Know",
+    "url": "/learn/crypto-bear-market-financial-terms-you-should-know/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/18/polygon-apecoin-tokens-see-outsized-gains-amid-majors-recovery/"
+  },
+  {
+    "text": "Polygon, ApeCoin Tokens See Outsized Gains Amid Recovery in Digital Assets",
+    "url": "/markets/2022/07/18/polygon-apecoin-tokens-see-outsized-gains-amid-majors-recovery/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/14/crypto-traders-see-few-tailwinds-for-bitcoin-prices-despite-inflation-gauge-alarms/"
+  },
+  {
+    "text": "Crypto Traders Say Inflation Already Priced Into Bitcoin",
+    "url": "/markets/2022/07/14/crypto-traders-see-few-tailwinds-for-bitcoin-prices-despite-inflation-gauge-alarms/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/14/dex-contango-pushes-retro-alternative-to-perps-with-expirable-futures/"
+  },
+  {
+    "text": "DEX Contango Pushes Retro Alternative to Perps With 'Expirable Futures'",
+    "url": "/markets/2022/07/14/dex-contango-pushes-retro-alternative-to-perps-with-expirable-futures/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/two-soccer-teams-transfer-a-south-american-player-using-usdc-but-theres-collateral-damage/"
+  },
+  {
+    "text": "Two Soccer Teams Transfer a South American Player Using USDC, But There\u2019s Collateral Damage",
+    "url": "/business/2022/07/29/two-soccer-teams-transfer-a-south-american-player-using-usdc-but-theres-collateral-damage/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/exchange-cripto-coinflex-recorta-equipo-significativamente-para-reducir-costos/"
+  },
+  {
+    "text": "Exchange cripto CoinFLEX recorta equipo \"significativamente\" para reducir costos",
+    "url": "/business/2022/07/29/exchange-cripto-coinflex-recorta-equipo-significativamente-para-reducir-costos/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/sportsweek/2022/07/29/cryptocom-and-ftx-bet-big-on-stadium-naming-rights-before-the-crypto-crash-what-happens-if-they-cant-afford-to-pay/"
+  },
+  {
+    "text": "Crypto.com and FTX Bet Big on Stadium Naming Rights Before the Crypto Crash. What Happens if They Can\u2019t Afford to Pay?",
+    "url": "/layer2/sportsweek/2022/07/29/cryptocom-and-ftx-bet-big-on-stadium-naming-rights-before-the-crypto-crash-what-happens-if-they-cant-afford-to-pay/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/coinbases-stock-at-crossroads-as-cathie-woods-ark-sells-a-portion/"
+  },
+  {
+    "text": "Coinbase\u2019s Stock at Crossroads as Cathie Wood\u2019s Ark Sells Some",
+    "url": "/business/2022/07/29/coinbases-stock-at-crossroads-as-cathie-woods-ark-sells-a-portion/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/crypto-exchange-coinflex-slashes-team-amid-cost-cutting-push/"
+  },
+  {
+    "text": "Crypto Exchange CoinFLEX Slashes Team Amid Cost-Cutting Push ",
+    "url": "/business/2022/07/29/crypto-exchange-coinflex-slashes-team-amid-cost-cutting-push/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/schwab-asset-management-to-list-crypto-etf-on-new-york-stock-exchange/"
+  },
+  {
+    "text": "Schwab Asset Management to List Crypto ETF on NYSE",
+    "url": "/business/2022/07/29/schwab-asset-management-to-list-crypto-etf-on-new-york-stock-exchange/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/kucoin-claims-bragging-rights-as-first-exchange-to-offer-nft-etfs/"
+  },
+  {
+    "text": "KuCoin Claims Bragging Rights as First Exchange to Offer NFT ETFs",
+    "url": "/business/2022/07/29/kucoin-claims-bragging-rights-as-first-exchange-to-offer-nft-etfs/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/banco-santander-permitira-en-brasil-operar-cripto-en-los-proximos-meses-segun-ceo/"
+  },
+  {
+    "text": "Banco Santander permitir\u00e1 en Brasil operar cripto en los pr\u00f3ximos meses, seg\u00fan CEO",
+    "url": "/business/2022/07/29/banco-santander-permitira-en-brasil-operar-cripto-en-los-proximos-meses-segun-ceo/"
+  },
+  {
+    "text": "AllAllCrypto Explainer+",
+    "url": "/learn/crash-courses/"
+  },
+  {
+    "text": "Bitcoin 1014 Courses | 20 Minutes",
+    "url": "/learn/crash-courses/bitcoin-101/"
+  },
+  {
+    "text": "AllAllCrypto Explainer+",
+    "url": "/learn/crash-courses/"
+  },
+  {
+    "text": "Bitcoin 1014 Courses | 20 Minutes",
+    "url": "/learn/crash-courses/bitcoin-101/"
+  },
+  {
+    "text": "DeFi 1013 Courses | 15 Minutes",
+    "url": "/learn/crash-courses/defi-101/"
+  },
+  {
+    "text": "Ethereum 1014 Courses | 20 Minutes",
+    "url": "/learn/crash-courses/ethereum-101/"
+  },
+  {
+    "text": "All ",
+    "url": "/markets"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/what-is-a-recession-and-does-bitcoin-care/"
+  },
+  {
+    "text": "What Is the Definition of \u2018Recession?\u2019 And Does Bitcoin Care?",
+    "url": "/markets/2022/07/28/what-is-a-recession-and-does-bitcoin-care/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/janet-yellen-sees-no-recession-calls-us-economy-exceptionally-strong/"
+  },
+  {
+    "text": "Janet Yellen Sees No Recession, Calls US Economy \u2018Exceptionally Strong\u2019",
+    "url": "/markets/2022/07/28/janet-yellen-sees-no-recession-calls-us-economy-exceptionally-strong/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/market-wrap-bitcoin-pushes-higher-despite-negative-gdp-report/"
+  },
+  {
+    "text": "Market Wrap: Bitcoin Pushes Higher Despite Negative GDP Report",
+    "url": "/markets/2022/07/28/market-wrap-bitcoin-pushes-higher-despite-negative-gdp-report/"
+  },
+  {
+    "text": "",
+    "url": "/markets/2022/07/28/first-mover-americas-no-recession-for-bitcoin-as-us-gdp-shrinks-zipmex-files-for-bankruptcy/"
+  },
+  {
+    "text": "First Mover Americas: No Recession for Bitcoin as U.S. GDP Shrinks, Zipmex Files for Bankruptcy",
+    "url": "/markets/2022/07/28/first-mover-americas-no-recession-for-bitcoin-as-us-gdp-shrinks-zipmex-files-for-bankruptcy/"
+  },
+  {
+    "text": "All ",
+    "url": "/business"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/exchange-cripto-coinflex-recorta-equipo-significativamente-para-reducir-costos/"
+  },
+  {
+    "text": "Exchange cripto CoinFLEX recorta equipo \"significativamente\" para reducir costos",
+    "url": "/business/2022/07/29/exchange-cripto-coinflex-recorta-equipo-significativamente-para-reducir-costos/"
+  },
+  {
+    "text": "",
+    "url": "/layer2/sportsweek/2022/07/29/cryptocom-and-ftx-bet-big-on-stadium-naming-rights-before-the-crypto-crash-what-happens-if-they-cant-afford-to-pay/"
+  },
+  {
+    "text": "Crypto.com and FTX Bet Big on Stadium Naming Rights Before the Crypto Crash. What Happens if They Can\u2019t Afford to Pay?",
+    "url": "/layer2/sportsweek/2022/07/29/cryptocom-and-ftx-bet-big-on-stadium-naming-rights-before-the-crypto-crash-what-happens-if-they-cant-afford-to-pay/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/coinbases-stock-at-crossroads-as-cathie-woods-ark-sells-a-portion/"
+  },
+  {
+    "text": "Coinbase\u2019s Stock at Crossroads as Cathie Wood\u2019s Ark Sells Some",
+    "url": "/business/2022/07/29/coinbases-stock-at-crossroads-as-cathie-woods-ark-sells-a-portion/"
+  },
+  {
+    "text": "",
+    "url": "/business/2022/07/29/crypto-exchange-coinflex-slashes-team-amid-cost-cutting-push/"
+  },
+  {
+    "text": "Crypto Exchange CoinFLEX Slashes Team Amid Cost-Cutting Push ",
+    "url": "/business/2022/07/29/crypto-exchange-coinflex-slashes-team-amid-cost-cutting-push/"
+  },
+  {
+    "text": "All ",
+    "url": "/policy"
+  },
+  {
+    "text": "",
+    "url": "/policy/2022/07/29/voyagers-clash-with-us-regulators-followed-by-broader-fdic-warning/"
+  },
+  {
+    "text": "Voyager Digital\u2019s Clash With US Regulators Followed by Broader FDIC Warning",
+    "url": "/policy/2022/07/29/voyagers-clash-with-us-regulators-followed-by-broader-fdic-warning/"
+  },
+  {
+    "text": "",
+    "url": "/policy/2022/07/29/el-salvadors-finance-minister-says-bitcoin-adoption-is-gaining-ground-report/"
+  },
+  {
+    "text": "El Salvador's Finance Minister Says Bitcoin Adoption is 'Gaining Ground': Report",
+    "url": "/policy/2022/07/29/el-salvadors-finance-minister-says-bitcoin-adoption-is-gaining-ground-report/"
+  },
+  {
+    "text": "",
+    "url": "/policy/2022/07/28/us-tech-bill-creates-white-house-blockchain-adviser-role/"
+  },
+  {
+    "text": "US Tech Bill Creates White House Blockchain Adviser Role",
+    "url": "/policy/2022/07/28/us-tech-bill-creates-white-house-blockchain-adviser-role/"
+  },
+  {
+    "text": "",
+    "url": "/policy/2022/07/28/crypto-lender-voyager-ordered-by-us-regulators-to-stop-misleading-customers/"
+  },
+  {
+    "text": "Crypto Lender Voyager Ordered by US Regulators to Stop Misleading Customers",
+    "url": "/policy/2022/07/28/crypto-lender-voyager-ordered-by-us-regulators-to-stop-misleading-customers/"
+  },
+  {
+    "text": "All ",
+    "url": "/reports"
+  },
+  {
+    "text": "",
+    "url": "/reports/coindesk-2021-annual-crypto-review/"
+  },
+  {
+    "text": "CoinDesk 2021 Annual Crypto Review",
+    "url": "/reports/coindesk-2021-annual-crypto-review/"
+  },
+  {
+    "text": "",
+    "url": "/reports/2021/12/09/building-on-the-news-introducing-layer-2-by-coindesk/"
+  },
+  {
+    "text": "Building on the News: Introducing Layer 2 by CoinDesk",
+    "url": "/reports/2021/12/09/building-on-the-news-introducing-layer-2-by-coindesk/"
+  },
+  {
+    "text": "",
+    "url": "/reports/the-investors-perspective-on-the-bitcoin-taproot-upgrade/"
+  },
+  {
+    "text": "The Investor\u2019s Perspective on the Bitcoin Taproot Upgrade",
+    "url": "/reports/the-investors-perspective-on-the-bitcoin-taproot-upgrade/"
+  },
+  {
+    "text": "",
+    "url": "/reports/q3-2021-quarterly-review-coindesk-research/"
+  },
+  {
+    "text": "Q3 2021 Quarterly Review - CoinDesk Research",
+    "url": "/reports/q3-2021-quarterly-review-coindesk-research/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "About",
+    "url": "/about/"
+  },
+  {
+    "text": "Masthead",
+    "url": "/masthead/"
+  },
+  {
+    "text": "Contributors",
+    "url": "/contributors/"
+  },
+  {
+    "text": "Careers",
+    "url": "https://boards.greenhouse.io/coindesk"
+  },
+  {
+    "text": "Company News",
+    "url": "/company-news/"
+  },
+  {
+    "text": "Events",
+    "url": "/events/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Follow",
+    "url": "/follow/"
+  },
+  {
+    "text": "Contact Us",
+    "url": "/contact-us/"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise/"
+  },
+  {
+    "text": "Accessibility Help",
+    "url": "/accessibility-help/"
+  },
+  {
+    "text": "Sitemap",
+    "url": "/sitemap/"
+  },
+  {
+    "text": "Ethics Policy",
+    "url": "/ethics/"
+  },
+  {
+    "text": "Privacy",
+    "url": "/privacy/"
+  },
+  {
+    "text": "Terms Of Use",
+    "url": "/terms/"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "url": "/privacy/#dnsmpi"
+  },
+  {
+    "text": "privacy policy",
+    "url": "/privacy/"
+  },
+  {
+    "text": "terms of use",
+    "url": "/terms/"
+  },
+  {
+    "text": "cookies",
+    "url": "/privacy/#cookies"
+  },
+  {
+    "text": "do not sell my personal information",
+    "url": "/privacy/#dnsmpi"
+  },
+  {
+    "text": "strict set of editorial policies",
+    "url": "/ethics/"
+  },
+  {
+    "text": "Digital Currency Group",
+    "url": "https://dcg.co/"
+  },
+  {
+    "text": "cryptocurrencies",
+    "url": "https://dcg.co/#digital-assets-portfolio"
+  },
+  {
+    "text": "startups",
+    "url": "https://dcg.co/portfolio/"
+  },
+  {
+    "text": "stock appreciation rights",
+    "url": "https://www.investopedia.com/terms/s/sar.asp"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/coindesk"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/coindesk"
+  },
+  {
+    "text": "",
+    "url": "https://www.linkedin.com/company/coindesk/"
+  },
+  {
+    "text": "",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  {
+    "text": "search by queryly ",
+    "url": "https://www.queryly.com/"
+  },
+  {
+    "text": "Advanced Search",
+    "url": "#"
+  }
+]

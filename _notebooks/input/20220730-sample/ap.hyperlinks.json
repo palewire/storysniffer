@@ -1,0 +1,654 @@
+[
+  {
+    "text": "Enable accessibility",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "U.S. News",
+    "url": "/hub/us-news?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "World News",
+    "url": "/hub/world-news?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Politics",
+    "url": "/hub/politics?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Sports",
+    "url": "/hub/sports?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/hub/entertainment?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Business",
+    "url": "/hub/business?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Technology",
+    "url": "/hub/technology?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Health",
+    "url": "/hub/health?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Science",
+    "url": "/hub/science?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Oddities",
+    "url": "/hub/oddities?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Lifestyle",
+    "url": "/hub/lifestyle?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Photography",
+    "url": "/hub/photography?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "Videos",
+    "url": "/hub/videos?utm_source=apnewsnav&utm_medium=navigation"
+  },
+  {
+    "text": "AP Top News",
+    "url": "/hub/ap-top-news?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "U.S. News",
+    "url": "/hub/us-news?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "World News",
+    "url": "/hub/world-news?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Africa",
+    "url": "/hub/africa?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Asia Pacific",
+    "url": "/hub/asia-pacific?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Australia",
+    "url": "/hub/australia?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Europe",
+    "url": "/hub/europe?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Latin America",
+    "url": "/hub/latin-america?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Middle East",
+    "url": "/hub/middle-east?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Politics",
+    "url": "/hub/politics?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Joe Biden",
+    "url": "/hub/joe-biden?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Midterm elections",
+    "url": "/hub/2022-midterm-elections?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Congress",
+    "url": "/hub/united-states-congress?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Supreme Court",
+    "url": "/hub/us-supreme-court?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Sports",
+    "url": "/hub/sports?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "MLB",
+    "url": "/hub/mlb?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "NBA",
+    "url": "/hub/nba?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "NHL",
+    "url": "/hub/nhl?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "NFL",
+    "url": "/hub/nfl?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/hub/entertainment?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Film Reviews",
+    "url": "/hub/film-reviews?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Movies",
+    "url": "/hub/movies?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Music",
+    "url": "/hub/music?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Television",
+    "url": "/hub/television?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Fashion",
+    "url": "/hub/fashion?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Business",
+    "url": "/hub/business?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "U.S. economy",
+    "url": "/hub/economy?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Financial markets",
+    "url": "/hub/financial-markets?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Technology",
+    "url": "/hub/technology?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Health",
+    "url": "/hub/health?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "COVID-19",
+    "url": "/hub/coronavirus-pandemic?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Science",
+    "url": "/hub/science?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Climate and environment",
+    "url": "/hub/climate-and-environment?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Oddities",
+    "url": "/hub/oddities?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Photography",
+    "url": "/hub/photography?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Travel",
+    "url": "/hub/travel?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "AP Fact Check",
+    "url": "/hub/ap-fact-check?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Lifestyle",
+    "url": "/hub/lifestyle?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Religion",
+    "url": "/hub/religion?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Press Releases",
+    "url": "/hub/press-releases?utm_source=apnewsnav&utm_medium=sections"
+  },
+  {
+    "text": "Trending News",
+    "url": "/hub/trending-news?utm_source=apnewsnav&utm_medium=featured"
+  },
+  {
+    "text": "U.S. economy",
+    "url": "/hub/economy?utm_source=apnewsnav&utm_medium=featured"
+  },
+  {
+    "text": "Women's Euro 2022",
+    "url": "/hub/womens-soccer?utm_source=apnewsnav&utm_medium=featured"
+  },
+  {
+    "text": "Jan. 6 hearings",
+    "url": "/hub/capitol-siege?utm_source=apnewsnav&utm_medium=featured"
+  },
+  {
+    "text": "Climate and environment",
+    "url": "/hub/climate-and-environment?utm_source=apnewsnav&utm_medium=featured"
+  },
+  {
+    "text": "Russia-Ukraine war",
+    "url": "/hub/russia-ukraine?utm_source=apnewsnav&utm_medium=featured"
+  },
+  {
+    "text": "Governor: Search for Kentucky flood victims could take weeks",
+    "url": "/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f"
+  },
+  {
+    "text": "",
+    "url": "/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f"
+  },
+  {
+    "text": "JACKSON, Ky. (AP) \u2014 Kentucky's governor said it could take weeks to find all the victims of flash flooding that killed at least 16 people when torrential rains swamped towns across Appalachia.",
+    "url": "/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f"
+  },
+  {
+    "text": "",
+    "url": "https://facebook.com/dialog/share?app_id=870613919693099&display=popup&href=https://apnews.com/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/intent/tweet?url=https://apnews.com/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f"
+  },
+  {
+    "text": "",
+    "url": "mailto:?subject=Governor: Search for Kentucky flood victims could take weeks&body=https://apnews.com/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f"
+  },
+  {
+    "text": "Floods",
+    "url": "/hub/floods"
+  },
+  {
+    "text": "Storms",
+    "url": "/hub/storms"
+  },
+  {
+    "text": "Science",
+    "url": "/hub/science"
+  },
+  {
+    "text": "AP Top News",
+    "url": "/hub/ap-top-news"
+  },
+  {
+    "text": "Kentucky",
+    "url": "/hub/kentucky"
+  },
+  {
+    "text": "Jackson",
+    "url": "/hub/jackson"
+  },
+  {
+    "text": "Climate and environment",
+    "url": "/hub/climate-and-environment"
+  },
+  {
+    "text": "Fetterman harnesses power of social media in Senate campaignBy MARC LEVYtoday",
+    "url": "/article/2022-midterm-elections-inflation-technology-social-media-15e3d1e7cb6bc49fd8c07350c159c4c2"
+  },
+  {
+    "text": "Analysis: A world changed, maybe permanently, by Ukraine warBy JOHN LEICESTERtoday",
+    "url": "/article/russia-ukraine-putin-nato-covid-health-26413a1a01fe052eea2c3b6f15ecdf02"
+  },
+  {
+    "text": "NKorea claims no new fever cases amid doubts over COVID dataBy HYUNG-JIN KIM38 minutes ago",
+    "url": "/article/covid-health-epidemics-north-korea-government-and-politics-bd641c333513fc8c864cc6081110efaa"
+  },
+  {
+    "text": "Jewish volunteers bond with Ukrainian kids at summer campBy VANESSA GERAtoday",
+    "url": "/article/russia-ukraine-religion-poland-87f236fab25f896e877d350c2558d341"
+  },
+  {
+    "text": "Time to check Mega Millions numbers: Are you a billionaire?today",
+    "url": "/article/iowa-8223cdf0efc49968775b9601794c84c1"
+  },
+  {
+    "text": "In race for monkeypox vaccines, experts see repeat of COVIDBy MARIA CHENGtoday",
+    "url": "/article/covid-health-pandemics-28285b483cfd77c49edaa915ca383769"
+  },
+  {
+    "text": "Iraqi protesters breach parliament building in BaghdadBy QASSIM ABDUL-ZAHRA11 minutes ago",
+    "url": "/article/middle-east-religion-iran-iraq-0a7cb71ade4896ea393bedee0f7b86d7"
+  },
+  {
+    "text": "Pope says he\u2019ll slow down or retire: \u2018You can change a pope\u2019By NICOLE WINFIELD2 hours ago",
+    "url": "/article/pope-francis-canada-religion-fe1e7c1a78d077a5f7b8a25e2ffd637d"
+  },
+  {
+    "text": "House approves bill to help West fight wildfires, droughtBy MATTHEW DALYtoday",
+    "url": "/article/wildfires-fires-droughts-congress-climate-and-environment-679d294981cd80f6a2817311ee982774"
+  },
+  {
+    "text": "All Top News",
+    "url": "/hub/ap-top-news"
+  },
+  {
+    "text": "TRENDING NEWS",
+    "url": "https://apnews.com/hub/trending-news?traffic_source=ConnatixInFeed"
+  },
+  {
+    "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+    "url": "https://apnews.com/5038d7fbe5db2b54404303acabe7bee1?utm_source=Connatix&utm_medium=HomePage"
+  },
+  {
+    "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+    "url": "https://apnews.com/5bbcc0ce2c58622c0932394b7a81b201?utm_source=Connatix&utm_medium=HomePage"
+  },
+  {
+    "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+    "url": "https://apnews.com/ca6a383a90c44d6121884a7b4879ad8e?utm_source=Connatix&utm_medium=HomePage"
+  },
+  {
+    "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+    "url": "https://apnews.com/8223cdf0efc49968775b9601794c84c1?utm_source=Connatix&utm_medium=HomePage"
+  },
+  {
+    "text": "Spain: Prosecutors to seek 8-year prison term for Shakira\n            \n        ",
+    "url": "https://apnews.com/5038d7fbe5db2b54404303acabe7bee1?utm_source=Connatix&utm_medium=HomePage"
+  },
+  {
+    "text": "GO TO PAGE",
+    "url": "#"
+  },
+  {
+    "text": "Weekend Reads",
+    "url": "/hub/weekend-reads"
+  },
+  {
+    "text": "Wounded Knee artifacts highlight slow pace of repatriations",
+    "url": "/article/travel-education-museums-massachusetts-eb338326dd75fc0b1ab65b2f10d027af"
+  },
+  {
+    "text": "Hidden Menace: Massive methane leaks speed up climate change",
+    "url": "/article/science-texas-trending-news-climate-and-environment-0eb6880f7c4532a845155a3bd44c2e4b"
+  },
+  {
+    "text": "Climate migration growing but not fully recognized by world",
+    "url": "/article/mexico-droughts-immigration-united-nations-natural-disasters-175988903af187bf08fa89f8f13ac8e2"
+  },
+  {
+    "text": "Climate disinformation leaves lasting mark as world heats",
+    "url": "/article/wildfires-science-fires-american-petroleum-institute-014d4825f21084a80eb71414dbe63b9e"
+  },
+  {
+    "text": "US economy sending mixed signals: Here's what it all means",
+    "url": "/article/us-economy-vital-signs-cec67f96f44d67d78edfd35f1dbd2522"
+  },
+  {
+    "text": "Climate and Environment",
+    "url": "/hub/climate-and-environment"
+  },
+  {
+    "text": "EXPLAINER: One weather system floods St. Louis and Kentucky",
+    "url": "/article/floods-storms-science-kentucky-united-states-a31b08dff5cd84dbcab3d370dd0c3d53"
+  },
+  {
+    "text": "Tourism finally surpasses 2019 levels in Mexico",
+    "url": "/article/covid-travel-health-caribbean-d93eeaaaca525ada471479f2dbb6d19f"
+  },
+  {
+    "text": "Southwest rains flood deserts, cascade into Vegas casinos",
+    "url": "/article/floods-wildfires-storms-sports-las-vegas-af4b854e658bff331fd866f978ce655e"
+  },
+  {
+    "text": "Northwest heat wave: Portland mayor warns of risky weekend",
+    "url": "/article/oregon-portland-seattle-washington-pacific-ocean-24564068ae85ccc4823b2c821c749182"
+  },
+  {
+    "text": "Governor: Search for Kentucky flood victims could take weeks",
+    "url": "/article/floods-storms-science-kentucky-jackson-82eb36bb66ada9b0bdaed1cf9cdb3eb9"
+  },
+  {
+    "text": "Abortion",
+    "url": "/hub/abortion"
+  },
+  {
+    "text": "WVa delays chance to pass 1st new bill since abortion ruling",
+    "url": "/article/abortion-us-supreme-court-health-west-virginia-charleston-792346e76179351718fcd771b7d8e1ca"
+  },
+  {
+    "text": "Justice Alito mocks foreign critics of abortion reversal",
+    "url": "/article/abortion-boris-johnson-us-supreme-court-samuel-alito-c1a6bb9daa4c59988d3ea57f4a59ffc9"
+  },
+  {
+    "text": "White House hosts lawyers for discussion on abortion access",
+    "url": "/article/abortion-biden-health-merrick-garland-f7a104ec42514b9d64f1eab741d85485"
+  },
+  {
+    "text": "Abortion ruling prompts variety of reactions from states",
+    "url": "/article/2022-midterm-elections-abortion-health-sexual-abuse-by-clergy-constitutions-022d340cf968be3c28b03f7f96965f09"
+  },
+  {
+    "text": "Louisiana's abortion ban positioned to be enforced again",
+    "url": "/article/abortion-health-louisiana-lawsuits-government-and-politics-2aee46370d4a236c91a63515e0e0cca2"
+  },
+  {
+    "text": "Russia-Ukraine war",
+    "url": "/hub/russia-ukraine"
+  },
+  {
+    "text": "Everton fan who helps refugees scores goal vs. Dynamo Kyiv",
+    "url": "/article/russia-ukraine-kyiv-sports-soccer-frank-lampard-23f89975b9ae18a15cf90008bf846491"
+  },
+  {
+    "text": "UN relaxes arms embargo on Central African Republic",
+    "url": "/article/russia-ukraine-africa-gun-politics-united-nations-central-african-republic-224917fad9446e8e275fd52e676b3b21"
+  },
+  {
+    "text": "Today in History: July 30, USS Indianapolis is torpedoed",
+    "url": "/article/russia-ukraine-today-in-history-covid-health-8fd11923636d83f3fd672f4343a571f9"
+  },
+  {
+    "text": "US envoy: Russia intends to dissolve Ukraine from world map",
+    "url": "/article/russia-ukraine-united-nations-sergey-lavrov-linda-thomas-greenfield-136a6c5f92c2db52785cf22710797463"
+  },
+  {
+    "text": "Russian charged with using US groups to spread propaganda",
+    "url": "/article/russia-ukraine-united-states-government-and-politics-62e1ba5bb2f3c23b4e30bf9c582c5877"
+  },
+  {
+    "text": "Jan. 6 hearings",
+    "url": "/hub/capitol-siege"
+  },
+  {
+    "text": "Jan. 6 panel to share 20 transcripts with Justice Department",
+    "url": "/article/capitol-siege-2022-midterm-elections-presidential-election-2020-3c99edcbb5d1e525388f6f9e8fd8a5bd"
+  },
+  {
+    "text": "Pa. teacher suspended after Jan. 6 fired for not working",
+    "url": "/article/capitol-siege-education-pennsylvania-53367791f48c36e9d6a3334f607b7694"
+  },
+  {
+    "text": "Kansas man faces trial for alleged actions in Jan. 6 riot",
+    "url": "/article/capitol-siege-riots-kansas-wichita-d0ec31dcd30e72e03b2393c8c3684780"
+  },
+  {
+    "text": "House Jan. 6 panel interviews Mnuchin, pursues Trump Cabinet",
+    "url": "/article/capitol-siege-government-and-politics-34be3a9949ae5b49f28e47ac887d5dc7"
+  },
+  {
+    "text": "Man tied to officer's attack pleads guilty to lesser charges",
+    "url": "/article/capitol-siege-west-virginia-government-and-politics-cd9ea38ecb06b2db4f0fe589fdcae523"
+  },
+  {
+    "text": "Sports",
+    "url": "/hub/sports"
+  },
+  {
+    "text": "AP source: NBA investigating 76ers for possible tampering",
+    "url": "/article/philadelphia-76ers-nba-sports-pj-tucker-james-harden-32cfa4181405e9c633a60192b7c69c7e"
+  },
+  {
+    "text": "Luis Castillo traded to Mariners by Reds for 4 prospects",
+    "url": "/article/mlb-sports-baseball-seattle-mariners-cincinnati-reds-53a7d610db457b01686871b6dc212580"
+  },
+  {
+    "text": "Pac-12's Kliavkoff jabs Big 12, touts future after USC, UCLA",
+    "url": "/article/college-football-sports-california-10e379933cbc3702a7133dcb94ecf6e7"
+  },
+  {
+    "text": "Stenson shares LIV lead with Reed as Mickelson has rough day",
+    "url": "/article/sports-the-masters-golf-phil-mickelson-henrik-stenson-cf5426f264fe85894f6186be5823cbde"
+  },
+  {
+    "text": "Pendrith takes 1-shot lead over Finau at Rocket Mortgage",
+    "url": "/article/sports-detroit-stewart-cink-golf-canada-47b433c3c57d40be00878805eecbba3d"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/hub/entertainment"
+  },
+  {
+    "text": "Will Smith posts an apology video for slapping Chris Rock",
+    "url": "/article/will-smith-slap-chris-rock-apology-oscars-ea00112a4be03337d660272727e57525"
+  },
+  {
+    "text": "'Breaking Bad' statues shine light on actors, Albuquerque",
+    "url": "/article/entertainment-new-mexico-albuquerque-bryan-cranston-aaron-paul-4441b54e9730271ea7439be164b781c2"
+  },
+  {
+    "text": "Neil Patrick Harris is suddenly single in comedy 'Uncoupled'",
+    "url": "/article/los-angeles-hollywood-neil-patrick-harris-975d9034bac9bb8c497d9d1f26ae6235"
+  },
+  {
+    "text": "'Amber Brown' springs to TV under Bonnie Hunt's sure hand",
+    "url": "/article/entertainment-bonnie-hunt-58fb206a02ee256512b63372e8aed4ef"
+  },
+  {
+    "text": "Q&A: Melissa Barrera survives, on screen and in Hollywood",
+    "url": "/article/race-and-ethnicity-melissa-barrera-ana-de-armas-benjamin-millepied-baab5d1f4c5094753c2b20f63c3b4d20"
+  },
+  {
+    "text": "U.S. News",
+    "url": "/hub/us-news"
+  },
+  {
+    "text": "Abortion access finds a place even in down-ballot campaigns",
+    "url": "/article/2022-midterm-elections-abortion-us-supreme-court-connecticut-campaigns-2bd90c10fd6e45734240b106430b2352"
+  },
+  {
+    "text": "Abortion foes downplay complex post-Roe v. Wade realities",
+    "url": "/article/abortion-health-ohio-government-and-politics-4eb0712711637e51c3676c852a6b2d7c"
+  },
+  {
+    "text": "Alex Jones' media company files for bankruptcy amid trial",
+    "url": "/article/shootings-austin-texas-63f4ecbf7adbb60c2f5dfe0726b6cb5e"
+  },
+  {
+    "text": "California aims to make its own insulin brand to lower price",
+    "url": "/article/health-california-diabetes-government-and-politics-f846c58d4cb327578d1c7b3a9495d496"
+  },
+  {
+    "text": "US court sides with NY in fight over school vaccine rules",
+    "url": "/article/health-lawsuits-immunizations-4d7bf74334f4b93f69e29e249a805fc3"
+  },
+  {
+    "text": "Top Stories",
+    "url": "/hub/ap-top-news"
+  },
+  {
+    "text": "Video",
+    "url": "/hub/videos"
+  },
+  {
+    "text": "Contact Us",
+    "url": "mailto:support@apnews.com"
+  },
+  {
+    "text": "Accessibility Statement",
+    "url": "/accessibility-statement"
+  },
+  {
+    "text": "ap.org",
+    "url": "https://www.ap.org"
+  },
+  {
+    "text": "AP Insights",
+    "url": "https://insights.ap.org/"
+  },
+  {
+    "text": "AP Definitive Source Blog",
+    "url": "https://blog.ap.org/"
+  },
+  {
+    "text": "AP Images Spotlight",
+    "url": "https://apimagesblog.com/"
+  },
+  {
+    "text": "AP Explore",
+    "url": "https://www.ap.org/explore/"
+  },
+  {
+    "text": "AP Books",
+    "url": "https://www.ap.org/books/"
+  },
+  {
+    "text": "AP Stylebook",
+    "url": "https://www.apstylebook.com/"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/AP"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/APNews"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/AssociatedPress"
+  },
+  {
+    "text": "",
+    "url": "https://www.linkedin.com/company/associated-press"
+  },
+  {
+    "text": "About",
+    "url": "https://www.ap.org/about/"
+  },
+  {
+    "text": "Contact",
+    "url": "https://www.ap.org/contact-us/"
+  },
+  {
+    "text": "Customer Support",
+    "url": "http://aphelp.ap.org"
+  },
+  {
+    "text": "Careers",
+    "url": "https://www.ap.org/careers/"
+  },
+  {
+    "text": "Terms & Conditions",
+    "url": "/termsofservice"
+  },
+  {
+    "text": "Privacy",
+    "url": "/privacystatement"
+  },
+  {
+    "text": "More information",
+    "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://apnews.com/privacystatement"
+  }
+]

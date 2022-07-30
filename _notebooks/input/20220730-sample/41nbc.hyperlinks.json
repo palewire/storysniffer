@@ -1,0 +1,2774 @@
+[
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "NEWS",
+    "url": "https://www.41nbc.com/local-news/"
+  },
+  {
+    "text": "Local News",
+    "url": "https://www.41nbc.com/local-news/"
+  },
+  {
+    "text": "Elections",
+    "url": "https://www.41nbc.com/elections/"
+  },
+  {
+    "text": "Across Georgia",
+    "url": "https://www.41nbc.com/georgia-news/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/us-world-news/national-news/"
+  },
+  {
+    "text": "Around the World",
+    "url": "https://www.41nbc.com/around-the-world/"
+  },
+  {
+    "text": "Restaurant Report Card",
+    "url": "https://www.41nbc.com/rrc/"
+  },
+  {
+    "text": "Local Steals and Deals",
+    "url": "https://localstealsanddeals.com/"
+  },
+  {
+    "text": "Middle Georgia Cold Cases",
+    "url": "https://www.41nbc.com/middle-georgia-cold-cases/"
+  },
+  {
+    "text": "What\u2019s Right With Our Schools",
+    "url": "https://www.41nbc.com/whats-right-with-our-schools/"
+  },
+  {
+    "text": "Baldwin County",
+    "url": "https://www.41nbc.com/baldwin-county/"
+  },
+  {
+    "text": "Bibb County",
+    "url": "https://www.41nbc.com/bibb-county/"
+  },
+  {
+    "text": "Crawford County",
+    "url": "https://www.41nbc.com/crawford-county/"
+  },
+  {
+    "text": "Houston County",
+    "url": "https://www.41nbc.com/houston-county/"
+  },
+  {
+    "text": "Jones County",
+    "url": "https://www.41nbc.com/jones-county/"
+  },
+  {
+    "text": "Laurens County",
+    "url": "https://www.41nbc.com/laurens-county/"
+  },
+  {
+    "text": "Monroe County",
+    "url": "https://www.41nbc.com/monroe-county/"
+  },
+  {
+    "text": "Peach County",
+    "url": "https://www.41nbc.com/peach-county/"
+  },
+  {
+    "text": "Twiggs County",
+    "url": "https://www.41nbc.com/twiggs-county/"
+  },
+  {
+    "text": "ACCUWEATHER",
+    "url": "https://www.41nbc.com/weather/"
+  },
+  {
+    "text": "Accuweather Storm Center",
+    "url": "https://www.41nbc.com/stormcenter/"
+  },
+  {
+    "text": "41NBC AccuWeather Radar",
+    "url": "https://www.41nbc.com/stormcenter/radar/"
+  },
+  {
+    "text": "Mobile Apps",
+    "url": "https://www.41nbc.com/mobile-apps/"
+  },
+  {
+    "text": "Accuweather Forecast",
+    "url": "https://www.41nbc.com/forecast/"
+  },
+  {
+    "text": "41 Skyview Camera Network",
+    "url": "https://www.41nbc.com/41skyview/"
+  },
+  {
+    "text": "Accuweather Alerts",
+    "url": "https://www.41nbc.com/severe-weather-watches-warnings/"
+  },
+  {
+    "text": "SPORTS",
+    "url": "https://www.41nbc.com/sports/"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.41nbc.com/sports/"
+  },
+  {
+    "text": "High School Football",
+    "url": "https://www.41nbc.com/football/"
+  },
+  {
+    "text": "Local Sports",
+    "url": "https://www.41nbc.com/local-sports/"
+  },
+  {
+    "text": "Motorsports",
+    "url": "https://www.41nbc.com/motorsports/"
+  },
+  {
+    "text": "AP Racing News",
+    "url": "https://racing.ap.org/41nbc"
+  },
+  {
+    "text": "VIDEOS",
+    "url": "https://www.41nbc.com/latest-videos/"
+  },
+  {
+    "text": "FEATURES",
+    "url": "#"
+  },
+  {
+    "text": "Health EXPO",
+    "url": "https://www.41nbc.com/expo/"
+  },
+  {
+    "text": "Viewers Choice Awards 2022",
+    "url": "https://www.41nbc.com/awards2022/"
+  },
+  {
+    "text": "Black History Month 2022",
+    "url": "https://www.41nbc.com/blackhistorymonth/"
+  },
+  {
+    "text": "Ask Angi",
+    "url": "https://www.41nbc.com/askangi/"
+  },
+  {
+    "text": "Living Well",
+    "url": "https://www.41nbc.com/livingwell/"
+  },
+  {
+    "text": "Discover Middle Georgia",
+    "url": "https://www.41nbc.com/discover-middle-georgia/"
+  },
+  {
+    "text": "Healthcare Heroes",
+    "url": "https://www.41nbc.com/hero/"
+  },
+  {
+    "text": "Tech Report",
+    "url": "https://www.41nbc.com/tech-report/"
+  },
+  {
+    "text": "Hooked on Science",
+    "url": "https://www.41nbc.com/hooked-on-science/"
+  },
+  {
+    "text": "It\u2019s The Law",
+    "url": "https://www.41nbc.com/feature-its-the-law/"
+  },
+  {
+    "text": "Morning Business Report",
+    "url": "https://www.41nbc.com/morning-business-report/"
+  },
+  {
+    "text": "Mom to Mom",
+    "url": "https://www.41nbc.com/mom-to-mom/"
+  },
+  {
+    "text": "Restaurant Report Card",
+    "url": "https://www.41nbc.com/rrc/"
+  },
+  {
+    "text": "Tech Byte",
+    "url": "https://www.41nbc.com/tech-byte/"
+  },
+  {
+    "text": "Under the Hood",
+    "url": "https://www.41nbc.com/underthehood/"
+  },
+  {
+    "text": "41 Days of Christmas 2021",
+    "url": "https://www.41nbc.com/christmas/"
+  },
+  {
+    "text": "Viewers Choice Awards 2020",
+    "url": "https://www.41nbc.com/awards2020/"
+  },
+  {
+    "text": "COMMUNITY",
+    "url": "#"
+  },
+  {
+    "text": "Talk of the Town with Dr. Harper",
+    "url": "https://www.41nbc.com/talkofthetown/"
+  },
+  {
+    "text": "Health EXPO",
+    "url": "https://www.41nbc.com/expo/"
+  },
+  {
+    "text": "41NBC Coffee Crew",
+    "url": "https://www.41nbc.com/coffeecrew/"
+  },
+  {
+    "text": "MTA Mural",
+    "url": "https://www.41nbc.com/homepage/mural/"
+  },
+  {
+    "text": "Senior Spotlight",
+    "url": "https://www.41nbc.com/seniorspotlight/"
+  },
+  {
+    "text": "Job Fair",
+    "url": "https://www.41nbc.com/jobfair/"
+  },
+  {
+    "text": "Community Bulletin Board",
+    "url": "https://www.41nbc.com/communitybulletinboard/"
+  },
+  {
+    "text": "Cherry Blossom Festival",
+    "url": "https://www.41nbc.com/cherry-blossom-festival/"
+  },
+  {
+    "text": "Local Event Calendar",
+    "url": "https://www.41nbc.com/local-events/"
+  },
+  {
+    "text": "CONTESTS",
+    "url": "https://www.41nbc.com/contests-promotions/"
+  },
+  {
+    "text": "ON 41",
+    "url": "https://www.41nbc.com/on-41/"
+  },
+  {
+    "text": "41NBC Program Guide",
+    "url": "https://www.41nbc.com/tv-schedule/"
+  },
+  {
+    "text": "Daybreak",
+    "url": "https://www.41nbc.com/daybreak/"
+  },
+  {
+    "text": "41 Today",
+    "url": "https://41today.com/"
+  },
+  {
+    "text": "41.2/ Bounce TV",
+    "url": "https://www.41nbc.com/my412tv/"
+  },
+  {
+    "text": "SAVINGS",
+    "url": "#"
+  },
+  {
+    "text": "41NBC Half Off Deals",
+    "url": "https://wmgt.halfoffdeal.com/"
+  },
+  {
+    "text": "ABOUT",
+    "url": "https://www.41nbc.com/aboutus/"
+  },
+  {
+    "text": "News Team",
+    "url": "https://www.41nbc.com/contact-us/news-department/"
+  },
+  {
+    "text": "Advertise",
+    "url": "https://www.41nbc.com/aboutus/advertising/"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.41nbc.com/aboutus/jobs-at-41-nbc/"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://www.41nbc.com/contact-us/"
+  },
+  {
+    "text": "Public Files Contact",
+    "url": "https://www.41nbc.com/public-files/"
+  },
+  {
+    "text": "LIVE",
+    "url": "https://www.41nbc.com/news/video/live/"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/41NBC"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/41nbc/"
+  },
+  {
+    "text": "",
+    "url": "mailto:feedback@41nbc.com"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/41nbc"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/41NBC"
+  },
+  {
+    "text": "41NBC News | WMGT-DT",
+    "url": "https://www.41nbc.com"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/41NBC"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/41nbc/"
+  },
+  {
+    "text": "",
+    "url": "mailto:feedback@41nbc.com"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/41nbc"
+  },
+  {
+    "text": "",
+    "url": "https://www.youtube.com/user/41NBC"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "NEWS",
+    "url": "https://www.41nbc.com/local-news/"
+  },
+  {
+    "text": "Local News",
+    "url": "https://www.41nbc.com/local-news/"
+  },
+  {
+    "text": "Elections",
+    "url": "https://www.41nbc.com/elections/"
+  },
+  {
+    "text": "Across Georgia",
+    "url": "https://www.41nbc.com/georgia-news/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/us-world-news/national-news/"
+  },
+  {
+    "text": "Around the World",
+    "url": "https://www.41nbc.com/around-the-world/"
+  },
+  {
+    "text": "Restaurant Report Card",
+    "url": "https://www.41nbc.com/rrc/"
+  },
+  {
+    "text": "Local Steals and Deals",
+    "url": "https://localstealsanddeals.com/"
+  },
+  {
+    "text": "Middle Georgia Cold Cases",
+    "url": "https://www.41nbc.com/middle-georgia-cold-cases/"
+  },
+  {
+    "text": "What\u2019s Right With Our Schools",
+    "url": "https://www.41nbc.com/whats-right-with-our-schools/"
+  },
+  {
+    "text": "Baldwin County",
+    "url": "https://www.41nbc.com/baldwin-county/"
+  },
+  {
+    "text": "Bibb County",
+    "url": "https://www.41nbc.com/bibb-county/"
+  },
+  {
+    "text": "Crawford County",
+    "url": "https://www.41nbc.com/crawford-county/"
+  },
+  {
+    "text": "Houston County",
+    "url": "https://www.41nbc.com/houston-county/"
+  },
+  {
+    "text": "Jones County",
+    "url": "https://www.41nbc.com/jones-county/"
+  },
+  {
+    "text": "Laurens County",
+    "url": "https://www.41nbc.com/laurens-county/"
+  },
+  {
+    "text": "Monroe County",
+    "url": "https://www.41nbc.com/monroe-county/"
+  },
+  {
+    "text": "Peach County",
+    "url": "https://www.41nbc.com/peach-county/"
+  },
+  {
+    "text": "Twiggs County",
+    "url": "https://www.41nbc.com/twiggs-county/"
+  },
+  {
+    "text": "ACCUWEATHER",
+    "url": "https://www.41nbc.com/weather/"
+  },
+  {
+    "text": "Accuweather Storm Center",
+    "url": "https://www.41nbc.com/stormcenter/"
+  },
+  {
+    "text": "41NBC AccuWeather Radar",
+    "url": "https://www.41nbc.com/stormcenter/radar/"
+  },
+  {
+    "text": "Mobile Apps",
+    "url": "https://www.41nbc.com/mobile-apps/"
+  },
+  {
+    "text": "Accuweather Forecast",
+    "url": "https://www.41nbc.com/forecast/"
+  },
+  {
+    "text": "41 Skyview Camera Network",
+    "url": "https://www.41nbc.com/41skyview/"
+  },
+  {
+    "text": "Accuweather Alerts",
+    "url": "https://www.41nbc.com/severe-weather-watches-warnings/"
+  },
+  {
+    "text": "SPORTS",
+    "url": "https://www.41nbc.com/sports/"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.41nbc.com/sports/"
+  },
+  {
+    "text": "High School Football",
+    "url": "https://www.41nbc.com/football/"
+  },
+  {
+    "text": "Local Sports",
+    "url": "https://www.41nbc.com/local-sports/"
+  },
+  {
+    "text": "Motorsports",
+    "url": "https://www.41nbc.com/motorsports/"
+  },
+  {
+    "text": "AP Racing News",
+    "url": "https://racing.ap.org/41nbc"
+  },
+  {
+    "text": "VIDEOS",
+    "url": "https://www.41nbc.com/latest-videos/"
+  },
+  {
+    "text": "FEATURES",
+    "url": "#"
+  },
+  {
+    "text": "Health EXPO",
+    "url": "https://www.41nbc.com/expo/"
+  },
+  {
+    "text": "Viewers Choice Awards 2022",
+    "url": "https://www.41nbc.com/awards2022/"
+  },
+  {
+    "text": "Black History Month 2022",
+    "url": "https://www.41nbc.com/blackhistorymonth/"
+  },
+  {
+    "text": "Ask Angi",
+    "url": "https://www.41nbc.com/askangi/"
+  },
+  {
+    "text": "Living Well",
+    "url": "https://www.41nbc.com/livingwell/"
+  },
+  {
+    "text": "Discover Middle Georgia",
+    "url": "https://www.41nbc.com/discover-middle-georgia/"
+  },
+  {
+    "text": "Healthcare Heroes",
+    "url": "https://www.41nbc.com/hero/"
+  },
+  {
+    "text": "Tech Report",
+    "url": "https://www.41nbc.com/tech-report/"
+  },
+  {
+    "text": "Hooked on Science",
+    "url": "https://www.41nbc.com/hooked-on-science/"
+  },
+  {
+    "text": "It\u2019s The Law",
+    "url": "https://www.41nbc.com/feature-its-the-law/"
+  },
+  {
+    "text": "Morning Business Report",
+    "url": "https://www.41nbc.com/morning-business-report/"
+  },
+  {
+    "text": "Mom to Mom",
+    "url": "https://www.41nbc.com/mom-to-mom/"
+  },
+  {
+    "text": "Restaurant Report Card",
+    "url": "https://www.41nbc.com/rrc/"
+  },
+  {
+    "text": "Tech Byte",
+    "url": "https://www.41nbc.com/tech-byte/"
+  },
+  {
+    "text": "Under the Hood",
+    "url": "https://www.41nbc.com/underthehood/"
+  },
+  {
+    "text": "41 Days of Christmas 2021",
+    "url": "https://www.41nbc.com/christmas/"
+  },
+  {
+    "text": "Viewers Choice Awards 2020",
+    "url": "https://www.41nbc.com/awards2020/"
+  },
+  {
+    "text": "COMMUNITY",
+    "url": "#"
+  },
+  {
+    "text": "Talk of the Town with Dr. Harper",
+    "url": "https://www.41nbc.com/talkofthetown/"
+  },
+  {
+    "text": "Health EXPO",
+    "url": "https://www.41nbc.com/expo/"
+  },
+  {
+    "text": "41NBC Coffee Crew",
+    "url": "https://www.41nbc.com/coffeecrew/"
+  },
+  {
+    "text": "MTA Mural",
+    "url": "https://www.41nbc.com/homepage/mural/"
+  },
+  {
+    "text": "Senior Spotlight",
+    "url": "https://www.41nbc.com/seniorspotlight/"
+  },
+  {
+    "text": "Job Fair",
+    "url": "https://www.41nbc.com/jobfair/"
+  },
+  {
+    "text": "Community Bulletin Board",
+    "url": "https://www.41nbc.com/communitybulletinboard/"
+  },
+  {
+    "text": "Cherry Blossom Festival",
+    "url": "https://www.41nbc.com/cherry-blossom-festival/"
+  },
+  {
+    "text": "Local Event Calendar",
+    "url": "https://www.41nbc.com/local-events/"
+  },
+  {
+    "text": "CONTESTS",
+    "url": "https://www.41nbc.com/contests-promotions/"
+  },
+  {
+    "text": "ON 41",
+    "url": "https://www.41nbc.com/on-41/"
+  },
+  {
+    "text": "41NBC Program Guide",
+    "url": "https://www.41nbc.com/tv-schedule/"
+  },
+  {
+    "text": "Daybreak",
+    "url": "https://www.41nbc.com/daybreak/"
+  },
+  {
+    "text": "41 Today",
+    "url": "https://41today.com/"
+  },
+  {
+    "text": "41.2/ Bounce TV",
+    "url": "https://www.41nbc.com/my412tv/"
+  },
+  {
+    "text": "SAVINGS",
+    "url": "#"
+  },
+  {
+    "text": "41NBC Half Off Deals",
+    "url": "https://wmgt.halfoffdeal.com/"
+  },
+  {
+    "text": "ABOUT",
+    "url": "https://www.41nbc.com/aboutus/"
+  },
+  {
+    "text": "News Team",
+    "url": "https://www.41nbc.com/contact-us/news-department/"
+  },
+  {
+    "text": "Advertise",
+    "url": "https://www.41nbc.com/aboutus/advertising/"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.41nbc.com/aboutus/jobs-at-41-nbc/"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://www.41nbc.com/contact-us/"
+  },
+  {
+    "text": "Public Files Contact",
+    "url": "https://www.41nbc.com/public-files/"
+  },
+  {
+    "text": "LIVE",
+    "url": "https://www.41nbc.com/news/video/live/"
+  },
+  {
+    "text": "",
+    "url": "//openweathermap.org/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/update-gbi-releases-body-camera-footage-hancock-county-brianna-grier/"
+  },
+  {
+    "text": "UPDATE: GBI releases body camera footage from Hancock County incident that led to Brianna Grier's death",
+    "url": "https://www.41nbc.com/update-gbi-releases-body-camera-footage-hancock-county-brianna-grier/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/macon-bibb-transit-authority-unveils-second-part-of-downtown-mural/"
+  },
+  {
+    "text": "Macon-Bibb Transit Authority unveils second part of downtown mural",
+    "url": "https://www.41nbc.com/macon-bibb-transit-authority-unveils-second-part-of-downtown-mural/"
+  },
+  {
+    "text": "Brick Nelson",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/wilkinson-county-students-return-to-classroom/"
+  },
+  {
+    "text": "Wilkinson County students return to classroom",
+    "url": "https://www.41nbc.com/wilkinson-county-students-return-to-classroom/"
+  },
+  {
+    "text": "Brick Nelson",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/eastman-unveils-new-mural-to-honor-veterans/"
+  },
+  {
+    "text": "Eastman unveils new mural to honor veterans",
+    "url": "https://www.41nbc.com/eastman-unveils-new-mural-to-honor-veterans/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "",
+    "url": "https://www.41nbc.com/awards2022/"
+  },
+  {
+    "text": "Viewers Choice Awards 2022",
+    "url": "https://www.41nbc.com/awards2022/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/awards2022/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/hero/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/talkofthetown/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/hooked-on-science/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/rrc/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/mom-to-mom/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://41today.com/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/contests-promotions/"
+  },
+  {
+    "text": "All",
+    "url": "#1611863500705-4e37c4bb-fe80"
+  },
+  {
+    "text": "Local News",
+    "url": "#1611863500766-67c91987-50d7"
+  },
+  {
+    "text": "Georgia News",
+    "url": "#1611863728829-d58ade73-126d"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "#1611863753615-62eae896-5187"
+  },
+  {
+    "text": "All",
+    "url": "#1611863500705-4e37c4bb-fe80"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/50-mercer-student-athletes-named-to-spring-academic-all-socon-team/"
+  },
+  {
+    "text": "50 Mercer student-athletes named to Spring Academic All-SoCon Team",
+    "url": "https://www.41nbc.com/50-mercer-student-athletes-named-to-spring-academic-all-socon-team/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/staying-hot-for-the-weekend/"
+  },
+  {
+    "text": "Staying hot for the weekend",
+    "url": "https://www.41nbc.com/staying-hot-for-the-weekend/"
+  },
+  {
+    "text": "Weather",
+    "url": "https://www.41nbc.com/category/weather/"
+  },
+  {
+    "text": "Cecilia Reeves",
+    "url": "https://www.41nbc.com/bios/cecilia-reeves/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/21-butterfly-benches-for-victims-of-uvalde-school-shooting-now-complete/"
+  },
+  {
+    "text": "21 butterfly benches for victims of Uvalde school shooting now complete",
+    "url": "https://www.41nbc.com/21-butterfly-benches-for-victims-of-uvalde-school-shooting-now-complete/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/bibb-county-school-district-holds-back-to-school-giveaway/"
+  },
+  {
+    "text": "Bibb County School District holds back to school giveaway",
+    "url": "https://www.41nbc.com/bibb-county-school-district-holds-back-to-school-giveaway/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/warner-robins-teen-shot-by-cousin/"
+  },
+  {
+    "text": "Warner Robins teen shot by cousin",
+    "url": "https://www.41nbc.com/warner-robins-teen-shot-by-cousin/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/back-to-school-events-wrap-up-in-middle-georgia-this-weekend/"
+  },
+  {
+    "text": "Back to School events wrap up in Middle Georgia this weekend",
+    "url": "https://www.41nbc.com/back-to-school-events-wrap-up-in-middle-georgia-this-weekend/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/coroner-body-found-in-vehicle-off-tom-hill-sr-blvd/"
+  },
+  {
+    "text": "UPDATE: Body found in vehicle off Tom Hill Sr. Blvd identified",
+    "url": "https://www.41nbc.com/coroner-body-found-in-vehicle-off-tom-hill-sr-blvd/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/1-killed-1-injured-in-early-morning-barbershop-shooting/"
+  },
+  {
+    "text": "1 killed, 1 injured in early morning barbershop shooting",
+    "url": "https://www.41nbc.com/1-killed-1-injured-in-early-morning-barbershop-shooting/"
+  },
+  {
+    "text": "41NBC Web Producer",
+    "url": "https://www.41nbc.com/bios/41nbc-web-producer/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/65-year-old-man-shot-in-auto-zone-parking-lot/"
+  },
+  {
+    "text": "65-year-old man shot in Auto Zone parking lot",
+    "url": "https://www.41nbc.com/65-year-old-man-shot-in-auto-zone-parking-lot/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Clayton Poulnott",
+    "url": "https://www.41nbc.com/bios/clayton-poulnott/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/scattered-storms-and-heat-return-friday/"
+  },
+  {
+    "text": "Scattered storms and heat return Friday",
+    "url": "https://www.41nbc.com/scattered-storms-and-heat-return-friday/"
+  },
+  {
+    "text": "Weather",
+    "url": "https://www.41nbc.com/category/weather/"
+  },
+  {
+    "text": "Cecilia Reeves",
+    "url": "https://www.41nbc.com/bios/cecilia-reeves/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/robins-air-force-base-hoping-to-get-students-involved-in-stem-outreach-program/"
+  },
+  {
+    "text": "Robins Air Force Base hoping to get students involved in STEM outreach program",
+    "url": "https://www.41nbc.com/robins-air-force-base-hoping-to-get-students-involved-in-stem-outreach-program/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/north-central-health-district-bringing-awareness-to-world-hepatitis-day/"
+  },
+  {
+    "text": "North Central Health District bringing awareness to 'World Hepatitis Day'",
+    "url": "https://www.41nbc.com/north-central-health-district-bringing-awareness-to-world-hepatitis-day/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/coach-sheddrick-spoon-risper-celebrates-25-years-of-coaching/"
+  },
+  {
+    "text": "Coach Sheddrick \u2018Spoon\u2019 Risper celebrates 25 years of coaching",
+    "url": "https://www.41nbc.com/coach-sheddrick-spoon-risper-celebrates-25-years-of-coaching/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/perdue-elementary-holding-donation-drive-to-give-back-to-local-cancer-patients/"
+  },
+  {
+    "text": "Perdue Elementary holding donation drive to give back to local cancer patients",
+    "url": "https://www.41nbc.com/perdue-elementary-holding-donation-drive-to-give-back-to-local-cancer-patients/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/bibb-school-district-hosts-back-to-school-public-safety-summit/"
+  },
+  {
+    "text": "Bibb School District hosts Back to School Public Safety Summit",
+    "url": "https://www.41nbc.com/bibb-school-district-hosts-back-to-school-public-safety-summit/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Brick Nelson",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/dairy-queens-of-middle-georgia-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "Dairy Queens of Middle Georgia Celebrate \"Miracle Treat Day\"",
+    "url": "https://www.41nbc.com/dairy-queens-of-middle-georgia-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "Brick Nelson",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/bridges-project-in-south-bibb-opens-roads-to-public/"
+  },
+  {
+    "text": "Bridges project in South Bibb opens roads to public",
+    "url": "https://www.41nbc.com/bridges-project-in-south-bibb-opens-roads-to-public/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/mega-millions-jackpot-now-1-1-billion-nations-3rd-largest/"
+  },
+  {
+    "text": "Mega Millions jackpot now $1.1 billion, nation's 3rd largest",
+    "url": "https://www.41nbc.com/mega-millions-jackpot-now-1-1-billion-nations-3rd-largest/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/dairy-queens-of-middle-georgia-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "Dairy Queens of Middle Georgia Celebrate \u201cMiracle Treat Day\u201d",
+    "url": "https://www.41nbc.com/dairy-queens-of-middle-georgia-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrick Nelson\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/bridges-project-in-south-bibb-opens-roads-to-public/"
+  },
+  {
+    "text": "Bridges project in South Bibb opens roads to public",
+    "url": "https://www.41nbc.com/bridges-project-in-south-bibb-opens-roads-to-public/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tHaley Janes\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/rain-chances-are-rising-ahead-of-the-weekend/"
+  },
+  {
+    "text": "Rain chances are rising ahead of the weekend",
+    "url": "https://www.41nbc.com/rain-chances-are-rising-ahead-of-the-weekend/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAaron Lowery\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/aaron-lowery/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/man-shot-while-in-car-in-east-dublin/"
+  },
+  {
+    "text": "UPDATE: Three arrested after man shot while in car in East Dublin",
+    "url": "https://www.41nbc.com/man-shot-while-in-car-in-east-dublin/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\t41NBC Web Producer\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/41nbc-web-producer/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/update-another-victim-june-shooting-pronounced-dead/"
+  },
+  {
+    "text": "UPDATE: Another victim of June shooting pronounced dead",
+    "url": "https://www.41nbc.com/update-another-victim-june-shooting-pronounced-dead/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tTucker Sargent\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/tucker-sargent/"
+  },
+  {
+    "text": "B.S. Report: July 27th \u2013 The Falcons Rebuild",
+    "url": "https://www.41nbc.com/b-s-report-july-27th-the-falcons-rebuild/"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.41nbc.com/category/sports/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tDavid Tufts\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/david-tufts/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/coachs-corner-2022-von-lassiter-of-the-bleckley-county-royals/"
+  },
+  {
+    "text": "Coach\u2019s Corner 2022: Von Lassiter of the Bleckley County Royals",
+    "url": "https://www.41nbc.com/coachs-corner-2022-von-lassiter-of-the-bleckley-county-royals/"
+  },
+  {
+    "text": "Coach's Corner",
+    "url": "https://www.41nbc.com/category/coachs-corner/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tDavid Tufts\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/david-tufts/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/staying-hot-thursday-2/"
+  },
+  {
+    "text": "Middle Georgia to stay hot on Thursday",
+    "url": "https://www.41nbc.com/staying-hot-thursday-2/"
+  },
+  {
+    "text": "Weather",
+    "url": "https://www.41nbc.com/category/weather/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tCecilia Reeves\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/cecilia-reeves/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/macon-bibb-mayor-to-propose-reduced-millage-rate/"
+  },
+  {
+    "text": "Macon-Bibb Mayor to propose reduced millage rate",
+    "url": "https://www.41nbc.com/macon-bibb-mayor-to-propose-reduced-millage-rate/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAriel Schiller\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/ariel-schiller/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/beverly-knight-olson-childrens-hospital-patients-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "Beverly Knight Olson Children\u2019s Hospital patients celebrate \u201cMiracle Treat Day\u201d",
+    "url": "https://www.41nbc.com/beverly-knight-olson-childrens-hospital-patients-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrick Nelson\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "Local News",
+    "url": "#1611863500766-67c91987-50d7"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/update-gbi-releases-body-camera-footage-hancock-county-brianna-grier/"
+  },
+  {
+    "text": "UPDATE: GBI releases body camera footage from Hancock County incident that led to Brianna Grier's death",
+    "url": "https://www.41nbc.com/update-gbi-releases-body-camera-footage-hancock-county-brianna-grier/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/macon-bibb-transit-authority-unveils-second-part-of-downtown-mural/"
+  },
+  {
+    "text": "Macon-Bibb Transit Authority unveils second part of downtown mural",
+    "url": "https://www.41nbc.com/macon-bibb-transit-authority-unveils-second-part-of-downtown-mural/"
+  },
+  {
+    "text": "Brick Nelson",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/wilkinson-county-students-return-to-classroom/"
+  },
+  {
+    "text": "Wilkinson County students return to classroom",
+    "url": "https://www.41nbc.com/wilkinson-county-students-return-to-classroom/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Brick Nelson",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/eastman-unveils-new-mural-to-honor-veterans/"
+  },
+  {
+    "text": "Eastman unveils new mural to honor veterans",
+    "url": "https://www.41nbc.com/eastman-unveils-new-mural-to-honor-veterans/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/50-mercer-student-athletes-named-to-spring-academic-all-socon-team/"
+  },
+  {
+    "text": "50 Mercer student-athletes named to Spring Academic All-SoCon Team",
+    "url": "https://www.41nbc.com/50-mercer-student-athletes-named-to-spring-academic-all-socon-team/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/staying-hot-for-the-weekend/"
+  },
+  {
+    "text": "Staying hot for the weekend",
+    "url": "https://www.41nbc.com/staying-hot-for-the-weekend/"
+  },
+  {
+    "text": "Weather",
+    "url": "https://www.41nbc.com/category/weather/"
+  },
+  {
+    "text": "Cecilia Reeves",
+    "url": "https://www.41nbc.com/bios/cecilia-reeves/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/21-butterfly-benches-for-victims-of-uvalde-school-shooting-now-complete/"
+  },
+  {
+    "text": "21 butterfly benches for victims of Uvalde school shooting now complete",
+    "url": "https://www.41nbc.com/21-butterfly-benches-for-victims-of-uvalde-school-shooting-now-complete/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/bibb-county-school-district-holds-back-to-school-giveaway/"
+  },
+  {
+    "text": "Bibb County School District holds back to school giveaway",
+    "url": "https://www.41nbc.com/bibb-county-school-district-holds-back-to-school-giveaway/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/warner-robins-teen-shot-by-cousin/"
+  },
+  {
+    "text": "Warner Robins teen shot by cousin",
+    "url": "https://www.41nbc.com/warner-robins-teen-shot-by-cousin/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/back-to-school-events-wrap-up-in-middle-georgia-this-weekend/"
+  },
+  {
+    "text": "Back to School events wrap up in Middle Georgia this weekend",
+    "url": "https://www.41nbc.com/back-to-school-events-wrap-up-in-middle-georgia-this-weekend/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/coroner-body-found-in-vehicle-off-tom-hill-sr-blvd/"
+  },
+  {
+    "text": "UPDATE: Body found in vehicle off Tom Hill Sr. Blvd identified",
+    "url": "https://www.41nbc.com/coroner-body-found-in-vehicle-off-tom-hill-sr-blvd/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/1-killed-1-injured-in-early-morning-barbershop-shooting/"
+  },
+  {
+    "text": "1 killed, 1 injured in early morning barbershop shooting",
+    "url": "https://www.41nbc.com/1-killed-1-injured-in-early-morning-barbershop-shooting/"
+  },
+  {
+    "text": "41NBC Web Producer",
+    "url": "https://www.41nbc.com/bios/41nbc-web-producer/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/65-year-old-man-shot-in-auto-zone-parking-lot/"
+  },
+  {
+    "text": "65-year-old man shot in Auto Zone parking lot",
+    "url": "https://www.41nbc.com/65-year-old-man-shot-in-auto-zone-parking-lot/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Clayton Poulnott",
+    "url": "https://www.41nbc.com/bios/clayton-poulnott/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/scattered-storms-and-heat-return-friday/"
+  },
+  {
+    "text": "Scattered storms and heat return Friday",
+    "url": "https://www.41nbc.com/scattered-storms-and-heat-return-friday/"
+  },
+  {
+    "text": "Weather",
+    "url": "https://www.41nbc.com/category/weather/"
+  },
+  {
+    "text": "Cecilia Reeves",
+    "url": "https://www.41nbc.com/bios/cecilia-reeves/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/robins-air-force-base-hoping-to-get-students-involved-in-stem-outreach-program/"
+  },
+  {
+    "text": "Robins Air Force Base hoping to get students involved in STEM outreach program",
+    "url": "https://www.41nbc.com/robins-air-force-base-hoping-to-get-students-involved-in-stem-outreach-program/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/north-central-health-district-bringing-awareness-to-world-hepatitis-day/"
+  },
+  {
+    "text": "North Central Health District bringing awareness to 'World Hepatitis Day'",
+    "url": "https://www.41nbc.com/north-central-health-district-bringing-awareness-to-world-hepatitis-day/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/coach-sheddrick-spoon-risper-celebrates-25-years-of-coaching/"
+  },
+  {
+    "text": "Coach Sheddrick \u2018Spoon\u2019 Risper celebrates 25 years of coaching",
+    "url": "https://www.41nbc.com/coach-sheddrick-spoon-risper-celebrates-25-years-of-coaching/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Cameron Branscomb",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/perdue-elementary-holding-donation-drive-to-give-back-to-local-cancer-patients/"
+  },
+  {
+    "text": "Perdue Elementary holding donation drive to give back to local cancer patients",
+    "url": "https://www.41nbc.com/perdue-elementary-holding-donation-drive-to-give-back-to-local-cancer-patients/"
+  },
+  {
+    "text": "Lizbeth Gutierrez",
+    "url": "https://www.41nbc.com/bios/lizbeth-gutierrez/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/bibb-school-district-hosts-back-to-school-public-safety-summit/"
+  },
+  {
+    "text": "Bibb School District hosts Back to School Public Safety Summit",
+    "url": "https://www.41nbc.com/bibb-school-district-hosts-back-to-school-public-safety-summit/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrick Nelson\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/dairy-queens-of-middle-georgia-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "Dairy Queens of Middle Georgia Celebrate \u201cMiracle Treat Day\u201d",
+    "url": "https://www.41nbc.com/dairy-queens-of-middle-georgia-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrick Nelson\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/bridges-project-in-south-bibb-opens-roads-to-public/"
+  },
+  {
+    "text": "Bridges project in South Bibb opens roads to public",
+    "url": "https://www.41nbc.com/bridges-project-in-south-bibb-opens-roads-to-public/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tHaley Janes\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/rain-chances-are-rising-ahead-of-the-weekend/"
+  },
+  {
+    "text": "Rain chances are rising ahead of the weekend",
+    "url": "https://www.41nbc.com/rain-chances-are-rising-ahead-of-the-weekend/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAaron Lowery\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/aaron-lowery/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/man-shot-while-in-car-in-east-dublin/"
+  },
+  {
+    "text": "UPDATE: Three arrested after man shot while in car in East Dublin",
+    "url": "https://www.41nbc.com/man-shot-while-in-car-in-east-dublin/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\t41NBC Web Producer\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/41nbc-web-producer/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/update-another-victim-june-shooting-pronounced-dead/"
+  },
+  {
+    "text": "UPDATE: Another victim of June shooting pronounced dead",
+    "url": "https://www.41nbc.com/update-another-victim-june-shooting-pronounced-dead/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tTucker Sargent\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/tucker-sargent/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/staying-hot-thursday-2/"
+  },
+  {
+    "text": "Middle Georgia to stay hot on Thursday",
+    "url": "https://www.41nbc.com/staying-hot-thursday-2/"
+  },
+  {
+    "text": "Weather",
+    "url": "https://www.41nbc.com/category/weather/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tCecilia Reeves\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/cecilia-reeves/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/macon-bibb-mayor-to-propose-reduced-millage-rate/"
+  },
+  {
+    "text": "Macon-Bibb Mayor to propose reduced millage rate",
+    "url": "https://www.41nbc.com/macon-bibb-mayor-to-propose-reduced-millage-rate/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAriel Schiller\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/ariel-schiller/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/beverly-knight-olson-childrens-hospital-patients-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "Beverly Knight Olson Children\u2019s Hospital patients celebrate \u201cMiracle Treat Day\u201d",
+    "url": "https://www.41nbc.com/beverly-knight-olson-childrens-hospital-patients-celebrate-miracle-treat-day/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrick Nelson\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/author/bnelson/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/macon-pastor-honored-for-50-years-of-service/"
+  },
+  {
+    "text": "Macon pastor honored for 50 years of service",
+    "url": "https://www.41nbc.com/macon-pastor-honored-for-50-years-of-service/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tCameron Branscomb\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/cameron-branscomb/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "#1611863728829-d58ade73-126d"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/update-gbi-releases-body-camera-footage-hancock-county-brianna-grier/"
+  },
+  {
+    "text": "UPDATE: GBI releases body camera footage from Hancock County incident that led to Brianna Grier's death",
+    "url": "https://www.41nbc.com/update-gbi-releases-body-camera-footage-hancock-county-brianna-grier/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Haley Janes",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/state-constitutional-challenge-to-georgia-abortion-law-filed/"
+  },
+  {
+    "text": "State constitutional challenge to Georgia abortion law filed",
+    "url": "https://www.41nbc.com/state-constitutional-challenge-to-georgia-abortion-law-filed/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/judge-upholds-rep-marjorie-taylor-greenes-eligibility/"
+  },
+  {
+    "text": "Judge upholds Rep. Marjorie Taylor Greene's eligibility",
+    "url": "https://www.41nbc.com/judge-upholds-rep-marjorie-taylor-greenes-eligibility/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/more-than-1000-contraband-items-seized-in-georgia-prison-shakedowns/"
+  },
+  {
+    "text": "More than 1,000 contraband items seized in Georgia prison shakedowns",
+    "url": "https://www.41nbc.com/more-than-1000-contraband-items-seized-in-georgia-prison-shakedowns/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Shelby Coates",
+    "url": "https://www.41nbc.com/bios/shelby-coates/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/bike-ride-from-georgia-to-florida-raises-funds-for-youth-home/"
+  },
+  {
+    "text": "Bike ride from Georgia to Florida raises funds for youth home",
+    "url": "https://www.41nbc.com/bike-ride-from-georgia-to-florida-raises-funds-for-youth-home/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Shelby Coates",
+    "url": "https://www.41nbc.com/bios/shelby-coates/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/appeals-court-says-georgia-abortion-law-should-take-effect/"
+  },
+  {
+    "text": "Appeals court says Georgia abortion law should take effect",
+    "url": "https://www.41nbc.com/appeals-court-says-georgia-abortion-law-should-take-effect/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/us-rep-hice-subpoenaed-in-georgia-election-investigation/"
+  },
+  {
+    "text": "US Rep. Hice subpoenaed in Georgia election investigation",
+    "url": "https://www.41nbc.com/us-rep-hice-subpoenaed-in-georgia-election-investigation/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/delta-places-order-for-100-boeing-737-aircraft/"
+  },
+  {
+    "text": "Delta places order for 100 Boeing 737 aircraft",
+    "url": "https://www.41nbc.com/delta-places-order-for-100-boeing-737-aircraft/"
+  },
+  {
+    "text": "Business",
+    "url": "https://www.41nbc.com/category/business/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/police-atlanta-man-shot-with-crossbow-by-assailant/"
+  },
+  {
+    "text": "Police: Atlanta man shot with crossbow by assailant",
+    "url": "https://www.41nbc.com/police-atlanta-man-shot-with-crossbow-by-assailant/"
+  },
+  {
+    "text": "Atlanta News",
+    "url": "https://www.41nbc.com/category/atlanta-news/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/truck-driver-charged-after-fatal-wreck-kills-2-in-georgia/"
+  },
+  {
+    "text": "Truck driver charged after fatal wreck kills 2 in Georgia",
+    "url": "https://www.41nbc.com/truck-driver-charged-after-fatal-wreck-kills-2-in-georgia/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/georgia-democrats-concerned-for-womens-rights-following-roe-v-wade-overturn/"
+  },
+  {
+    "text": "Georgia Democrats concerned for women's rights following Roe v. Wade overturn",
+    "url": "https://www.41nbc.com/georgia-democrats-concerned-for-womens-rights-following-roe-v-wade-overturn/"
+  },
+  {
+    "text": "Ariel Schiller",
+    "url": "https://www.41nbc.com/bios/ariel-schiller/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/gbi-investigating-explosion-at-georgia-guidestones-monument/"
+  },
+  {
+    "text": "GBI investigating explosion at Georgia Guidestones monument",
+    "url": "https://www.41nbc.com/gbi-investigating-explosion-at-georgia-guidestones-monument/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "41NBC Web Producer",
+    "url": "https://www.41nbc.com/bios/41nbc-web-producer/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/sen-graham-to-fight-georgia-election-subpoena-lawyers-say/"
+  },
+  {
+    "text": "Sen. Graham to fight Georgia election subpoena, lawyers say",
+    "url": "https://www.41nbc.com/sen-graham-to-fight-georgia-election-subpoena-lawyers-say/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/georgia-subpoenaing-giuliani-graham-in-trump-election-probe/"
+  },
+  {
+    "text": "Georgia subpoenaing Giuliani, Graham in Trump election probe",
+    "url": "https://www.41nbc.com/georgia-subpoenaing-giuliani-graham-in-trump-election-probe/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/savannah-police-chief-to-resign-amid-uproar-over-shooting/"
+  },
+  {
+    "text": "Savannah police chief to resign amid uproar over shooting",
+    "url": "https://www.41nbc.com/savannah-police-chief-to-resign-amid-uproar-over-shooting/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/police-georgia-man-stabbed-4-family-members-at-his-home/"
+  },
+  {
+    "text": "Police: Georgia man stabbed 4 family members at his home",
+    "url": "https://www.41nbc.com/police-georgia-man-stabbed-4-family-members-at-his-home/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/governor-suspends-georgia-gas-taxes-through-mid-august/"
+  },
+  {
+    "text": "Governor suspends Georgia gas taxes through mid-August",
+    "url": "https://www.41nbc.com/governor-suspends-georgia-gas-taxes-through-mid-august/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/new-georgia-laws-aim-at-schools-some-laws-already-in-effect/"
+  },
+  {
+    "text": "New Georgia laws aim at schools; some laws already in effect",
+    "url": "https://www.41nbc.com/new-georgia-laws-aim-at-schools-some-laws-already-in-effect/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/warner-robins-shines-at-miss-georgia-with-seven-candidates-overall/"
+  },
+  {
+    "text": "Warner Robins shines at \u2018Miss Georgia\u2019 with seven candidates overall",
+    "url": "https://www.41nbc.com/warner-robins-shines-at-miss-georgia-with-seven-candidates-overall/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tShelby Coates\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/shelby-coates/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/warner-robins-native-wins-miss-georgia-shares-goals-for-year-of-service/"
+  },
+  {
+    "text": "Warner Robins native wins Miss Georgia, shares goals for year of service",
+    "url": "https://www.41nbc.com/warner-robins-native-wins-miss-georgia-shares-goals-for-year-of-service/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tShelby Coates\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/shelby-coates/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/senator-ossoff-announces-push-to-support-poultry-scientists-of-uga-fvsu/"
+  },
+  {
+    "text": "Senator Ossoff announces push to support poultry scientists of UGA, FVSU",
+    "url": "https://www.41nbc.com/senator-ossoff-announces-push-to-support-poultry-scientists-of-uga-fvsu/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tHaley Janes\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/fiber-internet-on-its-way-to-middle-georgia-through-new-partnership/"
+  },
+  {
+    "text": "Fiber internet on its way to middle Georgia through new partnership",
+    "url": "https://www.41nbc.com/fiber-internet-on-its-way-to-middle-georgia-through-new-partnership/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tHaley Janes\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/ludacris-manager-and-2-others-shot-1-fatally-in-georgia/"
+  },
+  {
+    "text": "Ludacris\u2019 manager and 2 others shot, 1 fatally, in Georgia",
+    "url": "https://www.41nbc.com/ludacris-manager-and-2-others-shot-1-fatally-in-georgia/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/reactions-to-overturning-of-roe-v-wade-continue/"
+  },
+  {
+    "text": "Reactions to overturning of Roe v. Wade continue",
+    "url": "https://www.41nbc.com/reactions-to-overturning-of-roe-v-wade-continue/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAriel Schiller\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/ariel-schiller/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/3-year-old-dies-in-hot-car-in-columbus/"
+  },
+  {
+    "text": "3-Year-old dies in hot car in Columbus",
+    "url": "https://www.41nbc.com/3-year-old-dies-in-hot-car-in-columbus/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tHaley Janes\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/ricky-dubose-found-unresponsive-in-cell-investigators-look-into-apparent-suicide/"
+  },
+  {
+    "text": "Ricky Dubose found unresponsive in cell, investigators look into apparent suicide",
+    "url": "https://www.41nbc.com/ricky-dubose-found-unresponsive-in-cell-investigators-look-into-apparent-suicide/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tHaley Janes\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/haley-janes/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/murder-conviction-overturned-in-georgia-hot-car-death-case/"
+  },
+  {
+    "text": "Murder conviction overturned in Georgia hot car death case",
+    "url": "https://www.41nbc.com/murder-conviction-overturned-in-georgia-hot-car-death-case/"
+  },
+  {
+    "text": "Georgia News",
+    "url": "https://www.41nbc.com/category/georgia-news/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/watch-live-january-6-committee-hearing-on-capitol-attack/"
+  },
+  {
+    "text": "WATCH LIVE: January 6 Committee Hearing on Capitol Attack",
+    "url": "https://www.41nbc.com/watch-live-january-6-committee-hearing-on-capitol-attack/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrandon Long\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/brandon-long/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "#1611863753615-62eae896-5187"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/mega-millions-jackpot-now-1-1-billion-nations-3rd-largest/"
+  },
+  {
+    "text": "Mega Millions jackpot now $1.1 billion, nation's 3rd largest",
+    "url": "https://www.41nbc.com/mega-millions-jackpot-now-1-1-billion-nations-3rd-largest/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/parade-attack-suspect-indicted-for-murder-attempted-murder/"
+  },
+  {
+    "text": "Parade attack suspect indicted for murder, attempted murder",
+    "url": "https://www.41nbc.com/parade-attack-suspect-indicted-for-murder-attempted-murder/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/fed-unleashes-another-big-rate-hike-in-bid-to-curb-inflation/"
+  },
+  {
+    "text": "Fed unleashes another big rate hike in bid to curb inflation",
+    "url": "https://www.41nbc.com/fed-unleashes-another-big-rate-hike-in-bid-to-curb-inflation/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/president-biden-tests-negative-for-covid-19/"
+  },
+  {
+    "text": "President Biden tests negative for COVID-19",
+    "url": "https://www.41nbc.com/president-biden-tests-negative-for-covid-19/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/state-constitutional-challenge-to-georgia-abortion-law-filed/"
+  },
+  {
+    "text": "State constitutional challenge to Georgia abortion law filed",
+    "url": "https://www.41nbc.com/state-constitutional-challenge-to-georgia-abortion-law-filed/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/mans-63-month-prison-term-matches-longest-for-capitol-riot/"
+  },
+  {
+    "text": "Man's 63-month prison term matches longest for Capitol riot",
+    "url": "https://www.41nbc.com/mans-63-month-prison-term-matches-longest-for-capitol-riot/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/steve-bannon-convicted-of-contempt-charges/"
+  },
+  {
+    "text": "Steve Bannon convicted of contempt charges",
+    "url": "https://www.41nbc.com/steve-bannon-convicted-of-contempt-charges/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/biden-tests-positive-for-covid-19-has-mild-symptoms/"
+  },
+  {
+    "text": "Biden tests positive for COVID-19, has 'mild symptoms'",
+    "url": "https://www.41nbc.com/biden-tests-positive-for-covid-19-has-mild-symptoms/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/ap-source-biden-holds-off-on-climate-emergency-declaration/"
+  },
+  {
+    "text": "AP source: Biden holds off on climate emergency declaration",
+    "url": "https://www.41nbc.com/ap-source-biden-holds-off-on-climate-emergency-declaration/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/ivana-trump-first-wife-of-former-president-has-died/"
+  },
+  {
+    "text": "Ivana Trump, first wife of former president, has died",
+    "url": "https://www.41nbc.com/ivana-trump-first-wife-of-former-president-has-died/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/biden-celebration-of-new-gun-law-clouded-by-latest-shooting/"
+  },
+  {
+    "text": "Biden celebration of new gun law clouded by latest shooting",
+    "url": "https://www.41nbc.com/biden-celebration-of-new-gun-law-clouded-by-latest-shooting/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/heard-attorneys-say-juror-served-improperly-seek-mistrial/"
+  },
+  {
+    "text": "Heard attorneys say juror served improperly, seek mistrial",
+    "url": "https://www.41nbc.com/heard-attorneys-say-juror-served-improperly-seek-mistrial/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
+  },
+  {
+    "text": "Biden to reveal first image from NASA's new space telescope",
+    "url": "https://www.41nbc.com/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/elon-musk-says-hes-terminating-44b-twitter-buyout-deal/"
+  },
+  {
+    "text": "Elon Musk says he's terminating $44B Twitter buyout deal",
+    "url": "https://www.41nbc.com/elon-musk-says-hes-terminating-44b-twitter-buyout-deal/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/wild-species-relied-on-by-billions-at-risk-report-warns/"
+  },
+  {
+    "text": "Wild species relied on by billions at risk, report warns",
+    "url": "https://www.41nbc.com/wild-species-relied-on-by-billions-at-risk-report-warns/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes/"
+  },
+  {
+    "text": "Wisconsin Supreme Court disallows absentee ballot drop boxes",
+    "url": "https://www.41nbc.com/wisconsin-supreme-court-disallows-absentee-ballot-drop-boxes/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/facing-pressure-biden-to-sign-order-on-abortion-access/"
+  },
+  {
+    "text": "Facing pressure, Biden to sign order on abortion access",
+    "url": "https://www.41nbc.com/facing-pressure-biden-to-sign-order-on-abortion-access/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/the-next-frontier-for-drones-letting-them-fly-out-of-sight/"
+  },
+  {
+    "text": "The next frontier for drones: Letting them fly out of sight",
+    "url": "https://www.41nbc.com/the-next-frontier-for-drones-letting-them-fly-out-of-sight/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "Associated Press",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/companies-could-face-hurdles-covering-abortion-travel-costs/"
+  },
+  {
+    "text": "Companies could face hurdles covering abortion travel costs",
+    "url": "https://www.41nbc.com/companies-could-face-hurdles-covering-abortion-travel-costs/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/appeals-arguments-set-on-immigrants-brought-to-us-as-kids/"
+  },
+  {
+    "text": "Appeals arguments set on immigrants brought to US as kids",
+    "url": "https://www.41nbc.com/appeals-arguments-set-on-immigrants-brought-to-us-as-kids/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/police-parade-shooting-suspect-contemplated-2nd-shooting/"
+  },
+  {
+    "text": "Police: Parade shooting suspect contemplated 2nd shooting",
+    "url": "https://www.41nbc.com/police-parade-shooting-suspect-contemplated-2nd-shooting/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/prosecutor-july-4-parade-shooter-confessed-to-police/"
+  },
+  {
+    "text": "Prosecutor: July 4 parade shooter confessed to police",
+    "url": "https://www.41nbc.com/prosecutor-july-4-parade-shooter-confessed-to-police/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/sen-graham-to-fight-georgia-election-subpoena-lawyers-say/"
+  },
+  {
+    "text": "Sen. Graham to fight Georgia election subpoena, lawyers say",
+    "url": "https://www.41nbc.com/sen-graham-to-fight-georgia-election-subpoena-lawyers-say/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/georgia-subpoenaing-giuliani-graham-in-trump-election-probe/"
+  },
+  {
+    "text": "Georgia subpoenaing Giuliani, Graham in Trump election probe",
+    "url": "https://www.41nbc.com/georgia-subpoenaing-giuliani-graham-in-trump-election-probe/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tBrandon Long\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/brandon-long/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/jackson-sworn-in-as-breyer-retires-from-supreme-court/"
+  },
+  {
+    "text": "Jackson sworn in, becomes 1st Black woman on Supreme Court",
+    "url": "https://www.41nbc.com/jackson-sworn-in-as-breyer-retires-from-supreme-court/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/r-kelly-sentenced-to-30-years-in-sex-trafficking-case/"
+  },
+  {
+    "text": "R. Kelly sentenced to 30 years in sex trafficking case",
+    "url": "https://www.41nbc.com/r-kelly-sentenced-to-30-years-in-sex-trafficking-case/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/cassidy-hutchinson-trump-white-house-aide-now-in-spotlight/"
+  },
+  {
+    "text": "Cassidy Hutchinson, Trump White House aide, now in spotlight",
+    "url": "https://www.41nbc.com/cassidy-hutchinson-trump-white-house-aide-now-in-spotlight/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/category/across-the-nation/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+    "url": "https://www.41nbc.com/ghislaine-maxwell-sentenced-to-20-years-for-helping-epstein/"
+  },
+  {
+    "text": "Ghislaine Maxwell sentenced to 20 years for helping Epstein",
+    "url": "https://www.41nbc.com/ghislaine-maxwell-sentenced-to-20-years-for-helping-epstein/"
+  },
+  {
+    "text": "Featured",
+    "url": "https://www.41nbc.com/category/featured/"
+  },
+  {
+    "text": "\n\t\t\t\t\t\t\tAssociated Press\t\t\t\t\t\t",
+    "url": "https://www.41nbc.com/bios/associated-press/"
+  },
+  {
+    "text": "\n                                \n                                                                        \n                                        \n                                        \n                                    \n                                \n                            ",
+    "url": "https://www.41nbc.com/staying-hot-for-the-weekend/"
+  },
+  {
+    "text": "Staying hot for the weekend",
+    "url": "https://www.41nbc.com/staying-hot-for-the-weekend/"
+  },
+  {
+    "text": "Storm Center",
+    "url": "/weather"
+  },
+  {
+    "text": "Radar",
+    "url": "/weather/radar"
+  },
+  {
+    "text": "Skyview",
+    "url": "/weather/41skyview"
+  },
+  {
+    "text": "Weather App",
+    "url": "/mobile-apps"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=Vl2nSfE%2FHR5BRSO79w2%2Bg0I0qH2igUQ6e1SwnXk9WhtyBoXzInzACnlcCz%2BdNrTZQ5vnRf8KiNDJUJAoUWpwxqdkENKCwTqKJylSRBsI%2BltX%2F4LjoxoJQ60Mc8vBa%2Fs824APvwRWbgNMbYFvFdfHk8hjiL5StC9mNZLbHBXr4u%2BFKpWM6HCdIBkHss1RcV2WraDexasVQiTLGiHz%2Fhy5iR%2Fm%2FBPJtpAmuyAfSmxsU1Z%2FyRIhlOIOCXIYi%2BwMqOtG6uAAzlGcE2iBovJx%2F4eEHrthyFte0p9S%2BczD1IIN1rJVxlG98%2B0H97WEejzoLoXs08V1mt9llsCpj6TUkUE4aQrVP%2BGt6LTXNs%2F73nw40e9TXihf6RwquSur7nmevUHB0M0uQJGudyHdxRLsr%2FSbP94RdXmNqegrbGdRX1oJvfTXOGG3o%2BVURGBd%2Bt5ks8%2B5y6UB5tQopONfK2Z7NJHvkItuL5hn0kc0g0d%2FA5y7UqhWVF8WK6E%2BWPl0phKffSIE%2BkzEdl%2F%2FgCpkW9YvW7MTKjZUVo%2FgXsVIKV8QTqn%2FaneVqOZFK4%2Bgw5VWW04h3Zl7l%2FxAS7QTKrkCu%2BnY53fjgakAxzEFRf%2BKdLZB24iKptZ0XtOR%2BAUq5ZMBghMu580HpQo%2BWD8E5nRgAI9N9UKd0MKlpXOCsrDJqbHLc6k%2Fmc0GwU2rXiw0n%2BXWvUvdH%2Bw4H%2BRdKYz%2FpkFWqsQMstIraMfoXc4Sw2KiHtupXKPJAp0BQUIDVswe6G1iNNCo8vxA8P5x%2FX9lyqZbbah4egyc4vfrVbg1zYpIaRsHNjQIMJSmCTfkDSplkRkqZRgHuneaPPMlalDSudKBWcM3UMl06YGk4yrS26BMWOunMFHBXlZlWCgswjA%2B8p9lfAn4dVjaBlUlmdq7jFW6uWcHMgUF88aALEPMPbep8gIFr1XTQabYbENMIuoGzeOy0l4G86oP9e3tXdA5Xa4kfepF1lbne6PO5Fjsck3MZS2VL9Exs%2FVBns9RdBVmYY2OZcw1zZT6tR1YWH00WSQOffE%2BqtcUl1KejlxR00l5bhpI88P%2FNkOGcjbgz2nDB48F926gGb4hkhPTv5526dkk9jZWFDf8dI1XyJ4S0MlIX4iiQW%2BJOyIcZ3LP7pDXEvmwKikITsPMC2HLJ2GAHUftK7qL3eCP%2BAALxfesyzq5vO2xhZ1o%2FajFoagShecEmpf517pwNRMbleCkpHs11mjgICQwKr63req36RrY7ITuxO2k%2B%2B7Are4b2eRDFrQ4ApuGHkNhvaKumDSUpFFtkj7I6txSlES%2Bzm6k25aEjRF85JnHpYNAdpTA3LgsfWVRiDM25tiobPY66INHQ7GO%2FNPFslVG6Wv2CDXeZGtWpXVkI%2BDXGhClnLx7SLqX5Dw74Iqzejco2aJzWFEpoIpwoS9VKN8ROYdyuXQrVY6LT%2BjMIKyqPGdhEb0Z1OLvosKptV11CvrbtuDXBeWvkKeAHoSjfNtIvjYJ%2BlB%2FBjHkP8vOr%2FVUW6D2aCk5wxkR2f%2FeosTyTDyEL2X2okEqA%2BDmqg%2FIhTXoe7VNk%2F1rDyd%2Bag6B0iMmKmqVOlYeejvNTEx5gyEy5zIhA8tYO2XsD8s4V7M8kPpg3sykZw%3D%3D&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=Vl2nSfE%2FHR5BRSO79w2%2Bg0I0qH2igUQ6e1SwnXk9WhtyBoXzInzACnlcCz%2BdNrTZQ5vnRf8KiNDJUJAoUWpwxqdkENKCwTqKJylSRBsI%2BltX%2F4LjoxoJQ60Mc8vBa%2Fs824APvwRWbgNMbYFvFdfHk8hjiL5StC9mNZLbHBXr4u%2BFKpWM6HCdIBkHss1RcV2WraDexasVQiTLGiHz%2Fhy5iR%2Fm%2FBPJtpAmuyAfSmxsU1Z%2FyRIhlOIOCXIYi%2BwMqOtG6uAAzlGcE2iBovJx%2F4eEHrthyFte0p9S%2BczD1IIN1rJVxlG98%2B0H97WEejzoLoXs08V1mt9llsCpj6TUkUE4aQrVP%2BGt6LTXNs%2F73nw40e9TXihf6RwquSur7nmevUHB0M0uQJGudyHdxRLsr%2FSbP94RdXmNqegrbGdRX1oJvfTXOGG3o%2BVURGBd%2Bt5ks8%2B5y6UB5tQopONfK2Z7NJHvkItuL5hn0kc0g0d%2FA5y7UqhWVF8WK6E%2BWPl0phKffSIE%2BkzEdl%2F%2FgCpkW9YvW7MTKjZUVo%2FgXsVIKV8QTqn%2FaneVqOZFK4%2Bgw5VWW04h3Zl7l%2FxAS7QTKrkCu%2BnY53fjgakAxzEFRf%2BKdLZB24iKptZ0XtOR%2BAUq5ZMBghMu580HpQo%2BWD8E5nRgAI9N9UKd0MKlpXOCsrDJqbHLc6k%2Fmc0GwU2rXiw0n%2BXWvUvdH%2Bw4H%2BRdKYz%2FpkFWqsQMstIraMfoXc4Sw2KiHtupXKPJAp0BQUIDVswe6G1iNNCo8vxA8P5x%2FX9lyqZbbah4egyc4vfrVbg1zYpIaRsHNjQIMJSmCTfkDSplkRkqZRgHuneaPPMlalDSudKBWcM3UMl06YGk4yrS26BMWOunMFHBXlZlWCgswjA%2B8p9lfAn4dVjaBlUlmdq7jFW6uWcHMgUF88aALEPMPbep8gIFr1XTQabYbENMIuoGzeOy0l4G86oP9e3tXdA5Xa4kfepF1lbne6PO5Fjsck3MZS2VL9Exs%2FVBns9RdBVmYY2OZcw1zZT6tR1YWH00WSQOffE%2BqtcUl1KejlxR00l5bhpI88P%2FNkOGcjbgz2nDB48F926gGb4hkhPTv5526dkk9jZWFDf8dI1XyJ4S0MlIX4iiQW%2BJOyIcZ3LP7pDXEvmwKikITsPMC2HLJ2GAHUftK7qL3eCP%2BAALxfesyzq5vO2xhZ1o%2FajFoagShecEmpf517pwNRMbleCkpHs11mjgICQwKr63req36RrY7ITuxO2k%2B%2B7Are4b2eRDFrQ4ApuGHkNhvaKumDSUpFFtkj7I6txSlES%2Bzm6k25aEjRF85JnHpYNAdpTA3LgsfWVRiDM25tiobPY66INHQ7GO%2FNPFslVG6Wv2CDXeZGtWpXVkI%2BDXGhClnLx7SLqX5Dw74Iqzejco2aJzWFEpoIpwoS9VKN8ROYdyuXQrVY6LT%2BjMIKyqPGdhEb0Z1OLvosKptV11CvrbtuDXBeWvkKeAHoSjfNtIvjYJ%2BlB%2FBjHkP8vOr%2FVUW6D2aCk5wxkR2f%2FeosTyTDyEL2X2okEqA%2BDmqg%2FIhTXoe7VNk%2F1rDyd%2Bag6B0iMmKmqVOlYeejvNTEx5gyEy5zIhA8tYO2XsD8s4V7M8kPpg3sykZw%3D%3D&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=l6uaLTa1eQPlG%2Bsp%2B5bUB1BH%2FuRSOJgndR%2Fmrc9zMINpk9VH4g%2Fjx7ENbW5MLb%2FlyYzoVX0Z8U7wdc%2FkM7gM0HbyLMuQ7Z7zVwgY8o7L%2BJia99whDMLq1LREj74ONeTm4YAyXg%2BM%2BlbNpJVntDdFtstrpHAjApsXhkhCH11BA5mQbJ0RK8XwT177VzYeLnBFynPK%2BKXdABg6bSF%2BQ6xlcVGE4axTsfBm1l6WxIrC6TMHkgKYtl9DKdYn5Dg86AXBxlUnYB2HQKyxL8GHTB%2FcBNNtkPmhhXgUgdG1ENFjxzrNFsVOHp9bN8LkSsm3Om8RtAYGhjf7f7XpgB0My5ai9g8BygjJDbALvdkC7kqAulVPoq2ILOksMTAS0tyfAvYrNEdM1Ccs6mOIW87tOjtrDkeyjtoTgMn9azm8mq0guOm%2BJwCf%2BSihsfOGJ4g0xX%2BwOhSt9GBTSxW1kFd2rrFmcWCtAYMn3OR4vlBtbiPk6WOhAM3SC0B6m0sTMHV8Ci%2BGJfbL50x7jW9XCK4vG%2F%2Fvtx%2BNjN%2FFySHbMvkP3LSOUn%2F%2BtxSeMZfjJMMejliP%2BcR8OSPnYg9qOlfdBqyKgiYbZHM%2BDd8kTFC1az53AvN4M5C5Vxg7LgE0f3JwgQRRAEHKzDp0WPAo%2BQkyKIGOpTvfyuh8r2MFt1HeSBhDIviJckfl0y2LDQuODX3WpLtrlCDJhKcjuCvRQYGbu6zy2fjyG%2FL3bdw94Wrb5gAoM4CZF3utuxA0BtzQogDRxLX4sTcdz%2B7It9Bvjn8eQq8ZD77AdxMQBpR2McgaodBuf6fz8y%2FFZ%2B5oUUr0tOamfxpA27QY%2FU3ijxGPa2unAU2sFDvEtce8syBh9Z1gLZASGjlQViKU7o51avFHqX0rYQCYrF%2BOmjqdTDzEs9m%2BtXTn37pus%2BJofpELgPooeJtYYvYXplWlwTMR0Uzgn1XX%2FpT4HBQULGsBBK2%2BvhYAgwbI9XjLkYNVv%2FZLbjy8D9K1xhGIcMcfScZVD9PWnUIt%2BjEtkWd58zw0nOVWKVMTBOglV1s2jCZlcug0a7INkEfqCTuvGswRzb%2F07bZs0uehRjyOmtdzRD3KoX1AuH1wna87fcCu2008vUa1J1aFKuNs9Ch8tS9UhXzckrTHhu3ZSmHS11gHTrrQ8TMDjXfmxBw2TqAGCYCjV5%2FSSogsCc%2F%2BgRivkHMxfQbfDPl8Y7VtXTPYJwcTeStl9SoM%2BDiCrVYMuMAusGB3YMj1rpKr%2FBMv2pCIvZdi0Q35Pzj56DeqeLXRcr2y0YADzagogkDyn1V2ixbL8YXH7XuoCVGhB8%2Fr7ZR51yhroUIezB6Ph7QMLpRdRiii0lbFIqDlGdZv8vFrNt%2BvAN90K4hD5MJSrUh%2Fh4kZmUY3beQ3DfmNfEeP%2FQNzam4J&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=l6uaLTa1eQPlG%2Bsp%2B5bUB1BH%2FuRSOJgndR%2Fmrc9zMINpk9VH4g%2Fjx7ENbW5MLb%2FlyYzoVX0Z8U7wdc%2FkM7gM0HbyLMuQ7Z7zVwgY8o7L%2BJia99whDMLq1LREj74ONeTm4YAyXg%2BM%2BlbNpJVntDdFtstrpHAjApsXhkhCH11BA5mQbJ0RK8XwT177VzYeLnBFynPK%2BKXdABg6bSF%2BQ6xlcVGE4axTsfBm1l6WxIrC6TMHkgKYtl9DKdYn5Dg86AXBxlUnYB2HQKyxL8GHTB%2FcBNNtkPmhhXgUgdG1ENFjxzrNFsVOHp9bN8LkSsm3Om8RtAYGhjf7f7XpgB0My5ai9g8BygjJDbALvdkC7kqAulVPoq2ILOksMTAS0tyfAvYrNEdM1Ccs6mOIW87tOjtrDkeyjtoTgMn9azm8mq0guOm%2BJwCf%2BSihsfOGJ4g0xX%2BwOhSt9GBTSxW1kFd2rrFmcWCtAYMn3OR4vlBtbiPk6WOhAM3SC0B6m0sTMHV8Ci%2BGJfbL50x7jW9XCK4vG%2F%2Fvtx%2BNjN%2FFySHbMvkP3LSOUn%2F%2BtxSeMZfjJMMejliP%2BcR8OSPnYg9qOlfdBqyKgiYbZHM%2BDd8kTFC1az53AvN4M5C5Vxg7LgE0f3JwgQRRAEHKzDp0WPAo%2BQkyKIGOpTvfyuh8r2MFt1HeSBhDIviJckfl0y2LDQuODX3WpLtrlCDJhKcjuCvRQYGbu6zy2fjyG%2FL3bdw94Wrb5gAoM4CZF3utuxA0BtzQogDRxLX4sTcdz%2B7It9Bvjn8eQq8ZD77AdxMQBpR2McgaodBuf6fz8y%2FFZ%2B5oUUr0tOamfxpA27QY%2FU3ijxGPa2unAU2sFDvEtce8syBh9Z1gLZASGjlQViKU7o51avFHqX0rYQCYrF%2BOmjqdTDzEs9m%2BtXTn37pus%2BJofpELgPooeJtYYvYXplWlwTMR0Uzgn1XX%2FpT4HBQULGsBBK2%2BvhYAgwbI9XjLkYNVv%2FZLbjy8D9K1xhGIcMcfScZVD9PWnUIt%2BjEtkWd58zw0nOVWKVMTBOglV1s2jCZlcug0a7INkEfqCTuvGswRzb%2F07bZs0uehRjyOmtdzRD3KoX1AuH1wna87fcCu2008vUa1J1aFKuNs9Ch8tS9UhXzckrTHhu3ZSmHS11gHTrrQ8TMDjXfmxBw2TqAGCYCjV5%2FSSogsCc%2F%2BgRivkHMxfQbfDPl8Y7VtXTPYJwcTeStl9SoM%2BDiCrVYMuMAusGB3YMj1rpKr%2FBMv2pCIvZdi0Q35Pzj56DeqeLXRcr2y0YADzagogkDyn1V2ixbL8YXH7XuoCVGhB8%2Fr7ZR51yhroUIezB6Ph7QMLpRdRiii0lbFIqDlGdZv8vFrNt%2BvAN90K4hD5MJSrUh%2Fh4kZmUY3beQ3DfmNfEeP%2FQNzam4J&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=jRM2wDBbz9vjDdpbBKbPg7sPfEkCgOCr9U1WG4nfFBlNSChuHYpK3z%2B%2FXZPtKyh9STTLS3qITgPWjqz%2BeH2AWk4sWIyyXJOdONNBzKIaOWuLklLLnZtqE%2F0H0YH73NuYWS21o3zNEqdta2hsjCfz0AYp9W0QiIG391v3L6BVPrQyV3rjdysEdvzQNREtgQg7iNOGR8iMYDp3A3E%2FMItEWaygF0c8JFuoFm3nBeCbGR6FQJtPb%2FC44vlm%2BReKL4f7M2rmoc6UJsfv5vrAkNGnWSlah0pStzTTNB8PeMwuyiMMnZ%2BmhvcMN%2FNP%2BJ12Bzdx0FN%2BmfjNH5FlA5ML0IW7%2FDMCsUYjA0MYtzjKhOOYP4W4Q3G5UpNwbz3apkZBJY9g%2FPgfI2rLeVSt%2BXUzsB9ehsVMrVxmVrEPZDfltRxTrFhdr4trlekCIw9fLjC6rf3vTuNeTZdkM2g%2BBGlhyLKhjjFZwm136DV654oMhTzNHFAZo8f93MHyRrLU%2BNFYbg7p%2BiCYaBKutuQPw%2BI7Cjyo1uuqQFHIgDRDiyBx8Tbj8VT4F74DOXrNRhwpTIyrEaKOjsk5MXyFXP7PMnY3VZd40H9IHnGrDeRdebQYDEQWizjovyHQ2B8rEhtPR%2F2hSAcB0RNHikcrlDIJaV%2B%2BUJSzE9AL1wPM83ePPRES6npccKIOEcajnEmepWIH2veNQ2SG%2B9wqPsmZdg4Q5uOXy0kVmkmOYreD%2Fc0Je4SXicjsR%2BUrzK3oXh%2BURLM1vqravdTUXdF%2BE7JJD1b2qBnOxOiUhNSnvYM2XeqsH0UKd3ut9wrjWbxJUqB3BRAkrF%2FRHdi%2BmNUp9x19dyBguwlaY4kXABGj6smQte8nKCIvXRcxYsFtR8ALlzDxZhHcFbcSOTW2t1Mjw9hflsvfC0WP6A8TcCTNsukmoPYH6QFjI6jVEY3oIxsT2JKf1JntKXalcu0ca%2BjGQXs1GZ7heYucHpfZxn1oquZiIJd4HffyYYb1L4iCI45CoRQJYcbEKMAWsOZogXrlYy%2BQd%2Fj81GtUBdf%2FxXbmFzQLs8dS2hXpnzNfa8ivg%2Fxi3oP%2FPEON8oVx%2Br36DfY82s8i4StRgbYix6ltNgPJQRVn2qq2zA%2B0apjlaZQs4YIRswooRS522Rdc4rylB3Dwu%2BcZSbzBtvvG8UM2kk14blKLu4GpTZzDGFIRGTo43kr103cbU4w6L%2FeWjuaRC%2F2oFIpYDGWz9R6SQRNtmLniiXFoCs6xRLvRa0EO839bUP8FoA1I1JoCte5qMAWrivHCzdm7ErgMlDIpP3ZK0VnLdjlfdTfd7uDwhEQTeVMASMshrdDNUEC1tFodEpdQQmQZPCfXXoPDHCuFVIzUoNdqxJ7qfumNfMpi5hcOADgO%2BguWAHMlfVuvebVDwlq43M44jbwmglCJWyq%2F5xssaA65YDKxFmXRXJX3sNJOMYE%3D&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=jRM2wDBbz9vjDdpbBKbPg7sPfEkCgOCr9U1WG4nfFBlNSChuHYpK3z%2B%2FXZPtKyh9STTLS3qITgPWjqz%2BeH2AWk4sWIyyXJOdONNBzKIaOWuLklLLnZtqE%2F0H0YH73NuYWS21o3zNEqdta2hsjCfz0AYp9W0QiIG391v3L6BVPrQyV3rjdysEdvzQNREtgQg7iNOGR8iMYDp3A3E%2FMItEWaygF0c8JFuoFm3nBeCbGR6FQJtPb%2FC44vlm%2BReKL4f7M2rmoc6UJsfv5vrAkNGnWSlah0pStzTTNB8PeMwuyiMMnZ%2BmhvcMN%2FNP%2BJ12Bzdx0FN%2BmfjNH5FlA5ML0IW7%2FDMCsUYjA0MYtzjKhOOYP4W4Q3G5UpNwbz3apkZBJY9g%2FPgfI2rLeVSt%2BXUzsB9ehsVMrVxmVrEPZDfltRxTrFhdr4trlekCIw9fLjC6rf3vTuNeTZdkM2g%2BBGlhyLKhjjFZwm136DV654oMhTzNHFAZo8f93MHyRrLU%2BNFYbg7p%2BiCYaBKutuQPw%2BI7Cjyo1uuqQFHIgDRDiyBx8Tbj8VT4F74DOXrNRhwpTIyrEaKOjsk5MXyFXP7PMnY3VZd40H9IHnGrDeRdebQYDEQWizjovyHQ2B8rEhtPR%2F2hSAcB0RNHikcrlDIJaV%2B%2BUJSzE9AL1wPM83ePPRES6npccKIOEcajnEmepWIH2veNQ2SG%2B9wqPsmZdg4Q5uOXy0kVmkmOYreD%2Fc0Je4SXicjsR%2BUrzK3oXh%2BURLM1vqravdTUXdF%2BE7JJD1b2qBnOxOiUhNSnvYM2XeqsH0UKd3ut9wrjWbxJUqB3BRAkrF%2FRHdi%2BmNUp9x19dyBguwlaY4kXABGj6smQte8nKCIvXRcxYsFtR8ALlzDxZhHcFbcSOTW2t1Mjw9hflsvfC0WP6A8TcCTNsukmoPYH6QFjI6jVEY3oIxsT2JKf1JntKXalcu0ca%2BjGQXs1GZ7heYucHpfZxn1oquZiIJd4HffyYYb1L4iCI45CoRQJYcbEKMAWsOZogXrlYy%2BQd%2Fj81GtUBdf%2FxXbmFzQLs8dS2hXpnzNfa8ivg%2Fxi3oP%2FPEON8oVx%2Br36DfY82s8i4StRgbYix6ltNgPJQRVn2qq2zA%2B0apjlaZQs4YIRswooRS522Rdc4rylB3Dwu%2BcZSbzBtvvG8UM2kk14blKLu4GpTZzDGFIRGTo43kr103cbU4w6L%2FeWjuaRC%2F2oFIpYDGWz9R6SQRNtmLniiXFoCs6xRLvRa0EO839bUP8FoA1I1JoCte5qMAWrivHCzdm7ErgMlDIpP3ZK0VnLdjlfdTfd7uDwhEQTeVMASMshrdDNUEC1tFodEpdQQmQZPCfXXoPDHCuFVIzUoNdqxJ7qfumNfMpi5hcOADgO%2BguWAHMlfVuvebVDwlq43M44jbwmglCJWyq%2F5xssaA65YDKxFmXRXJX3sNJOMYE%3D&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=ZeBp88rFtiBXGxAJ4b7jRjSadFCO8PGMy%2BQ%2BUxxM7gO2B3P8K9h8VRu3JDHGxFLZGM7LERdfaYzSgEQyxXPHb2Y5GqbsmIFAE4cs6Y4h259pdM1tXypjgaOT3%2FRYGXIG72UXovJRM0dPZYBdW7CWriRo9MA%2Ff2DS7UiYrkWmul%2B0W7Wl7BWNlhLYFvEeRRLVbf2k9TnXzZFrelbU2REv4nXtKlWd1gVRYfcvy34W8SamxtgIOmI3XbKrswfe3GOTzU2HaEt%2FNpFHYGadiC6TAFEUw8SpATQ9rddblYl7IUsfTD9h05T2vJrDv%2FhCOL0IFZSZkwjO96dHCTLGl8NEo2Cdr%2BXpySGrE2i0U1y%2F%2FjF1kOQzJuPDgDTkD0LREXq%2FwgMNAQwk1VdDIP61m0lnAcp7OnRFFLf29bP3TBVyIVC6TBblCKxG1sawHEDQfnUhBJ1QcYWMcbZ2FgcBiqFGbwRIzpObFk4ZYK4un710n0ungx6NU7WKJvyRe0xqCqT7gF6MpOp5Yr7PCuBSsVv1sQNBtxYL55ZBoX%2FycjaxuCdm39kw594MKAcefdxsNRxRD3H63UABjw1ZhNFdEJ005IqWoBmhlfp3Qgpc2EwOSUUyAF7KFhKfXmbP55eYwTj3mUKflsmqZoGJfZX6xTgnMcpsNSwSGrPPhVLVBPRpTENJ28atNirpIQpyTo5X0%2BIrC%2FkeX4S1xxfcPr6L9MpQw88g8B8b5%2BMz%2FbLbV1lpvF1IVVkldwBCgIlS0NZYC0iZ0VlCoEjsTfxTAsgnH9cyBE%2BTk6J9p8gaBJ0Wqli4dCUA9TGqKginPqClOHO3rArf5Ljseab%2BKL4SHc5zKYpG5MPmc4rRh5y6Kp3iWniuPbwjPMYnMaWg%2BsCHFw2IdCshXnFJZwxCLUPyn%2FiNNUsZE1gmH4Ao3Kyp%2FZhc0M3793IUZS%2Fj8MZI0zvUW1SwZBan1TXFjMchIf6nzeodeFAGaAHjpvqcC1TNIqtNM3CngXFueDxDTo21xDFfehkyfP1AZY7T2RvmfCIQTE0Tx0UHEheD8%2FHGtAYS%2F4gZuf0rf%2FNUgJ5BJ50dD0%2FibNfNR%2FWDXZTKBH%2FT%2BvyAzGx5w327xyMRJbOeZ47QOEVAZA%2Fe7y5VbTH7q3dsRQ92%2FODn%2FZ3VU33GQvaZ%2FDQ%2FdAvZNOcwrRoRi%2BswKt69Z19yms4zlRwasa6LjeYRJ%2FZ9hQlDWajbE%2BmlvJMjOZp1ORncRpMtSpK60VVakaiIW1NpOYYMcjJYt3Z2de%2FGZQnNs6FBoXihgTS3O0kgqSjLn8NigdwOw9NHzLzc1GgJ2vtw%2B4f4ox44QF1HAqfJ99O1JB2DXVDtOMKifoJnnlD%2BkHl9RftXwWxnPDeoFyVE2SziboEyeau0%2Fi2CG9l9Aq4Qd5Y43kuj&s2s=1"
+  },
+  {
+    "text": "",
+    "url": "https://trends.revcontent.com/click.php?d=ZeBp88rFtiBXGxAJ4b7jRjSadFCO8PGMy%2BQ%2BUxxM7gO2B3P8K9h8VRu3JDHGxFLZGM7LERdfaYzSgEQyxXPHb2Y5GqbsmIFAE4cs6Y4h259pdM1tXypjgaOT3%2FRYGXIG72UXovJRM0dPZYBdW7CWriRo9MA%2Ff2DS7UiYrkWmul%2B0W7Wl7BWNlhLYFvEeRRLVbf2k9TnXzZFrelbU2REv4nXtKlWd1gVRYfcvy34W8SamxtgIOmI3XbKrswfe3GOTzU2HaEt%2FNpFHYGadiC6TAFEUw8SpATQ9rddblYl7IUsfTD9h05T2vJrDv%2FhCOL0IFZSZkwjO96dHCTLGl8NEo2Cdr%2BXpySGrE2i0U1y%2F%2FjF1kOQzJuPDgDTkD0LREXq%2FwgMNAQwk1VdDIP61m0lnAcp7OnRFFLf29bP3TBVyIVC6TBblCKxG1sawHEDQfnUhBJ1QcYWMcbZ2FgcBiqFGbwRIzpObFk4ZYK4un710n0ungx6NU7WKJvyRe0xqCqT7gF6MpOp5Yr7PCuBSsVv1sQNBtxYL55ZBoX%2FycjaxuCdm39kw594MKAcefdxsNRxRD3H63UABjw1ZhNFdEJ005IqWoBmhlfp3Qgpc2EwOSUUyAF7KFhKfXmbP55eYwTj3mUKflsmqZoGJfZX6xTgnMcpsNSwSGrPPhVLVBPRpTENJ28atNirpIQpyTo5X0%2BIrC%2FkeX4S1xxfcPr6L9MpQw88g8B8b5%2BMz%2FbLbV1lpvF1IVVkldwBCgIlS0NZYC0iZ0VlCoEjsTfxTAsgnH9cyBE%2BTk6J9p8gaBJ0Wqli4dCUA9TGqKginPqClOHO3rArf5Ljseab%2BKL4SHc5zKYpG5MPmc4rRh5y6Kp3iWniuPbwjPMYnMaWg%2BsCHFw2IdCshXnFJZwxCLUPyn%2FiNNUsZE1gmH4Ao3Kyp%2FZhc0M3793IUZS%2Fj8MZI0zvUW1SwZBan1TXFjMchIf6nzeodeFAGaAHjpvqcC1TNIqtNM3CngXFueDxDTo21xDFfehkyfP1AZY7T2RvmfCIQTE0Tx0UHEheD8%2FHGtAYS%2F4gZuf0rf%2FNUgJ5BJ50dD0%2FibNfNR%2FWDXZTKBH%2FT%2BvyAzGx5w327xyMRJbOeZ47QOEVAZA%2Fe7y5VbTH7q3dsRQ92%2FODn%2FZ3VU33GQvaZ%2FDQ%2FdAvZNOcwrRoRi%2BswKt69Z19yms4zlRwasa6LjeYRJ%2FZ9hQlDWajbE%2BmlvJMjOZp1ORncRpMtSpK60VVakaiIW1NpOYYMcjJYt3Z2de%2FGZQnNs6FBoXihgTS3O0kgqSjLn8NigdwOw9NHzLzc1GgJ2vtw%2B4f4ox44QF1HAqfJ99O1JB2DXVDtOMKifoJnnlD%2BkHl9RftXwWxnPDeoFyVE2SziboEyeau0%2Fi2CG9l9Aq4Qd5Y43kuj&s2s=1"
+  },
+  {
+    "text": "Revcontent's Privacy Policy",
+    "url": "https://help.revcontent.com/en/knowledge/revcontent-privacy-policy"
+  },
+  {
+    "text": "Increase Your Engagement Now!",
+    "url": "https://www.revcontent.com/popup?utm_source=ads&utm_medium=organic&utm_term=signup"
+  },
+  {
+    "text": "Submit a Report",
+    "url": "https://help.revcontent.com/en/knowledge/fake-news-complaints"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/41NBC"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/41nbc"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/41nbc/"
+  },
+  {
+    "text": "",
+    "url": "/news/video/live/"
+  },
+  {
+    "text": "Share It",
+    "url": "/news/news-tips"
+  },
+  {
+    "text": "NEWS App",
+    "url": "/mobile-apps/"
+  },
+  {
+    "text": "WEATHER App",
+    "url": "/accuweather-app/"
+  },
+  {
+    "text": "41NBC Email Sign Up",
+    "url": "/newsletter/"
+  },
+  {
+    "text": "Closed Captioning",
+    "url": "/aboutus/closed-captioning/"
+  },
+  {
+    "text": "EEO Reports",
+    "url": "/content/uploads/2021/11/n/b/EEO-annrep-2021.pdf"
+  },
+  {
+    "text": "FCC",
+    "url": "/fcc/"
+  },
+  {
+    "text": "Public Inspection File",
+    "url": "https://publicfiles.fcc.gov/tv-profile/WMGT-TV"
+  },
+  {
+    "text": "About Us",
+    "url": "https://www.41nbc.com/aboutus/"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://www.41nbc.com/contact-us/"
+  },
+  {
+    "text": "Advertise",
+    "url": "https://www.41nbc.com/aboutus/advertising/"
+  },
+  {
+    "text": "News Team",
+    "url": "https://www.41nbc.com/contact-us/news-department/"
+  },
+  {
+    "text": "Mobile Apps",
+    "url": "https://www.41nbc.com/mobile-apps/"
+  },
+  {
+    "text": "Email Newsletter",
+    "url": "https://www.41nbc.com/newsletter/"
+  },
+  {
+    "text": "Public Files",
+    "url": "https://publicfiles.fcc.gov/tv-profile/wmgt-tv"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.41nbc.com/aboutus/jobs-at-41-nbc/"
+  },
+  {
+    "text": "RSS",
+    "url": "/feed"
+  },
+  {
+    "text": "Local News",
+    "url": "https://www.41nbc.com/local-news/"
+  },
+  {
+    "text": "Elections",
+    "url": "https://www.41nbc.com/elections/"
+  },
+  {
+    "text": "Across Georgia",
+    "url": "https://www.41nbc.com/georgia-news/"
+  },
+  {
+    "text": "Across the Nation",
+    "url": "https://www.41nbc.com/us-world-news/national-news/"
+  },
+  {
+    "text": "Around the World",
+    "url": "https://www.41nbc.com/around-the-world/"
+  },
+  {
+    "text": "Community",
+    "url": "#"
+  },
+  {
+    "text": "Local Event Calendar",
+    "url": "https://www.41nbc.com/local-events/"
+  },
+  {
+    "text": "Media Partnerships",
+    "url": "https://chartlocal.com/"
+  },
+  {
+    "text": "41 Days of Christmas 2021",
+    "url": "https://www.41nbc.com/christmas/"
+  },
+  {
+    "text": "Viewers Choice Awards 2020",
+    "url": "https://www.41nbc.com/awards2020/"
+  },
+  {
+    "text": "Mom to Mom",
+    "url": "https://www.41nbc.com/mom-to-mom/"
+  },
+  {
+    "text": "Healthcare Heroes",
+    "url": "https://www.41nbc.com/hero/"
+  },
+  {
+    "text": "Restaurant Report Card",
+    "url": "https://www.41nbc.com/rrc/"
+  },
+  {
+    "text": "Gas Price Tracker",
+    "url": "https://www.41nbc.com/gas-price-tracker/"
+  },
+  {
+    "text": "Tech Byte",
+    "url": "https://www.41nbc.com/tech-byte/"
+  },
+  {
+    "text": "Accuweather Forecast",
+    "url": "https://www.41nbc.com/forecast/"
+  },
+  {
+    "text": "41NBC AccuWeather Radar",
+    "url": "https://www.41nbc.com/stormcenter/radar/"
+  },
+  {
+    "text": "Storm Center",
+    "url": "https://www.41nbc.com/stormcenter/"
+  },
+  {
+    "text": "Skyview Cameras",
+    "url": "https://www.41nbc.com/41skyview/"
+  },
+  {
+    "text": "Sports",
+    "url": "#"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.41nbc.com/sports/"
+  },
+  {
+    "text": "End Zone",
+    "url": "https://www.41nbc.com/endzone/"
+  },
+  {
+    "text": "Local Sports",
+    "url": "https://www.41nbc.com/local-sports/"
+  },
+  {
+    "text": "Motorsports",
+    "url": "https://www.41nbc.com/motorsports/"
+  },
+  {
+    "text": "AP Racing News",
+    "url": "https://racing.ap.org/41nbc"
+  },
+  {
+    "text": "",
+    "url": "https://chartlocal.com/"
+  }
+]

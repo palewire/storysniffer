@@ -1,0 +1,802 @@
+[
+  {
+    "text": "Skip Navigation",
+    "url": "#main"
+  },
+  {
+    "text": "\n                \n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                                        News\n                            ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Local\n                                                        ",
+    "url": "/local"
+  },
+  {
+    "text": "\n                                                                    Vote 2022 Texas\n                                                        ",
+    "url": "/PlanYourVote"
+  },
+  {
+    "text": "\n                                                                    Sports\n                                                        ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                                                                    Power City\n                                                        ",
+    "url": "/power-city"
+  },
+  {
+    "text": "\n                                                                    Texas\n                                                        ",
+    "url": "/texas"
+  },
+  {
+    "text": "\n                                                                    Politics\n                                                        ",
+    "url": "/politics"
+  },
+  {
+    "text": "\n                                                                    Nation World\n                                                        ",
+    "url": "/nation-world"
+  },
+  {
+    "text": "\n                                                                    Entertainment\n                                                        ",
+    "url": "/entertainment"
+  },
+  {
+    "text": "\n                                                                    Investigations\n                                                        ",
+    "url": "/investigations"
+  },
+  {
+    "text": "\n                                                                    Health\n                                                        ",
+    "url": "/health"
+  },
+  {
+    "text": "\n                                                                    VERIFY\n                                                        ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/video/news/crime/icymi-jury-sentences-beaumont-man-to-28-years-in-prison/502-1c2d68be-1709-40eb-a078-751f265f608c"
+  },
+  {
+    "text": "I.C.Y.M.I | Jury sentences Beaumont man to 28 years in prison",
+    "url": "https://www.12newsnow.com/video/news/crime/icymi-jury-sentences-beaumont-man-to-28-years-in-prison/502-1c2d68be-1709-40eb-a078-751f265f608c"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "Southeast Texas school districts struggling amid teacher shortage ahead of the 2022-23 school year",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "\n                                        Weather\n                            ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Forecast\n                                                        ",
+    "url": "/forecast"
+  },
+  {
+    "text": "\n                                                                    Radar\n                                                        ",
+    "url": "/radar"
+  },
+  {
+    "text": "\n                                                                    Hurricane Headquarters\n                                                        ",
+    "url": "/hurricane"
+  },
+  {
+    "text": "\n                                                                    Skycam Network\n                                                        ",
+    "url": "/skycams"
+  },
+  {
+    "text": "\n                                                                    10-Day\n                                                        ",
+    "url": "/10-day"
+  },
+  {
+    "text": "\n                                                                    Hourly\n                                                        ",
+    "url": "/hourly"
+  },
+  {
+    "text": "\n                                                                    Maps\n                                                        ",
+    "url": "/weather-maps"
+  },
+  {
+    "text": "\n                                                                    Traffic\n                                                        ",
+    "url": "/traffic"
+  },
+  {
+    "text": "\n                                                                    Gas Prices\n                                                        ",
+    "url": "/gas-prices"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "Scattered showers/storms Saturday in SE Texas, lower chances Sunday",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/nation-world/appalachian-floods/507-5cc50ced-d238-465c-a73d-99e8986b3d1c"
+  },
+  {
+    "text": "Entire communities wiped out by massive Appalachian floods",
+    "url": "https://www.12newsnow.com/article/news/nation-world/appalachian-floods/507-5cc50ced-d238-465c-a73d-99e8986b3d1c"
+  },
+  {
+    "text": "\n                                        Near Me\n                            ",
+    "url": "/near-me"
+  },
+  {
+    "text": "\n                                        VERIFY\n                            ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n        Watch Live\n    ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n        \n        \n            ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n                            Search\n                        ",
+    "url": "/search"
+  },
+  {
+    "text": "\n                    \n                        \n                            Right Now\n                            Beaumont, TX\u00a0\u00bb\n                        \n                        \n                            \n                                77\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Beaumont, TX\u00a0\u00bb\n                        \n                    \n                ",
+    "url": "/weather"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather/alerts"
+  },
+  {
+    "text": "Closings",
+    "url": "/closings"
+  },
+  {
+    "text": "Money May",
+    "url": "/money"
+  },
+  {
+    "text": "Vote 2022 Texas",
+    "url": "/planyourvote"
+  },
+  {
+    "text": "Hurricane Headquarters",
+    "url": "/hurricane"
+  },
+  {
+    "text": "Advertise With Us",
+    "url": "/advertise"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/coronavirus-covid-19"
+  },
+  {
+    "text": "Contests",
+    "url": "/contests"
+  },
+  {
+    "text": "VERIFY",
+    "url": "/verify"
+  },
+  {
+    "text": "Kennick's Community",
+    "url": "https://12newsnow.com/kennickscommunity"
+  },
+  {
+    "text": "Power City",
+    "url": "/power-city"
+  },
+  {
+    "text": "Ask the Judge",
+    "url": "/ask-the-judge"
+  },
+  {
+    "text": "At the Border",
+    "url": "/attheborder"
+  },
+  {
+    "text": "The Beat",
+    "url": "/thebeat"
+  },
+  {
+    "text": "On-air TV Schedule",
+    "url": "https://www.12newsnow.com/tv-listings"
+  },
+  {
+    "text": "Olympics",
+    "url": "/olympics"
+  },
+  {
+    "text": "\n                            \n                            Read More \u00bb\n                        ",
+    "url": "#"
+  },
+  {
+    "text": "More (-1) \u00bb",
+    "url": "/breaking-news"
+  },
+  {
+    "text": "\n                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                    ",
+    "url": "https://www.12newsnow.com/article/traffic/two-port-arthur-police-officers-injured-after-friday-night-crash/502-702b172b-acd9-45b2-96df-694e97b4c744"
+  },
+  {
+    "text": "\n                Two Port Arthur Police officers injured after Friday night two-vehicle crash involving police unit\n                    At the time, it is unknown what led to the crash or what charges if any those involved may face.\n            ",
+    "url": "https://www.12newsnow.com/article/traffic/two-port-arthur-police-officers-injured-after-friday-night-crash/502-702b172b-acd9-45b2-96df-694e97b4c744"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/crime/trial-for-brenika-lott-accused-of-beating-5-year-old-daviana-landry-to-death-in-2020-orange-texas/502-804da683-c6c5-4629-a266-002018fe1040"
+  },
+  {
+    "text": "'My baby did not deserve that' | Family of 5-year-old girl who was beaten to death in 2020 relieved justice was served",
+    "url": "https://www.12newsnow.com/article/news/crime/trial-for-brenika-lott-accused-of-beating-5-year-old-daviana-landry-to-death-in-2020-orange-texas/502-804da683-c6c5-4629-a266-002018fe1040"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "3 Moore Reasons | Mauriceville Heritage Association planning benefit for family of 3 boys who were injured in Wednesday morning crash",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "'She is our hero' | Final Uvalde patient discharged from San Antonio hospital",
+    "url": "https://www.12newsnow.com/article/news/special-reports/uvalde-school-shooting/mayah-zamora-final-uvalde-school-shooting-patient-discharged-hospital/273-014acd8a-1cae-4bd4-a961-88b1a5ecf334"
+  },
+  {
+    "text": "Southeast Texas school districts struggling amid teacher shortage ahead of the 2022-23 school year",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "Family concerned about missing man who requires daily medication, Port Arthur Police say",
+    "url": "https://www.12newsnow.com/article/news/local/family-concerned-about-missing-man-who-requires-daily-medication-port-arthur-police/502-c2a5795a-13c4-445e-b22e-2fb385aa5ac8"
+  },
+  {
+    "text": "First responders hope new state-of-the-art ambulances will solve Jasper County's 'EMS crisis'",
+    "url": "https://www.12newsnow.com/article/news/local/first-responders-hope-new-ambulances-will-solve-jasper-countys-ems-crisis/502-d9353a81-4f36-4e13-9ad4-cbac4aa2099c"
+  },
+  {
+    "text": "Mega Millions | What Southeast Texans would do if they won the $1.28B",
+    "url": "https://www.12newsnow.com/article/news/lottery/what-southeast-texans-would-do-if-they-won-the-182b/502-582db53d-f9aa-4437-962d-0082c28fc0e2"
+  },
+  {
+    "text": "Man accused of kidnapping 15-year-old girl out of Liberty County arrested in Colorado",
+    "url": "https://www.12newsnow.com/article/news/crime/man-accused-of-kidnapping-15-year-old-girl-from-liberty-county-arrested-in-colorado/502-8ce5c965-0fea-4751-b9ad-e7fd7a07d597"
+  },
+  {
+    "text": "Beto O\u2019Rourke taking his 'Drive for Texas' gubernatorial campaign to Southeast Texas",
+    "url": "https://www.12newsnow.com/article/news/local/beto-orourke-gubernatorial-campaign-to-southeast-texas/502-a30194ca-82c6-4f3f-b931-cfa38d1175ea"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/special-reports/uvalde-school-shooting/supporting-the-uvalde-community/287-cd4f0640-f388-425c-854f-645b88724928"
+  },
+  {
+    "text": "Here's how you can help support the Uvalde community",
+    "url": "https://www.12newsnow.com/article/news/special-reports/uvalde-school-shooting/supporting-the-uvalde-community/287-cd4f0640-f388-425c-854f-645b88724928"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/how-to-customize-the-stories-and-alerts-you-get-from-12news/502-eafd5f64-79fe-49cf-b91c-2a252718c0d1"
+  },
+  {
+    "text": "How to customize the stories and alerts you get from 12News",
+    "url": "https://www.12newsnow.com/article/news/local/how-to-customize-the-stories-and-alerts-you-get-from-12news/502-eafd5f64-79fe-49cf-b91c-2a252718c0d1"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/weather/heres-how-to-get-severe-weather-alerts-via-the-12newsnow-app/502-f655db61-d7a5-42d6-ad60-36b4464fb29f"
+  },
+  {
+    "text": "Here's how to get severe weather alerts via the 12NewsNow App",
+    "url": "https://www.12newsnow.com/article/weather/heres-how-to-get-severe-weather-alerts-via-the-12newsnow-app/502-f655db61-d7a5-42d6-ad60-36b4464fb29f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/life/power-outage-flood-tips/285-49df0f89-6d26-497e-8a43-9ec593b3ab18"
+  },
+  {
+    "text": "How to prepare for, stay safe when the power goes out during a storm",
+    "url": "https://www.12newsnow.com/article/life/power-outage-flood-tips/285-49df0f89-6d26-497e-8a43-9ec593b3ab18"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/georgia-man-handcrafts-21-benches-as-labor-of-love-paying-tribute-to-lives-lost-in-robb-elementary-school-tragedy-uvalde-texas-eastman-angels/273-06bea67a-320e-43d8-96f6-35c1a9008434"
+  },
+  {
+    "text": "'Average Joe' from Georgia handcrafts 21 butterfly benches memorializing victims of school shooting in Uvalde",
+    "url": "https://www.12newsnow.com/article/news/local/georgia-man-handcrafts-21-benches-as-labor-of-love-paying-tribute-to-lives-lost-in-robb-elementary-school-tragedy-uvalde-texas-eastman-angels/273-06bea67a-320e-43d8-96f6-35c1a9008434"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/money/raising-canes-mega-millions/73-03dd14f8-0c10-48cd-b56d-9cf54b2f942b"
+  },
+  {
+    "text": "Raising Cane's founder buys 50,000 Mega Millions lottery tickets",
+    "url": "https://www.12newsnow.com/article/money/raising-canes-mega-millions/73-03dd14f8-0c10-48cd-b56d-9cf54b2f942b"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/texas/texas-agriculture-commissioner-supports-expansion-medical-marijuana/269-f4e13e55-75dd-499c-9b11-dea0ccb8a470"
+  },
+  {
+    "text": "Texas agriculture commissioner pens editorial supporting the expansion of medical marijuana",
+    "url": "https://www.12newsnow.com/article/news/local/texas/texas-agriculture-commissioner-supports-expansion-medical-marijuana/269-f4e13e55-75dd-499c-9b11-dea0ccb8a470"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/flower-known-for-smelling-like-rotting-flesh-blooming-at-san-antonio-zoo-texas-stinky-rotten-rain-forest-sumatra/273-efbd4756-df7f-4b4e-8986-5a099b6df108"
+  },
+  {
+    "text": "Flower known for smelling like rotting flesh blooming at San Antonio Zoo",
+    "url": "https://www.12newsnow.com/article/news/local/flower-known-for-smelling-like-rotting-flesh-blooming-at-san-antonio-zoo-texas-stinky-rotten-rain-forest-sumatra/273-efbd4756-df7f-4b4e-8986-5a099b6df108"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/special-reports/uvalde-school-shooting/supporting-the-uvalde-community/287-cd4f0640-f388-425c-854f-645b88724928"
+  },
+  {
+    "text": "Here's how you can help support the Uvalde community",
+    "url": "https://www.12newsnow.com/article/news/special-reports/uvalde-school-shooting/supporting-the-uvalde-community/287-cd4f0640-f388-425c-854f-645b88724928"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/how-to-customize-the-stories-and-alerts-you-get-from-12news/502-eafd5f64-79fe-49cf-b91c-2a252718c0d1"
+  },
+  {
+    "text": "How to customize the stories and alerts you get from 12News",
+    "url": "https://www.12newsnow.com/article/news/local/how-to-customize-the-stories-and-alerts-you-get-from-12news/502-eafd5f64-79fe-49cf-b91c-2a252718c0d1"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/weather/heres-how-to-get-severe-weather-alerts-via-the-12newsnow-app/502-f655db61-d7a5-42d6-ad60-36b4464fb29f"
+  },
+  {
+    "text": "Here's how to get severe weather alerts via the 12NewsNow App",
+    "url": "https://www.12newsnow.com/article/weather/heres-how-to-get-severe-weather-alerts-via-the-12newsnow-app/502-f655db61-d7a5-42d6-ad60-36b4464fb29f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/life/power-outage-flood-tips/285-49df0f89-6d26-497e-8a43-9ec593b3ab18"
+  },
+  {
+    "text": "How to prepare for, stay safe when the power goes out during a storm",
+    "url": "https://www.12newsnow.com/article/life/power-outage-flood-tips/285-49df0f89-6d26-497e-8a43-9ec593b3ab18"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/georgia-man-handcrafts-21-benches-as-labor-of-love-paying-tribute-to-lives-lost-in-robb-elementary-school-tragedy-uvalde-texas-eastman-angels/273-06bea67a-320e-43d8-96f6-35c1a9008434"
+  },
+  {
+    "text": "'Average Joe' from Georgia handcrafts 21 butterfly benches memorializing victims of school shooting in Uvalde",
+    "url": "https://www.12newsnow.com/article/news/local/georgia-man-handcrafts-21-benches-as-labor-of-love-paying-tribute-to-lives-lost-in-robb-elementary-school-tragedy-uvalde-texas-eastman-angels/273-06bea67a-320e-43d8-96f6-35c1a9008434"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/money/raising-canes-mega-millions/73-03dd14f8-0c10-48cd-b56d-9cf54b2f942b"
+  },
+  {
+    "text": "Raising Cane's founder buys 50,000 Mega Millions lottery tickets",
+    "url": "https://www.12newsnow.com/article/money/raising-canes-mega-millions/73-03dd14f8-0c10-48cd-b56d-9cf54b2f942b"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/texas/texas-agriculture-commissioner-supports-expansion-medical-marijuana/269-f4e13e55-75dd-499c-9b11-dea0ccb8a470"
+  },
+  {
+    "text": "Texas agriculture commissioner pens editorial supporting the expansion of medical marijuana",
+    "url": "https://www.12newsnow.com/article/news/local/texas/texas-agriculture-commissioner-supports-expansion-medical-marijuana/269-f4e13e55-75dd-499c-9b11-dea0ccb8a470"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.12newsnow.com/article/news/local/flower-known-for-smelling-like-rotting-flesh-blooming-at-san-antonio-zoo-texas-stinky-rotten-rain-forest-sumatra/273-efbd4756-df7f-4b4e-8986-5a099b6df108"
+  },
+  {
+    "text": "Flower known for smelling like rotting flesh blooming at San Antonio Zoo",
+    "url": "https://www.12newsnow.com/article/news/local/flower-known-for-smelling-like-rotting-flesh-blooming-at-san-antonio-zoo-texas-stinky-rotten-rain-forest-sumatra/273-efbd4756-df7f-4b4e-8986-5a099b6df108"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/parents-react-impact-inflation-back-school-shopping/502-f420c13b-0974-4372-823d-f7446bab30b9"
+  },
+  {
+    "text": "Southeast Texas parents react to the impact of inflation on back-to-school shopping",
+    "url": "https://www.12newsnow.com/article/news/local/parents-react-impact-inflation-back-school-shopping/502-f420c13b-0974-4372-823d-f7446bab30b9"
+  },
+  {
+    "text": "Several back-to-school events happening around Southeast Texas on Saturday will be giving away free school supplies to help ease the minds and wallets of parents.",
+    "url": "https://www.12newsnow.com/article/news/local/parents-react-impact-inflation-back-school-shopping/502-f420c13b-0974-4372-823d-f7446bab30b9"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "Scattered showers/storms Saturday in SE Texas, lower chances Sunday",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "Scattered showers and thunderstorms nearly everyday in SE Texas through the next ten days",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/parents-react-impact-inflation-back-school-shopping/502-f420c13b-0974-4372-823d-f7446bab30b9"
+  },
+  {
+    "text": "Southeast Texas parents react to the impact of inflation on back-to-school shopping",
+    "url": "https://www.12newsnow.com/article/news/local/parents-react-impact-inflation-back-school-shopping/502-f420c13b-0974-4372-823d-f7446bab30b9"
+  },
+  {
+    "text": "Several back-to-school events happening around Southeast Texas on Saturday will be giving away free school supplies to help ease the minds and wallets of parents.",
+    "url": "https://www.12newsnow.com/article/news/local/parents-react-impact-inflation-back-school-shopping/502-f420c13b-0974-4372-823d-f7446bab30b9"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "Scattered showers/storms Saturday in SE Texas, lower chances Sunday",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "Scattered showers and thunderstorms nearly everyday in SE Texas through the next ten days",
+    "url": "https://www.12newsnow.com/article/weather/forecast/southeast-texas-daily-weather-forecast/502-a734e6be-c1ba-4e24-8598-37e4053039b4"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "text": "\n                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                    ",
+    "url": "https://www.12newsnow.com/article/syndication/heartthreads/10-most-uplifting-videos-2021-heartwarming-heartthreads/507-bbcbe78a-edc1-43c9-b722-80db1e6ab6b7"
+  },
+  {
+    "text": "\n                Most-watched heartwarming moments of the year\n            ",
+    "url": "https://www.12newsnow.com/article/syndication/heartthreads/10-most-uplifting-videos-2021-heartwarming-heartthreads/507-bbcbe78a-edc1-43c9-b722-80db1e6ab6b7"
+  },
+  {
+    "text": "\n                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                    ",
+    "url": "https://www.12newsnow.com/article/syndication/heartthreads/10-most-uplifting-videos-2021-heartwarming-heartthreads/507-bbcbe78a-edc1-43c9-b722-80db1e6ab6b7"
+  },
+  {
+    "text": "\n                Most-watched heartwarming moments of the year\n            ",
+    "url": "https://www.12newsnow.com/article/syndication/heartthreads/10-most-uplifting-videos-2021-heartwarming-heartthreads/507-bbcbe78a-edc1-43c9-b722-80db1e6ab6b7"
+  },
+  {
+    "text": "Did anyone win the Mega Millions prize on Friday?",
+    "url": "https://www.12newsnow.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "House passes semi-automatic gun ban after 18-year lapse",
+    "url": "https://www.12newsnow.com/article/news/nation-world/house-passes-semi-automatic-gun-ban/507-def72706-6c3b-49e4-95c9-12f1920922e4"
+  },
+  {
+    "text": "Entire communities wiped out by massive Appalachian floods",
+    "url": "https://www.12newsnow.com/article/news/nation-world/appalachian-floods/507-5cc50ced-d238-465c-a73d-99e8986b3d1c"
+  },
+  {
+    "text": "When should you get tested for monkeypox?",
+    "url": "https://www.12newsnow.com/article/news/nation-world/how-to-know-when-you-have-monkeypox/507-94a30b0f-1fc3-4bcf-af4a-4db270ed01a7"
+  },
+  {
+    "text": "US rules out summer COVID boosters to focus on fall campaign",
+    "url": "https://www.12newsnow.com/article/news/nation-world/us-covid-booster-shots-fall-2022-focus/507-9afd68ae-86f7-497a-8647-2f2b17041d1a"
+  },
+  {
+    "text": "Shakira could face 8 years in prison, prosecutors in Spain say",
+    "url": "https://www.12newsnow.com/article/news/nation-world/shakira-could-face-eight-years-in-prison-spain-prosecutors-say/507-be350957-6afd-452c-8d60-f9f6a5e23447"
+  },
+  {
+    "text": "Did anyone win the Mega Millions prize on Friday?",
+    "url": "https://www.12newsnow.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "House passes semi-automatic gun ban after 18-year lapse",
+    "url": "https://www.12newsnow.com/article/news/nation-world/house-passes-semi-automatic-gun-ban/507-def72706-6c3b-49e4-95c9-12f1920922e4"
+  },
+  {
+    "text": "Entire communities wiped out by massive Appalachian floods",
+    "url": "https://www.12newsnow.com/article/news/nation-world/appalachian-floods/507-5cc50ced-d238-465c-a73d-99e8986b3d1c"
+  },
+  {
+    "text": "When should you get tested for monkeypox?",
+    "url": "https://www.12newsnow.com/article/news/nation-world/how-to-know-when-you-have-monkeypox/507-94a30b0f-1fc3-4bcf-af4a-4db270ed01a7"
+  },
+  {
+    "text": "US rules out summer COVID boosters to focus on fall campaign",
+    "url": "https://www.12newsnow.com/article/news/nation-world/us-covid-booster-shots-fall-2022-focus/507-9afd68ae-86f7-497a-8647-2f2b17041d1a"
+  },
+  {
+    "text": "Shakira could face 8 years in prison, prosecutors in Spain say",
+    "url": "https://www.12newsnow.com/article/news/nation-world/shakira-could-face-eight-years-in-prison-spain-prosecutors-say/507-be350957-6afd-452c-8d60-f9f6a5e23447"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "Southeast Texas school districts struggling amid teacher shortage ahead of the 2022-23 school year",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "Both the Beaumont and Port Arthur Independent School Districts have more than 200 open positions needing to be filled.",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "3 Moore Reasons | Mauriceville Heritage Association planning benefit for family of 3 boys who were injured in Wednesday morning crash",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "For those who would like to help as soon as possible, an account has been set up at First Financial Bank.",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "Southeast Texas school districts struggling amid teacher shortage ahead of the 2022-23 school year",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "Both the Beaumont and Port Arthur Independent School Districts have more than 200 open positions needing to be filled.",
+    "url": "https://www.12newsnow.com/article/news/local/texas-school-districts-struggling-amid-teacher-shortage-ahead-of-the-2022-23-school-year/502-3818904d-fd7b-4313-8c31-03a6acfdb1c2"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "3 Moore Reasons | Mauriceville Heritage Association planning benefit for family of 3 boys who were injured in Wednesday morning crash",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "For those who would like to help as soon as possible, an account has been set up at First Financial Bank.",
+    "url": "https://www.12newsnow.com/article/news/local/mauriceville-heritage-association-planning-benefit-for-family-of-3-boys-who-were-injured-in-wednesday-morning-crash/502-a016b2a0-457c-4ac1-9352-97bcdd0fff0b"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.12newsnow.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.12newsnow.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.12newsnow.com/kbmtjobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                  Newsletter ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.12newsnow.com/kbmtjobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                  Newsletter ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.12newsnow.com/kbmtjobs"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/terms"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "/adchoices"
+  },
+  {
+    "text": "EEO Public File Report",
+    "url": "https://interactive.12NewsNow.com/pdfs/PublicFileReport.pdf"
+  },
+  {
+    "text": "FCC Online Public Inspection File",
+    "url": "/fcc-public-inspection-file"
+  },
+  {
+    "text": "Closed Caption Procedures",
+    "url": "/closed-captioning"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "url": "/do-not-sell-my-information"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "here",
+    "url": "/privacy#opt-out-of-targeted-online-advertising"
+  },
+  {
+    "text": "More information",
+    "url": "/privacy"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  }
+]
