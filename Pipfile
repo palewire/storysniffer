@@ -22,6 +22,7 @@ twine = "*"
 setuptools-scm = "*"
 jupyterlab = "*"
 pandas = "*"
+dill = "*"
 
 [requires]
 python_version = "3.9"
