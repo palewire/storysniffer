@@ -7,7 +7,7 @@ Inspect a URL and estimate if it links to news story.
 
 ## Getting started
 
-Install this module
+Install this module.
 
 ```bash
 pipenv install storysniffer
