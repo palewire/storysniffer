@@ -44,7 +44,7 @@ That's it!
 
 Storysniffer makes it guess based on a machine-learning model. It is drawn from a supervised sample of links collected by the News Homepages project at [homepages.news](https://homepages.news). [Testing](https://github.com/palewire/storysniffer/blob/main/_notebooks/train.ipynb) has shown it is accurate in 96% of cases.
 
-However, because its training sample is limited to news homepages, most of which are in English, it likely contains some bias. Accuracy may vary for links gathered from other sources and languages. Those interested in improving the model should join our [open-source effort](https://github.com/palewire/storysniffer).
+However, because its training sample is limited to links published on news homepages, most of which are in English, it likely contains some bias. Accuracy may vary for links gathered from other sources and languages. Those interested in improving the model should join our [open-source effort](https://github.com/palewire/storysniffer).
 
 ## Credits
 
