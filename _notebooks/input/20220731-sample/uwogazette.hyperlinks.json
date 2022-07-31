@@ -1,0 +1,766 @@
+[
+  {
+    "text": "Skip to main content",
+    "url": "#main-page-container"
+  },
+  {
+    "text": "Home",
+    "url": "/"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "Campus",
+    "url": "/news/campus/"
+  },
+  {
+    "text": "USC",
+    "url": "/news/usc/"
+  },
+  {
+    "text": "Administration",
+    "url": "/news/administration"
+  },
+  {
+    "text": "London",
+    "url": "/news/london/"
+  },
+  {
+    "text": "Queen's Park",
+    "url": "/news/queens_park/"
+  },
+  {
+    "text": "Elections",
+    "url": "/news/elections"
+  },
+  {
+    "text": "Public Records",
+    "url": "/news/public_records"
+  },
+  {
+    "text": "Sports",
+    "url": "/sports"
+  },
+  {
+    "text": "Athlete Profiles",
+    "url": "/sports/athlete_profiles/"
+  },
+  {
+    "text": "Basketball",
+    "url": "/sports/basketball/"
+  },
+  {
+    "text": "Football",
+    "url": "/sports/football"
+  },
+  {
+    "text": "Hockey",
+    "url": "/sports/hockey/"
+  },
+  {
+    "text": "Volleyball",
+    "url": "/sports/volleyball"
+  },
+  {
+    "text": "Culture",
+    "url": "/culture/"
+  },
+  {
+    "text": "Fashion",
+    "url": "/culture/fashion"
+  },
+  {
+    "text": "Food & Drink",
+    "url": "/culture/food_drink"
+  },
+  {
+    "text": "Health & Wellness",
+    "url": "/culture/health_wellness"
+  },
+  {
+    "text": "Movies & TV",
+    "url": "/culture/movies_tv"
+  },
+  {
+    "text": "Music",
+    "url": "/culture/music"
+  },
+  {
+    "text": "Profiles",
+    "url": "/culture/profiles"
+  },
+  {
+    "text": "Student Life",
+    "url": "/culture/student_life/"
+  },
+  {
+    "text": "Theatre",
+    "url": "/culture/theatre"
+  },
+  {
+    "text": "Visual Arts",
+    "url": "/culture/visual_arts"
+  },
+  {
+    "text": "Opinions",
+    "url": "/opinion/"
+  },
+  {
+    "text": "Blogs",
+    "url": "/opinion/blogs"
+  },
+  {
+    "text": "Columns",
+    "url": "/opinion/columnists/"
+  },
+  {
+    "text": "Community",
+    "url": "/opinion/community/"
+  },
+  {
+    "text": "Editorials",
+    "url": "/opinion/editorials/"
+  },
+  {
+    "text": "Letters to the Editor",
+    "url": "/opinion/letters_to_editor/"
+  },
+  {
+    "text": "Video",
+    "url": "/multimedia/video/"
+  },
+  {
+    "text": "Special Editions",
+    "url": "/features/special_editions/"
+  },
+  {
+    "text": "Contribute",
+    "url": "/site/contribute.html"
+  },
+  {
+    "text": "Become An Editor",
+    "url": "/site/become_an_editor.html"
+  },
+  {
+    "text": "Internship Program",
+    "url": "/site/internship_program.html"
+  },
+  {
+    "text": "Donate",
+    "url": "/site/donate.html"
+  },
+  {
+    "text": "Contact",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "Letter To The Editor",
+    "url": "/site/forms/letter_editor/"
+  },
+  {
+    "text": "Forms & Submissions",
+    "url": "/site/forms/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "Gazette Alumni Contact",
+    "url": "/site/forms/alumni_contact/"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "Online Advertising",
+    "url": "/advertise/online/"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/westerngazette"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/uwogazette"
+  },
+  {
+    "text": "\n                    \n                    YouTube\n                ",
+    "url": "https://www.youtube.com/user/uwogazette"
+  },
+  {
+    "text": "\n                    \n                    Instagram\n                ",
+    "url": "https://instagram.com/westerngazette/"
+  },
+  {
+    "text": "\n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                    Contribute\n                ",
+    "url": "/site/contribute.html"
+  },
+  {
+    "text": "\n                    Become An Editor\n                ",
+    "url": "/site/become_an_editor.html"
+  },
+  {
+    "text": "\n                    Internship Program\n                ",
+    "url": "/site/internship_program.html"
+  },
+  {
+    "text": "\n                    Donate\n                ",
+    "url": "/site/donate.html"
+  },
+  {
+    "text": "\n                    Contact\n                ",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "\n                    Letter To The Editor\n                ",
+    "url": "/site/forms/letter_editor/"
+  },
+  {
+    "text": "\n                    Forms & Submissions\n                ",
+    "url": "/site/forms/"
+  },
+  {
+    "text": "\n                    Newsletters\n                ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "\n                    Gazette Alumni Contact\n                ",
+    "url": "/site/forms/alumni_contact/"
+  },
+  {
+    "text": "\n                    Advertise\n                ",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n                    Online Advertising\n                ",
+    "url": "/advertise/online/"
+  },
+  {
+    "text": "\n                     Home\n                ",
+    "url": "/"
+  },
+  {
+    "text": "\n                    News\n                ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                    Campus\n                ",
+    "url": "/news/campus/"
+  },
+  {
+    "text": "\n                    USC\n                ",
+    "url": "/news/usc/"
+  },
+  {
+    "text": "\n                    Administration\n                ",
+    "url": "/news/administration"
+  },
+  {
+    "text": "\n                    London\n                ",
+    "url": "/news/london/"
+  },
+  {
+    "text": "\n                    Queen's Park\n                ",
+    "url": "/news/queens_park/"
+  },
+  {
+    "text": "\n                    Elections\n                ",
+    "url": "/news/elections"
+  },
+  {
+    "text": "\n                    Public Records\n                ",
+    "url": "/news/public_records"
+  },
+  {
+    "text": "\n                    Sports\n                ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                    Athlete Profiles\n                ",
+    "url": "/sports/athlete_profiles/"
+  },
+  {
+    "text": "\n                    Basketball\n                ",
+    "url": "/sports/basketball/"
+  },
+  {
+    "text": "\n                    Football\n                ",
+    "url": "/sports/football"
+  },
+  {
+    "text": "\n                    Hockey\n                ",
+    "url": "/sports/hockey/"
+  },
+  {
+    "text": "\n                    Volleyball\n                ",
+    "url": "/sports/volleyball"
+  },
+  {
+    "text": "\n                    Culture\n                ",
+    "url": "/culture/"
+  },
+  {
+    "text": "\n                    Fashion\n                ",
+    "url": "/culture/fashion"
+  },
+  {
+    "text": "\n                    Food & Drink\n                ",
+    "url": "/culture/food_drink"
+  },
+  {
+    "text": "\n                    Health & Wellness\n                ",
+    "url": "/culture/health_wellness"
+  },
+  {
+    "text": "\n                    Movies & TV\n                ",
+    "url": "/culture/movies_tv"
+  },
+  {
+    "text": "\n                    Music\n                ",
+    "url": "/culture/music"
+  },
+  {
+    "text": "\n                    Profiles\n                ",
+    "url": "/culture/profiles"
+  },
+  {
+    "text": "\n                    Student Life\n                ",
+    "url": "/culture/student_life/"
+  },
+  {
+    "text": "\n                    Theatre\n                ",
+    "url": "/culture/theatre"
+  },
+  {
+    "text": "\n                    Visual Arts\n                ",
+    "url": "/culture/visual_arts"
+  },
+  {
+    "text": "\n                    Opinions\n                ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                    Blogs\n                ",
+    "url": "/opinion/blogs"
+  },
+  {
+    "text": "\n                    Columns\n                ",
+    "url": "/opinion/columnists/"
+  },
+  {
+    "text": "\n                    Community\n                ",
+    "url": "/opinion/community/"
+  },
+  {
+    "text": "\n                    Editorials\n                ",
+    "url": "/opinion/editorials/"
+  },
+  {
+    "text": "\n                    Letters to the Editor\n                ",
+    "url": "/opinion/letters_to_editor/"
+  },
+  {
+    "text": "\n                    Video\n                ",
+    "url": "/multimedia/video/"
+  },
+  {
+    "text": "\n                    Special Editions\n                ",
+    "url": "/features/special_editions/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western, USC announce sweeping changes for OWeek 2022, including end of soph names",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/ivey-hba-program-expanding-by-almost-25-per-cent/article_36c640c4-02e4-11ed-88c7-63084c81e8a7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Ivey HBA program expanding by almost 25 per cent",
+    "url": "/news/ivey-hba-program-expanding-by-almost-25-per-cent/article_36c640c4-02e4-11ed-88c7-63084c81e8a7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/western-mourns-loss-of-mustangs-football-assistant-coach/article_5562026a-0079-11ed-876a-6bca9494af9c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western mourns loss of Mustangs football assistant coach",
+    "url": "/sports/western-mourns-loss-of-mustangs-football-assistant-coach/article_5562026a-0079-11ed-876a-6bca9494af9c.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/soph-names-expected-to-end-for-oweek-2022/article_b9fe5802-fd97-11ec-a7c5-2b842c271bc6.html"
+  },
+  {
+    "text": "\n        \n\n        \n            \u2018Soph names\u2019 expected to end for OWeek 2022",
+    "url": "/news/soph-names-expected-to-end-for-oweek-2022/article_b9fe5802-fd97-11ec-a7c5-2b842c271bc6.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/western-drops-mask-mandate/article_0fa649c2-f7c6-11ec-b947-7fa04d4f65c5.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western drops mask mandate",
+    "url": "/news/western-drops-mask-mandate/article_0fa649c2-f7c6-11ec-b947-7fa04d4f65c5.html"
+  },
+  {
+    "text": "\n                \n                News\n                \n                    ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western, USC announce sweeping changes for OWeek 2022, including end of soph names",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+    "url": "/news/pedestrian-struck-killed-near-campus/article_69b2e9c6-b9e0-11ec-b6dd-77c9581fbaa2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Pedestrian struck, killed near campus",
+    "url": "/news/pedestrian-struck-killed-near-campus/article_69b2e9c6-b9e0-11ec-b6dd-77c9581fbaa2.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/western-and-usc-exploring-some-form-of-compensation-for-soph-leadership-teams/article_033b754e-b5eb-11ec-8fec-5fa2f6f29f74.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western and USC exploring 'some form' of compensation for Soph leadership teams",
+    "url": "/news/western-and-usc-exploring-some-form-of-compensation-for-soph-leadership-teams/article_033b754e-b5eb-11ec-8fec-5fa2f6f29f74.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/usc-addresses-climate-crisis-environment-in-new-policy-paper/article_5e7dc62a-b4fe-11ec-9482-b7e5648080c4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            USC addresses climate crisis, environment in new policy paper",
+    "url": "/news/usc-addresses-climate-crisis-environment-in-new-policy-paper/article_5e7dc62a-b4fe-11ec-9482-b7e5648080c4.html"
+  },
+  {
+    "text": "\n                \n                Opinion\n                \n                    ",
+    "url": "/opinion"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/opinion/opinion-for-first-years-oweek-lasted-all-year-maybe-even-longer/article_a5083a18-c709-11ec-882c-c36c9b1299df.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Opinion: For first-years, OWeek lasted all year \u2014 maybe even longer",
+    "url": "/opinion/opinion-for-first-years-oweek-lasted-all-year-maybe-even-longer/article_a5083a18-c709-11ec-882c-c36c9b1299df.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/opinion/opinion-evening-classes-pose-an-obstacle-for-fasting-students/article_fe90f8c8-b06a-11ec-86e1-636b5a87f41a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Opinion: Evening classes pose an obstacle for fasting students",
+    "url": "/opinion/opinion-evening-classes-pose-an-obstacle-for-fasting-students/article_fe90f8c8-b06a-11ec-86e1-636b5a87f41a.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+    "url": "/opinion/letter-to-the-editor-campus-consent-posters-are-more-harmful-than-helpful/article_2861b6ba-aad5-11ec-bfdc-13d17ad8d827.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Letter to the Editor: Campus consent posters are more harmful than helpful",
+    "url": "/opinion/letter-to-the-editor-campus-consent-posters-are-more-harmful-than-helpful/article_2861b6ba-aad5-11ec-bfdc-13d17ad8d827.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/opinion/letter-to-the-editor-why-we-should-get-rid-of-self-reported-absences/article_39326bc0-aa0c-11ec-b69d-ffec9a657f90.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Letter to the Editor: Why we should get rid of self reported absences",
+    "url": "/opinion/letter-to-the-editor-why-we-should-get-rid-of-self-reported-absences/article_39326bc0-aa0c-11ec-b69d-ffec9a657f90.html"
+  },
+  {
+    "text": "\n                \n                Culture\n                \n                    ",
+    "url": "/culture"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/culture/procrastination-nation-the-debilitating-student-affliction/article_24ab6948-b6a7-11ec-a1ad-7753e0ac17e7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Procrastination nation: The debilitating student affliction",
+    "url": "/culture/procrastination-nation-the-debilitating-student-affliction/article_24ab6948-b6a7-11ec-a1ad-7753e0ac17e7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/culture/huron-student-council-hosts-fashion-show-for-the-first-time-in-14-years/article_2452201e-b69c-11ec-8659-df7983c5b773.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Huron Student Council hosts fashion show for the first time in 14 years",
+    "url": "/culture/huron-student-council-hosts-fashion-show-for-the-first-time-in-14-years/article_2452201e-b69c-11ec-8659-df7983c5b773.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/culture/wicsa-s-maharaja-s-ball-a-success/article_4bc5929a-b690-11ec-aebb-d76ca135c61d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            WICSA\u2019s Maharaja\u2019s Ball a success",
+    "url": "/culture/wicsa-s-maharaja-s-ball-a-success/article_4bc5929a-b690-11ec-aebb-d76ca135c61d.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+2\n                \n                \n                \n                        \n                ",
+    "url": "/culture/huron-professor-s-rare-comic-book-collection-at-weldons-archives/article_5f0f9648-b523-11ec-b1eb-e3d292dcc38c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Huron Professor\u2019s rare comic book collection at Weldon's archives",
+    "url": "/culture/huron-professor-s-rare-comic-book-collection-at-weldons-archives/article_5f0f9648-b523-11ec-b1eb-e3d292dcc38c.html"
+  },
+  {
+    "text": "\n                \n                Sports\n                \n                    ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+    "url": "/sports/u-sports-officially-names-western-as-57th-vanier-cup-host/article_37a2ca6e-f333-11ec-993e-e3cf82092325.html"
+  },
+  {
+    "text": "\n        \n\n        \n            U Sports officially names Western as 57th Vanier Cup host",
+    "url": "/sports/u-sports-officially-names-western-as-57th-vanier-cup-host/article_37a2ca6e-f333-11ec-993e-e3cf82092325.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/all-newly-drafted-mustangs-make-final-cfl-roster-cuts/article_661f25a4-e686-11ec-a1c8-ff37ddd4c616.html"
+  },
+  {
+    "text": "\n        \n\n        \n            All newly drafted Mustangs make final CFL roster cuts",
+    "url": "/sports/all-newly-drafted-mustangs-make-final-cfl-roster-cuts/article_661f25a4-e686-11ec-a1c8-ff37ddd4c616.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/four-mustangs-drafted-into-cfl-one-invited-to-nfl/article_685059bc-cbbd-11ec-b69c-63bda68998f3.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Four Mustangs drafted into CFL, one invited to NFL",
+    "url": "/sports/four-mustangs-drafted-into-cfl-one-invited-to-nfl/article_685059bc-cbbd-11ec-b69c-63bda68998f3.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/western-women-s-football-team-dominates-owifa-championship/article_c248227e-b691-11ec-a69e-a3419f7fba1d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western women\u2019s football team dominates OWIFA championship",
+    "url": "/sports/western-women-s-football-team-dominates-owifa-championship/article_c248227e-b691-11ec-a69e-a3419f7fba1d.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Ivey HBA program expanding by almost 25 per cent",
+    "url": "/news/ivey-hba-program-expanding-by-almost-25-per-cent/article_36c640c4-02e4-11ed-88c7-63084c81e8a7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western, USC announce sweeping changes for OWeek 2022, including end of soph names",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "\n        \n\n        \n            \u2018Soph names\u2019 expected to end for OWeek 2022",
+    "url": "/news/soph-names-expected-to-end-for-oweek-2022/article_b9fe5802-fd97-11ec-a7c5-2b842c271bc6.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/ivey-hba-program-expanding-by-almost-25-per-cent/article_36c640c4-02e4-11ed-88c7-63084c81e8a7.html"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "\n        \n\n        \n            Ivey HBA program expanding by almost 25 per cent",
+    "url": "/news/ivey-hba-program-expanding-by-almost-25-per-cent/article_36c640c4-02e4-11ed-88c7-63084c81e8a7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/western-mourns-loss-of-mustangs-football-assistant-coach/article_5562026a-0079-11ed-876a-6bca9494af9c.html"
+  },
+  {
+    "text": "Sports",
+    "url": "/sports"
+  },
+  {
+    "text": "\n        \n\n        \n            Western mourns loss of Mustangs football assistant coach",
+    "url": "/sports/western-mourns-loss-of-mustangs-football-assistant-coach/article_5562026a-0079-11ed-876a-6bca9494af9c.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "\n        \n\n        \n            Western, USC announce sweeping changes for OWeek 2022, including end of soph names",
+    "url": "/news/western-usc-announce-sweeping-changes-for-oweek-2022-including-end-of-soph-names/article_a0b436ba-fe68-11ec-ad38-47b302399157.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/soph-names-expected-to-end-for-oweek-2022/article_b9fe5802-fd97-11ec-a7c5-2b842c271bc6.html"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "\n        \n\n        \n            \u2018Soph names\u2019 expected to end for OWeek 2022",
+    "url": "/news/soph-names-expected-to-end-for-oweek-2022/article_b9fe5802-fd97-11ec-a7c5-2b842c271bc6.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/western-drops-mask-mandate/article_0fa649c2-f7c6-11ec-b947-7fa04d4f65c5.html"
+  },
+  {
+    "text": "News",
+    "url": "/news"
+  },
+  {
+    "text": "\n        \n\n        \n            Western drops mask mandate",
+    "url": "/news/western-drops-mask-mandate/article_0fa649c2-f7c6-11ec-b947-7fa04d4f65c5.html"
+  },
+  {
+    "text": "\n                     Home\n                ",
+    "url": "/"
+  },
+  {
+    "text": "\n                    News\n                ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n                    Sports\n                ",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                    Culture\n                ",
+    "url": "/culture/"
+  },
+  {
+    "text": "\n                    Local Events\n                ",
+    "url": "/local-events/"
+  },
+  {
+    "text": "\n                    Opinions\n                ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                    Features\n                ",
+    "url": "/features/"
+  },
+  {
+    "text": "\n                    Multimedia\n                ",
+    "url": "/multimedia/"
+  },
+  {
+    "text": "\n                    Video\n                ",
+    "url": "/multimedia/video/"
+  },
+  {
+    "text": "\n                    About\n                ",
+    "url": "/site/about.html"
+  },
+  {
+    "text": "\n                    Advertise\n                ",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n                    Donate\n                ",
+    "url": "/site/donate.html"
+  },
+  {
+    "text": "\n                    Classifieds\n                ",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "\n                    Contribute\n                ",
+    "url": "/site/contribute.html"
+  },
+  {
+    "text": "\n                    Promote Your Event\n                ",
+    "url": "https://new.evvnt.com/?with_navbar&force_snap_sell&partner=WESTERNGAZETTE&publisher_url:westerngazette.ca#/quick"
+  },
+  {
+    "text": "\n                    Forms\n                ",
+    "url": "/site/forms/"
+  },
+  {
+    "text": "\n                    Newsletters\n                ",
+    "url": "/newsletters/"
+  },
+  {
+    "text": "\n                    Policy\n                ",
+    "url": "/site/policy.html"
+  },
+  {
+    "text": "\n                    Publications Committee\n                ",
+    "url": "/site/publications-committee.html"
+  },
+  {
+    "text": "\n                    Navigator Deals\n                ",
+    "url": "https://navigatorlondon.ca/deals/"
+  },
+  {
+    "text": "\n                    Gazette Staff Login\n                ",
+    "url": "https://admin-newyork1.bloxcms.com"
+  },
+  {
+    "text": "\n            ",
+    "url": "/"
+  },
+  {
+    "text": "editor@westerngazette.ca",
+    "url": "mailto:editor@westerngazette.ca"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/westerngazette"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/uwogazette"
+  },
+  {
+    "text": "\n                    \n                    YouTube\n                ",
+    "url": "https://www.youtube.com/user/uwogazette"
+  },
+  {
+    "text": "\n                    \n                    Instagram\n                ",
+    "url": "https://instagram.com/westerngazette/"
+  },
+  {
+    "text": "The Gazette Student Newspaper",
+    "url": "/"
+  },
+  {
+    "text": "BLOX Content Management System",
+    "url": "https://bloxcms.com"
+  },
+  {
+    "text": "TownNews.com",
+    "url": "https://townnews.com/"
+  },
+  {
+    "text": "Subscribe!  \u25b2",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "\u2297",
+    "url": "javascript:void(0)"
+  }
+]

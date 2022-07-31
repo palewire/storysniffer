@@ -1,0 +1,730 @@
+[
+  {
+    "text": "Got a tip?",
+    "url": "https://www.thedailybeast.com/tips"
+  },
+  {
+    "text": "Become a subscriber",
+    "url": "https://www.thedailybeast.com/membership?tdb_source=membership&tdb_medium=above_logo"
+  },
+  {
+    "text": "Play our Crossword",
+    "url": "https://www.thedailybeast.com/crossword-puzzles?tdb_source=crosswords&tdb_medium=above_logo"
+  },
+  {
+    "text": "Subscribe",
+    "url": "https://www.thedailybeast.com/membership?tdb_source=join-now-button&tdb_medium=home"
+  },
+  {
+    "text": "My Account",
+    "url": "https://www.thedailybeast.com/membership/account"
+  },
+  {
+    "text": "Manage Newsletters",
+    "url": "https://www.thedailybeast.com/membership/newsletters"
+  },
+  {
+    "text": "Subscription Offers",
+    "url": "https://www.thedailybeast.com/membership/offers"
+  },
+  {
+    "text": "Need Help?",
+    "url": "https://thedailybeast.freshdesk.com/support/solutions"
+  },
+  {
+    "text": "Log Out",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com"
+  },
+  {
+    "text": "Newsletters",
+    "url": "https://www.thedailybeast.com/newsletters"
+  },
+  {
+    "text": "Cheat Sheet",
+    "url": "https://www.thedailybeast.com/cheat-sheet"
+  },
+  {
+    "text": "Politics",
+    "url": "https://www.thedailybeast.com/category/politics"
+  },
+  {
+    "text": "Crime",
+    "url": "https://www.thedailybeast.com/category/us-news/crime-and-justice"
+  },
+  {
+    "text": "Entertainment",
+    "url": "https://www.thedailybeast.com/category/entertainment"
+  },
+  {
+    "text": "Media",
+    "url": "https://www.thedailybeast.com/category/media"
+  },
+  {
+    "text": "Innovation",
+    "url": "https://www.thedailybeast.com/category/innovation"
+  },
+  {
+    "text": "Opinion",
+    "url": "https://www.thedailybeast.com/category/politics/opinion"
+  },
+  {
+    "text": "World",
+    "url": "https://www.thedailybeast.com/category/world"
+  },
+  {
+    "text": "U.S. News",
+    "url": "https://www.thedailybeast.com/category/us-news"
+  },
+  {
+    "text": "Scouted",
+    "url": "https://www.thedailybeast.com/category/scouted"
+  },
+  {
+    "text": "Travel",
+    "url": "https://www.thedailybeast.com/category/travel"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/search"
+  },
+  {
+    "text": "CHEAT SHEET",
+    "url": "https://www.thedailybeast.com/cheat-sheet"
+  },
+  {
+    "text": "POLITICS",
+    "url": "https://www.thedailybeast.com/category/politics"
+  },
+  {
+    "text": "Fever Dreams",
+    "url": "https://www.thedailybeast.com/keyword/fever-dreams"
+  },
+  {
+    "text": "Biden World",
+    "url": "https://www.thedailybeast.com/category/politics/biden-world"
+  },
+  {
+    "text": "Elections",
+    "url": "https://www.thedailybeast.com/category/politics/elections"
+  },
+  {
+    "text": "Opinion",
+    "url": "https://www.thedailybeast.com/category/politics/opinion"
+  },
+  {
+    "text": "National Security",
+    "url": "https://www.thedailybeast.com/category/politics/national-security"
+  },
+  {
+    "text": "Congress",
+    "url": "https://www.thedailybeast.com/category/politics/congress"
+  },
+  {
+    "text": "Pay Dirt",
+    "url": "https://www.thedailybeast.com/franchise/pay-dirt"
+  },
+  {
+    "text": "The New Abnormal",
+    "url": "https://www.thedailybeast.com/franchise/the-new-abnormal"
+  },
+  {
+    "text": "Right Richter",
+    "url": "https://www.thedailybeast.com/franchise/right-richter"
+  },
+  {
+    "text": "Trumpland",
+    "url": "https://www.thedailybeast.com/category/politics/trumpland"
+  },
+  {
+    "text": "MEDIA",
+    "url": "https://www.thedailybeast.com/category/media"
+  },
+  {
+    "text": "Confider",
+    "url": "https://www.thedailybeast.com/franchise/confider"
+  },
+  {
+    "text": "Daytime Talk",
+    "url": "https://www.thedailybeast.com/franchise/daytime-talk"
+  },
+  {
+    "text": "Late-Night",
+    "url": "https://www.thedailybeast.com/franchise/late-night"
+  },
+  {
+    "text": "Fox News",
+    "url": "https://www.thedailybeast.com/franchise/fox-news"
+  },
+  {
+    "text": "U.S. NEWS",
+    "url": "https://www.thedailybeast.com/category/us-news"
+  },
+  {
+    "text": "Identities",
+    "url": "https://www.thedailybeast.com/category/us-news/identities"
+  },
+  {
+    "text": "Crime",
+    "url": "https://www.thedailybeast.com/category/us-news/crime-and-justice"
+  },
+  {
+    "text": "Race",
+    "url": "https://www.thedailybeast.com/franchise/race"
+  },
+  {
+    "text": "LGBT",
+    "url": "https://www.thedailybeast.com/franchise/lgbt"
+  },
+  {
+    "text": "Extremism",
+    "url": "https://www.thedailybeast.com/franchise/extremism"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "https://www.thedailybeast.com/franchise/coronavirus"
+  },
+  {
+    "text": "WORLD",
+    "url": "https://www.thedailybeast.com/category/world"
+  },
+  {
+    "text": "Russia",
+    "url": "https://www.thedailybeast.com/category/world/russia"
+  },
+  {
+    "text": "Europe",
+    "url": "https://www.thedailybeast.com/category/world/europe"
+  },
+  {
+    "text": "China",
+    "url": "https://www.thedailybeast.com/category/world/china"
+  },
+  {
+    "text": "Middle East",
+    "url": "https://www.thedailybeast.com/category/world/middle-east"
+  },
+  {
+    "text": "INNOVATION",
+    "url": "https://www.thedailybeast.com/category/innovation"
+  },
+  {
+    "text": "Science",
+    "url": "https://www.thedailybeast.com/category/innovation/science"
+  },
+  {
+    "text": "TRAVEL",
+    "url": "https://www.thedailybeast.com/category/travel"
+  },
+  {
+    "text": "ENTERTAINMENT",
+    "url": "https://www.thedailybeast.com/category/entertainment"
+  },
+  {
+    "text": "TV",
+    "url": "https://www.thedailybeast.com/category/entertainment/tv"
+  },
+  {
+    "text": "Movies",
+    "url": "https://www.thedailybeast.com/category/entertainment/movies"
+  },
+  {
+    "text": "Music",
+    "url": "https://www.thedailybeast.com/category/entertainment/music"
+  },
+  {
+    "text": "Comedy",
+    "url": "https://www.thedailybeast.com/category/entertainment/comedy"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.thedailybeast.com/category/entertainment/sports"
+  },
+  {
+    "text": "Sex",
+    "url": "https://www.thedailybeast.com/franchise/sex"
+  },
+  {
+    "text": "TDBs Obsessed",
+    "url": "https://www.thedailybeast.com/franchise/the-daily-beasts-obsessed"
+  },
+  {
+    "text": "Awards Shows",
+    "url": "https://www.thedailybeast.com/category/entertainment/awards-shows"
+  },
+  {
+    "text": "The Last Laugh",
+    "url": "https://www.thedailybeast.com/franchise/the-last-laugh"
+  },
+  {
+    "text": "FOOD & BEVERAGE",
+    "url": "https://www.thedailybeast.com/category/half-full"
+  },
+  {
+    "text": "CULTURE",
+    "url": "https://www.thedailybeast.com/category/arts-and-culture"
+  },
+  {
+    "text": "Power Trip",
+    "url": "https://www.thedailybeast.com/franchise/power-trip"
+  },
+  {
+    "text": "Fashion",
+    "url": "https://www.thedailybeast.com/category/arts-and-culture/fashion"
+  },
+  {
+    "text": "Books",
+    "url": "https://www.thedailybeast.com/category/arts-and-culture/books"
+  },
+  {
+    "text": "Royalist",
+    "url": "https://www.thedailybeast.com/franchise/royalist"
+  },
+  {
+    "text": "TECH",
+    "url": "https://www.thedailybeast.com/category/tech"
+  },
+  {
+    "text": "Disinformation",
+    "url": "https://www.thedailybeast.com/franchise/disinformation"
+  },
+  {
+    "text": "SCOUTED",
+    "url": "https://www.thedailybeast.com/category/scouted"
+  },
+  {
+    "text": "Clothing",
+    "url": "https://www.thedailybeast.com/category/scouted/clothing"
+  },
+  {
+    "text": "Technology",
+    "url": "https://www.thedailybeast.com/category/scouted/technology"
+  },
+  {
+    "text": "Beauty",
+    "url": "https://www.thedailybeast.com/category/scouted/beauty"
+  },
+  {
+    "text": "Home",
+    "url": "https://www.thedailybeast.com/category/scouted/home"
+  },
+  {
+    "text": "Pets",
+    "url": "https://www.thedailybeast.com/keyword/pet"
+  },
+  {
+    "text": "Kitchen",
+    "url": "https://www.thedailybeast.com/category/scouted/kitchen"
+  },
+  {
+    "text": "Fitness",
+    "url": "https://www.thedailybeast.com/category/scouted/fitness"
+  },
+  {
+    "text": "I'm Looking For",
+    "url": "https://www.thedailybeast.com/franchise/im-looking-for"
+  },
+  {
+    "text": "COUPONS",
+    "url": "https://coupons.thedailybeast.com/"
+  },
+  {
+    "text": "Adidas Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/adidas"
+  },
+  {
+    "text": "DoorDash Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/doordash"
+  },
+  {
+    "text": "H&M Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/h-m"
+  },
+  {
+    "text": "Hotwire Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/hotwire"
+  },
+  {
+    "text": "Wine.com Discounts",
+    "url": "https://coupons.thedailybeast.com/coupons/wine-com"
+  },
+  {
+    "text": "Vitacost Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/vitacost"
+  },
+  {
+    "text": "Spanx Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/spanx"
+  },
+  {
+    "text": "StubHub Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/stubhub"
+  },
+  {
+    "text": "BEST PICKS",
+    "url": "https://bestpicks.thedailybeast.com/"
+  },
+  {
+    "text": "Best VPNs",
+    "url": "https://bestpicks.thedailybeast.com/best-vpn"
+  },
+  {
+    "text": "Best Gaming PCs",
+    "url": "https://bestpicks.thedailybeast.com/best-gaming-pc"
+  },
+  {
+    "text": "Best Air Fryers",
+    "url": "https://bestpicks.thedailybeast.com/best-air-fryer"
+  },
+  {
+    "text": ".paperplane_svg__prefix__cls-1,.paperplane_svg__prefix__cls-2{fill:#02141f;stroke:#02141f;stroke-linecap:round;stroke-linejoin:round}.paperplane_svg__prefix__cls-2{fill:#fff}Newsletters",
+    "url": "https://www.thedailybeast.com/newsletters"
+  },
+  {
+    "text": "Podcasts",
+    "url": "https://www.thedailybeast.com/podcasts?tdb_source=podcasts&tdb_medium=burger"
+  },
+  {
+    "text": "Crosswords",
+    "url": "https://www.thedailybeast.com/crossword-puzzles"
+  },
+  {
+    "text": "Subscription",
+    "url": "https://www.thedailybeast.com/membership?tdb_source=membership&tdb_medium=burger"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/thedailybeast/"
+  },
+  {
+    "text": "",
+    "url": "https://www.twitter.com/thedailybeast"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/thedailybeast/"
+  },
+  {
+    "text": "",
+    "url": "https://feeds.thedailybeast.com/rss/articles"
+  },
+  {
+    "text": "",
+    "url": "https://flipboard.com/@TheDailyBeast?utm_source=TheDailyBeast&utm_medium=follow&utm_campaign=tools"
+  },
+  {
+    "text": "GOT A TIP?",
+    "url": "https://www.thedailybeast.com/tips"
+  },
+  {
+    "text": "SEARCH.magnifying-glass_svg__cls-2{fill:#02141f}",
+    "url": "https://www.thedailybeast.com/search"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/jared-bridegan-mormon-microsoft-executive-was-murdered-in-mystery-in-florida?ref=home"
+  },
+  {
+    "text": "The Mystery Behind the Brazen Execution of a Microsoft Boss",
+    "url": "https://www.thedailybeast.com/jared-bridegan-mormon-microsoft-executive-was-murdered-in-mystery-in-florida?ref=home"
+  },
+  {
+    "text": "Pilar\u00a0Melendez",
+    "url": "https://www.thedailybeast.com/author/pilar-melendez?ref=home"
+  },
+  {
+    "text": "opinion",
+    "url": "https://www.thedailybeast.com/the-saudi-whitewashing-op-in-full-swing-near-ground-zero?ref=home"
+  },
+  {
+    "text": "The Saudi Whitewashing Op in Full Swing Near Ground Zero",
+    "url": "https://www.thedailybeast.com/the-saudi-whitewashing-op-in-full-swing-near-ground-zero?ref=home"
+  },
+  {
+    "text": "Michael\u00a0Daly",
+    "url": "https://www.thedailybeast.com/author/michael-daly?ref=home"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/prince-charles-denies-impropriety-over-dollar1-million-bin-laden-donation?ref=home"
+  },
+  {
+    "text": "Prince Charles Denies Wrongdoing Over $1M Bin Laden Donation",
+    "url": "https://www.thedailybeast.com/prince-charles-denies-impropriety-over-dollar1-million-bin-laden-donation?ref=home"
+  },
+  {
+    "text": "Tom\u00a0Sykes",
+    "url": "https://www.thedailybeast.com/author/tom-sykes?ref=home"
+  },
+  {
+    "text": "Tim\u00a0Teeman",
+    "url": "https://www.thedailybeast.com/author/tim-teeman?ref=home"
+  },
+  {
+    "text": "\u2018Industry\u2019 Is as Sexy, Druggy, and Gripping as Ever",
+    "url": "https://www.thedailybeast.com/hbos-industry-season-2-is-as-sexy-druggy-and-gripping-as-ever?ref=home"
+  },
+  {
+    "text": "Kyndall\u00a0Cunningham",
+    "url": "https://www.thedailybeast.com/author/kyndall-cunningham?ref=home"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/hbos-industry-season-2-is-as-sexy-druggy-and-gripping-as-ever?ref=home"
+  },
+  {
+    "text": "Trump Fave in MI Thinks Child Predators Just Love Abortion",
+    "url": "https://www.thedailybeast.com/trump-fave-tudor-dixon-in-michigan-thinks-child-predators-just-love-abortion?ref=home"
+  },
+  {
+    "text": "Ursula\u00a0Perano",
+    "url": "https://www.thedailybeast.com/author/ursula-perano?ref=home"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/trump-fave-tudor-dixon-in-michigan-thinks-child-predators-just-love-abortion?ref=home"
+  },
+  {
+    "text": "Ancient Greece Was a Debauched Disney Trip for Romans",
+    "url": "https://www.thedailybeast.com/ancient-greece-was-a-debauched-disney-trip-for-romans?ref=home"
+  },
+  {
+    "text": "Adrienne\u00a0Mayor",
+    "url": "https://www.thedailybeast.com/author/adrienne-mayor?ref=home"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/ancient-greece-was-a-debauched-disney-trip-for-romans?ref=home"
+  },
+  {
+    "text": "Prep for Your Next Trip Abroad With This Easy-to-Use App",
+    "url": "https://www.thedailybeast.com/babbel-language-learning?ref=home"
+  },
+  {
+    "text": "Thomas\u00a0Price",
+    "url": "https://www.thedailybeast.com/author/thomas-price?ref=home"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/babbel-language-learning?ref=home"
+  },
+  {
+    "text": "CHEAT SHEET",
+    "url": "https://www.thedailybeast.com/cheat-sheet?ref=home"
+  },
+  {
+    "text": "See all 10 cheats",
+    "url": "https://www.thedailybeast.com/cheat-sheet?ref=home"
+  },
+  {
+    "text": "\n\n",
+    "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Frtb-use.mfadsrvr.com%2Fclick%2F0CIkd4qIl-4lcYT5qGhTXxXwQprYOUJXqSPIo80S-8yZ7oHlo6EFyKszbupy68DD-hQWgE6ci3i2l5ANTjAedHQujzH8GU9Ut5dFJfFh70pNtO9LRZjJWYc2TSNUVNdk7nYoxHFSdV-irwwXfIkLzhcxlWtGkW4PSLnRQKyHz3GL_CjrbV6nyWui89V6QgVxBEcsPzDo14k4d2511Y1PmPDxwDFwnnADC6A5uMAF-8mdvQjn0NVZ6G471hWjUDM2wldOFUVsEMrbUfVE5GlAgSI4SHbr2VmWR0o-lwYfrXp_PKMi0m-sTYAhJYEHuIo7iVarJp0NinAZi23sfc2f7oo%2F%2F%2F%3Flp_domain%3Dthekerassentials.com&pr=0.399&bc=0.519&aid=11486925045768862901880&bmid=4945&biid=4945&sid=84215&tid=12745426&clid=12347215&brid=567530&adid=517736_ssl&crid=48360139&ts=1659279031&bcud=519&ss=7&cb=63035"
+  },
+  {
+    "text": "\nAd by\nwellnessguide101.com\n\n",
+    "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Frtb-use.mfadsrvr.com%2Fclick%2F0CIkd4qIl-4lcYT5qGhTXxXwQprYOUJXqSPIo80S-8yZ7oHlo6EFyKszbupy68DD-hQWgE6ci3i2l5ANTjAedHQujzH8GU9Ut5dFJfFh70pNtO9LRZjJWYc2TSNUVNdk7nYoxHFSdV-irwwXfIkLzhcxlWtGkW4PSLnRQKyHz3GL_CjrbV6nyWui89V6QgVxBEcsPzDo14k4d2511Y1PmPDxwDFwnnADC6A5uMAF-8mdvQjn0NVZ6G471hWjUDM2wldOFUVsEMrbUfVE5GlAgSI4SHbr2VmWR0o-lwYfrXp_PKMi0m-sTYAhJYEHuIo7iVarJp0NinAZi23sfc2f7oo%2F%2F%2F%3Flp_domain%3Dthekerassentials.com&pr=0.399&bc=0.519&aid=11486925045768862901880&bmid=4945&biid=4945&sid=84215&tid=12745426&clid=12347215&brid=567530&adid=517736_ssl&crid=48360139&ts=1659279031&bcud=519&ss=7&cb=63035"
+  },
+  {
+    "text": "\nIf You Have Toenail Fungus Try This Tonight (It's Genius!)\n",
+    "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Frtb-use.mfadsrvr.com%2Fclick%2F0CIkd4qIl-4lcYT5qGhTXxXwQprYOUJXqSPIo80S-8yZ7oHlo6EFyKszbupy68DD-hQWgE6ci3i2l5ANTjAedHQujzH8GU9Ut5dFJfFh70pNtO9LRZjJWYc2TSNUVNdk7nYoxHFSdV-irwwXfIkLzhcxlWtGkW4PSLnRQKyHz3GL_CjrbV6nyWui89V6QgVxBEcsPzDo14k4d2511Y1PmPDxwDFwnnADC6A5uMAF-8mdvQjn0NVZ6G471hWjUDM2wldOFUVsEMrbUfVE5GlAgSI4SHbr2VmWR0o-lwYfrXp_PKMi0m-sTYAhJYEHuIo7iVarJp0NinAZi23sfc2f7oo%2F%2F%2F%3Flp_domain%3Dthekerassentials.com&pr=0.399&bc=0.519&aid=11486925045768862901880&bmid=4945&biid=4945&sid=84215&tid=12745426&clid=12347215&brid=567530&adid=517736_ssl&crid=48360139&ts=1659279031&bcud=519&ss=7&cb=63035"
+  },
+  {
+    "text": "\nLearn More\n\u203a\n\n",
+    "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Frtb-use.mfadsrvr.com%2Fclick%2F0CIkd4qIl-4lcYT5qGhTXxXwQprYOUJXqSPIo80S-8yZ7oHlo6EFyKszbupy68DD-hQWgE6ci3i2l5ANTjAedHQujzH8GU9Ut5dFJfFh70pNtO9LRZjJWYc2TSNUVNdk7nYoxHFSdV-irwwXfIkLzhcxlWtGkW4PSLnRQKyHz3GL_CjrbV6nyWui89V6QgVxBEcsPzDo14k4d2511Y1PmPDxwDFwnnADC6A5uMAF-8mdvQjn0NVZ6G471hWjUDM2wldOFUVsEMrbUfVE5GlAgSI4SHbr2VmWR0o-lwYfrXp_PKMi0m-sTYAhJYEHuIo7iVarJp0NinAZi23sfc2f7oo%2F%2F%2F%3Flp_domain%3Dthekerassentials.com&pr=0.399&bc=0.519&aid=11486925045768862901880&bmid=4945&biid=4945&sid=84215&tid=12745426&clid=12347215&brid=567530&adid=517736_ssl&crid=48360139&ts=1659279031&bcud=519&ss=7&cb=63035"
+  },
+  {
+    "text": "",
+    "url": "https://www.thedailybeast.com/category/scouted?ref=home"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "Cheat Sheet",
+    "url": "https://www.thedailybeast.com/cheat-sheet"
+  },
+  {
+    "text": "Politics",
+    "url": "https://www.thedailybeast.com/category/politics"
+  },
+  {
+    "text": "Crime",
+    "url": "https://www.thedailybeast.com/category/us-news/crime-and-justice"
+  },
+  {
+    "text": "Entertainment",
+    "url": "https://www.thedailybeast.com/category/entertainment"
+  },
+  {
+    "text": "Media",
+    "url": "https://www.thedailybeast.com/category/media"
+  },
+  {
+    "text": "World",
+    "url": "https://www.thedailybeast.com/category/world"
+  },
+  {
+    "text": "Innovation",
+    "url": "https://www.thedailybeast.com/category/innovation"
+  },
+  {
+    "text": "U.S. News",
+    "url": "https://www.thedailybeast.com/category/us-news"
+  },
+  {
+    "text": "Scouted",
+    "url": "https://www.thedailybeast.com/category/scouted"
+  },
+  {
+    "text": "Travel",
+    "url": "https://www.thedailybeast.com/category/travel"
+  },
+  {
+    "text": "Subscription",
+    "url": "https://www.thedailybeast.com/membership"
+  },
+  {
+    "text": "Crossword",
+    "url": "https://www.thedailybeast.com/crossword-puzzles"
+  },
+  {
+    "text": "Newsletters",
+    "url": "https://www.thedailybeast.com/newsletters"
+  },
+  {
+    "text": "Podcasts",
+    "url": "https://www.thedailybeast.com/podcasts"
+  },
+  {
+    "text": "About",
+    "url": "https://www.thedailybeast.com/company/about-us"
+  },
+  {
+    "text": "Contact",
+    "url": "https://www.thedailybeast.com/company/contact-us"
+  },
+  {
+    "text": "Tips",
+    "url": "https://www.thedailybeast.com/tips"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.thedailybeast.com/company/jobs"
+  },
+  {
+    "text": "Advertise",
+    "url": "https://www.thedailybeast.com/advertising"
+  },
+  {
+    "text": "Help",
+    "url": "https://thedailybeast.freshdesk.com/support/home"
+  },
+  {
+    "text": "Privacy",
+    "url": "https://www.thedailybeast.com/company/privacy-policy"
+  },
+  {
+    "text": "Code of Ethics & Standards",
+    "url": "https://www.thedailybeast.com/company/code-of-ethics"
+  },
+  {
+    "text": "Diversity",
+    "url": "https://www.thedailybeast.com/company/diversity"
+  },
+  {
+    "text": "Terms & Conditions",
+    "url": "https://www.thedailybeast.com/company/terms-of-use"
+  },
+  {
+    "text": "Copyright & Trademark",
+    "url": "https://www.thedailybeast.com/company/copyright-trademark"
+  },
+  {
+    "text": "Sitemap",
+    "url": "https://www.thedailybeast.com/sitemap"
+  },
+  {
+    "text": "Best Picks",
+    "url": "https://bestpicks.thedailybeast.com/"
+  },
+  {
+    "text": "Coupons:",
+    "url": "https://coupons.thedailybeast.com/coupons"
+  },
+  {
+    "text": "Coupons:",
+    "url": "https://coupons.thedailybeast.com/coupons"
+  },
+  {
+    "text": "Walmart Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/walmart"
+  },
+  {
+    "text": "HP Coupon Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/hp"
+  },
+  {
+    "text": "Chewy Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/chewy"
+  },
+  {
+    "text": "Ulta Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/ulta"
+  },
+  {
+    "text": "NordVPN Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/nordvpn"
+  },
+  {
+    "text": "JCPenny Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/jcpenney"
+  },
+  {
+    "text": "Vistaprint Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/vistaprint"
+  },
+  {
+    "text": "Samsung Promo Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/samsung"
+  },
+  {
+    "text": "Home Depot Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/home-depot"
+  },
+  {
+    "text": "Office Depot Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/office-depot"
+  },
+  {
+    "text": "eBay Coupons",
+    "url": "https://coupons.thedailybeast.com/coupons/ebay"
+  },
+  {
+    "text": "Ashley Furniture Promo Codes",
+    "url": "https://coupons.thedailybeast.com/coupons/ashley-furniture"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/thedailybeast/"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/thedailybeast"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/thedailybeast/"
+  },
+  {
+    "text": "",
+    "url": "https://feeds.thedailybeast.com/rss/articles"
+  },
+  {
+    "text": "",
+    "url": "https://flipboard.com/@TheDailyBeast?utm_source=TheDailyBeast&utm_medium=follow&utm_campaign=tools"
+  }
+]

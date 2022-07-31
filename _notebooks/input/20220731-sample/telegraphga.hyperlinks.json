@@ -1,0 +1,818 @@
+[
+  {
+    "text": "close dialog",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "Claim Offer",
+    "url": "https://mycheckout.macon.com/subscribe?ofrgp_id=391&g2i_or_o=OnSite&g2i_or_p=BounceX&cid=top-bar_ret_bounce-pv2-sub-shaping-default-.99-3mo-15.99_202205"
+  },
+  {
+    "text": "close dialog",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "LOG IN",
+    "url": "https://account.macon.com/auth0"
+  },
+  {
+    "text": "SUBSCRIBE",
+    "url": "http://subscribe.macon.com/beinformed"
+  },
+  {
+    "text": " Macon GA Breaking News, Sports & Crime | Macon Telegraph",
+    "url": "https://www.macon.com"
+  },
+  {
+    "text": "Today's eEdition",
+    "url": "https://www.macon.com/e-edition/today"
+  },
+  {
+    "text": " 82\u00b0F 91\u00b0 73\u00b0",
+    "url": "/weather"
+  },
+  {
+    "text": "\n          Coronavirus\n        ",
+    "url": "https://www.macon.com/news/coronavirus/#navlink=navbar"
+  },
+  {
+    "text": "\n          Local News\n        ",
+    "url": "https://www.macon.com/news/local/#navlink=navbar"
+  },
+  {
+    "text": "\n          Sports\n        ",
+    "url": "https://www.macon.com/sports/#navlink=navbar"
+  },
+  {
+    "text": "\n          Obituaries\n        ",
+    "url": "https://www.legacy.com/obituaries/macon/#navlink=navbar"
+  },
+  {
+    "text": "\n          Positively\n        ",
+    "url": "https://www.macon.com/positively/#navlink=navbar"
+  },
+  {
+    "text": "\n          Personal Finance\n        ",
+    "url": "https://www.macon.com/money/#navlink=navbar"
+  },
+  {
+    "text": "\n        Home\n         ",
+    "url": "https://www.macon.com/#navlink=subnav"
+  },
+  {
+    "text": "\n                        About Us\n                    ",
+    "url": "https://www.macon.com/customer-service/about-us/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Account Management\n                    ",
+    "url": "https://myaccount.macon.com/mac_tl/home/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Archives\n                    ",
+    "url": "https://www.macon.com/site-services/article239247513.html#navlink=subnav"
+  },
+  {
+    "text": "\n                        Contact Us\n                    ",
+    "url": "https://www.macon.com/customer-service/contact-us/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Customer Service\n                    ",
+    "url": "https://www.macon.com/customer-service/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Subscribe\n                    ",
+    "url": "https://account.macon.com/static/subscribe/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Advertise with Us\n                    ",
+    "url": "https://www.macon.com/advertise/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Media Kit\n                    ",
+    "url": "https://go.mcclatchy.com/media-capabilities-macon/p/1#navlink=subnav"
+  },
+  {
+    "text": "\n                        Mobile Apps & eReaders\n                    ",
+    "url": "https://www.macon.com/mobile/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Newsletters\n                    ",
+    "url": "http://t.news.macon.com/webApp/mccSignupPage?siteName=macon#navlink=subnav"
+  },
+  {
+    "text": "\n                        Facebook\n                    ",
+    "url": "https://www.facebook.com/telegraphGA#navlink=subnav"
+  },
+  {
+    "text": "\n                        Twitter\n                    ",
+    "url": "https://twitter.com/telegraphGA#navlink=subnav"
+  },
+  {
+    "text": "\n                        Instagram\n                    ",
+    "url": "https://www.instagram.com/telegraphga/#navlink=subnav"
+  },
+  {
+    "text": "\n                        YouTube\n                    ",
+    "url": "https://www.youtube.com/user/Telegraph247#navlink=subnav"
+  },
+  {
+    "text": "\n        eEdition\n         ",
+    "url": "https://www.macon.com/e-edition/today#navlink=subnav"
+  },
+  {
+    "text": "\n                        Local\n                    ",
+    "url": "https://www.macon.com/news/local/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Houston & Peach\n                    ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Crime\n                    ",
+    "url": "https://www.macon.com/news/local/crime/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Education\n                    ",
+    "url": "https://www.macon.com/news/local/education/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Databases\n                    ",
+    "url": "https://www.macon.com/news/databases/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Georgia\n                    ",
+    "url": "https://www.macon.com/news/state/georgia/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Coronavirus\n                    ",
+    "url": "https://www.macon.com/coronavirus/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Weather News\n                    ",
+    "url": "https://www.macon.com/news/weather-news/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Politics\n                    ",
+    "url": "https://www.macon.com/news/politics-government/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Elections\n                    ",
+    "url": "https://www.macon.com/news/politics-government/election/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Personal Finance\n                    ",
+    "url": "https://www.macon.com/money/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Recalls\n                    ",
+    "url": "https://www.macon.com/news/recalls/#navlink=subnav"
+  },
+  {
+    "text": "\n                        National\n                    ",
+    "url": "https://www.macon.com/news/nation-world/national#navlink=subnav"
+  },
+  {
+    "text": "\n                        Environment\n                    ",
+    "url": "https://www.macon.com/environment/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Cop Shop Blog\n                    ",
+    "url": "https://www.macon.com/news/local/crime/cop-shop-blog/#navlink=subnav"
+  },
+  {
+    "text": "\n                        High Schools\n                    ",
+    "url": "https://www.macon.com/sports/high-school/#navlink=subnav"
+  },
+  {
+    "text": "\n                        University of Georgia\n                    ",
+    "url": "https://www.macon.com/sports/college/university-of-georgia/#navlink=subnav"
+  },
+  {
+    "text": "\n                        All Sports\n                    ",
+    "url": "https://www.macon.com/sports/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Food\n                    ",
+    "url": "https://www.macon.com/living/food-drink#navlink=subnav"
+  },
+  {
+    "text": "\n                        Restaurants\n                    ",
+    "url": "https://www.macon.com/entertainment/restaurants/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Comics\n                    ",
+    "url": "https://www.macon.com/entertainment/comics/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Puzzles & Games\n                    ",
+    "url": "http://games.macon.com/?arkpromo=site_subnav"
+  },
+  {
+    "text": "\n                        Horoscopes\n                    ",
+    "url": "https://www.macon.com/entertainment/horoscopes/#navlink=subnav"
+  },
+  {
+    "text": "\n                        All Living\n                    ",
+    "url": "https://www.macon.com/living/#navlink=subnav"
+  },
+  {
+    "text": "\n                        All Entertainment\n                    ",
+    "url": "https://www.macon.com/entertainment/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Opinion\n                    ",
+    "url": "https://www.macon.com/opinion/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Submit a Letter\n                    ",
+    "url": "https://www.macon.com/opinion/letters-to-the-editor/submit-letter/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Opinion Columns & Blogs\n                    ",
+    "url": "https://www.macon.com/opinion/opn-columns-blogs/#navlink=subnav"
+  },
+  {
+    "text": "\n                        View Obituaries\n                    ",
+    "url": "https://www.legacy.com/obituaries/macon/"
+  },
+  {
+    "text": "\n                        Place an Obituary\n                    ",
+    "url": "https://placead.mcclatchy.com/obits/macon/index.html"
+  },
+  {
+    "text": "\n                        Product Reviews\n                    ",
+    "url": "https://www.macon.com/product-reviews/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Health & Wellness\n                    ",
+    "url": "https://www.macon.com/health-wellness/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Software and Business\n                    ",
+    "url": "https://www.macon.com/software-business/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Shopping\n                    ",
+    "url": "https://www.macon.com/shopping/#navlink=subnav"
+  },
+  {
+    "text": "\n                        Paid Content by BrandPoint\n                    ",
+    "url": "https://www.macon.com/positively/happenings/partner-news/?ntv_adpz=3594"
+  },
+  {
+    "text": "\n        Public Notices\n         ",
+    "url": "https://macon.column.us/search/#navlink=subnav"
+  },
+  {
+    "text": "\n        Classifieds\n         ",
+    "url": "https://placeclassifieds.mcclatchy.com/classifieds/macon/index.html#navlink=subnav"
+  },
+  {
+    "text": "\n        Jobs\n         ",
+    "url": "https://jobs.macon.com#navlink=subnav"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/crime/article263968111.html#storylink=mainstage_lead"
+  },
+  {
+    "text": "\n      Crime\n    ",
+    "url": "https://www.macon.com/news/local/crime/"
+  },
+  {
+    "text": "\n        \n        Accused Macon killer claims he shot his mom\u2019s boyfriend 5 times to defend her. Did he lie?\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263968111.html#storylink=mainstage_lead"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/health-wellness/article263968956.html#storylink=mainstage_card2"
+  },
+  {
+    "text": "\n      Health and Wellness\n    ",
+    "url": "https://www.macon.com/health-wellness/"
+  },
+  {
+    "text": "\n        \n        First case of monkeypox identified in Middle Georgia, few vaccines available. Here\u2019s more:\n      ",
+    "url": "https://www.macon.com/health-wellness/article263968956.html#storylink=mainstage_card2"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/education/article263966596.html#storylink=mainstage_card3"
+  },
+  {
+    "text": "\n      Education\n    ",
+    "url": "https://www.macon.com/news/local/education/"
+  },
+  {
+    "text": "\n        \n        Seven changes to know about as Bibb Schools students return to class\n      ",
+    "url": "https://www.macon.com/news/local/education/article263966596.html#storylink=mainstage_card3"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/business/article263889457.html#storylink=mainstage_card4"
+  },
+  {
+    "text": "\n      Business\n    ",
+    "url": "https://www.macon.com/news/business/"
+  },
+  {
+    "text": "\n        \n        Savannah couple opens their third Dough Bros\u2019 Pizza Joint this year. This time in Macon\n      ",
+    "url": "https://www.macon.com/news/business/article263889457.html#storylink=mainstage_card4"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263853737.html#storylink=mainstage_card5"
+  },
+  {
+    "text": "\n      Houston & Peach\n    ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/"
+  },
+  {
+    "text": "\n        \n        Light bulb moment: Facebook post sparks Another Broken Egg Cafe coming to Warner Robins\n      ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263853737.html#storylink=mainstage_card5"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/crime/article263860907.html#storylink=mainstage_card6"
+  },
+  {
+    "text": "\n      Crime\n    ",
+    "url": "https://www.macon.com/news/local/crime/"
+  },
+  {
+    "text": "\n        \n        Four shot, two fatally, in gunfire at north Macon apartments, Bibb County coroner says\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263860907.html#storylink=mainstage_card6"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/crime/article263844997.html#storylink=mainstage_card7"
+  },
+  {
+    "text": "\n      Crime\n    ",
+    "url": "https://www.macon.com/news/local/crime/"
+  },
+  {
+    "text": "\n        \n        Surveillance video, confidential tip lead to arrest in Macon pedestrian\u2019s hit-and-run death\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263844997.html#storylink=mainstage_card7"
+  },
+  {
+    "text": "\n        \n        Man accused of sexual assault arrested in Macon after more than 18 years on the run\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263960511.html#storylink=topdigest_latest"
+  },
+  {
+    "text": "\n        \n        Two Macon brothers shot, one dead, in late-night shooting outside Pio Nono barber shop\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263955231.html#storylink=topdigest_latest"
+  },
+  {
+    "text": "\n        \n        CDC now recommends most Georgians wear masks indoors as COVID transmission rises\n      ",
+    "url": "https://www.macon.com/latest-news/article263885207.html#storylink=topdigest_latest"
+  },
+  {
+    "text": "\n        \n        7-foot alligator spotted outside Georgia daycare, photos show. \u2018Our own personal zoo\u2019\n      ",
+    "url": "https://www.macon.com/news/state/georgia/article263925766.html#storylink=topdigest_latest"
+  },
+  {
+    "text": "\n        \n        Macon man dies over a month after being injured in East Macon shooting\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263931061.html#storylink=topdigest_latest"
+  },
+  {
+    "text": "\n        More in Latest News\n    ",
+    "url": "https://www.macon.com/latest-news/"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.macon.com%2Fnews%2Fnation-world%2Fnational%2Farticle263921716.html"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.macon.com%2Fnews%2Fnation-world%2Fnational%2Farticle263921716.html&text=Drone%20video%3A%20Flooding%20devastates%20Eastern%20Kentucky%2C%20leaving%20death%2C%20destruction%20in%20its%20wake"
+  },
+  {
+    "text": "",
+    "url": "mailto:?subject=Drone%20video%3A%20Flooding%20devastates%20Eastern%20Kentucky%2C%20leaving%20death%2C%20destruction%20in%20its%20wake&body=https%3A%2F%2Fwww.macon.com%2Fnews%2Fnation-world%2Fnational%2Farticle263921716.html"
+  },
+  {
+    "text": "",
+    "url": "#"
+  },
+  {
+    "text": "Drone video: Flooding devastates Eastern Kentucky, leaving death, destruction in its wake",
+    "url": "https://www.macon.com/news/nation-world/national/article263921716.html"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.macon.com%2Flatest-news%2Farticle263894907.html"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.macon.com%2Flatest-news%2Farticle263894907.html&text=Bibb%20County%20Coroner%20on%202022%20homicides%2C%20'I%20believe%20it's%20anger%20and%20conflict.'"
+  },
+  {
+    "text": "",
+    "url": "mailto:?subject=Bibb%20County%20Coroner%20on%202022%20homicides%2C%20'I%20believe%20it's%20anger%20and%20conflict.'&body=https%3A%2F%2Fwww.macon.com%2Flatest-news%2Farticle263894907.html"
+  },
+  {
+    "text": "",
+    "url": "#"
+  },
+  {
+    "text": "Bibb County Coroner on 2022 homicides, 'I believe it's anger and conflict.'",
+    "url": "https://www.macon.com/latest-news/article263894907.html"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.macon.com%2Fentertainment%2Farticle263805578.html"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.macon.com%2Fentertainment%2Farticle263805578.html&text=Slideshow%3A%20Here's%20who%20is%20coming%20to%20perform%20at%20the%202022%20Georgia%20National%20Fair"
+  },
+  {
+    "text": "",
+    "url": "mailto:?subject=Slideshow%3A%20Here's%20who%20is%20coming%20to%20perform%20at%20the%202022%20Georgia%20National%20Fair&body=https%3A%2F%2Fwww.macon.com%2Fentertainment%2Farticle263805578.html"
+  },
+  {
+    "text": "",
+    "url": "#"
+  },
+  {
+    "text": "Slideshow: Here's who is coming to perform at the 2022 Georgia National Fair",
+    "url": "https://www.macon.com/entertainment/article263805578.html"
+  },
+  {
+    "text": "\n        View more videos \n    ",
+    "url": "/video"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/sports/nfl/article264017556.html#storylink=hpdigest_sports"
+  },
+  {
+    "text": "\n        \n        Giants Rookies Kayvon Thibodeaux, Evan Neal Forever Linked in Franchise Lore\n      ",
+    "url": "https://www.macon.com/sports/nfl/article264017556.html#storylink=hpdigest_sports"
+  },
+  {
+    "text": "\n        \n        Taylor, Mixon Say Super Bowl Friction Is Behind Them\n      ",
+    "url": "https://www.macon.com/sports/article264017426.html#storylink=hpdigest_sports"
+  },
+  {
+    "text": "\n        \n        Kenny Pickett Addresses Early Struggles at Training Camp\n      ",
+    "url": "https://www.macon.com/sports/nfl/article264017386.html#storylink=hpdigest_sports"
+  },
+  {
+    "text": "\n        \n        Robert Beal Waited His Turn, Bulldogs Need Him Big in 2022\n      ",
+    "url": "https://www.macon.com/sports/college/article264017321.html#storylink=hpdigest_sports"
+  },
+  {
+    "text": "\n        More in Sports\n    ",
+    "url": "https://www.macon.com/sports/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263853737.html#storylink=hpdigest_houston"
+  },
+  {
+    "text": "\n        \n        Light bulb moment: Facebook post sparks Another Broken Egg Cafe coming to Warner Robins\n      ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263853737.html#storylink=hpdigest_houston"
+  },
+  {
+    "text": "\n        \n        \u2018Beaning with meaning.\u2019 Coffee shop coming to Warner Robins to help Honduran orphanage\n      ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263729808.html#storylink=hpdigest_houston"
+  },
+  {
+    "text": "\n        \n        \u2018Our food is so good we couldn\u2019t name it!\u2019 New restaurant to open soon in Warner Robins\n      ",
+    "url": "https://www.macon.com/news/business/article263625353.html#storylink=hpdigest_houston"
+  },
+  {
+    "text": "\n        \n        Another Broken Egg Cafe, Crumbl Cookies and new Mexican spot coming to Warner Robins\n      ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263666888.html#storylink=hpdigest_houston"
+  },
+  {
+    "text": "\n        More in Houston & Peach\n    ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/business/article263889457.html#storylink=hpdigest_business"
+  },
+  {
+    "text": "\n        \n        Savannah couple opens their third Dough Bros\u2019 Pizza Joint this year. This time in Macon\n      ",
+    "url": "https://www.macon.com/news/business/article263889457.html#storylink=hpdigest_business"
+  },
+  {
+    "text": "\n        \n        Light bulb moment: Facebook post sparks Another Broken Egg Cafe coming to Warner Robins\n      ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263853737.html#storylink=hpdigest_business"
+  },
+  {
+    "text": "\n        \n        States boost child care money as congressional effort stalls\n      ",
+    "url": "https://www.macon.com/news/business/article264017091.html#storylink=hpdigest_business"
+  },
+  {
+    "text": "\n        \n        Manchin declines to say if he wants Dems to retain control\n      ",
+    "url": "https://www.macon.com/news/business/article264017036.html#storylink=hpdigest_business"
+  },
+  {
+    "text": "\n        More in Business\n    ",
+    "url": "https://www.macon.com/news/business/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/nation-world/national/article263957126.html#storylink=hpdigest_national"
+  },
+  {
+    "text": "\n        \n        Video shows creative way rattlesnake was coaxed out from under mini fridge in Arizona\n      ",
+    "url": "https://www.macon.com/news/nation-world/national/article263957126.html#storylink=hpdigest_national"
+  },
+  {
+    "text": "\n        \n        Naked 4-year-old led cops to Florida home so \u2018deplorable,\u2019 it\u2019s hazardous, police say\n      ",
+    "url": "https://www.macon.com/news/nation-world/national/article263959696.html#storylink=hpdigest_national"
+  },
+  {
+    "text": "\n        \n        Toddler left camper as parents slept, spent night walking forest, Maine rescuers say\n      ",
+    "url": "https://www.macon.com/news/nation-world/national/article263955791.html#storylink=hpdigest_national"
+  },
+  {
+    "text": "\n        \n        Deep pits on the moon may lead to caves, NASA says. Study uncovers startling detail\n      ",
+    "url": "https://www.macon.com/news/nation-world/national/article263918481.html#storylink=hpdigest_national"
+  },
+  {
+    "text": "\n        More in National\n    ",
+    "url": "https://www.macon.com/news/nation-world/national/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/local/crime/article263968111.html#storylink=hpdigest_crime"
+  },
+  {
+    "text": "\n        \n        Accused Macon killer claims he shot his mom\u2019s boyfriend 5 times to defend her. Did he lie?\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263968111.html#storylink=hpdigest_crime"
+  },
+  {
+    "text": "\n        \n        Man accused of sexual assault arrested in Macon after more than 18 years on the run\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263960511.html#storylink=hpdigest_crime"
+  },
+  {
+    "text": "\n        \n        Macon man dies over a month after being injured in East Macon shooting\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263931061.html#storylink=hpdigest_crime"
+  },
+  {
+    "text": "\n        \n        GBI arrests three men in connection with fatal July 23 shooting in East Dublin\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263914341.html#storylink=hpdigest_crime"
+  },
+  {
+    "text": "\n        More in Crime\n    ",
+    "url": "https://www.macon.com/news/local/crime/"
+  },
+  {
+    "text": "\n        \n        Video shows creative way rattlesnake was coaxed out from under mini fridge in Arizona\n      ",
+    "url": "https://www.macon.com/news/nation-world/national/article263957126.html#wgt=trending"
+  },
+  {
+    "text": "\n        \n        \u2018Amazing\u2019 mom of 2 hit, killed during morning jog in Georgia. Firefighter is charged\n      ",
+    "url": "https://www.macon.com/news/state/georgia/article263963746.html#wgt=trending"
+  },
+  {
+    "text": "\n        \n        Boater\u2019s \u2018keen eye\u2019 kept costly, invasive hitchhiker out of Georgia lake, officials say\n      ",
+    "url": "https://www.macon.com/news/nation-world/national/article263976601.html#wgt=trending"
+  },
+  {
+    "text": "\n        \n        Accused Macon killer claims he shot his mom\u2019s boyfriend 5 times to defend her. Did he lie?\n      ",
+    "url": "https://www.macon.com/news/local/crime/article263968111.html#wgt=trending"
+  },
+  {
+    "text": "\n        \n        Red Cross struggles to see prison where Ukrainian POWs died\n      ",
+    "url": "https://www.macon.com/news/business/article263993271.html#wgt=trending"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n                    \n                        \n                        \n                    \n                \n            ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263142908.html#wgt=photos"
+  },
+  {
+    "text": "\n        \n        Photos: Independence Day Celebration in Warner Robins\n      ",
+    "url": "https://www.macon.com/news/local/community/houston-peach/article263142908.html#wgt=photos"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n                    \n                        \n                        \n                    \n                \n            ",
+    "url": "https://www.macon.com/news/weather/article260173085.html#wgt=photos"
+  },
+  {
+    "text": "\n        \n        Photos: Storm damage, including downed trees and power lines, in Macon, Houston County\n      ",
+    "url": "https://www.macon.com/news/weather/article260173085.html#wgt=photos"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n                    \n                        \n                        \n                    \n                \n            ",
+    "url": "https://www.macon.com/sports/high-school/article258638398.html#wgt=photos"
+  },
+  {
+    "text": "\n        \n        Photo Gallery: Middle Georgia Region Basketball tournaments\n      ",
+    "url": "https://www.macon.com/sports/high-school/article258638398.html#wgt=photos"
+  },
+  {
+    "text": "\n        View all galleries \n    ",
+    "url": "/galleries"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/sports/nfl/article264017556.html#storylink=partnerdigest_national"
+  },
+  {
+    "text": "\n        \n        Giants Rookies Kayvon Thibodeaux, Evan Neal Forever Linked in Franchise Lore\n      ",
+    "url": "https://www.macon.com/sports/nfl/article264017556.html#storylink=partnerdigest_national"
+  },
+  {
+    "text": "\n        \n        \u2018Inside Knowledge\u2019: Cowboys Sign Takk McKinley? Jerry Jones Reveals Plan\n      ",
+    "url": "https://www.macon.com/sports/partners/article264017551.html#storylink=partnerdigest_national"
+  },
+  {
+    "text": "\n        \n        Taylor, Mixon Say Super Bowl Friction Is Behind Them\n      ",
+    "url": "https://www.macon.com/sports/article264017426.html#storylink=partnerdigest_national"
+  },
+  {
+    "text": "\n        \n        Kenny Pickett Addresses Early Struggles at Training Camp\n      ",
+    "url": "https://www.macon.com/sports/nfl/article264017386.html#storylink=partnerdigest_national"
+  },
+  {
+    "text": "\n        \n        10 Players Who Impressed at Steelers Training Camp\n      ",
+    "url": "https://www.macon.com/sports/nfl/article264017331.html#storylink=partnerdigest_national"
+  },
+  {
+    "text": "\n        More in National Sports News\n    ",
+    "url": "https://www.macon.com/sports/partners/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/news/business/article264016791.html#storylink=partnerdigest_the"
+  },
+  {
+    "text": "\n        \n        Huge Star Opening Las Vegas Strip Venue\n      ",
+    "url": "https://www.macon.com/news/business/article264016791.html#storylink=partnerdigest_the"
+  },
+  {
+    "text": "\n        \n        Comcast\u2019s Peacock Needs To Think Bigger\n      ",
+    "url": "https://www.macon.com/news/business/article264015921.html#storylink=partnerdigest_the"
+  },
+  {
+    "text": "\n        \n        Recession Debate Shifting to Question of When, not if\n      ",
+    "url": "https://www.macon.com/news/business/article264015651.html#storylink=partnerdigest_the"
+  },
+  {
+    "text": "\n        \n        Loch Ness Monster Clues Found in Desert\n      ",
+    "url": "https://www.macon.com/news/business/article264015591.html#storylink=partnerdigest_the"
+  },
+  {
+    "text": "\n        \n        Disney Theme Park Rival Launches New Thrill Ride\n      ",
+    "url": "https://www.macon.com/news/business/article264010871.html#storylink=partnerdigest_the"
+  },
+  {
+    "text": "\n        More in The Street\n    ",
+    "url": "https://www.macon.com/news/business/the-street/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/shopping/article263958206.html#storylink=partnerdigest_shopping"
+  },
+  {
+    "text": "\n        \n        Strut The Courts (Or Anywhere) Confidently In TikTok\u2019s Viral Tennis Dress\n      ",
+    "url": "https://www.macon.com/shopping/article263958206.html#storylink=partnerdigest_shopping"
+  },
+  {
+    "text": "\n        \n        Air fry everyday with this \u201cmagical appliance\u201d that\u2019s on sale right now\n      ",
+    "url": "https://www.macon.com/shopping/article263916911.html#storylink=partnerdigest_shopping"
+  },
+  {
+    "text": "\n        \n        Did someone say never-ending popsicles? Create a refreshing summer treat with the perfect popsicle molds\n      ",
+    "url": "https://www.macon.com/shopping/article263976016.html#storylink=partnerdigest_shopping"
+  },
+  {
+    "text": "\n        \n        Spend More Time Lounging Outside With This Highly-Rated Hammock That\u2019s Less Than $25\n      ",
+    "url": "https://www.macon.com/site-services/newsletters/morning-newsletter/article263918251.html#storylink=partnerdigest_shopping"
+  },
+  {
+    "text": "\n        \n        For less than $30 you can take your cat with you anywhere\n      ",
+    "url": "https://www.macon.com/shopping/article263876267.html#storylink=partnerdigest_shopping"
+  },
+  {
+    "text": "\n        More in Shopping\n    ",
+    "url": "https://www.macon.com/shopping/"
+  },
+  {
+    "text": "\n\n                \n\n                \n                \n            ",
+    "url": "https://www.macon.com/living/article259127823.html#storylink=featured"
+  },
+  {
+    "text": "\n        \n        True Love! See All of the Celebrities Who Got Married in 2022: Wedding Details\n      ",
+    "url": "https://www.macon.com/living/article259127823.html#storylink=featured"
+  },
+  {
+    "text": "\n        More in Living\n    ",
+    "url": "https://www.macon.com/living/"
+  },
+  {
+    "text": "\n        \n        Big Tech\u2019s U.K. antitrust cop steps down with job not quite done\n      ",
+    "url": "https://www.macon.com/living/article264010786.html#storylink=featured"
+  },
+  {
+    "text": "\n        More in Living\n    ",
+    "url": "https://www.macon.com/living/"
+  },
+  {
+    "text": "\n        \n        Pope Francis still does not rule out resignation as head of Church\n      ",
+    "url": "https://www.macon.com/living/religion/article264006866.html#storylink=featured"
+  },
+  {
+    "text": "\n        More in Religion\n    ",
+    "url": "https://www.macon.com/living/religion/"
+  },
+  {
+    "text": "\n        Macon Telegraph App\n    ",
+    "url": "https://macon.com/mobile"
+  },
+  {
+    "text": "\n        View Newsletters \n    ",
+    "url": "http://t.news.macon.com/webApp/mccSignupPage?siteName=macon"
+  },
+  {
+    "text": "\n              \n            ",
+    "url": "https://www.facebook.com/telegraphGA"
+  },
+  {
+    "text": "\n              \n            ",
+    "url": "https://twitter.com/telegraphGA"
+  },
+  {
+    "text": "\n              \n            ",
+    "url": "https://www.youtube.com/user/Telegraph247"
+  },
+  {
+    "text": "Start a Subscription",
+    "url": "https://mycheckout.macon.com "
+  },
+  {
+    "text": "Customer Service",
+    "url": "https://www.macon.com/customer-service#navlink=mi_footer"
+  },
+  {
+    "text": "eEdition",
+    "url": "https://www.macon.com/e-edition/today#navlink=mi_footer"
+  },
+  {
+    "text": "Vacation Hold",
+    "url": "https://myaccount.macon.com/mac_tl/home"
+  },
+  {
+    "text": "Pay Your Bill",
+    "url": "https://myaccount.macon.com/mac_tl/home"
+  },
+  {
+    "text": "About Us",
+    "url": "https://www.mcclatchy.com/our-impact/markets/the-telegraph/#navlink=mi_footer"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://www.macon.com/customer-service/#navlink=mi_footer"
+  },
+  {
+    "text": "Newsletters",
+    "url": "http://t.news.macon.com/webApp/mccSignupPage?siteName=macon#navlink=mi_footer"
+  },
+  {
+    "text": "Archives",
+    "url": "https://www.macon.com/archives/#navlink=mi_footer"
+  },
+  {
+    "text": "Personal Finance",
+    "url": "https://www.macon.com/money/#navlink=mi_footer"
+  },
+  {
+    "text": "Place a Classified Ad",
+    "url": "https://placeclassifieds.mcclatchy.com/classifieds/macon/index.html#navlink=mi_footer"
+  },
+  {
+    "text": "Advertise with Us",
+    "url": "http://view.ceros.com/mcclatchy/media-capabilities-macon"
+  },
+  {
+    "text": "Copyright",
+    "url": "https://www.macon.com/customer-service/copyright/#navlink=mi_footer"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://www.macon.com/customer-service/privacy-policy/#navlink=mi_footer"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://www.macon.com/customer-service/terms-of-service/#navlink=mi_footer"
+  },
+  {
+    "text": "close dialog",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "Claim Offer",
+    "url": "https://mycheckout.macon.com/subscribe?ofrgp_id=391&g2i_or_o=OnSite&g2i_or_p=BounceX&cid=top-bar_ret_bounce-pv2-sub-shaping-default-.99-3mo-15.99_202205"
+  },
+  {
+    "text": "close dialog",
+    "url": "javascript:void(0)"
+  }
+]

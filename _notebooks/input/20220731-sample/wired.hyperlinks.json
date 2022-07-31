@@ -1,0 +1,790 @@
+[
+  {
+    "text": "Skip to main content",
+    "url": "#main-content"
+  },
+  {
+    "text": "View saved stories",
+    "url": "/account/saved"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "Backchannel",
+    "url": "/category/backchannel/"
+  },
+  {
+    "text": "Business",
+    "url": "/category/business/"
+  },
+  {
+    "text": "Culture",
+    "url": "/category/culture/"
+  },
+  {
+    "text": "Gear",
+    "url": "/category/gear/"
+  },
+  {
+    "text": "Ideas",
+    "url": "/category/ideas/"
+  },
+  {
+    "text": "Science",
+    "url": "/category/science/"
+  },
+  {
+    "text": "Security",
+    "url": "/category/security/"
+  },
+  {
+    "text": "View saved stories",
+    "url": "/account/saved"
+  },
+  {
+    "text": "Sign In",
+    "url": "/auth/initiate?redirectURL=%2F&source=VERSO_NAVIGATION"
+  },
+  {
+    "text": "SearchSearch",
+    "url": "/search/"
+  },
+  {
+    "text": "Backchannel",
+    "url": "/category/backchannel/"
+  },
+  {
+    "text": "Business",
+    "url": "/category/business/"
+  },
+  {
+    "text": "Culture",
+    "url": "/category/culture/"
+  },
+  {
+    "text": "Gear",
+    "url": "/category/gear/"
+  },
+  {
+    "text": "Ideas",
+    "url": "/category/ideas/"
+  },
+  {
+    "text": "Science",
+    "url": "/category/science/"
+  },
+  {
+    "text": "Security",
+    "url": "/category/security/"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts/"
+  },
+  {
+    "text": "Video",
+    "url": "/video/"
+  },
+  {
+    "text": "Artificial Intelligence",
+    "url": "https://www.wired.com/category/artificial-intelligence/"
+  },
+  {
+    "text": "Climate",
+    "url": "https://www.wired.com/category/science/environment-climate-change/"
+  },
+  {
+    "text": "Games",
+    "url": "https://www.wired.com/tag/video-games/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "https://www.wired.com/newsletter"
+  },
+  {
+    "text": "Magazine",
+    "url": "https://www.wired.com/magazine"
+  },
+  {
+    "text": "Events",
+    "url": "https://events.wired.com/home"
+  },
+  {
+    "text": "Wired Insider",
+    "url": "/category/wiredinsider/"
+  },
+  {
+    "text": "Coupons",
+    "url": "https://www.wired.com/coupons"
+  },
+  {
+    "text": "Most Recent",
+    "url": "https://www.wired.com/most-recent/"
+  },
+  {
+    "text": "",
+    "url": "/story/big-business-burying-carbon-dioxide-capture-storage/"
+  },
+  {
+    "text": "The Big Business of Burying Carbon",
+    "url": "/story/big-business-burying-carbon-dioxide-capture-storage/"
+  },
+  {
+    "text": "Jeffrey Ball",
+    "url": "/author/jeffrey-ball"
+  },
+  {
+    "text": "",
+    "url": "/story/vr-still-stinks-because-it-doesnt-smell/"
+  },
+  {
+    "text": "VR Still Stinks Because It Doesn\u2019t Smell",
+    "url": "/story/vr-still-stinks-because-it-doesnt-smell/"
+  },
+  {
+    "text": "Jude Stewart",
+    "url": "/author/jude-stewart"
+  },
+  {
+    "text": "",
+    "url": "/story/i-love-technical-jorts/"
+  },
+  {
+    "text": "All I\u2019ve Worn This Summer Are Technical Jorts",
+    "url": "/story/i-love-technical-jorts/"
+  },
+  {
+    "text": "Adrienne So",
+    "url": "/author/adrienne-so"
+  },
+  {
+    "text": "",
+    "url": "/story/5-features-samsung-android-only"
+  },
+  {
+    "text": "5 Great Features You Only Get in Samsung\u2019s Version of Android",
+    "url": "/story/5-features-samsung-android-only"
+  },
+  {
+    "text": "David Nield",
+    "url": "author/david-nield"
+  },
+  {
+    "text": "",
+    "url": "/gallery/best-family-board-games"
+  },
+  {
+    "text": "Step Away From Screens With the 20 Best Family Board Games\u00a0",
+    "url": "/gallery/best-family-board-games"
+  },
+  {
+    "text": "Simon Hill",
+    "url": "author/simon-hill"
+  },
+  {
+    "text": "",
+    "url": "/review/samsung-qn90b"
+  },
+  {
+    "text": "The Samsung QN90B Is the Best TV for Bright Rooms",
+    "url": "/review/samsung-qn90b"
+  },
+  {
+    "text": "Parker Hall",
+    "url": "author/parker-hall"
+  },
+  {
+    "text": "",
+    "url": "/story/hypergraphs-reveal-a-solution-to-a-50-year-old-problem"
+  },
+  {
+    "text": "Hypergraphs Reveal a Solution to a 50-Year-Old Problem",
+    "url": "/story/hypergraphs-reveal-a-solution-to-a-50-year-old-problem"
+  },
+  {
+    "text": "Leila Sloman",
+    "url": "author/leila-sloman"
+  },
+  {
+    "text": "",
+    "url": "/story/ip-ratings-explained"
+  },
+  {
+    "text": "What to Know About IP Ratings Before Getting Your Phone Wet",
+    "url": "/story/ip-ratings-explained"
+  },
+  {
+    "text": "Reece Rogers",
+    "url": "author/reece-rogers"
+  },
+  {
+    "text": "",
+    "url": "/story/apple-ios-google-chrome-security-updates-july-2022/"
+  },
+  {
+    "text": "Apple Just Patched 37 iPhone Security Bugs",
+    "url": "/story/apple-ios-google-chrome-security-updates-july-2022/"
+  },
+  {
+    "text": "Kate O'Flaherty",
+    "url": "/author/kate-oflaherty"
+  },
+  {
+    "text": "",
+    "url": "/story/best-cheap-phones/"
+  },
+  {
+    "text": "The Best Cheap Phones for Almost Every Budget",
+    "url": "/story/best-cheap-phones/"
+  },
+  {
+    "text": "Julian Chokkattu",
+    "url": "/author/julian-chokkattu"
+  },
+  {
+    "text": "",
+    "url": "/story/cyber-tax-data-breach-cost-security-roundup/"
+  },
+  {
+    "text": "You Pay More When Companies Get Hacked",
+    "url": "/story/cyber-tax-data-breach-cost-security-roundup/"
+  },
+  {
+    "text": "Matt Burgess",
+    "url": "/author/matt-burgess"
+  },
+  {
+    "text": "",
+    "url": "/story/google-maps-adds-more-bike-directions/"
+  },
+  {
+    "text": "Google Maps Gets More Bike-Friendly",
+    "url": "/story/google-maps-adds-more-bike-directions/"
+  },
+  {
+    "text": "Boone Ashworth",
+    "url": "/author/boone-ashworth"
+  },
+  {
+    "text": "Longreads",
+    "url": "https://www.wired.com/category/backchannel/"
+  },
+  {
+    "text": "",
+    "url": "/story/race-to-engineer-new-psychedelic-drugs/"
+  },
+  {
+    "text": "The High-Stakes Race to Engineer New Psychedelic Drugs",
+    "url": "/story/race-to-engineer-new-psychedelic-drugs/"
+  },
+  {
+    "text": "John Semley",
+    "url": "/author/john-semley"
+  },
+  {
+    "text": "",
+    "url": "/story/meet-the-lobbyist-next-door/"
+  },
+  {
+    "text": "Meet the Lobbyist Next Door",
+    "url": "/story/meet-the-lobbyist-next-door/"
+  },
+  {
+    "text": "",
+    "url": "/story/david-wengrow-dawn-of-everything/"
+  },
+  {
+    "text": "Humans Have Always Been Wrong About Humans",
+    "url": "/story/david-wengrow-dawn-of-everything/"
+  },
+  {
+    "text": "",
+    "url": "/story/the-loneliness-of-the-junior-college-esports-coach/"
+  },
+  {
+    "text": "The Loneliness of the Junior College Esports Coach",
+    "url": "/story/the-loneliness-of-the-junior-college-esports-coach/"
+  },
+  {
+    "text": "",
+    "url": "/story/sun-storm-end-civilization/"
+  },
+  {
+    "text": "Here Comes the Sun\u2014to End Civilization",
+    "url": "/story/sun-storm-end-civilization/"
+  },
+  {
+    "text": "Business",
+    "url": "https://www.wired.com/category/business/"
+  },
+  {
+    "text": "",
+    "url": "/story/big-tech-companies-cant-stop-obsessing-over-apple-and-tiktok"
+  },
+  {
+    "text": "Big Tech Can\u2019t Stop Obsessing Over Apple and TikTok",
+    "url": "/story/big-tech-companies-cant-stop-obsessing-over-apple-and-tiktok"
+  },
+  {
+    "text": "When You\u2019ve Lost the Kardashians, You\u2019re Screwed",
+    "url": "/story/plaintext-kardashians-jenners-instagram"
+  },
+  {
+    "text": "Drone Contraband Deliveries Are Rampant at US Prisons",
+    "url": "/story/drone-contraband-deliveries-prisons-united-states"
+  },
+  {
+    "text": "Culture",
+    "url": "https://www.wired.com/category/culture/"
+  },
+  {
+    "text": "",
+    "url": "/story/beyonce-conspiracy-theories-revelation"
+  },
+  {
+    "text": "Is Beyonc\u00e9\u2019s Renaissance a Sign of the Apocalypse?",
+    "url": "/story/beyonce-conspiracy-theories-revelation"
+  },
+  {
+    "text": "Escaping Gravity Takes a Brutally Honest Look at NASA",
+    "url": "/2022/07/geeks-guide-escaping-gravity-nasa"
+  },
+  {
+    "text": "The Gray Man Doesn\u2019t Need a Cinematic Universe",
+    "url": "/story/netflix-the-gray-man-cinematic-universe-franchise"
+  },
+  {
+    "text": "Gear",
+    "url": "https://www.wired.com/category/gear/"
+  },
+  {
+    "text": "",
+    "url": "/story/no-recipe-recipes"
+  },
+  {
+    "text": "There Is Some Good in \u201cNo-Recipe\u201d Cookbooks",
+    "url": "/story/no-recipe-recipes"
+  },
+  {
+    "text": "14 Great Deals on Laptops, Phones, and TVs",
+    "url": "/story/weekend-deals-july-30-2022"
+  },
+  {
+    "text": "Goodbye to the BMW i3\u2014an Icon of the 21st Century",
+    "url": "/story/goodbye-bmw-i3-21st-century-icon"
+  },
+  {
+    "text": "Ideas",
+    "url": "https://www.wired.com/category/ideas/"
+  },
+  {
+    "text": "",
+    "url": "/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance"
+  },
+  {
+    "text": "After Going Solar, I Felt the Bliss of Sudden Abundance",
+    "url": "/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance"
+  },
+  {
+    "text": "Who Will Own the Art of the Future?\u00a0",
+    "url": "/story/openai-dalle-copyright-intellectual-property-art"
+  },
+  {
+    "text": "Against \u2018Public Health\u2019",
+    "url": "/story/covid-19-public-health-politics"
+  },
+  {
+    "text": "Science",
+    "url": "https://www.wired.com/category/science/"
+  },
+  {
+    "text": "",
+    "url": "/story/how-to-simulate-walking-on-the-moon-without-leaving-the-planet"
+  },
+  {
+    "text": "How to Simulate Walking on the Moon\u2014Without Leaving the Planet",
+    "url": "/story/how-to-simulate-walking-on-the-moon-without-leaving-the-planet"
+  },
+  {
+    "text": "How to Prevent Another European Transport Meltdown",
+    "url": "/story/europe-transport-heat-wave-solutions"
+  },
+  {
+    "text": "Security",
+    "url": "https://www.wired.com/category/security/"
+  },
+  {
+    "text": "",
+    "url": "/story/tor-browser-russia-blocks"
+  },
+  {
+    "text": "How Tor Is Fighting\u2014and Beating\u2014Russian Censorship",
+    "url": "/story/tor-browser-russia-blocks"
+  },
+  {
+    "text": "Don\u2019t Call the New Federal Gun Law a Gun Law",
+    "url": "/story/federal-gun-law-2022-cdc-data"
+  },
+  {
+    "text": "Interstate Travel Post-Roe Isn\u2019t as Secure as You May Think",
+    "url": "/story/insterstate-travel-abortion-post-roe"
+  },
+  {
+    "text": "Artificial Intelligence",
+    "url": "https://www.wired.com/category/artificial-intelligence/"
+  },
+  {
+    "text": "",
+    "url": "/story/when-ai-makes-art"
+  },
+  {
+    "text": "When AI Makes Art, Humans Supply the Creative Spark",
+    "url": "/story/when-ai-makes-art"
+  },
+  {
+    "text": "Amazon\u2019s \u2018Safe\u2019 New Robot Won\u2019t Fix Its Worker Injury Problem",
+    "url": "/story/amazons-worker-injury-problem"
+  },
+  {
+    "text": "The Fight Over Which Uses of AI Europe Should Outlaw",
+    "url": "/story/europe-law-outlaw-ai"
+  },
+  {
+    "text": "Covid-19",
+    "url": "https://www.wired.com/tag/covid-19/"
+  },
+  {
+    "text": "",
+    "url": "/story/these-vaccines-will-take-aim-at-covid-and-its-entire-sars-lineage"
+  },
+  {
+    "text": "These Vaccines Will Take Aim at Covid\u2014and Its Entire SARS Lineage",
+    "url": "/story/these-vaccines-will-take-aim-at-covid-and-its-entire-sars-lineage"
+  },
+  {
+    "text": "Pandemic Death Counts Are Numbing. There\u2019s Another Way to Process",
+    "url": "/story/covid19-data-visceralization-death-statistics"
+  },
+  {
+    "text": "The US Has a Historic Opportunity to Bridge the Digital Divide",
+    "url": "/story/digital-divide-broadband-fcc"
+  },
+  {
+    "text": "Games",
+    "url": "https://www.wired.com/tag/video-games/"
+  },
+  {
+    "text": "",
+    "url": "/story/what-is-google-play-pass"
+  },
+  {
+    "text": "What Is Google Play Pass? Should You Subscribe?",
+    "url": "/story/what-is-google-play-pass"
+  },
+  {
+    "text": "The Best Mobile Game Controllers",
+    "url": "/gallery/best-mobile-game-controllers-for-iphone-android"
+  },
+  {
+    "text": "Is This Nier: Automata Church a Hoax or a 5-Year-Old Secret?",
+    "url": "/story/nier-automata-church-hoax-yoko-taro"
+  },
+  {
+    "text": "Climate",
+    "url": "https://www.wired.com/category/science/environment-climate-change/"
+  },
+  {
+    "text": "",
+    "url": "/story/the-secret-weapon-of-the-new-climate-bill-tax-credits/"
+  },
+  {
+    "text": "The New Climate Bill\u2019s Secret Weapon? Tax Credits",
+    "url": "/story/the-secret-weapon-of-the-new-climate-bill-tax-credits/"
+  },
+  {
+    "text": "Matt Simon",
+    "url": "/author/matt-simon"
+  },
+  {
+    "text": "",
+    "url": "/story/carbon-offsets-alone-wont-make-flying-climate-friendly/"
+  },
+  {
+    "text": "Carbon Offsets Alone Won\u2019t Make Flying Climate-Friendly",
+    "url": "/story/carbon-offsets-alone-wont-make-flying-climate-friendly/"
+  },
+  {
+    "text": "",
+    "url": "/story/wildfire-smoke-is-terrible-for-you-but-what-does-it-do-to-cows/"
+  },
+  {
+    "text": "Wildfire Smoke Is Terrible for You. But What Does It Do to Cows?",
+    "url": "/story/wildfire-smoke-is-terrible-for-you-but-what-does-it-do-to-cows/"
+  },
+  {
+    "text": "",
+    "url": "/story/how-do-you-know-a-cargo-ship-is-polluting-it-makes-clouds/"
+  },
+  {
+    "text": "How Do You Know a Cargo Ship Is Polluting? It Makes Clouds",
+    "url": "/story/how-do-you-know-a-cargo-ship-is-polluting-it-makes-clouds/"
+  },
+  {
+    "text": "",
+    "url": "/story/nuclear-power-plants-struggling-to-stay-cool/"
+  },
+  {
+    "text": "Nuclear Power Plants Are Struggling to Stay Cool",
+    "url": "/story/nuclear-power-plants-struggling-to-stay-cool/"
+  },
+  {
+    "text": "Product Reviews",
+    "url": "https://www.wired.com/category/gear/reviews/"
+  },
+  {
+    "text": "Buying Guides",
+    "url": "https://www.wired.com/category/gear/buying-guides/"
+  },
+  {
+    "text": "",
+    "url": "/review/breville-joule-oven-air-fryer-pro/"
+  },
+  {
+    "text": "Finally, a Smart Air Fryer We Actually Like",
+    "url": "/review/breville-joule-oven-air-fryer-pro/"
+  },
+  {
+    "text": "Joe Ray",
+    "url": "/author/joe-ray"
+  },
+  {
+    "text": "",
+    "url": "/gallery/best-camera-bags-backpacks-straps-inserts/"
+  },
+  {
+    "text": "The Bags, Backpacks, Cubes, and Straps to Protect Your Camera",
+    "url": "/gallery/best-camera-bags-backpacks-straps-inserts/"
+  },
+  {
+    "text": "",
+    "url": "/review/hp-dev-one-linux-laptop/"
+  },
+  {
+    "text": "The HP Dev One Is the Best Linux Laptop We\u2019ve Tested",
+    "url": "/review/hp-dev-one-linux-laptop/"
+  },
+  {
+    "text": "",
+    "url": "/story/best-google-pixel-phone/"
+  },
+  {
+    "text": "Which Google Pixel Phone (and Gear) Should You Buy?",
+    "url": "/story/best-google-pixel-phone/"
+  },
+  {
+    "text": "",
+    "url": "/story/best-rapid-at-home-covid-19-test-kits/"
+  },
+  {
+    "text": "Rapid At-Home Covid-19 Tests\u2014and Where to Find Them",
+    "url": "/story/best-rapid-at-home-covid-19-test-kits/"
+  },
+  {
+    "text": "See all newsletters.",
+    "url": "https://www.wired.com/newsletter?sourceCode=HeaderAndFooter"
+  },
+  {
+    "text": "User Agreement",
+    "url": "https://www.condenast.com/user-agreement"
+  },
+  {
+    "text": " class action waiver and arbitration provisions",
+    "url": "https://www.condenast.com/user-agreement#introduction-arbitration-notice"
+  },
+  {
+    "text": "Privacy Policy & Cookie Statement",
+    "url": "https://www.condenast.com/privacy-policy"
+  },
+  {
+    "text": "WIRED Classics",
+    "url": "https://www.wired.com/newsletter/classics"
+  },
+  {
+    "text": "",
+    "url": "/1994/09/moon-land/"
+  },
+  {
+    "text": "The Wrong Stuff",
+    "url": "/1994/09/moon-land/"
+  },
+  {
+    "text": "Rogier van Bakel",
+    "url": "/author/rogier-van-bakel"
+  },
+  {
+    "text": "",
+    "url": "/story/karl-friston-free-energy-principle-artificial-intelligence/"
+  },
+  {
+    "text": "The Genius Neuroscientist Who Might Hold the Key to True AI",
+    "url": "/story/karl-friston-free-energy-principle-artificial-intelligence/"
+  },
+  {
+    "text": "",
+    "url": "/story/age-of-social-credit/"
+  },
+  {
+    "text": "Inside China's Vast New Experiment in Social Ranking",
+    "url": "/story/age-of-social-credit/"
+  },
+  {
+    "text": "",
+    "url": "/2012/11/ff-the-manuscript/"
+  },
+  {
+    "text": "They Cracked This 250-Year-Old Code, and Found a Secret Society",
+    "url": "/2012/11/ff-the-manuscript/"
+  },
+  {
+    "text": "",
+    "url": "/story/telltale-heart-fitbit-murder/"
+  },
+  {
+    "text": "A Brutal Murder, a Wearable Witness, and an Unlikely Suspect",
+    "url": "/story/telltale-heart-fitbit-murder/"
+  },
+  {
+    "text": "Featured Videos",
+    "url": "https://www.wired.com/video"
+  },
+  {
+    "text": "",
+    "url": "https://www.wired.com/video/watch/obsessed-slacklining"
+  },
+  {
+    "text": "iconPlay",
+    "url": "https://www.wired.com/video/watch/tech-support-energy-support"
+  },
+  {
+    "text": "Energy Expert Answers Energy Questions From Twitter",
+    "url": "https://www.wired.com/video/watch/tech-support-energy-support"
+  },
+  {
+    "text": "iconPlay",
+    "url": "https://www.wired.com/video/watch/autocomplete-inverviews-keke-palmer-answers-the-webs-most-searched-questions"
+  },
+  {
+    "text": "Keke Palmer Answers the Web's Most Searched Questions",
+    "url": "https://www.wired.com/video/watch/autocomplete-inverviews-keke-palmer-answers-the-webs-most-searched-questions"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "Facebook",
+    "url": "https://www.facebook.com/wired/"
+  },
+  {
+    "text": "Twitter",
+    "url": "https://twitter.com/wired/"
+  },
+  {
+    "text": "Pinterest",
+    "url": "https://pinterest.com/wired/"
+  },
+  {
+    "text": "YouTube",
+    "url": "https://www.youtube.com/user/wired/"
+  },
+  {
+    "text": "Instagram",
+    "url": "https://instagram.com/wired/"
+  },
+  {
+    "text": "Tiktok",
+    "url": "https://www.tiktok.com/@wired?lang=en"
+  },
+  {
+    "text": "Subscribe",
+    "url": "https://www.wired.com/subscribe/"
+  },
+  {
+    "text": "Newsletters",
+    "url": "https://www.wired.com/newsletter?sourceCode=HeaderAndFooter"
+  },
+  {
+    "text": "FAQ",
+    "url": "https://www.wired.com/about/faq/"
+  },
+  {
+    "text": "Wired Staff",
+    "url": "https://www.wired.com/wired-staff/"
+  },
+  {
+    "text": "Press Center",
+    "url": "https://www.wired.com/about/press/"
+  },
+  {
+    "text": "Coupons",
+    "url": "https://www.wired.com/coupons"
+  },
+  {
+    "text": "Editorial Standards",
+    "url": "https://www.wired.com/about/wired-on-background-policy/"
+  },
+  {
+    "text": "Advertise",
+    "url": "https://www.condenast.com/brands/wired"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://www.wired.com/about/feedback/"
+  },
+  {
+    "text": "Customer Care",
+    "url": "https://subscriptions.wired.com/pubs/N3/WIR/Register.jsp?cds_page_id=175371&amp;amp;cds_mag_code=WIR&amp;amp;id=1423757547774&amp;amp;lsid=50431012277019467&amp;amp;vid=1"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.wired.com/about/wired-jobs/"
+  },
+  {
+    "text": "RSS",
+    "url": "/about/rss-feeds/"
+  },
+  {
+    "text": "Site Map",
+    "url": "/sitemap/"
+  },
+  {
+    "text": "Accessibility Help",
+    "url": "/about/accessibility-help/"
+  },
+  {
+    "text": "Cond\u00e9 Nast Store",
+    "url": "https://www.condenaststore.com/"
+  },
+  {
+    "text": "Cond\u00e9 Nast Spotlight",
+    "url": "https://www.cnspotlight.com/ "
+  },
+  {
+    "text": "User Agreement",
+    "url": "https://www.condenast.com/user-agreement/"
+  },
+  {
+    "text": "Privacy Policy and Cookie Statement",
+    "url": "http://www.condenast.com/privacy-policy#privacypolicy"
+  },
+  {
+    "text": "Your California Privacy Rights.",
+    "url": "http://www.condenast.com/privacy-policy#privacypolicy-california"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "http://www.condenast.com/privacy-policy#privacypolicy-optout"
+  }
+]

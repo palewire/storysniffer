@@ -1,0 +1,2302 @@
+[
+  {
+    "text": "Skip to main content",
+    "url": "#main-page-container"
+  },
+  {
+    "text": "\n                        Sign Up\n                    ",
+    "url": "/tncms/auth/begin/?provider=Newzware&return=https%3A%2F%2Fobserver-reporter.com%2F"
+  },
+  {
+    "text": "\n                        Log In\n                    ",
+    "url": "https://observer-reporter.com/users/login/?referer_url=https%3A%2F%2Fobserver-reporter.com%2F"
+  },
+  {
+    "text": "Dashboard",
+    "url": "https://observer-reporter.com/users/admin/"
+  },
+  {
+    "text": " Dashboard",
+    "url": "https://observer-reporter.com/users/admin/"
+  },
+  {
+    "text": " Profile",
+    "url": ""
+  },
+  {
+    "text": " Saved items",
+    "url": "https://observer-reporter.com/users/admin/list/"
+  },
+  {
+    "text": "Subscribe to the O-R",
+    "url": "http://o-rplus.com/subscribe"
+  },
+  {
+    "text": "e-Edition",
+    "url": "/eedition/"
+  },
+  {
+    "text": "Washington County",
+    "url": "/washco/"
+  },
+  {
+    "text": "Greene County",
+    "url": "/greene/"
+  },
+  {
+    "text": "Mon Valley",
+    "url": "/monvalley/"
+  },
+  {
+    "text": "News",
+    "url": "/news/"
+  },
+  {
+    "text": "Local News",
+    "url": "/news/localnews/"
+  },
+  {
+    "text": "Editor's Picks",
+    "url": "/news/editor_s_picks/"
+  },
+  {
+    "text": "Police Beat",
+    "url": "/news/policebeat"
+  },
+  {
+    "text": "South Hills News",
+    "url": "http://www.thealmanac.net"
+  },
+  {
+    "text": "Regional",
+    "url": "/news/regional"
+  },
+  {
+    "text": "Pittsburgh",
+    "url": "/news/pittsburgh/"
+  },
+  {
+    "text": "U.S. & World",
+    "url": "/news/us_world"
+  },
+  {
+    "text": "Local Government",
+    "url": "/news/localgovernment/"
+  },
+  {
+    "text": "Roads, Travel, and Traffic",
+    "url": "/news/roads_travel/"
+  },
+  {
+    "text": "Election Coverage",
+    "url": "/news/election/"
+  },
+  {
+    "text": "Police Beat",
+    "url": "/news/policebeat"
+  },
+  {
+    "text": "Business",
+    "url": "/business/"
+  },
+  {
+    "text": "Sports",
+    "url": "/sports/"
+  },
+  {
+    "text": "High School Sports",
+    "url": "/sports/high_school_sports/"
+  },
+  {
+    "text": "College Sports",
+    "url": "/sports/college_sports/"
+  },
+  {
+    "text": "Penguins",
+    "url": "/sports/pro_sports/penguins/"
+  },
+  {
+    "text": "Pirates",
+    "url": "/sports/pro_sports/pirates/"
+  },
+  {
+    "text": "Steelers",
+    "url": "/sports/pro_sports/steelers/"
+  },
+  {
+    "text": "Wild Things",
+    "url": "/sports/pro_sports/wild_things/"
+  },
+  {
+    "text": "Pro Sports",
+    "url": "/sports/pro_sports"
+  },
+  {
+    "text": "Outdoors",
+    "url": "/sports/outdoors/"
+  },
+  {
+    "text": "Sports Columns",
+    "url": "/columns/sports_column/"
+  },
+  {
+    "text": "Sideshow",
+    "url": "/sideshow/"
+  },
+  {
+    "text": "Olympics",
+    "url": "/sports/olympics"
+  },
+  {
+    "text": "PONY World Series",
+    "url": "/sports/pony/"
+  },
+  {
+    "text": "Opinion",
+    "url": "/opinion/"
+  },
+  {
+    "text": "Editorials",
+    "url": "/opinion/editorials/"
+  },
+  {
+    "text": "Letters to the Editor",
+    "url": "/opinion/letters/"
+  },
+  {
+    "text": "Op-Ed",
+    "url": "/opinion/op-eds/"
+  },
+  {
+    "text": "Reader React Poll",
+    "url": "/opinion/readerreact/"
+  },
+  {
+    "text": "Living",
+    "url": "/living"
+  },
+  {
+    "text": "Neighbors",
+    "url": "/living/neighbors/"
+  },
+  {
+    "text": "Faith, Family and Friends",
+    "url": "/living/religion/"
+  },
+  {
+    "text": "Seniors",
+    "url": "/living/seniors/"
+  },
+  {
+    "text": "ExtraORdinary People",
+    "url": "/living/extraordinarypeople/"
+  },
+  {
+    "text": "Dishin' in the Kitchen",
+    "url": "/living/food/dishin_in_the_kitchen/"
+  },
+  {
+    "text": "Milestones",
+    "url": "/living/milestones"
+  },
+  {
+    "text": "School News",
+    "url": "/living/school/"
+  },
+  {
+    "text": "Total Health",
+    "url": "/living/health_wellness/"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/living/entertainment/"
+  },
+  {
+    "text": "Community Notices",
+    "url": "/living/community_notices/"
+  },
+  {
+    "text": "Food",
+    "url": "/living/food"
+  },
+  {
+    "text": "Home & Garden",
+    "url": "/living/home_garden/"
+  },
+  {
+    "text": "Pets",
+    "url": "/living/pets/"
+  },
+  {
+    "text": "Dear Annie",
+    "url": "/living/dear_annie/"
+  },
+  {
+    "text": "Washington's Got Talent",
+    "url": "/series/wgt/"
+  },
+  {
+    "text": "TV Listings",
+    "url": "/living/entertainment/tvlistings/"
+  },
+  {
+    "text": "Washington County in 100 Objects",
+    "url": "/living/100_objects/"
+  },
+  {
+    "text": "Obituaries",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "Columns",
+    "url": "/columns"
+  },
+  {
+    "text": "Dear_annie",
+    "url": "/living/dear_annie/"
+  },
+  {
+    "text": "Special Projects",
+    "url": "/series/"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/series/coronavirus/"
+  },
+  {
+    "text": "The New Normal",
+    "url": "/series/thenewnormal/"
+  },
+  {
+    "text": "Remember and Reflect",
+    "url": "/series/remember_and_reflect/"
+  },
+  {
+    "text": "Helping the Helpers",
+    "url": "/series/helping_the_helpers/"
+  },
+  {
+    "text": "Budding Dilemma",
+    "url": "/series/budding_dilemma/"
+  },
+  {
+    "text": "Senior Memories",
+    "url": "/series/seniormemories/"
+  },
+  {
+    "text": "Pay or Die: A Black Hand Story",
+    "url": "/series/payordie/"
+  },
+  {
+    "text": "A Death In the Lyric",
+    "url": "/series/deathinthelyric/"
+  },
+  {
+    "text": "Mercy Has a Human Heart",
+    "url": "/series/mercyhashumanheart/"
+  },
+  {
+    "text": "A Sense of Evil",
+    "url": "/series/senseofevil/"
+  },
+  {
+    "text": "The West Enders",
+    "url": "/series/westenders/"
+  },
+  {
+    "text": "Vanished",
+    "url": "/series/vanished/"
+  },
+  {
+    "text": "Photos",
+    "url": "/photos/"
+  },
+  {
+    "text": "Hot Shots",
+    "url": "/photos/hotshots/"
+  },
+  {
+    "text": "Take Us Along",
+    "url": "/photos/takeusalong/"
+  },
+  {
+    "text": "Photo Galleries",
+    "url": "/photos/galleries"
+  },
+  {
+    "text": "Video",
+    "url": "/videos/"
+  },
+  {
+    "text": "Special Publications",
+    "url": "/publications/"
+  },
+  {
+    "text": "Canonsburg Magazine",
+    "url": "/publications/canonsburgmagazine/"
+  },
+  {
+    "text": "Greene County Living",
+    "url": "/publications/greenecoliving/"
+  },
+  {
+    "text": "Living in Washington County",
+    "url": "/publications/liwc/"
+  },
+  {
+    "text": "Mon Valley Magazine",
+    "url": "/publications/monvalleymagazine/"
+  },
+  {
+    "text": "South Hills Living",
+    "url": "/publications/shl/"
+  },
+  {
+    "text": "Southpointe Today",
+    "url": "/publications/southpointetoday/"
+  },
+  {
+    "text": "O-R Weddings Magazine",
+    "url": "/publications/weddingsmagazine/"
+  },
+  {
+    "text": "Sponsored Content",
+    "url": "/sponsored/"
+  },
+  {
+    "text": "Interactive Maps",
+    "url": "/maps/"
+  },
+  {
+    "text": "Fish Fry Map",
+    "url": "/maps/fishfry/"
+  },
+  {
+    "text": "Advertise With Us",
+    "url": "http://o-rplus.com/advertise-with-us"
+  },
+  {
+    "text": "About Us",
+    "url": "/site/about.html"
+  },
+  {
+    "text": "Contact Us",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "Newsroom Submission Forms",
+    "url": "/submit/"
+  },
+  {
+    "text": "Where to Get the O-R",
+    "url": "/maps/rack_locations/"
+  },
+  {
+    "text": "Download the O-R News App",
+    "url": "http://marketplace-redirect.doapps.com/3295"
+  },
+  {
+    "text": "Get Our Newsletters",
+    "url": "/getnewsletters/"
+  },
+  {
+    "text": "Classifieds",
+    "url": "https://classifieds.observer-reporter.com/"
+  },
+  {
+    "text": "Autos",
+    "url": "https://classifieds.observer-reporter.com/view/?classification=401"
+  },
+  {
+    "text": "Jobs",
+    "url": "http://yourpajobs.com/"
+  },
+  {
+    "text": "Real Estate",
+    "url": "https://classifieds.observer-reporter.com/view/?classification=301"
+  },
+  {
+    "text": "Annoucements",
+    "url": "https://www.publicnoticepa.com/RecentNoticesByPubl.aspx?id=1021"
+  },
+  {
+    "text": "Services",
+    "url": "https://classifieds.observer-reporter.com/view/?classification=801"
+  },
+  {
+    "text": "Circulars",
+    "url": "/circulars/"
+  },
+  {
+    "text": "Business Directory",
+    "url": "http://local.observer-reporter.com/"
+  },
+  {
+    "text": "Legal Notices",
+    "url": "https://observerreporter.column.us/place"
+  },
+  {
+    "text": "Calendar",
+    "url": "/calendar/"
+  },
+  {
+    "text": "O-R Regional Events",
+    "url": "http://o-rplus.com/opc-regional-events"
+  },
+  {
+    "text": "\n                        Sign Up\n                    ",
+    "url": "/tncms/auth/begin/?provider=Newzware&return=https%3A%2F%2Fobserver-reporter.com%2F"
+  },
+  {
+    "text": "\n                        Log In\n                    ",
+    "url": "https://observer-reporter.com/users/login/?referer_url=https%3A%2F%2Fobserver-reporter.com%2F"
+  },
+  {
+    "text": "\n                            Dashboard\n                        ",
+    "url": "https://observer-reporter.com/users/admin/"
+  },
+  {
+    "text": " Dashboard",
+    "url": "https://observer-reporter.com/users/admin/"
+  },
+  {
+    "text": " Profile",
+    "url": ""
+  },
+  {
+    "text": " Saved items",
+    "url": "https://observer-reporter.com/users/admin/list/"
+  },
+  {
+    "text": "\n                    Subscribe\n                ",
+    "url": "http://o-rplus.com/subscribe"
+  },
+  {
+    "text": "\n                    Customer Service\n                ",
+    "url": "http://o-rplus.com/customer-service-center"
+  },
+  {
+    "text": "\n                    Submit a...\n                ",
+    "url": "/site/submissions.html"
+  },
+  {
+    "text": "\n                    BeLocal\n                ",
+    "url": "/belocal/"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/observerreporternews/"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/oronline/"
+  },
+  {
+    "text": "\n                    \n                    LinkedIn\n                ",
+    "url": "https://www.linkedin.com/company/120636/"
+  },
+  {
+    "text": "\n                    \n                    YouTube\n                ",
+    "url": "https://www.youtube.com/user/observerreporter/videos"
+  },
+  {
+    "text": "\n                    \n                    Instagram\n                ",
+    "url": "https://www.instagram.com/observer_reporter/"
+  },
+  {
+    "text": "\n            ",
+    "url": "/"
+  },
+  {
+    "text": "Washington County",
+    "url": "/washco"
+  },
+  {
+    "text": "Greene County",
+    "url": "/greene"
+  },
+  {
+    "text": "Mon Valley",
+    "url": "/monvalley"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                \n                    71\u00b0\n                    \n                        Sunny \n                    \n                \n                \n            ",
+    "url": "/weather/?weather_zip=15301"
+  },
+  {
+    "text": "",
+    "url": "javascript:;"
+  },
+  {
+    "text": " Full Forecast",
+    "url": "/weather/?weather_zip=15301"
+  },
+  {
+    "text": "\n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                     Home\n                ",
+    "url": "/"
+  },
+  {
+    "text": "\n                    About Us\n                ",
+    "url": "/site/about.html"
+  },
+  {
+    "text": "\n                    Contact Us\n                ",
+    "url": "/site/contact.html"
+  },
+  {
+    "text": "\n                    Get Our Newsletters\n                ",
+    "url": "http://eepurl.com/bgpTsj"
+  },
+  {
+    "text": "\n                    e-Edition\n                ",
+    "url": "/eedition/"
+  },
+  {
+    "text": "\n                    Search\n                ",
+    "url": "/search/"
+  },
+  {
+    "text": "\n                    Archive\n                ",
+    "url": "/archive/"
+  },
+  {
+    "text": "\n                    Weather\n                ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                    Terms of Service\n                ",
+    "url": "/site/terms.html"
+  },
+  {
+    "text": "\n                    Privacy Policy\n                ",
+    "url": "/site/privacy.html"
+  },
+  {
+    "text": "\n                    Advertise\n                ",
+    "url": "http://o-rplus.com/advertise-with-us"
+  },
+  {
+    "text": "\n                    Meet ORPP!\n                ",
+    "url": "/site/orpp.html"
+  },
+  {
+    "text": "\n                    O-R Event Marketing\n                ",
+    "url": "http://o-rplus.com/or-events"
+  },
+  {
+    "text": "\n                    Contact Online\n                ",
+    "url": "/site/contactdigital.html"
+  },
+  {
+    "text": "\n                    Contact Customer Service\n                ",
+    "url": "/site/customerservice.html"
+  },
+  {
+    "text": "\n                    Contact Sports\n                ",
+    "url": "/site/contactsports.html"
+  },
+  {
+    "text": "\n                    Contact the Newsroom\n                ",
+    "url": "/site/contactnews.html"
+  },
+  {
+    "text": "\n                    News\n                ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n                    Local News\n                ",
+    "url": "/news/localnews/"
+  },
+  {
+    "text": "\n                    Editor's Picks\n                ",
+    "url": "/news/editor_s_picks/"
+  },
+  {
+    "text": "\n                    Regional\n                ",
+    "url": "/news/regional"
+  },
+  {
+    "text": "\n                    Pittsburgh\n                ",
+    "url": "/news/pittsburgh/"
+  },
+  {
+    "text": "\n                    U.S. and World\n                ",
+    "url": "/news/us_world/"
+  },
+  {
+    "text": "\n                    Crime News\n                ",
+    "url": "/news/crime/"
+  },
+  {
+    "text": "\n                    Local Government\n                ",
+    "url": "/news/localgovernment/"
+  },
+  {
+    "text": "\n                    Roads, Travel and Traffic\n                ",
+    "url": "/news/roads_travel/"
+  },
+  {
+    "text": "\n                    Drugs Overdoses Addiction\n                ",
+    "url": "/news/doa/"
+  },
+  {
+    "text": "\n                    Lottery Results\n                ",
+    "url": "/lottery"
+  },
+  {
+    "text": "\n                    Election\n                ",
+    "url": "/news/election/"
+  },
+  {
+    "text": "\n                    Business\n                ",
+    "url": "/business/"
+  },
+  {
+    "text": "\n                    Stocks\n                ",
+    "url": "/stock_market/"
+  },
+  {
+    "text": "\n                    Peaks & Valleys\n                ",
+    "url": "/business/peaksandvalleys/"
+  },
+  {
+    "text": "\n                    Business Incubator News\n                ",
+    "url": "/business/incubator/"
+  },
+  {
+    "text": "\n                    Sports\n                ",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                    \n                        \n                    High School Sports\n                ",
+    "url": "/sports/high_school_sports/"
+  },
+  {
+    "text": "\n                    High School Football\n                ",
+    "url": "/sports/high_school_sports/football_hs/"
+  },
+  {
+    "text": "\n                    High School Wrestling\n                ",
+    "url": "/sports/high_school_sports/wrestling_hs/"
+  },
+  {
+    "text": "\n                    High School Football Roundup\n                ",
+    "url": "/videos/footballvid/"
+  },
+  {
+    "text": "\n                    College Sports\n                ",
+    "url": "/sports/college_sports/"
+  },
+  {
+    "text": "\n                    Penguins\n                ",
+    "url": "/sports/pro_sports/penguins/"
+  },
+  {
+    "text": "\n                    Pirates\n                ",
+    "url": "/sports/pro_sports/pirates/"
+  },
+  {
+    "text": "\n                    Steelers\n                ",
+    "url": "/steelers/"
+  },
+  {
+    "text": "\n                    Wild Things\n                ",
+    "url": "/sports/pro_sports/wild_things/"
+  },
+  {
+    "text": "\n                    Outdoors\n                ",
+    "url": "/sports/outdoors/"
+  },
+  {
+    "text": "\n                    \n                        \n                    Sports Columns\n                ",
+    "url": "/columns/sports_column/"
+  },
+  {
+    "text": "\n                    Chris Dugan\n                ",
+    "url": "/columns/chrisdugan/"
+  },
+  {
+    "text": "\n                    Joe Tuscano\n                ",
+    "url": "/columns/joetuscano/"
+  },
+  {
+    "text": "\n                    John Sacco\n                ",
+    "url": "/columns/johnsacco/"
+  },
+  {
+    "text": "\n                    Opinion\n                ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                    Editorials\n                ",
+    "url": "/opinion/editorials/"
+  },
+  {
+    "text": "\n                    Letters to the Editor\n                ",
+    "url": "/opinion/letters/"
+  },
+  {
+    "text": "\n                    Op-Ed\n                ",
+    "url": "/opinion/op-eds/"
+  },
+  {
+    "text": "\n                    Reader React Poll\n                ",
+    "url": "/opinion/readerreact/"
+  },
+  {
+    "text": "\n                    Living\n                ",
+    "url": "/living"
+  },
+  {
+    "text": "\n                    Neighbors\n                ",
+    "url": "/living/neighbors/"
+  },
+  {
+    "text": "\n                    Seniors\n                ",
+    "url": "/living/seniors/"
+  },
+  {
+    "text": "\n                    Faith, Friends & Family\n                ",
+    "url": "/living/religion/"
+  },
+  {
+    "text": "\n                    \n                        \n                    Milestones\n                ",
+    "url": "/living/milestones"
+  },
+  {
+    "text": "\n                    Births\n                ",
+    "url": "/living/milestones/births/"
+  },
+  {
+    "text": "\n                    Birthdays\n                ",
+    "url": "/living/milestones/birthdays/"
+  },
+  {
+    "text": "\n                    Engagements\n                ",
+    "url": "/living/milestones/engagements/"
+  },
+  {
+    "text": "\n                    Marriage Licenses\n                ",
+    "url": "/living/marriagelicenses/"
+  },
+  {
+    "text": "\n                    Weddings\n                ",
+    "url": "/living/milestones/weddings/"
+  },
+  {
+    "text": "\n                    Anniversaries\n                ",
+    "url": "/living/milestones/anniversaries/"
+  },
+  {
+    "text": "\n                    Military\n                ",
+    "url": "/living/milestones/military/"
+  },
+  {
+    "text": "\n                    Community Notices\n                ",
+    "url": "/living/community_notices/"
+  },
+  {
+    "text": "\n                    Calendar\n                ",
+    "url": "/calendar/"
+  },
+  {
+    "text": "\n                    ExtraORdinary People\n                ",
+    "url": "/living/extraordinarypeople/"
+  },
+  {
+    "text": "\n                    \n                        \n                    School News\n                ",
+    "url": "/living/school/"
+  },
+  {
+    "text": "\n                    College\n                ",
+    "url": "/living/school/collegenews/"
+  },
+  {
+    "text": "\n                    Honor Rolls\n                ",
+    "url": "/living/school/honorrolls/"
+  },
+  {
+    "text": "\n                    News in Education\n                ",
+    "url": "/living/school/nie/"
+  },
+  {
+    "text": "\n                    Entertainment\n                ",
+    "url": "/living/entertainment/"
+  },
+  {
+    "text": "\n                    Total Health\n                ",
+    "url": "/living/health_wellness/"
+  },
+  {
+    "text": "\n                    Home & Garden\n                ",
+    "url": "/living/home_garden/"
+  },
+  {
+    "text": "\n                    Biggest Winner\n                ",
+    "url": "/living/biggest_winner/"
+  },
+  {
+    "text": "\n                    Pets\n                ",
+    "url": "/living/pets/"
+  },
+  {
+    "text": "\n                    Food\n                ",
+    "url": "/living/food"
+  },
+  {
+    "text": "\n                    Dear Annie\n                ",
+    "url": "/living/dear_annie/"
+  },
+  {
+    "text": "\n                    Washington County in 100 Objects\n                ",
+    "url": "/living/100_objects/"
+  },
+  {
+    "text": "\n                    Police Beat\n                ",
+    "url": "/news/policebeat"
+  },
+  {
+    "text": "\n                    Obituaries\n                ",
+    "url": "/obituaries/"
+  },
+  {
+    "text": "\n                    Classifieds\n                ",
+    "url": "https://classifieds.observer-reporter.com"
+  },
+  {
+    "text": "\n                    Autos\n                ",
+    "url": "https://classifieds.observer-reporter.com/view/?classification=401"
+  },
+  {
+    "text": "\n                    Jobs\n                ",
+    "url": "http://yourpajobs.com/"
+  },
+  {
+    "text": "\n                    Real Estate\n                ",
+    "url": "https://classifieds.observer-reporter.com/view/?classification=301"
+  },
+  {
+    "text": "\n                    Public Notices\n                ",
+    "url": "https://observerreporter.column.us/search"
+  },
+  {
+    "text": "\n                    Business Directory\n                ",
+    "url": "https://local.observer-reporter.com/"
+  },
+  {
+    "text": "\n                    \n                        \n                    Legal Notices\n                ",
+    "url": "https://observerreporter.column.us/login/"
+  },
+  {
+    "text": "\n                    Place a Notice\n                ",
+    "url": "https://observerreporter.column.us/place"
+  },
+  {
+    "text": "\n                    Search Legal Notices\n                ",
+    "url": "https://observerreporter.column.us/search"
+  },
+  {
+    "text": "\n                    Sponsored Content\n                ",
+    "url": "/sponsored/"
+  },
+  {
+    "text": "\n                    Homes\n                ",
+    "url": "http://www.swcrealty.com"
+  },
+  {
+    "text": "\n                    Advertising\n                ",
+    "url": "http://o-rplus.com/advertise-with-us"
+  },
+  {
+    "text": "\n                    e-Edition\n                ",
+    "url": "/eedition/"
+  },
+  {
+    "text": "Best of the Best Nominations",
+    "url": "http://o-rbest.com/"
+  },
+  {
+    "text": "Washington County Fair Sweepstakes",
+    "url": "/wcaf"
+  },
+  {
+    "text": "New Arrivals",
+    "url": "https://observer-reporter.com/newarrivals"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+3\n                \n                \n                \n                        \n                ",
+    "url": "/news/localnews/witness-teen-kissed-his-gun-after-fatally-shooting-washington-woman/article_814c04a4-0f68-11ed-b532-5ba1eabe48ed.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Witness: Teen \u2018kissed his gun\u2019 after fatally shooting Washington woman",
+    "url": "/news/localnews/witness-teen-kissed-his-gun-after-fatally-shooting-washington-woman/article_814c04a4-0f68-11ed-b532-5ba1eabe48ed.html"
+  },
+  {
+    "text": "\n                    Witness: Teen \u2018kissed his gun\u2019 after fatally shooting Washington woman\n                ",
+    "url": "/news/localnews/witness-teen-kissed-his-gun-after-fatally-shooting-washington-woman/article_814c04a4-0f68-11ed-b532-5ba1eabe48ed.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/pro_sports/wild_things/walters-delivers-for-wild-things/article_562e91ec-1085-11ed-8ee8-1fb668049f4c.html"
+  },
+  {
+    "text": "Wild Things",
+    "url": "/sports/pro_sports/wild_things"
+  },
+  {
+    "text": "\n        \n\n        \n            Walters delivers for Wild Things",
+    "url": "/sports/pro_sports/wild_things/walters-delivers-for-wild-things/article_562e91ec-1085-11ed-8ee8-1fb668049f4c.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fsports%2Fpro_sports%2Fwild_things%2Fwalters-delivers-for-wild-things%2Farticle_562e91ec-1085-11ed-8ee8-1fb668049f4c.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Walters%20delivers%20for%20Wild%20Things&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fsports%2Fpro_sports%2Fwild_things%2Fwalters-delivers-for-wild-things%2Farticle_562e91ec-1085-11ed-8ee8-1fb668049f4c.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/sports/pro_sports/wild_things/walters-delivers-for-wild-things/article_562e91ec-1085-11ed-8ee8-1fb668049f4c.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/562e91ec-1085-11ed-8ee8-1fb668049f4c"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Walters%20delivers%20for%20Wild%20Things&body=https%3A%2F%2Fobserver-reporter.com%2Fsports%2Fpro_sports%2Fwild_things%2Fwalters-delivers-for-wild-things%2Farticle_562e91ec-1085-11ed-8ee8-1fb668049f4c.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/localnews/financial-plans-should-not-change-as-a-result-of-interest-rates-advisers-say/article_df54d602-0f45-11ed-8386-57ca9a4aacc8.html"
+  },
+  {
+    "text": "Local News",
+    "url": "/news/localnews"
+  },
+  {
+    "text": "\n        \n\n        \n            Financial plans should not change as a result of interest rates, advisers say",
+    "url": "/news/localnews/financial-plans-should-not-change-as-a-result-of-interest-rates-advisers-say/article_df54d602-0f45-11ed-8386-57ca9a4aacc8.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Ffinancial-plans-should-not-change-as-a-result-of-interest-rates-advisers-say%2Farticle_df54d602-0f45-11ed-8386-57ca9a4aacc8.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Financial%20plans%20should%20not%20change%20as%20a%20result%20of%20interest%20rates%2C%20advisers%20say&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Ffinancial-plans-should-not-change-as-a-result-of-interest-rates-advisers-say%2Farticle_df54d602-0f45-11ed-8386-57ca9a4aacc8.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/news/localnews/financial-plans-should-not-change-as-a-result-of-interest-rates-advisers-say/article_df54d602-0f45-11ed-8386-57ca9a4aacc8.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/df54d602-0f45-11ed-8386-57ca9a4aacc8"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Financial%20plans%20should%20not%20change%20as%20a%20result%20of%20interest%20rates%2C%20advisers%20say&body=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Ffinancial-plans-should-not-change-as-a-result-of-interest-rates-advisers-say%2Farticle_df54d602-0f45-11ed-8386-57ca9a4aacc8.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+5\n                \n                \n                \n                        \n                ",
+    "url": "/sponsored/first_federal_of_greene_county/a-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president/article_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html"
+  },
+  {
+    "text": "First Federal Of Greene County",
+    "url": "/sponsored/first_federal_of_greene_county"
+  },
+  {
+    "text": "\n        \n\n        \n            A legacy of heart First Federal of Greene County celebrates the life of former President/CEO Scott S. O\u2019Neil, 1943-2022",
+    "url": "/sponsored/first_federal_of_greene_county/a-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president/article_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fsponsored%2Ffirst_federal_of_greene_county%2Fa-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president%2Farticle_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=A%20legacy%20of%20heart%20First%20Federal%20of%20Greene%20County%20celebrates%20the%20life%20of%20former%20President%2FCEO%20Scott%20S.%20O%E2%80%99Neil%2C%201943-2022&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fsponsored%2Ffirst_federal_of_greene_county%2Fa-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president%2Farticle_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/sponsored/first_federal_of_greene_county/a-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president/article_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20A%20legacy%20of%20heart%20First%20Federal%20of%20Greene%20County%20celebrates%20the%20life%20of%20former%20President%2FCEO%20Scott%20S.%20O%E2%80%99Neil%2C%201943-2022&body=https%3A%2F%2Fobserver-reporter.com%2Fsponsored%2Ffirst_federal_of_greene_county%2Fa-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president%2Farticle_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+7\n                \n                \n                \n                        \n                ",
+    "url": "/news/localnews/a-moist-important-tradition-precipitation-falls-on-rain-day/article_e948526a-0f7c-11ed-a30a-178ad9e62509.html"
+  },
+  {
+    "text": "Local News",
+    "url": "/news/localnews"
+  },
+  {
+    "text": "\n        \n\n        \n            A 'moist' important tradition: Precipitation falls on Rain Day",
+    "url": "/news/localnews/a-moist-important-tradition-precipitation-falls-on-rain-day/article_e948526a-0f7c-11ed-a30a-178ad9e62509.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Fa-moist-important-tradition-precipitation-falls-on-rain-day%2Farticle_e948526a-0f7c-11ed-a30a-178ad9e62509.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=A%20%27moist%27%20important%20tradition%3A%20Precipitation%20falls%20on%20Rain%20Day&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Fa-moist-important-tradition-precipitation-falls-on-rain-day%2Farticle_e948526a-0f7c-11ed-a30a-178ad9e62509.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/news/localnews/a-moist-important-tradition-precipitation-falls-on-rain-day/article_e948526a-0f7c-11ed-a30a-178ad9e62509.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/e948526a-0f7c-11ed-a30a-178ad9e62509"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20A%20%27moist%27%20important%20tradition%3A%20Precipitation%20falls%20on%20Rain%20Day&body=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Fa-moist-important-tradition-precipitation-falls-on-rain-day%2Farticle_e948526a-0f7c-11ed-a30a-178ad9e62509.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+8\n                \n                \n                \n                        \n                ",
+    "url": "/news/localnews/just-a-regular-runner-youngster-inspires-other-triathletes/article_c813ade8-e659-504f-a49c-ade1db9f88fe.html"
+  },
+  {
+    "text": "Local News",
+    "url": "/news/localnews"
+  },
+  {
+    "text": "\n        \n\n        \n            Just a regular runner: Youngster inspires other triathletes",
+    "url": "/news/localnews/just-a-regular-runner-youngster-inspires-other-triathletes/article_c813ade8-e659-504f-a49c-ade1db9f88fe.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Fjust-a-regular-runner-youngster-inspires-other-triathletes%2Farticle_c813ade8-e659-504f-a49c-ade1db9f88fe.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Just%20a%20regular%20runner%3A%20Youngster%20inspires%20other%20triathletes&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Fjust-a-regular-runner-youngster-inspires-other-triathletes%2Farticle_c813ade8-e659-504f-a49c-ade1db9f88fe.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/news/localnews/just-a-regular-runner-youngster-inspires-other-triathletes/article_c813ade8-e659-504f-a49c-ade1db9f88fe.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/c813ade8-e659-504f-a49c-ade1db9f88fe"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Just%20a%20regular%20runner%3A%20Youngster%20inspires%20other%20triathletes&body=https%3A%2F%2Fobserver-reporter.com%2Fnews%2Flocalnews%2Fjust-a-regular-runner-youngster-inspires-other-triathletes%2Farticle_c813ade8-e659-504f-a49c-ade1db9f88fe.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "",
+    "url": "https://coentires.com/"
+  },
+  {
+    "text": "\n        \n\n        \n            WNBA Glance",
+    "url": "/ap/sports/agate/wnba-glance/article_1c298f2b-983e-59fc-9ec0-5cfe8e13d46b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            NWSL Glance",
+    "url": "/ap/sports/agate/nwsl-glance/article_239ebfc6-df39-56d1-93d9-2cf592f384f1.html"
+  },
+  {
+    "text": "\n        \n\n        \n            USL Championship Glance",
+    "url": "/ap/sports/agate/usl-championship-glance/article_f6dc3289-dfbd-5b89-8add-a5b38dfbfc27.html"
+  },
+  {
+    "text": "\n        \n\n        \n            MLS Glance",
+    "url": "/ap/sports/agate/mls-glance/article_6d3f7547-49dd-570c-a0cf-ae711c083639.html"
+  },
+  {
+    "text": "\n        \n\n        \n            German Standings",
+    "url": "/ap/sports/agate/german-standings/article_6f1e60f1-99b4-5b6e-95b0-9472289cbd6c.html"
+  },
+  {
+    "text": "Get the mobile app!",
+    "url": "http://marketplace-redirect.doapps.com/3295"
+  },
+  {
+    "text": "\n                                        \n                \n                                        ",
+    "url": "https://observer-reporter.com/site/lottery/lottery.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Lottery",
+    "url": "https://observer-reporter.com/site/lottery/lottery.html"
+  },
+  {
+    "text": "\n                                        \n                \n                                        ",
+    "url": "https://observer-reporter.com/site/lottery/lottery.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Lottery",
+    "url": "https://observer-reporter.com/site/lottery/lottery.html"
+  },
+  {
+    "text": "\n                \n                Washington County\n                \n                    ",
+    "url": "/washco/"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+    "url": "/news/localnews/western-edge-seafood-outlet-swims-into-downtown-canonsburg/article_f1c041a2-0ea8-11ed-a33d-abe332f1824e.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Western Edge Seafood Outlet swims into downtown Canonsburg",
+    "url": "/news/localnews/western-edge-seafood-outlet-swims-into-downtown-canonsburg/article_f1c041a2-0ea8-11ed-a33d-abe332f1824e.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Two local companies team up to pass clean energy test",
+    "url": "/business/two-local-companies-team-up-to-pass-clean-energy-test/article_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Alzheimer's Association partners with Busy Beaver",
+    "url": "/news/localnews/alzheimers-association-partners-with-busy-beaver/article_556cb4f2-0f4d-11ed-a1fb-cbf616da919b.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Tree splits Chartiers Township mobile home down the middle",
+    "url": "/news/localnews/tree-splits-chartiers-township-mobile-home-down-the-middle/article_53de4762-0f4e-11ed-b2dd-5fd1701efb28.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Just a regular runner: Youngster inspires other triathletes",
+    "url": "/news/localnews/just-a-regular-runner-youngster-inspires-other-triathletes/article_c813ade8-e659-504f-a49c-ade1db9f88fe.html"
+  },
+  {
+    "text": "More Washington County",
+    "url": "/washco/"
+  },
+  {
+    "text": "\n                \n                State & Region\n                \n                    ",
+    "url": "/news/regional/"
+  },
+  {
+    "text": "\n        \n\n        \n            Brentwood Bank marks century of steely resolve",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Online auction firm gives Macy's building 'second chance'",
+    "url": "/business/online-auction-firm-gives-macys-building-second-chance/article_b0a3141e-daa6-11ec-9f0b-3bd2895ae14c.html"
+  },
+  {
+    "text": "\n        \n\n        \n            WHS, state gaming industry earning high marks",
+    "url": "/news/localnews/whs-state-gaming-industry-earning-high-marks/article_f7e38dec-d51d-11ec-942e-47e295d3dd95.html"
+  },
+  {
+    "text": "\n        \n\n        \n            SWC Realty expands to Rostraver with grand plans and grand opening",
+    "url": "/business/swc-realty-expands-to-rostraver-with-grand-plans-and-grand-opening/article_8238c7ea-c4a8-11ec-acc8-6f8bb4f0bb4f.html"
+  },
+  {
+    "text": "More Region News",
+    "url": "/news/regional/"
+  },
+  {
+    "text": "\n                \n                Greene County\n                \n                    ",
+    "url": "/greene/"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+3\n                \n                \n                \n                        \n                ",
+    "url": "/living/miss-rain-day-2022-crowned/article_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Miss Rain Day 2022 crowned",
+    "url": "/living/miss-rain-day-2022-crowned/article_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            A 'moist' important tradition: Precipitation falls on Rain Day",
+    "url": "/news/localnews/a-moist-important-tradition-precipitation-falls-on-rain-day/article_e948526a-0f7c-11ed-a30a-178ad9e62509.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Greene County property transfers",
+    "url": "/living/greene-county-property-transfers/article_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html"
+  },
+  {
+    "text": "\n        \n\n        \n            PCR hosting environmental workshops",
+    "url": "/news/pcr-hosting-environmental-workshops/article_1182f8a6-0dee-11ed-82ac-473984e8c0ce.html"
+  },
+  {
+    "text": "\n        \n\n        \n            CareerLink offers in-person unemployment claim services",
+    "url": "/news/careerlink-offers-in-person-unemployment-claim-services/article_660e8b50-0e99-11ed-9a3b-f762c1198dca.html"
+  },
+  {
+    "text": "More Greene County",
+    "url": "/greene/"
+  },
+  {
+    "text": "\n                \n                \n                    e-Edition\n                \n                \n                \n                        \n                ",
+    "url": "/eedition/observer-reporter/edition_22891547-7ce5-59e6-a760-baa8e15f288e.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Observer-Reporter",
+    "url": "/eedition/observer-reporter/edition_22891547-7ce5-59e6-a760-baa8e15f288e.html"
+  },
+  {
+    "text": "\n                \n                Mon Valley\n                \n                    ",
+    "url": "/monvalley/"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+    "url": "/publications/monvalleymagazine/chef-opens-cafecito-and-bakery-adjacent-to-popular-restaurant/article_d328abc0-02b0-11ed-a2d5-1f9a27c900f7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Chef opens cafecito and bakery adjacent to popular restaurant",
+    "url": "/publications/monvalleymagazine/chef-opens-cafecito-and-bakery-adjacent-to-popular-restaurant/article_d328abc0-02b0-11ed-a2d5-1f9a27c900f7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Editor's letter: this summer, I'm toast",
+    "url": "/publications/monvalleymagazine/editors-letter-this-summer-im-toast/article_e3a3c622-044c-11ed-a9a5-6f6125fed600.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Mon Aquatorium in tenth season of riverside concerts",
+    "url": "/publications/monvalleymagazine/mon-aquatorium-in-tenth-season-of-riverside-concerts/article_89b67c80-02b3-11ed-b441-e758f6073cff.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Monessen councilman sues former mayor",
+    "url": "/news/localnews/monessen-councilman-sues-former-mayor/article_f864ed42-0ea2-11ed-907f-e378639e4ed1.html"
+  },
+  {
+    "text": "\n        \n\n        \n            CareerLink offers in-person unemployment claim services",
+    "url": "/news/careerlink-offers-in-person-unemployment-claim-services/article_660e8b50-0e99-11ed-9a3b-f762c1198dca.html"
+  },
+  {
+    "text": "More Mon Valley",
+    "url": "/monvalley/"
+  },
+  {
+    "text": "\n                \n                Latest Police Beat\n                \n                    ",
+    "url": "/news/policebeat/"
+  },
+  {
+    "text": "\n        \n\n        \n            Police Beat July 26",
+    "url": "/news/policebeat/police-beat-july-26/article_230ff396-0c39-11ed-8331-175b90449d0b.html"
+  },
+  {
+    "text": "\n                \n                Sports\n                \n                    ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/pro_sports/wild_things/walters-delivers-for-wild-things/article_562e91ec-1085-11ed-8ee8-1fb668049f4c.html"
+  },
+  {
+    "text": "Wild Things",
+    "url": "/sports/pro_sports/wild_things"
+  },
+  {
+    "text": "\n        \n\n        \n            Walters delivers for Wild Things",
+    "url": "/sports/pro_sports/wild_things/walters-delivers-for-wild-things/article_562e91ec-1085-11ed-8ee8-1fb668049f4c.html"
+  },
+  {
+    "text": "\n                    Walters delivers for Wild Things\n                ",
+    "url": "/sports/pro_sports/wild_things/walters-delivers-for-wild-things/article_562e91ec-1085-11ed-8ee8-1fb668049f4c.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+5\n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/phillies-extend-win-streak-to-4-with-2-1-win-over-pirates/article_a180ae5c-4cd7-57d8-8b83-219b857b9c1a.html"
+  },
+  {
+    "text": "Sports",
+    "url": "/ap/sports"
+  },
+  {
+    "text": "\n        \n\n        \n            Phillies extend win streak to 4 with 2-1 win over Pirates",
+    "url": "/ap/sports/phillies-extend-win-streak-to-4-with-2-1-win-over-pirates/article_a180ae5c-4cd7-57d8-8b83-219b857b9c1a.html"
+  },
+  {
+    "text": "\n                    Phillies extend win streak to 4 with 2-1 win over Pirates\n                ",
+    "url": "/ap/sports/phillies-extend-win-streak-to-4-with-2-1-win-over-pirates/article_a180ae5c-4cd7-57d8-8b83-219b857b9c1a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sports/pro_sports/adios-upset-bythemiissal-comes-from-sixth-to-win-pace-for-the-orchids/article_e67e86ac-1040-11ed-9563-1796d625b771.html"
+  },
+  {
+    "text": "Pro Sports",
+    "url": "/sports/pro_sports"
+  },
+  {
+    "text": "\n        \n\n        \n            Adios upset: Bythemiissal comes from sixth to win Pace for the Orchids",
+    "url": "/sports/pro_sports/adios-upset-bythemiissal-comes-from-sixth-to-win-pace-for-the-orchids/article_e67e86ac-1040-11ed-9563-1796d625b771.html"
+  },
+  {
+    "text": "\n                    Adios upset: Bythemiissal comes from sixth to win Pace for the Orchids\n                ",
+    "url": "/sports/pro_sports/adios-upset-bythemiissal-comes-from-sixth-to-win-pace-for-the-orchids/article_e67e86ac-1040-11ed-9563-1796d625b771.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+6\n                \n                \n                \n                        \n                ",
+    "url": "/sports/pro_sports/wild_things/wild-things-pull-away-late-top-quebec/article_d584d7d8-0f7e-11ed-8537-a75ded072782.html"
+  },
+  {
+    "text": "Wild Things",
+    "url": "/sports/pro_sports/wild_things"
+  },
+  {
+    "text": "\n        \n\n        \n            Wild Things pull away late, top Quebec",
+    "url": "/sports/pro_sports/wild_things/wild-things-pull-away-late-top-quebec/article_d584d7d8-0f7e-11ed-8537-a75ded072782.html"
+  },
+  {
+    "text": "\n                    Wild Things pull away late, top Quebec\n                ",
+    "url": "/sports/pro_sports/wild_things/wild-things-pull-away-late-top-quebec/article_d584d7d8-0f7e-11ed-8537-a75ded072782.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+12\n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/hoskins-hr-in-10th-inning-lifts-phillies-past-pirates-4-2/article_2f1fe73c-4cc2-5735-bcdb-985660aa8aee.html"
+  },
+  {
+    "text": "Sports",
+    "url": "/ap/sports"
+  },
+  {
+    "text": "\n        \n\n        \n            Hoskins' HR in 10th inning lifts Phillies past Pirates 4-2",
+    "url": "/ap/sports/hoskins-hr-in-10th-inning-lifts-phillies-past-pirates-4-2/article_2f1fe73c-4cc2-5735-bcdb-985660aa8aee.html"
+  },
+  {
+    "text": "\n                    Hoskins' HR in 10th inning lifts Phillies past Pirates 4-2\n                ",
+    "url": "/ap/sports/hoskins-hr-in-10th-inning-lifts-phillies-past-pirates-4-2/article_2f1fe73c-4cc2-5735-bcdb-985660aa8aee.html"
+  },
+  {
+    "text": "MORE SPORTS>>",
+    "url": "/Sports"
+  },
+  {
+    "text": "More>>",
+    "url": "/sports/pro_sports/steelers/"
+  },
+  {
+    "text": "\n                \n                Steelers\n                \n                    ",
+    "url": "/sports/pro_sports/steelers/"
+  },
+  {
+    "text": "\n        \n\n        \n            Heeeeath! Former TE Miller named to Steelers' Hall of Honor",
+    "url": "/ap/sports/heeeeath-former-te-miller-named-to-steelers-hall-of-honor/article_f59167b3-58a6-52f5-8e46-1e052ccd5808.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/steelers-pickett-is-always-ready-to-work/article_57718067-8d2c-581a-8b85-e081bc2d3af1.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Steelers' Pickett is always ready to work",
+    "url": "/ap/sports/steelers-pickett-is-always-ready-to-work/article_57718067-8d2c-581a-8b85-e081bc2d3af1.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/and-theyre-off-steelers-qb-derby-begins-in-earnest/article_177a313e-cbf6-5315-bace-858cb151b280.html"
+  },
+  {
+    "text": "\n        \n\n        \n            And they're off! Steelers QB derby begins in earnest",
+    "url": "/ap/sports/and-theyre-off-steelers-qb-derby-begins-in-earnest/article_177a313e-cbf6-5315-bace-858cb151b280.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/steelers-football/image_fa1df087-7cba-528d-bb55-58536de128e4.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Steelers Football",
+    "url": "/ap/sports/steelers-football/image_fa1df087-7cba-528d-bb55-58536de128e4.html"
+  },
+  {
+    "text": "More>>",
+    "url": "/sports/pro_sports/pirates"
+  },
+  {
+    "text": "\n                \n                Pirates\n                \n                    ",
+    "url": "/sports/pro_sports/pirates"
+  },
+  {
+    "text": "\n        \n\n        \n            Pirates come into matchup against the Phillies on losing streak",
+    "url": "/ap/sports/pirates-come-into-matchup-against-the-phillies-on-losing-streak/article_878db6f9-ef9f-552d-8f1d-8747ce94e482.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/phillies-extend-win-streak-to-4-with-2-1-win-over-pirates/article_a180ae5c-4cd7-57d8-8b83-219b857b9c1a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Phillies extend win streak to 4 with 2-1 win over Pirates",
+    "url": "/ap/sports/phillies-extend-win-streak-to-4-with-2-1-win-over-pirates/article_a180ae5c-4cd7-57d8-8b83-219b857b9c1a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Hoskins leads Phillies against the Pirates after 4-hit outing",
+    "url": "/ap/sports/hoskins-leads-phillies-against-the-pirates-after-4-hit-outing/article_7a5ae189-e195-5bc3-a6fe-f5a9b7781989.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/hoskins-hr-in-10th-inning-lifts-phillies-past-pirates-4-2/article_2f1fe73c-4cc2-5735-bcdb-985660aa8aee.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Hoskins' HR in 10th inning lifts Phillies past Pirates 4-2",
+    "url": "/ap/sports/hoskins-hr-in-10th-inning-lifts-phillies-past-pirates-4-2/article_2f1fe73c-4cc2-5735-bcdb-985660aa8aee.html"
+  },
+  {
+    "text": "More>>",
+    "url": "/sports/pro_sports/penguins"
+  },
+  {
+    "text": "\n                \n                Penguins\n                \n                    ",
+    "url": "/sports/pro_sports/penguins"
+  },
+  {
+    "text": "\n        \n\n        \n            Penguibs re-sign Kapanen",
+    "url": "/sports/pro_sports/penguins/penguibs-re-sign-kapanen/article_80595f04-092f-11ed-aace-272d59a4734f.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Penguins re-sign forward Kasperi Kapanen to 2-year deal",
+    "url": "/ap/sports/penguins-re-sign-forward-kasperi-kapanen-to-2-year-deal/article_b3e29f91-9dae-5c49-bfd0-641f7638dc25.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/penguins-revamp-defense-acquire-petry-and-smith/article_6f9055de-4cb2-511a-9dcf-2aaa6bb29fb7.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Penguins revamp defense, acquire Petry and Smith",
+    "url": "/ap/sports/penguins-revamp-defense-acquire-petry-and-smith/article_6f9055de-4cb2-511a-9dcf-2aaa6bb29fb7.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/ap/sports/evgeni-malkin-penguins-agree-to-new-4-year-deal/article_d20f567c-4efe-5964-81b2-12c0ef195924.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Evgeni Malkin, Penguins agree to new 4-year deal",
+    "url": "/ap/sports/evgeni-malkin-penguins-agree-to-new-4-year-deal/article_d20f567c-4efe-5964-81b2-12c0ef195924.html"
+  },
+  {
+    "text": "More Sports Columns>>",
+    "url": "/columns/sports_column/"
+  },
+  {
+    "text": "\n                \n                Sports Columns\n                \n                    ",
+    "url": "/columns/sports_column/"
+  },
+  {
+    "text": "George Block",
+    "url": "/columns/georgeblock"
+  },
+  {
+    "text": "\n        \n\n        \n            Saying goodbye to a great Outdoors writer",
+    "url": "/columns/georgeblock/saying-goodbye-to-a-great-outdoors-writer/article_10d039f2-0f72-11ed-8d75-270dacdca75f.html"
+  },
+  {
+    "text": "Dale Lolley",
+    "url": "/columns/dalelolley"
+  },
+  {
+    "text": "\n        \n\n        \n            Tomlin has chance to prove himself now that Roethlisberger is gone",
+    "url": "/columns/dalelolley/tomlin-has-chance-to-prove-himself-now-that-roethlisberger-is-gone/article_a309e68c-0a00-11ed-886d-b3ce541efd9a.html"
+  },
+  {
+    "text": "Sports",
+    "url": "/sports"
+  },
+  {
+    "text": "\n        \n\n        \n            Title IX has come a long way with miles still to go",
+    "url": "/sports/title-ix-has-come-a-long-way-with-miles-still-to-go/article_3e09b804-05da-11ed-aa1f-cf65dbf54dbe.html"
+  },
+  {
+    "text": "Dale Lolley",
+    "url": "/columns/dalelolley"
+  },
+  {
+    "text": "\n        \n\n        \n            Everybody wins with no more Mayfield commercials",
+    "url": "/columns/dalelolley/everybody-wins-with-no-more-mayfield-commercials/article_5ed1096c-fef4-11ec-ae5b-a799bd5a3ae7.html"
+  },
+  {
+    "text": "\n                \n                Opinion\n                \n                    ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/opinion/editorials/editorial-charter-school-laws-need-to-be-reformed-in-pennsylvania/article_81c5a2ba-0d0f-11ed-b3a2-5b602a09fa48.html"
+  },
+  {
+    "text": "Editorials",
+    "url": "/opinion/editorials"
+  },
+  {
+    "text": "\n        \n\n        \n            EDITORIAL: Charter school laws need to be reformed in Pennsylvania",
+    "url": "/opinion/editorials/editorial-charter-school-laws-need-to-be-reformed-in-pennsylvania/article_81c5a2ba-0d0f-11ed-b3a2-5b602a09fa48.html"
+  },
+  {
+    "text": "Op-Ed",
+    "url": "/opinion/op-eds"
+  },
+  {
+    "text": "\n        \n\n        \n            OP-ED: Far right Republicans weaponizing patriotism",
+    "url": "/opinion/op-eds/op-ed-far-right-republicans-weaponizing-patriotism/article_8f77a2de-0ea2-11ed-a558-d3734e6151ef.html"
+  },
+  {
+    "text": "Editorials",
+    "url": "/opinion/editorials"
+  },
+  {
+    "text": "\n        \n\n        \n            Hits and Misses",
+    "url": "/opinion/editorials/hits-and-misses/article_a951744c-0dcf-11ed-92cb-478728beaf7b.html"
+  },
+  {
+    "text": "Op-Ed",
+    "url": "/opinion/op-eds"
+  },
+  {
+    "text": "\n        \n\n        \n            OP-ED: State, counties lack will to restore assessments fairness",
+    "url": "/opinion/op-eds/op-ed-state-counties-lack-will-to-restore-assessments-fairness/article_91b0b912-0db4-11ed-8915-c36e0abeb2ef.html"
+  },
+  {
+    "text": "Letters to the Editor",
+    "url": "/opinion/letters"
+  },
+  {
+    "text": "\n        \n\n        \n            LETTER: Vote in November",
+    "url": "/opinion/letters/letter-vote-in-november/article_e3f6c146-0c54-11ed-8bac-1ffac55e74d4.html"
+  },
+  {
+    "text": "\n                \n                Business\n                \n                    ",
+    "url": "/business/"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Brentwood Bank marks century of steely resolve",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/business/two-local-companies-team-up-to-pass-clean-energy-test/article_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Two local companies team up to pass clean energy test",
+    "url": "/business/two-local-companies-team-up-to-pass-clean-energy-test/article_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Ftwo-local-companies-team-up-to-pass-clean-energy-test%2Farticle_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Two%20local%20companies%20team%20up%20to%20pass%20clean%20energy%20test&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Ftwo-local-companies-team-up-to-pass-clean-energy-test%2Farticle_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/business/two-local-companies-team-up-to-pass-clean-energy-test/article_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/c2ec861c-0cee-11ed-8e66-1fa77f1d8272"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Two%20local%20companies%20team%20up%20to%20pass%20clean%20energy%20test&body=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Ftwo-local-companies-team-up-to-pass-clean-energy-test%2Farticle_c2ec861c-0cee-11ed-8e66-1fa77f1d8272.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/business/three-lives-lived-well/article_f69a165a-0cf8-11ed-8202-2390f52985a5.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Three lives lived well",
+    "url": "/business/three-lives-lived-well/article_f69a165a-0cf8-11ed-8202-2390f52985a5.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fthree-lives-lived-well%2Farticle_f69a165a-0cf8-11ed-8202-2390f52985a5.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Three%20lives%20lived%20well&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fthree-lives-lived-well%2Farticle_f69a165a-0cf8-11ed-8202-2390f52985a5.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/business/three-lives-lived-well/article_f69a165a-0cf8-11ed-8202-2390f52985a5.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/f69a165a-0cf8-11ed-8202-2390f52985a5"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Three%20lives%20lived%20well&body=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fthree-lives-lived-well%2Farticle_f69a165a-0cf8-11ed-8202-2390f52985a5.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/business/are-esg-funds-for-you/article_4c4e19cc-0c2f-11ed-8933-6b21330bf4c2.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Are ESG funds for you?",
+    "url": "/business/are-esg-funds-for-you/article_4c4e19cc-0c2f-11ed-8933-6b21330bf4c2.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fare-esg-funds-for-you%2Farticle_4c4e19cc-0c2f-11ed-8933-6b21330bf4c2.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Are%20ESG%20funds%20for%20you%3F&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fare-esg-funds-for-you%2Farticle_4c4e19cc-0c2f-11ed-8933-6b21330bf4c2.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/business/are-esg-funds-for-you/article_4c4e19cc-0c2f-11ed-8933-6b21330bf4c2.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/4c4e19cc-0c2f-11ed-8933-6b21330bf4c2"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Are%20ESG%20funds%20for%20you%3F&body=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fare-esg-funds-for-you%2Farticle_4c4e19cc-0c2f-11ed-8933-6b21330bf4c2.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/business/your-financial-future-what-a-mega-millionaire-should-do/article_a495a80a-0dad-11ed-9305-bb30ed0e6155.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Your Financial Future: What a Mega Millionaire should do",
+    "url": "/business/your-financial-future-what-a-mega-millionaire-should-do/article_a495a80a-0dad-11ed-9305-bb30ed0e6155.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fyour-financial-future-what-a-mega-millionaire-should-do%2Farticle_a495a80a-0dad-11ed-9305-bb30ed0e6155.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Your%20Financial%20Future%3A%20What%20a%20Mega%20Millionaire%20should%20do&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fyour-financial-future-what-a-mega-millionaire-should-do%2Farticle_a495a80a-0dad-11ed-9305-bb30ed0e6155.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/business/your-financial-future-what-a-mega-millionaire-should-do/article_a495a80a-0dad-11ed-9305-bb30ed0e6155.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/a495a80a-0dad-11ed-9305-bb30ed0e6155"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Your%20Financial%20Future%3A%20What%20a%20Mega%20Millionaire%20should%20do&body=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fyour-financial-future-what-a-mega-millionaire-should-do%2Farticle_a495a80a-0dad-11ed-9305-bb30ed0e6155.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                Columnists\n                \n                    ",
+    "url": "/columns/"
+  },
+  {
+    "text": "Beth Dolinar",
+    "url": "/columns/bethdolinar"
+  },
+  {
+    "text": "\n        \n\n        \n            Keep the advice coming",
+    "url": "/columns/bethdolinar/keep-the-advice-coming/article_c746a49e-0e93-11ed-b785-8f12ec389536.html"
+  },
+  {
+    "text": "Mary Jo Podgurski",
+    "url": "/columns/maryjopodgurski"
+  },
+  {
+    "text": "\n        \n\n        \n            Overcoming public speaking jitters",
+    "url": "/columns/maryjopodgurski/overcoming-public-speaking-jitters/article_a5b03d72-0db7-11ed-bd77-0b0614f69291.html"
+  },
+  {
+    "text": "Mike Buzzelli",
+    "url": "/columns/mikebuzzelli"
+  },
+  {
+    "text": "\n        \n\n        \n            The Accidental Tourist goes to Italy",
+    "url": "/columns/mikebuzzelli/the-accidental-tourist-goes-to-italy/article_0dca7162-0768-11ed-b7e7-fbc76f504a7e.html"
+  },
+  {
+    "text": "Beth Dolinar",
+    "url": "/columns/bethdolinar"
+  },
+  {
+    "text": "\n        \n\n        \n            Bananas over leg cramp",
+    "url": "/columns/bethdolinar/bananas-over-leg-cramp/article_073902b6-090a-11ed-b5ed-835d1bcb199d.html"
+  },
+  {
+    "text": "\n                \n                \n                    Article with images+4\n                \n                \n                \n                        \n                ",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "\n        \n\n        \n            Brentwood Bank marks century of steely resolve",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fbrentwood-bank-marks-century-of-steely-resolve%2Farticle_15ea58fc-0831-11ed-a5f7-eba7c5250401.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Brentwood%20Bank%20marks%20century%20of%20steely%20resolve&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fbrentwood-bank-marks-century-of-steely-resolve%2Farticle_15ea58fc-0831-11ed-a5f7-eba7c5250401.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/15ea58fc-0831-11ed-a5f7-eba7c5250401"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Brentwood%20Bank%20marks%20century%20of%20steely%20resolve&body=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fbrentwood-bank-marks-century-of-steely-resolve%2Farticle_15ea58fc-0831-11ed-a5f7-eba7c5250401.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "Business",
+    "url": "/business"
+  },
+  {
+    "text": "\n        \n\n        \n            Brentwood Bank marks century of steely resolve",
+    "url": "/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fbrentwood-bank-marks-century-of-steely-resolve%2Farticle_15ea58fc-0831-11ed-a5f7-eba7c5250401.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Brentwood%20Bank%20marks%20century%20of%20steely%20resolve&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fbrentwood-bank-marks-century-of-steely-resolve%2Farticle_15ea58fc-0831-11ed-a5f7-eba7c5250401.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/business/brentwood-bank-marks-century-of-steely-resolve/article_15ea58fc-0831-11ed-a5f7-eba7c5250401.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/15ea58fc-0831-11ed-a5f7-eba7c5250401"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Brentwood%20Bank%20marks%20century%20of%20steely%20resolve&body=https%3A%2F%2Fobserver-reporter.com%2Fbusiness%2Fbrentwood-bank-marks-century-of-steely-resolve%2Farticle_15ea58fc-0831-11ed-a5f7-eba7c5250401.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                ",
+    "url": "/living/honorrolls/charleroi-area-high-school-honor-roll/article_0d3e890c-0e90-11ed-b166-bf016831ac1d.html"
+  },
+  {
+    "text": "Living",
+    "url": "/living"
+  },
+  {
+    "text": "\n        \n\n        \n            Charleroi Area High School honor roll",
+    "url": "/living/honorrolls/charleroi-area-high-school-honor-roll/article_0d3e890c-0e90-11ed-b166-bf016831ac1d.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fhonorrolls%2Fcharleroi-area-high-school-honor-roll%2Farticle_0d3e890c-0e90-11ed-b166-bf016831ac1d.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Charleroi%20Area%20High%20School%20honor%20roll&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fhonorrolls%2Fcharleroi-area-high-school-honor-roll%2Farticle_0d3e890c-0e90-11ed-b166-bf016831ac1d.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/honorrolls/charleroi-area-high-school-honor-roll/article_0d3e890c-0e90-11ed-b166-bf016831ac1d.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/0d3e890c-0e90-11ed-b166-bf016831ac1d"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Charleroi%20Area%20High%20School%20honor%20roll&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fhonorrolls%2Fcharleroi-area-high-school-honor-roll%2Farticle_0d3e890c-0e90-11ed-b166-bf016831ac1d.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                ",
+    "url": "/living/avella-area-junior-high-school-honor-roll/article_4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1.html"
+  },
+  {
+    "text": "Living",
+    "url": "/living"
+  },
+  {
+    "text": "\n        \n\n        \n            Avella Area Junior High School honor roll",
+    "url": "/living/avella-area-junior-high-school-honor-roll/article_4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Favella-area-junior-high-school-honor-roll%2Farticle_4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Avella%20Area%20Junior%20High%20School%20honor%20roll&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Favella-area-junior-high-school-honor-roll%2Farticle_4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/avella-area-junior-high-school-honor-roll/article_4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Avella%20Area%20Junior%20High%20School%20honor%20roll&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Favella-area-junior-high-school-honor-roll%2Farticle_4fa8d09c-0e89-11ed-95fa-a34b3cdde0e1.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/living/miss-rain-day-2022-crowned/article_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html"
+  },
+  {
+    "text": "Living",
+    "url": "/living"
+  },
+  {
+    "text": "\n        \n\n        \n            Miss Rain Day 2022 crowned",
+    "url": "/living/miss-rain-day-2022-crowned/article_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fmiss-rain-day-2022-crowned%2Farticle_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Miss%20Rain%20Day%202022%20crowned&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fmiss-rain-day-2022-crowned%2Farticle_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/miss-rain-day-2022-crowned/article_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/902862d6-0ebb-11ed-87cd-1ba9f221fc4f"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Miss%20Rain%20Day%202022%20crowned&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fmiss-rain-day-2022-crowned%2Farticle_902862d6-0ebb-11ed-87cd-1ba9f221fc4f.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/living/greene-county-property-transfers/article_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html"
+  },
+  {
+    "text": "Living",
+    "url": "/living"
+  },
+  {
+    "text": "\n        \n\n        \n            Greene County property transfers",
+    "url": "/living/greene-county-property-transfers/article_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fgreene-county-property-transfers%2Farticle_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Greene%20County%20property%20transfers&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fgreene-county-property-transfers%2Farticle_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/greene-county-property-transfers/article_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/5b3979a2-0c45-11ed-9dbe-87a1b6baa426"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Greene%20County%20property%20transfers&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fgreene-county-property-transfers%2Farticle_5b3979a2-0c45-11ed-9dbe-87a1b6baa426.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/living/entertainment"
+  },
+  {
+    "text": "\n        \n\n        \n            Military Timeline Weekend, 'Hits of the '40s' concert planned for Westmoreland Historical Society",
+    "url": "/living/entertainment/military-timeline-weekend-hits-of-the-40s-concert-planned-for-westmoreland-historical-society/article_c82ab6cc-0c2f-11ed-8acb-b3396416a8d2.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fmilitary-timeline-weekend-hits-of-the-40s-concert-planned-for-westmoreland-historical-society%2Farticle_c82ab6cc-0c2f-11ed-8acb-b3396416a8d2.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=Military%20Timeline%20Weekend%2C%20%27Hits%20of%20the%20%2740s%27%20concert%20planned%20for%20Westmoreland%20Historical%20Society&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fmilitary-timeline-weekend-hits-of-the-40s-concert-planned-for-westmoreland-historical-society%2Farticle_c82ab6cc-0c2f-11ed-8acb-b3396416a8d2.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/entertainment/military-timeline-weekend-hits-of-the-40s-concert-planned-for-westmoreland-historical-society/article_c82ab6cc-0c2f-11ed-8acb-b3396416a8d2.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/c82ab6cc-0c2f-11ed-8acb-b3396416a8d2"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20Military%20Timeline%20Weekend%2C%20%27Hits%20of%20the%20%2740s%27%20concert%20planned%20for%20Westmoreland%20Historical%20Society&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fmilitary-timeline-weekend-hits-of-the-40s-concert-planned-for-westmoreland-historical-society%2Farticle_c82ab6cc-0c2f-11ed-8acb-b3396416a8d2.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/living/entertainment"
+  },
+  {
+    "text": "\n        \n\n        \n            GO! List 7-29-22",
+    "url": "/living/entertainment/go-list-7-29-22/article_968e8b8e-0c2f-11ed-a462-3781475c48b9.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fgo-list-7-29-22%2Farticle_968e8b8e-0c2f-11ed-a462-3781475c48b9.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=GO%21%20List%207-29-22&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fgo-list-7-29-22%2Farticle_968e8b8e-0c2f-11ed-a462-3781475c48b9.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/entertainment/go-list-7-29-22/article_968e8b8e-0c2f-11ed-a462-3781475c48b9.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/968e8b8e-0c2f-11ed-a462-3781475c48b9"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20GO%21%20List%207-29-22&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fgo-list-7-29-22%2Farticle_968e8b8e-0c2f-11ed-a462-3781475c48b9.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/living/entertainment/go-charts-7-29-22/article_35564378-0cf4-11ed-8c24-43104228a90d.html"
+  },
+  {
+    "text": "Entertainment",
+    "url": "/living/entertainment"
+  },
+  {
+    "text": "\n        \n\n        \n            GO! Charts 7-29-22",
+    "url": "/living/entertainment/go-charts-7-29-22/article_35564378-0cf4-11ed-8c24-43104228a90d.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Facebook\n            ",
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fgo-charts-7-29-22%2Farticle_35564378-0cf4-11ed-8c24-43104228a90d.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Twitter\n            ",
+    "url": "https://twitter.com/intent/tweet?&text=GO%21%20Charts%207-29-22&via=oronline&url=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fgo-charts-7-29-22%2Farticle_35564378-0cf4-11ed-8c24-43104228a90d.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                WhatsApp\n            ",
+    "url": "https://wa.me/?text=https://observer-reporter.com/living/entertainment/go-charts-7-29-22/article_35564378-0cf4-11ed-8c24-43104228a90d.html"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                SMS\n            ",
+    "url": "sms:?body=Check%20out%20this%20link:%20observer-reporter.com/tncms/asset/editorial/35564378-0cf4-11ed-8c24-43104228a90d"
+  },
+  {
+    "text": "\n                \n                    \n                    \n                \n                Email\n            ",
+    "url": "mailto:?subject=%5BObserver-Reporter%5D%20GO%21%20Charts%207-29-22&body=https%3A%2F%2Fobserver-reporter.com%2Fliving%2Fentertainment%2Fgo-charts-7-29-22%2Farticle_35564378-0cf4-11ed-8c24-43104228a90d.html%3Futm_medium%3Dsocial%26utm_source%3Demail%26utm_campaign%3Duser-share"
+  },
+  {
+    "text": "\n                \n                Calendar\n                \n                    ",
+    "url": "/calendar/"
+  },
+  {
+    "text": "",
+    "url": "/calendar/"
+  },
+  {
+    "text": "Browse",
+    "url": "/calendar/"
+  },
+  {
+    "text": "Today's events",
+    "url": "/calendar/search/?l=25&unrolled=1&s=start_time&sd=asc&d1=2022-07-31&d2=2022-07-31&f=html"
+  },
+  {
+    "text": "Submit",
+    "url": "https://observer-reporter.com/users/admin/calendar/"
+  },
+  {
+    "text": "\n        \n\n        \n            Zera House Women's Self-Defense Weekend",
+    "url": "/calendar/zera-house-womens-self-defense-weekend/event_bc5f55ce-e375-11ec-942f-ef2c841ffdcc.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Carnegie Farmers Market",
+    "url": "/calendar/carnegie-farmers-market/event_959bdbda-f318-11ec-a534-cfab5ea8bf25.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Intro to Redstone Logic in Minecraft",
+    "url": "/calendar/intro-to-redstone-logic-in-minecraft/event_20538a20-db22-11ec-806f-432a5083d334.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Chicken & Biscuit Dinner",
+    "url": "/calendar/chicken-biscuit-dinner/event_0c584a64-95a0-11ec-82e3-230b29f49163.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Moonrise Maker Market",
+    "url": "/calendar/moonrise-maker-market/event_5f79df6e-f0db-11ec-8656-2771fad5a5c5.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Carnegie Farmers Market",
+    "url": "/calendar/carnegie-farmers-market/event_959bdbda-f318-11ec-a534-cfab5ea8bf25.html"
+  },
+  {
+    "text": "\n                \n                Stocks\n                \n                    ",
+    "url": "/stock_market"
+  },
+  {
+    "text": "\n            Market Data by TradingView\n        ",
+    "url": "https://www.tradingview.com"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/courthouse-surveillance-footage-from-the-nov-24-incident/video_5c68c9a1-003a-5f4e-a160-ba3901d967ad.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Courthouse surveillance footage from the Nov. 24 incident",
+    "url": "/courthouse-surveillance-footage-from-the-nov-24-incident/video_5c68c9a1-003a-5f4e-a160-ba3901d967ad.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/news/localnews/tornado-photos-farm-homes-sustain-significant-damage/collection_bdc66a90-3350-11ec-a799-13a6a102a4cb.html"
+  },
+  {
+    "text": "\n        \n\n        \n            Tornado photos: farm, homes sustain significant damage",
+    "url": "/news/localnews/tornado-photos-farm-homes-sustain-significant-damage/collection_bdc66a90-3350-11ec-a799-13a6a102a4cb.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/best-buds/video_8813f3f6-d84a-11eb-b183-a3d7231faef0.html"
+  },
+  {
+    "text": "\n        \n\n        \n            best buds",
+    "url": "/best-buds/video_8813f3f6-d84a-11eb-b183-a3d7231faef0.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/best-buds/video_6d25051c-d84a-11eb-a90a-bb2720defa4a.html"
+  },
+  {
+    "text": "\n        \n\n        \n            best buds",
+    "url": "/best-buds/video_6d25051c-d84a-11eb-a90a-bb2720defa4a.html"
+  },
+  {
+    "text": "\n                \n                Publications\n                \n                    ",
+    "url": "/publications/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/publications/monvalleymagazine/chef-opens-cafecito-and-bakery-adjacent-to-popular-restaurant/article_d328abc0-02b0-11ed-a2d5-1f9a27c900f7.html"
+  },
+  {
+    "text": "Mon Valley Magazine",
+    "url": "/publications/monvalleymagazine"
+  },
+  {
+    "text": "\n        \n\n        \n            Chef opens cafecito and bakery adjacent to popular restaurant",
+    "url": "/publications/monvalleymagazine/chef-opens-cafecito-and-bakery-adjacent-to-popular-restaurant/article_d328abc0-02b0-11ed-a2d5-1f9a27c900f7.html"
+  },
+  {
+    "text": "Mon Valley Magazine",
+    "url": "/publications/monvalleymagazine"
+  },
+  {
+    "text": "\n        \n\n        \n            Editor's letter: this summer, I'm toast",
+    "url": "/publications/monvalleymagazine/editors-letter-this-summer-im-toast/article_e3a3c622-044c-11ed-a9a5-6f6125fed600.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/publications/monvalleymagazine/mon-aquatorium-in-tenth-season-of-riverside-concerts/article_89b67c80-02b3-11ed-b441-e758f6073cff.html"
+  },
+  {
+    "text": "Mon Valley Magazine",
+    "url": "/publications/monvalleymagazine"
+  },
+  {
+    "text": "\n        \n\n        \n            Mon Aquatorium in tenth season of riverside concerts",
+    "url": "/publications/monvalleymagazine/mon-aquatorium-in-tenth-season-of-riverside-concerts/article_89b67c80-02b3-11ed-b441-e758f6073cff.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/publications/monvalleymagazine/local-barrel-racer-looks-to-advance-with-daily-practice-and-determination/article_d3f5124c-038b-11ed-862a-8fe10cead07f.html"
+  },
+  {
+    "text": "Mon Valley Magazine",
+    "url": "/publications/monvalleymagazine"
+  },
+  {
+    "text": "\n        \n\n        \n            Local barrel racer looks to advance with daily practice and determination",
+    "url": "/publications/monvalleymagazine/local-barrel-racer-looks-to-advance-with-daily-practice-and-determination/article_d3f5124c-038b-11ed-862a-8fe10cead07f.html"
+  },
+  {
+    "text": "\n                \n                Sponsored Content\n                \n                    ",
+    "url": "/sponsored/"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sponsored/first_federal_of_greene_county/a-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president/article_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html"
+  },
+  {
+    "text": "First Federal Of Greene County",
+    "url": "/sponsored/first_federal_of_greene_county"
+  },
+  {
+    "text": "\n        \n\n        \n            A legacy of heart First Federal of Greene County celebrates the life of former President/CEO Scott S. O\u2019Neil, 1943-2022",
+    "url": "/sponsored/first_federal_of_greene_county/a-legacy-of-heart-first-federal-of-greene-county-celebrates-the-life-of-former-president/article_8a9ee80e-0ea6-11ed-be8d-fbf9753c2df1.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sponsored/mid_mon_valley_transit_authority/mid-mon-valley-transportation-authority-brings-updates-new-options-to-riders-and-community/article_e3cc5d28-0ea4-11ed-b5f2-ef3a605bb86a.html"
+  },
+  {
+    "text": "Mid Mon Valley Transit Authority",
+    "url": "/sponsored/mid_mon_valley_transit_authority"
+  },
+  {
+    "text": "\n        \n\n        \n            Mid Mon Valley Transportation Authority brings updates, new options to riders and community",
+    "url": "/sponsored/mid_mon_valley_transit_authority/mid-mon-valley-transportation-authority-brings-updates-new-options-to-riders-and-community/article_e3cc5d28-0ea4-11ed-b5f2-ef3a605bb86a.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sponsored/wonsettler_physical_therapy/wonsettler-physical-therapy-specialized-health-will-offer-pilates-classes-starting-july-26/article_148d172e-0471-11ed-8f64-4b53c5b86410.html"
+  },
+  {
+    "text": "Wonsettler Physical Therapy",
+    "url": "/sponsored/wonsettler_physical_therapy"
+  },
+  {
+    "text": "\n        \n\n        \n            Wonsettler Physical Therapy & Specialized Health will offer pilates classes starting July 26",
+    "url": "/sponsored/wonsettler_physical_therapy/wonsettler-physical-therapy-specialized-health-will-offer-pilates-classes-starting-july-26/article_148d172e-0471-11ed-8f64-4b53c5b86410.html"
+  },
+  {
+    "text": "\n                \n                \n                \n                \n                        \n                ",
+    "url": "/sponsored/washington_county_tourism/washington-wild-things-to-host-frontier-league-all-star-game-with-days-of-festivities/article_2bdbac12-02bc-11ed-ba70-a32119133d27.html"
+  },
+  {
+    "text": "Washington County Tourism",
+    "url": "/sponsored/washington_county_tourism"
+  },
+  {
+    "text": "\n        \n\n        \n            Washington Wild Things to host Frontier League All-Star Game with days of festivities",
+    "url": "/sponsored/washington_county_tourism/washington-wild-things-to-host-frontier-league-all-star-game-with-days-of-festivities/article_2bdbac12-02bc-11ed-ba70-a32119133d27.html"
+  },
+  {
+    "text": "\n                     Home\n                ",
+    "url": "/"
+  },
+  {
+    "text": "\n                    News\n                ",
+    "url": "/news/"
+  },
+  {
+    "text": "\n                    Sports\n                ",
+    "url": "/sports/"
+  },
+  {
+    "text": "\n                    Business\n                ",
+    "url": "/business/"
+  },
+  {
+    "text": "\n                    Opinion\n                ",
+    "url": "/opinion/"
+  },
+  {
+    "text": "\n                    Community\n                ",
+    "url": "/community/"
+  },
+  {
+    "text": "\n                    Obituaries\n                ",
+    "url": "/obituaries"
+  },
+  {
+    "text": "\n                    Police Beat\n                ",
+    "url": "/news/policebeat/"
+  },
+  {
+    "text": "\n                    Columns\n                ",
+    "url": "/columns"
+  },
+  {
+    "text": "\n                    Publications\n                ",
+    "url": "/publications"
+  },
+  {
+    "text": "\n                    Subscribe to the Observer-Reporter\n                ",
+    "url": "http://o-rplus.com/subscribe"
+  },
+  {
+    "text": "\n                    Customer Service Center\n                ",
+    "url": "http://o-rplus.com/customer-service-center"
+  },
+  {
+    "text": "\n                    Advertise With Us\n                ",
+    "url": "http://o-rplus.com/advertise-with-us"
+  },
+  {
+    "text": "\n                    Reimagine Main Street\n                ",
+    "url": "http://reimaginemainstreet.com/"
+  },
+  {
+    "text": "\n                    Newsroom Submission Forms\n                ",
+    "url": "/submit/"
+  },
+  {
+    "text": "\n                    Classifieds\n                ",
+    "url": "/classifieds/"
+  },
+  {
+    "text": "\n                    Calendar\n                ",
+    "url": "/calendar/"
+  },
+  {
+    "text": "\n                    Get Our Newsletters\n                ",
+    "url": "/getnewsletters/"
+  },
+  {
+    "text": "\n                    Weather\n                ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                    Search\n                ",
+    "url": "/search/"
+  },
+  {
+    "text": "\n                    O-R Events\n                ",
+    "url": "http://o-rplus.com/or-events"
+  },
+  {
+    "text": "\n            ",
+    "url": "/"
+  },
+  {
+    "text": "webmaster@observer-reporter.com",
+    "url": "mailto:webmaster@observer-reporter.com"
+  },
+  {
+    "text": "\n                    \n                    Facebook\n                ",
+    "url": "https://www.facebook.com/observerreporternews/"
+  },
+  {
+    "text": "\n                    \n                    Twitter\n                ",
+    "url": "https://twitter.com/oronline/"
+  },
+  {
+    "text": "\n                    \n                    LinkedIn\n                ",
+    "url": "https://www.linkedin.com/company-beta/120636/"
+  },
+  {
+    "text": "\n                    \n                    YouTube\n                ",
+    "url": "https://www.youtube.com/user/observerreporter"
+  },
+  {
+    "text": "Observer-Reporter",
+    "url": "/"
+  },
+  {
+    "text": "Terms of Use",
+    "url": "/site/terms.html"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/site/privacy.html"
+  }
+]

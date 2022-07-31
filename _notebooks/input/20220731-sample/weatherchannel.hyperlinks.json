@@ -1,0 +1,982 @@
+[
+  {
+    "text": "Skip to Main Content",
+    "url": "#MainContent"
+  },
+  {
+    "text": "Accessibility Help",
+    "url": "https://www.essentialaccessibility.com/the-weather-channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel"
+  },
+  {
+    "text": "The Weather Channel",
+    "url": "/"
+  },
+  {
+    "text": "Antigua and Barbuda | English",
+    "url": "/en-AG"
+  },
+  {
+    "text": "Argentina | Espa\u00f1ol",
+    "url": "/es-AR"
+  },
+  {
+    "text": "Bahamas | English",
+    "url": "/en-BS"
+  },
+  {
+    "text": "Barbados | English",
+    "url": "/en-BB"
+  },
+  {
+    "text": "Belize | English",
+    "url": "/en-BZ"
+  },
+  {
+    "text": "Bolivia | Espa\u00f1ol",
+    "url": "/es-BO"
+  },
+  {
+    "text": "Brazil | Portugu\u00eas",
+    "url": "/pt-BR"
+  },
+  {
+    "text": "Canada | English",
+    "url": "/en-CA"
+  },
+  {
+    "text": "Canada | Fran\u00e7ais",
+    "url": "/fr-CA"
+  },
+  {
+    "text": "Chile | Espa\u00f1ol",
+    "url": "/es-CL"
+  },
+  {
+    "text": "Colombia | Espa\u00f1ol",
+    "url": "/es-CO"
+  },
+  {
+    "text": "Costa Rica | Espa\u00f1ol",
+    "url": "/es-CR"
+  },
+  {
+    "text": "Dominica | English",
+    "url": "/en-DM"
+  },
+  {
+    "text": "Dominican Republic | Espa\u00f1ol",
+    "url": "/es-DO"
+  },
+  {
+    "text": "Ecuador | Espa\u00f1ol",
+    "url": "/es-EC"
+  },
+  {
+    "text": "El Salvador | Espa\u00f1ol",
+    "url": "/es-SV"
+  },
+  {
+    "text": "Grenada | English",
+    "url": "/en-GD"
+  },
+  {
+    "text": "Guatemala | Espa\u00f1ol",
+    "url": "/es-GT"
+  },
+  {
+    "text": "Guyana | English",
+    "url": "/en-GY"
+  },
+  {
+    "text": "Haiti | Fran\u00e7ais",
+    "url": "/fr-HT"
+  },
+  {
+    "text": "Honduras | Espa\u00f1ol",
+    "url": "/es-HN"
+  },
+  {
+    "text": "Jamaica | English",
+    "url": "/en-JM"
+  },
+  {
+    "text": "Mexico | Espa\u00f1ol",
+    "url": "/es-MX"
+  },
+  {
+    "text": "Nicaragua | Espa\u00f1ol",
+    "url": "/es-NI"
+  },
+  {
+    "text": "Panama | Espa\u00f1ol",
+    "url": "/es-PA"
+  },
+  {
+    "text": "Panama | English",
+    "url": "/en-PA"
+  },
+  {
+    "text": "Paraguay | Espa\u00f1ol",
+    "url": "/es-PY"
+  },
+  {
+    "text": "Peru | Espa\u00f1ol",
+    "url": "/es-PE"
+  },
+  {
+    "text": "St. Kitts and Nevis | English",
+    "url": "/en-KN"
+  },
+  {
+    "text": "St. Lucia | English",
+    "url": "/en-LC"
+  },
+  {
+    "text": "St. Vincent and the Grenadines | English",
+    "url": "/en-VC"
+  },
+  {
+    "text": "Suriname | Nederlands",
+    "url": "/nl-SR"
+  },
+  {
+    "text": "Trinidad and Tobago | English",
+    "url": "/en-TT"
+  },
+  {
+    "text": "Uruguay | Espa\u00f1ol",
+    "url": "/es-UY"
+  },
+  {
+    "text": "United States | English",
+    "url": "/"
+  },
+  {
+    "text": "United States | Espa\u00f1ol",
+    "url": "/es-US"
+  },
+  {
+    "text": "Venezuela | Espa\u00f1ol",
+    "url": "/es-VE"
+  },
+  {
+    "text": "Algeria | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-DZ"
+  },
+  {
+    "text": "Algeria | Fran\u00e7ais",
+    "url": "/fr-DZ"
+  },
+  {
+    "text": "Angola | Portugu\u00eas",
+    "url": "/pt-AO"
+  },
+  {
+    "text": "Benin | Fran\u00e7ais",
+    "url": "/fr-BJ"
+  },
+  {
+    "text": "Burkina Faso | Fran\u00e7ais",
+    "url": "/fr-BF"
+  },
+  {
+    "text": "Burundi | Fran\u00e7ais",
+    "url": "/fr-BI"
+  },
+  {
+    "text": "Cameroon | Fran\u00e7ais",
+    "url": "/fr-CM"
+  },
+  {
+    "text": "Cameroon | English",
+    "url": "/en-CM"
+  },
+  {
+    "text": "Cape Verde | Portugu\u00eas",
+    "url": "/pt-CV"
+  },
+  {
+    "text": "Central African Republic | Fran\u00e7ais",
+    "url": "/fr-CF"
+  },
+  {
+    "text": "Chad | Fran\u00e7ais",
+    "url": "/fr-TD"
+  },
+  {
+    "text": "Chad | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-TD"
+  },
+  {
+    "text": "Comoros | Fran\u00e7ais",
+    "url": "/fr-KM"
+  },
+  {
+    "text": "Comoros | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-KM"
+  },
+  {
+    "text": "Democratic Republic of the Congo | Fran\u00e7ais",
+    "url": "/fr-CD"
+  },
+  {
+    "text": "Republic of Congo | Fran\u00e7ais",
+    "url": "/fr-CG"
+  },
+  {
+    "text": "C\u00f4te d'Ivoire | Fran\u00e7ais",
+    "url": "/fr-CI"
+  },
+  {
+    "text": "Djibouti | Fran\u00e7ais",
+    "url": "/fr-DJ"
+  },
+  {
+    "text": "Djibouti | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-DJ"
+  },
+  {
+    "text": "Egypt | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-EG"
+  },
+  {
+    "text": "Equatorial Guinea | Espa\u00f1ol",
+    "url": "/es-GQ"
+  },
+  {
+    "text": "Eritrea | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-ER"
+  },
+  {
+    "text": "Gabon | Fran\u00e7ais",
+    "url": "/fr-GA"
+  },
+  {
+    "text": "Gambia | English",
+    "url": "/en-GM"
+  },
+  {
+    "text": "Ghana | English",
+    "url": "/en-GH"
+  },
+  {
+    "text": "Guinea | Fran\u00e7ais",
+    "url": "/fr-GN"
+  },
+  {
+    "text": "Guinea-Bissau | Portugu\u00eas",
+    "url": "/pt-GW"
+  },
+  {
+    "text": "Kenya | English",
+    "url": "/en-KE"
+  },
+  {
+    "text": "Lesotho | English",
+    "url": "/en-LS"
+  },
+  {
+    "text": "Liberia | English",
+    "url": "/en-LR"
+  },
+  {
+    "text": "Libya | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-LY"
+  },
+  {
+    "text": "Madagascar | Fran\u00e7ais",
+    "url": "/fr-MG"
+  },
+  {
+    "text": "Mali | Fran\u00e7ais",
+    "url": "/fr-ML"
+  },
+  {
+    "text": "Mauritania | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-MR"
+  },
+  {
+    "text": "Mauritius | English",
+    "url": "/en-MU"
+  },
+  {
+    "text": "Mauritius | Fran\u00e7ais",
+    "url": "/fr-MU"
+  },
+  {
+    "text": "Morocco | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-MA"
+  },
+  {
+    "text": "Morocco | Fran\u00e7ais",
+    "url": "/fr-MA"
+  },
+  {
+    "text": "Mozambique | Portugu\u00eas",
+    "url": "/pt-MZ"
+  },
+  {
+    "text": "Namibia | English",
+    "url": "/en-NA"
+  },
+  {
+    "text": "Niger | Fran\u00e7ais",
+    "url": "/fr-NE"
+  },
+  {
+    "text": "Nigeria | English",
+    "url": "/en-NG"
+  },
+  {
+    "text": "Rwanda | Fran\u00e7ais",
+    "url": "/fr-RW"
+  },
+  {
+    "text": "Rwanda | English",
+    "url": "/en-RW"
+  },
+  {
+    "text": "Sao Tome and Principe | Portugu\u00eas",
+    "url": "/pt-ST"
+  },
+  {
+    "text": "Senegal | Fran\u00e7ais",
+    "url": "/fr-SN"
+  },
+  {
+    "text": "Sierra Leone | English",
+    "url": "/en-SL"
+  },
+  {
+    "text": "Somalia | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-SO"
+  },
+  {
+    "text": "South Africa | English",
+    "url": "/en-ZA"
+  },
+  {
+    "text": "South Sudan | English",
+    "url": "/en-SS"
+  },
+  {
+    "text": "Sudan | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-SD"
+  },
+  {
+    "text": "Swaziland | English",
+    "url": "/en-SZ"
+  },
+  {
+    "text": "Tanzania | English",
+    "url": "/en-TZ"
+  },
+  {
+    "text": "Togo | Fran\u00e7ais",
+    "url": "/fr-TG"
+  },
+  {
+    "text": "Tunisia | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-TN"
+  },
+  {
+    "text": "Uganda | English",
+    "url": "/en-UG"
+  },
+  {
+    "text": "Australia | English",
+    "url": "/en-AU"
+  },
+  {
+    "text": "Bangladesh | \u09ac\u09be\u0982\u09b2\u09be",
+    "url": "/bn-BD"
+  },
+  {
+    "text": "Brunei | Bahasa Melayu",
+    "url": "/ms-BN"
+  },
+  {
+    "text": "China | \u4e2d\u6587",
+    "url": "/zh-CN"
+  },
+  {
+    "text": "Hong Kong SAR | \u4e2d\u6587",
+    "url": "/zh-HK"
+  },
+  {
+    "text": "East Timor | Portugu\u00eas",
+    "url": "/pt-TP"
+  },
+  {
+    "text": "Fiji | English",
+    "url": "/en-FJ"
+  },
+  {
+    "text": "India (English) | English",
+    "url": "/en-IN"
+  },
+  {
+    "text": "India (Hindi) | \u0939\u093f\u0928\u094d\u0926\u0940",
+    "url": "/hi-IN"
+  },
+  {
+    "text": "Indonesia | Bahasa Indonesia",
+    "url": "/id-ID"
+  },
+  {
+    "text": "Japan | \u65e5\u672c\u8a9e",
+    "url": "/ja-JP"
+  },
+  {
+    "text": "Kiribati | English",
+    "url": "/en-KI"
+  },
+  {
+    "text": "South Korea | \ud55c\uad6d\uc5b4",
+    "url": "/ko-KR"
+  },
+  {
+    "text": "Kyrgyzstan | \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    "url": "/ru-KG"
+  },
+  {
+    "text": "Malaysia | Bahasa Melayu",
+    "url": "/ms-MY"
+  },
+  {
+    "text": "Marshall Islands | English",
+    "url": "/en-MH"
+  },
+  {
+    "text": "Micronesia | English",
+    "url": "/en-FM"
+  },
+  {
+    "text": "New Zealand | English",
+    "url": "/en-NZ"
+  },
+  {
+    "text": "Palau | English",
+    "url": "/en-PW"
+  },
+  {
+    "text": "Philippines | English",
+    "url": "/en-PH"
+  },
+  {
+    "text": "Philippines | Tagalog",
+    "url": "/tl-PH"
+  },
+  {
+    "text": "Samoa | English",
+    "url": "/en-AS"
+  },
+  {
+    "text": "Singapore | English",
+    "url": "/en-SG"
+  },
+  {
+    "text": "Singapore | \u4e2d\u6587",
+    "url": "/zh-SG"
+  },
+  {
+    "text": "Solomon Islands | English",
+    "url": "/en-SB"
+  },
+  {
+    "text": "Taiwan | \u4e2d\u6587",
+    "url": "/zh-TW"
+  },
+  {
+    "text": "Thailand | \u0e44\u0e17\u0e22",
+    "url": "/th-TH"
+  },
+  {
+    "text": "Tonga | English",
+    "url": "/en-TO"
+  },
+  {
+    "text": "Tuvalu | English",
+    "url": "/en-TV"
+  },
+  {
+    "text": "Vanuatu | English",
+    "url": "/en-VU"
+  },
+  {
+    "text": "Vanuatu | Fran\u00e7ais",
+    "url": "/fr-VU"
+  },
+  {
+    "text": "Vietnam | Ti\u1ebfng Vi\u1ec7t",
+    "url": "/vi-VN"
+  },
+  {
+    "text": "Andorra | Catal\u00e0",
+    "url": "/ca-AD"
+  },
+  {
+    "text": "Andorra | Fran\u00e7ais",
+    "url": "/fr-AD"
+  },
+  {
+    "text": "Austria | Deutsch",
+    "url": "/de-AT"
+  },
+  {
+    "text": "Belarus | \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    "url": "/ru-BY"
+  },
+  {
+    "text": "Belgium | Dutch",
+    "url": "/nl-BE"
+  },
+  {
+    "text": "Belgium | Fran\u00e7ais",
+    "url": "/fr-BE"
+  },
+  {
+    "text": "Bosnia and Herzegovina | Hrvatski",
+    "url": "/hr-BA"
+  },
+  {
+    "text": "Croatia | Hrvatski",
+    "url": "/hr-HR"
+  },
+  {
+    "text": "Cyprus | \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+    "url": "/el-CY"
+  },
+  {
+    "text": "Czech Republic | \u010ce\u0161tina",
+    "url": "/cs-CZ"
+  },
+  {
+    "text": "Denmark | Dansk",
+    "url": "/da-DK"
+  },
+  {
+    "text": "Estonia | \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    "url": "/ru-EE"
+  },
+  {
+    "text": "Estonia | Eesti",
+    "url": "/et-EE"
+  },
+  {
+    "text": "Finland | Suomi",
+    "url": "/fi-FI"
+  },
+  {
+    "text": "France | Fran\u00e7ais",
+    "url": "/fr-FR"
+  },
+  {
+    "text": "Germany | Deutsch",
+    "url": "/de-DE"
+  },
+  {
+    "text": "Greece | \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+    "url": "/el-GR"
+  },
+  {
+    "text": "Hungary | Magyar",
+    "url": "/hu-HU"
+  },
+  {
+    "text": "Ireland | English",
+    "url": "/en-IE"
+  },
+  {
+    "text": "Italy | Italiano",
+    "url": "/it-IT"
+  },
+  {
+    "text": "Liechtenstein | Deutsch",
+    "url": "/de-LI"
+  },
+  {
+    "text": "Luxembourg | Fran\u00e7ais",
+    "url": "/fr-LU"
+  },
+  {
+    "text": "Malta | English",
+    "url": "/en-MT"
+  },
+  {
+    "text": "Monaco | Fran\u00e7ais",
+    "url": "/fr-MC"
+  },
+  {
+    "text": "Netherlands | Nederlands",
+    "url": "/nl-NL"
+  },
+  {
+    "text": "Norway | Norsk",
+    "url": "/no-NO"
+  },
+  {
+    "text": "Poland | Polski",
+    "url": "/pl-PL"
+  },
+  {
+    "text": "Portugal | Portugu\u00eas",
+    "url": "/pt-PT"
+  },
+  {
+    "text": "Romania | Rom\u00e2n\u0103",
+    "url": "/ro-RO"
+  },
+  {
+    "text": "Russia | \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    "url": "/ru-RU"
+  },
+  {
+    "text": "San Marino | Italiano",
+    "url": "/it-SM"
+  },
+  {
+    "text": "Slovakia | Sloven\u010dina",
+    "url": "/sk-SK"
+  },
+  {
+    "text": "Spain | Espa\u00f1ol",
+    "url": "/es-ES"
+  },
+  {
+    "text": "Spain | Catal\u00e0",
+    "url": "/ca-ES"
+  },
+  {
+    "text": "Sweden | Svenska",
+    "url": "/sv-SE"
+  },
+  {
+    "text": "Switzerland | Deutsch",
+    "url": "/de-CH"
+  },
+  {
+    "text": "Turkey | Turk\u00e7e",
+    "url": "/tr-TR"
+  },
+  {
+    "text": "Ukraine | \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+    "url": "/uk-UA"
+  },
+  {
+    "text": "United Kingdom | English",
+    "url": "/en-GB"
+  },
+  {
+    "text": "State of Vatican City (Holy See) | Italiano",
+    "url": "/it-VA"
+  },
+  {
+    "text": "Bahrain | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-BH"
+  },
+  {
+    "text": "Iran |  \u0641\u0627\u0631\u0633\u0649",
+    "url": "/fa-IR"
+  },
+  {
+    "text": "Iraq | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-IQ"
+  },
+  {
+    "text": "Israel | \u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea",
+    "url": "/he-IL"
+  },
+  {
+    "text": "Jordan | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-JO"
+  },
+  {
+    "text": "Kuwait | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-KW"
+  },
+  {
+    "text": "Lebanon | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-LB"
+  },
+  {
+    "text": "Oman | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-OM"
+  },
+  {
+    "text": "Pakistan |  \u0627\u0631\u062f\u0648",
+    "url": "/ur-PK"
+  },
+  {
+    "text": "Pakistan | English",
+    "url": "/en-PK"
+  },
+  {
+    "text": "Qatar | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-QA"
+  },
+  {
+    "text": "Saudi Arabia | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-SA"
+  },
+  {
+    "text": "Syria | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-SY"
+  },
+  {
+    "text": "United Arab Emirates | \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "url": "/ar-AE"
+  },
+  {
+    "text": "Today",
+    "url": "#noloc_/weather/today/l/"
+  },
+  {
+    "text": "Hourly",
+    "url": "#noloc_/weather/hourbyhour/l/"
+  },
+  {
+    "text": "10 Day",
+    "url": "#noloc_/weather/tenday/l/"
+  },
+  {
+    "text": "Weekend",
+    "url": "#noloc_/weather/weekend/l/"
+  },
+  {
+    "text": "Monthly",
+    "url": "#noloc_/weather/monthly/l/"
+  },
+  {
+    "text": "Radar",
+    "url": "#noloc_/weather/radar/interactive/l/"
+  },
+  {
+    "text": "VideoFloods",
+    "url": "/storms/severe/video/widespread-flooding-in-phoenix-after-monsoon-storms?adRef=nav_fld"
+  },
+  {
+    "text": "Yesterday's WeatherExternal Link",
+    "url": "//www.wunderground.com/history/daily//yesterday"
+  },
+  {
+    "text": "Allergy Tracker",
+    "url": "#noloc_/forecast/allergy/l/"
+  },
+  {
+    "text": "Fishing",
+    "url": "#noloc_/forecast/fishing/l/"
+  },
+  {
+    "text": "Cold & Flu",
+    "url": "#noloc_/forecast/cold-flu/l/"
+  },
+  {
+    "text": "Air Quality Forecast",
+    "url": "#noloc_/forecast/air-quality/l/"
+  },
+  {
+    "text": "VideoUnexplained Row Of Tiny Holes Found On Ocean Floor",
+    "url": "/news/trending/video/see-the-unexplained-line-of-tiny-holes-found-on-the-seafloor"
+  },
+  {
+    "text": "VideoYour Updated Outlook For August",
+    "url": "/forecast/national/news/2022-07-28-august-temperature-forecast-outlook-united-states"
+  },
+  {
+    "text": "VideoIt\u2019s Prime Time For Watching Meteors \u2013 Two Showers Converge",
+    "url": "/science/space/video/its-prime-time-for-watching-meteors-two-showers-converge"
+  },
+  {
+    "text": "VideoLost Hatchlings Put On Right Path",
+    "url": "/science/nature/video/sea-turtle-hatchlings-discovered-in-parking-lot-relocated"
+  },
+  {
+    "text": "VideoKentucky Flooding: Search And Rescue Continues, More Rain Coming",
+    "url": "/storms/severe/video/25-dead-devastation-continues-in-kentucky-flooding"
+  },
+  {
+    "text": "NewsHurricane Forecasts: 12 Things You May Not Know",
+    "url": "/storms/hurricane/news/2022-07-27-hurricane-forecast-things-to-know"
+  },
+  {
+    "text": "VideoDramatic Changes Caused By Drought In CA",
+    "url": "/news/weather/video/satellite-images-show-dramatic-changes-caused-by-drought-in-california"
+  },
+  {
+    "text": "VideoBest Boardwalks To Have Fun Or Unwind, Your Choice",
+    "url": "/travel/video/best-boardwalks-to-have-fun-or-unwind-your-choice"
+  },
+  {
+    "text": "More Stories",
+    "url": "/news"
+  },
+  {
+    "text": "VideoSevere WeatherWidespread Flooding In Phoenix After Monsoon Storms",
+    "url": "/storms/severe/video/widespread-flooding-in-phoenix-after-monsoon-storms"
+  },
+  {
+    "text": "VideoSevere WeatherThe Most Staggering Facts About The Major Kentucky Flooding",
+    "url": "/storms/severe/news/2022-07-28-kentucky-flooding-rain-record-flood-facts"
+  },
+  {
+    "text": "Severe WeatherRounds Of Storms Bring Flood Risk To Already Saturated Areas",
+    "url": "/storms/severe/video/rounds-of-storms-brings-flood-risk-to-already-saturated-areas"
+  },
+  {
+    "text": "VideoSevere Weather5 Lifesaving Flooding Fast Facts",
+    "url": "/storms/severe/video/5-lifesaving-flooding-fast-facts"
+  },
+  {
+    "text": "More News",
+    "url": "/news"
+  },
+  {
+    "text": "",
+    "url": "https://weather.com/forecast/news/2014-10-31-national-forecast-20141009"
+  },
+  {
+    "text": "Read More",
+    "url": "https://weather.com/forecast/news/2014-10-31-national-forecast-20141009"
+  },
+  {
+    "text": " What To Do (And Not Do) During A Flood",
+    "url": "/safety/floods/news/2019-08-13-what-do-not-do-during-flood"
+  },
+  {
+    "text": "VideoFlooding Events Are Getting Worse",
+    "url": "/news/weather/video/flooding-events-are-getting-worse-because-of-climate-change-studies-show"
+  },
+  {
+    "text": "VideoSimple Tips to Protect Your Car From Hail",
+    "url": "/safety/thunderstorms/video/simple-tips-to-protect-your-car-from-hail"
+  },
+  {
+    "text": "VideoHome Improvements To Keep You Cooler In A Heat Wave",
+    "url": "/safety/heat/video/home-improvements-to-keep-you-cooler-in-a-heat-wave"
+  },
+  {
+    "text": "See More",
+    "url": "/news"
+  },
+  {
+    "text": "Photos Of Appalachia's Flood",
+    "url": "/photos/news/2022-07-28-kentucky-flood-images"
+  },
+  {
+    "text": "Photos Show The Damage Left Behind As Waters Recede In Appalachia",
+    "url": "/photos/news/2022-07-29-appalachia-flood-damage-images"
+  },
+  {
+    "text": "St. Louis Flooding, In Photos",
+    "url": "/photos/news/2022-07-26-st-louis-missouri-flood"
+  },
+  {
+    "text": "At Least 41 Structures Destroyed In California's Oak Fire (PHOTOS)",
+    "url": "/photos/news/2022-07-25-california-oak-fire"
+  },
+  {
+    "text": "See More",
+    "url": "/slideshows"
+  },
+  {
+    "text": "Homes Washed Away; People Stranded",
+    "url": "/photos/news/2022-07-28-kentucky-flood-images"
+  },
+  {
+    "text": "\u00a9 2022 Mapbox",
+    "url": "https://mapbox.com/about/maps"
+  },
+  {
+    "text": "\u00a9 OpenStreetMap",
+    "url": "https://www.openstreetmap.org/about"
+  },
+  {
+    "text": "Improve this map",
+    "url": "https://www.mapbox.com/map-feedback/"
+  },
+  {
+    "text": "",
+    "url": "/weather/radar/interactive/l/?base=roadsDark&zoom=6&collection=Frank"
+  },
+  {
+    "text": "Track Storm",
+    "url": "/weather/radar/interactive/l/?base=roadsDark&zoom=6&collection=Frank"
+  },
+  {
+    "text": "",
+    "url": "/safety"
+  },
+  {
+    "text": "This Excel Training Bundle is On Sale For $34",
+    "url": "/deals/stackcommerce/news/2021-06-17-the-ultimate-microsoft-excel-certification-training-bundle"
+  },
+  {
+    "text": "See More",
+    "url": "/deals/stackcommerce"
+  },
+  {
+    "text": "Feedback",
+    "url": "//support.weather.com/s/?language=en_US&type=TWC"
+  },
+  {
+    "text": "Careers",
+    "url": "https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=searchResults&SearchType=linkquery&LinkID=363#keyWordSearch=&locationSearch="
+  },
+  {
+    "text": "Press Room",
+    "url": "https://newsroom.ibm.com/the-weather-company"
+  },
+  {
+    "text": "Advertise With Us",
+    "url": "https://www.ibm.com/watson-advertising"
+  },
+  {
+    "text": "TV",
+    "url": "https://weloveweather.tv/twc/"
+  },
+  {
+    "text": "Terms of Use",
+    "url": "/legal"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/en-US/twc/privacy-policy"
+  },
+  {
+    "text": "AdChoicesAd Choices",
+    "url": "/services/ad-choices"
+  },
+  {
+    "text": "Accessibility Statement",
+    "url": "/accessibility-statement"
+  },
+  {
+    "text": "Data Vendors",
+    "url": "/data-vendors"
+  },
+  {
+    "text": "Georgia",
+    "url": "http://www.exploregeorgia.org/weather-and-travel-tips"
+  },
+  {
+    "text": "eSSENTIAL Accessibility",
+    "url": "https://www.essentialaccessibility.com/the-weather-channel?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel"
+  },
+  {
+    "text": "Privacy Settings",
+    "url": "/privacy-settings"
+  },
+  {
+    "text": "Review My Advertising Settings",
+    "url": "/privacy-settings#do-not-sell"
+  },
+  {
+    "text": "Data Rights",
+    "url": "/data-rights"
+  },
+  {
+    "text": "Powered by theIBM CloudIBM Cloud",
+    "url": "https://www.ibm.com/cloud/"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Skip Navigation",
+    "url": "#main"
+  },
+  {
+    "text": "\n                \n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                                        News\n                            ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Local\n                                                        ",
+    "url": "/local"
+  },
+  {
+    "text": "\n                                                                    Texas\n                                                        ",
+    "url": "/texas"
+  },
+  {
+    "text": "\n                                                                    Nation World\n                                                        ",
+    "url": "/nation-world"
+  },
+  {
+    "text": "\n                                                                    Politics\n                                                        ",
+    "url": "/politics"
+  },
+  {
+    "text": "\n                                                                    Sports\n                                                        ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                                                                    Money\n                                                        ",
+    "url": "/money"
+  },
+  {
+    "text": "\n                                                                    Investigations\n                                                        ",
+    "url": "/investigations"
+  },
+  {
+    "text": "\n                                                                    WFAA Originals\n                                                        ",
+    "url": "/originals"
+  },
+  {
+    "text": "\n                                                                    Reasons to Smile\n                                                        ",
+    "url": "/reasons-to-smile"
+  },
+  {
+    "text": "\n                                                                    Good Morning Texas\n                                                        ",
+    "url": "/gmt"
+  },
+  {
+    "text": "\n                                                                    Features\n                                                        ",
+    "url": "/features"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "Former President Donald Trump To Give Key Note Address at CPAC",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "Hot to end July and begin August",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "\n                                        Weather\n                            ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Forecast\n                                                        ",
+    "url": "/forecast"
+  },
+  {
+    "text": "\n                                                                    Radar\n                                                        ",
+    "url": "/radar"
+  },
+  {
+    "text": "\n                                                                    Closings & Delays\n                                                        ",
+    "url": "/closings"
+  },
+  {
+    "text": "\n                                                                    School/Business Login\n                                                        ",
+    "url": "/closings-admin"
+  },
+  {
+    "text": "\n                                                                    Weatherminds\n                                                        ",
+    "url": "/weatherminds"
+  },
+  {
+    "text": "\n                                                                    Traffic\n                                                        ",
+    "url": "/traffic"
+  },
+  {
+    "text": "\n                                                                    Gas Prices\n                                                        ",
+    "url": "/gas-prices"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "Hot to end July and begin August",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/weather/forecast/weather-forecast-dallas-fort-worth-sunday-february-28/287-24264997"
+  },
+  {
+    "text": "Heat continues to end the weekend and heading into August",
+    "url": "https://www.wfaa.com/article/weather/forecast/weather-forecast-dallas-fort-worth-sunday-february-28/287-24264997"
+  },
+  {
+    "text": "\n                                        Near Me\n                            ",
+    "url": "/near-me"
+  },
+  {
+    "text": "\n                                        VERIFY\n                            ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n        Watch Live\n    ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n        \n        \n            ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n                            Search\n                        ",
+    "url": "/search"
+  },
+  {
+    "text": "\n                    \n                        \n                            Right Now\n                            Dallas, TX\u00a0\u00bb\n                        \n                        \n                            \n                                89\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Dallas, TX\u00a0\u00bb\n                        \n                    \n                ",
+    "url": "/weather"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather/alerts"
+  },
+  {
+    "text": "Closings",
+    "url": "/closings"
+  },
+  {
+    "text": "Advertise With Us",
+    "url": "/advertise"
+  },
+  {
+    "text": "Radar",
+    "url": "/radar"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.wfaa.com/sports"
+  },
+  {
+    "text": "COVID-19 vaccines",
+    "url": "https://www.wfaa.com/covid-19-vaccine"
+  },
+  {
+    "text": "Right on the Money",
+    "url": "/rightonthemoney"
+  },
+  {
+    "text": "Inside Texas Politics",
+    "url": "/insidetexaspolitics"
+  },
+  {
+    "text": "Vote Now",
+    "url": "/votenow"
+  },
+  {
+    "text": "La Vida",
+    "url": "/la-vida"
+  },
+  {
+    "text": "Verify",
+    "url": "/verify"
+  },
+  {
+    "text": "Rescan Your TV",
+    "url": "https://www.wfaa.com/rescan"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/coronavirus-covid-19"
+  },
+  {
+    "text": "At the Border",
+    "url": "https://www.wfaa.com/attheborder"
+  },
+  {
+    "text": "Wednesday's Child",
+    "url": "/wednesdays-child"
+  },
+  {
+    "text": "Family First",
+    "url": "https://www.wfaa.com/familyfirst"
+  },
+  {
+    "text": "\n                            \n                            Read More \u00bb\n                        ",
+    "url": "#"
+  },
+  {
+    "text": "More () \u00bb",
+    "url": "/breaking-news"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/balch-springs-fire-homeowner-lost-everything-shares-powerful-message/287-ada841c7-fd18-4c2d-931d-0104b508ed33"
+  },
+  {
+    "text": "5 days after Balch Springs fire, homeowner who lost everything shares powerful message",
+    "url": "https://www.wfaa.com/article/news/local/balch-springs-fire-homeowner-lost-everything-shares-powerful-message/287-ada841c7-fd18-4c2d-931d-0104b508ed33"
+  },
+  {
+    "text": "\"I'm 57 years old,\" Balch Springs resident Robert Pinero said. \"It's hard. I'm not young no more. I don't have the strength to start all over again.\"",
+    "url": "https://www.wfaa.com/article/news/local/balch-springs-fire-homeowner-lost-everything-shares-powerful-message/287-ada841c7-fd18-4c2d-931d-0104b508ed33"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/fiery-crash-lewisville-along-i-35/287-93123dc5-e9b3-4938-98a0-08b898ff1f5b"
+  },
+  {
+    "text": "Fiery crash in Lewisville along I-35E",
+    "url": "https://www.wfaa.com/article/news/local/fiery-crash-lewisville-along-i-35/287-93123dc5-e9b3-4938-98a0-08b898ff1f5b"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/lottery/mega-millions-winning-numbers-texas-lottery/287-2325270e-541f-4da6-882b-caa002585d84"
+  },
+  {
+    "text": "2 tickets in Texas won $1M in Mega Millions. Here's where they were purchased.",
+    "url": "https://www.wfaa.com/article/news/lottery/mega-millions-winning-numbers-texas-lottery/287-2325270e-541f-4da6-882b-caa002585d84"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.wfaa.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "The story behind the pool noodle emu-dueling lawn mowing internet sensation in Midlothian",
+    "url": "https://www.wfaa.com/article/news/local/pool-noodle-emu-dueling-lawn-mowing-internet-sensation-in-midlothian/287-6c581327-dee5-4296-aea4-a4d87499b67a"
+  },
+  {
+    "text": "Here's where and when DFW families can get free school supplies",
+    "url": "https://www.wfaa.com/article/news/education/schools/free-school-supplies-backpacks-clear-north-texas-dallas-forth-ft-worth-grand-prairie/287-5180a72a-ab14-47f1-9690-c7167ba222ff"
+  },
+  {
+    "text": "Calling all parents! Share your back-to-school wisdom and worries with WFAA's new Parent Survey",
+    "url": "https://www.wfaa.com/article/news/local/outreach/back-to-school/share-your-back-to-school-wisdom-and-worries-with-wfaas-new-parent-survey/287-cdbf076c-12ef-4202-ba99-0401621b685e"
+  },
+  {
+    "text": "75 things to do in North Texas this weekend: Head back to 2004 in Dallas, get your kicks in Frisco and catch a vibe in Irving",
+    "url": "https://www.wfaa.com/article/entertainment/75-things-to-do-in-north-texas-this-weekend-july-29-30-31/287-2514a647-2063-418a-a878-64738458f0d6"
+  },
+  {
+    "text": "Glenn Heights fire no longer active",
+    "url": "https://www.wfaa.com/article/news/local/neighborhood-evacuated-after-wildfire-sparks-in-glenn-heights/287-a3b6d55e-ed79-4198-8ee5-05ee2abc7d62"
+  },
+  {
+    "text": "Premier League Lacrosse brings star-studded matchups to The Star in Frisco",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/news/local/outreach/wednesdays-child/brothers-ethan-and-evan-adopted-together-parents-thank-wednesdays-child/287-5f029861-ecff-43a6-8d06-105b47dd2276"
+  },
+  {
+    "text": "Two brothers happy to be adopted together; parents thank Wednesday's Child feature",
+    "url": "https://www.wfaa.com/article/news/local/outreach/wednesdays-child/brothers-ethan-and-evan-adopted-together-parents-thank-wednesdays-child/287-5f029861-ecff-43a6-8d06-105b47dd2276"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/originals/tim-martin-journey-homeless-father-to-world-renown-basketball-trainer-nba/287-64e59527-81ab-432e-ac1a-edf168b62153"
+  },
+  {
+    "text": "Homeward found: Tim Martin's nomadic journey from homeless father to world-renown basketball trainer",
+    "url": "https://www.wfaa.com/article/features/originals/tim-martin-journey-homeless-father-to-world-renown-basketball-trainer-nba/287-64e59527-81ab-432e-ac1a-edf168b62153"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/originals/rodeo-icu-nurse-madisonville-texas/287-6d41aee9-0667-4ab0-a2e1-33bc99352907"
+  },
+  {
+    "text": "ICU nurse by trade, champion cowgirl by passion. A 24-year-old Texan wrangles the balance between COVID and rodeo roping",
+    "url": "https://www.wfaa.com/article/features/originals/rodeo-icu-nurse-madisonville-texas/287-6d41aee9-0667-4ab0-a2e1-33bc99352907"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/news/local/family-fled-vietnam-grapevine-woman-giving-back-refugees-through-coffee/287-402fc102-309c-4064-b83a-95b4dc77f433"
+  },
+  {
+    "text": "Her family fled Vietnam, now a Grapevine woman is giving back to refugees through coffee",
+    "url": "https://www.wfaa.com/article/news/local/family-fled-vietnam-grapevine-woman-giving-back-refugees-through-coffee/287-402fc102-309c-4064-b83a-95b4dc77f433"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/boyd-mayor-thought-he-knew-who-his-father-was-a-dna-test-proved-otherwise/287-e61d20f1-7e83-477f-8677-b3f881395e1e"
+  },
+  {
+    "text": "A North Texas mayor thought he knew his father. A DNA test proved him wrong - but was still a blessing",
+    "url": "https://www.wfaa.com/article/features/boyd-mayor-thought-he-knew-who-his-father-was-a-dna-test-proved-otherwise/287-e61d20f1-7e83-477f-8677-b3f881395e1e"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/best-friends-diabetes-awareness-kidney-named-cher/287-3df72a71-b039-4cda-add3-a98f22a2ba9d"
+  },
+  {
+    "text": "The perfect match: North Texas woman donating kidney to help save best friend\u2019s life",
+    "url": "https://www.wfaa.com/article/features/best-friends-diabetes-awareness-kidney-named-cher/287-3df72a71-b039-4cda-add3-a98f22a2ba9d"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/originals/north-texas-man-dna-test-found-whole-family-waiting-for-him/287-c8a5ece3-af78-4699-941c-4690271c5772"
+  },
+  {
+    "text": "At 70, a North Texas man used a DNA test to learn who his dad was. Instead, he found a whole family waiting for him",
+    "url": "https://www.wfaa.com/article/features/originals/north-texas-man-dna-test-found-whole-family-waiting-for-him/287-c8a5ece3-af78-4699-941c-4690271c5772"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/inside-southwest-airlines-archive-500000-items/287-b40b0f0e-355c-433e-a243-833c5a664ec5"
+  },
+  {
+    "text": "Inside the Southwest Airlines archive - 500,000 items and growing",
+    "url": "https://www.wfaa.com/article/features/inside-southwest-airlines-archive-500000-items/287-b40b0f0e-355c-433e-a243-833c5a664ec5"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/news/local/outreach/wednesdays-child/brothers-ethan-and-evan-adopted-together-parents-thank-wednesdays-child/287-5f029861-ecff-43a6-8d06-105b47dd2276"
+  },
+  {
+    "text": "Two brothers happy to be adopted together; parents thank Wednesday's Child feature",
+    "url": "https://www.wfaa.com/article/news/local/outreach/wednesdays-child/brothers-ethan-and-evan-adopted-together-parents-thank-wednesdays-child/287-5f029861-ecff-43a6-8d06-105b47dd2276"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/originals/tim-martin-journey-homeless-father-to-world-renown-basketball-trainer-nba/287-64e59527-81ab-432e-ac1a-edf168b62153"
+  },
+  {
+    "text": "Homeward found: Tim Martin's nomadic journey from homeless father to world-renown basketball trainer",
+    "url": "https://www.wfaa.com/article/features/originals/tim-martin-journey-homeless-father-to-world-renown-basketball-trainer-nba/287-64e59527-81ab-432e-ac1a-edf168b62153"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/originals/rodeo-icu-nurse-madisonville-texas/287-6d41aee9-0667-4ab0-a2e1-33bc99352907"
+  },
+  {
+    "text": "ICU nurse by trade, champion cowgirl by passion. A 24-year-old Texan wrangles the balance between COVID and rodeo roping",
+    "url": "https://www.wfaa.com/article/features/originals/rodeo-icu-nurse-madisonville-texas/287-6d41aee9-0667-4ab0-a2e1-33bc99352907"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/news/local/family-fled-vietnam-grapevine-woman-giving-back-refugees-through-coffee/287-402fc102-309c-4064-b83a-95b4dc77f433"
+  },
+  {
+    "text": "Her family fled Vietnam, now a Grapevine woman is giving back to refugees through coffee",
+    "url": "https://www.wfaa.com/article/news/local/family-fled-vietnam-grapevine-woman-giving-back-refugees-through-coffee/287-402fc102-309c-4064-b83a-95b4dc77f433"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/boyd-mayor-thought-he-knew-who-his-father-was-a-dna-test-proved-otherwise/287-e61d20f1-7e83-477f-8677-b3f881395e1e"
+  },
+  {
+    "text": "A North Texas mayor thought he knew his father. A DNA test proved him wrong - but was still a blessing",
+    "url": "https://www.wfaa.com/article/features/boyd-mayor-thought-he-knew-who-his-father-was-a-dna-test-proved-otherwise/287-e61d20f1-7e83-477f-8677-b3f881395e1e"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/best-friends-diabetes-awareness-kidney-named-cher/287-3df72a71-b039-4cda-add3-a98f22a2ba9d"
+  },
+  {
+    "text": "The perfect match: North Texas woman donating kidney to help save best friend\u2019s life",
+    "url": "https://www.wfaa.com/article/features/best-friends-diabetes-awareness-kidney-named-cher/287-3df72a71-b039-4cda-add3-a98f22a2ba9d"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/originals/north-texas-man-dna-test-found-whole-family-waiting-for-him/287-c8a5ece3-af78-4699-941c-4690271c5772"
+  },
+  {
+    "text": "At 70, a North Texas man used a DNA test to learn who his dad was. Instead, he found a whole family waiting for him",
+    "url": "https://www.wfaa.com/article/features/originals/north-texas-man-dna-test-found-whole-family-waiting-for-him/287-c8a5ece3-af78-4699-941c-4690271c5772"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.wfaa.com/article/features/inside-southwest-airlines-archive-500000-items/287-b40b0f0e-355c-433e-a243-833c5a664ec5"
+  },
+  {
+    "text": "Inside the Southwest Airlines archive - 500,000 items and growing",
+    "url": "https://www.wfaa.com/article/features/inside-southwest-airlines-archive-500000-items/287-b40b0f0e-355c-433e-a243-833c5a664ec5"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/crime/police-shooting-dallas-texas-jupiter-road-july-27-28-2022-alleged-drug-transaction-deal-at-gas-station/287-befba224-1f85-44ef-90f9-98fb6917853e"
+  },
+  {
+    "text": "Dallas police release video of officer shooting, killing man at gas station",
+    "url": "https://www.wfaa.com/article/news/crime/police-shooting-dallas-texas-jupiter-road-july-27-28-2022-alleged-drug-transaction-deal-at-gas-station/287-befba224-1f85-44ef-90f9-98fb6917853e"
+  },
+  {
+    "text": "Police chief Eddie Garcia said officers tried to stop the man earlier that night, but he got away after a chase.",
+    "url": "https://www.wfaa.com/article/news/crime/police-shooting-dallas-texas-jupiter-road-july-27-28-2022-alleged-drug-transaction-deal-at-gas-station/287-befba224-1f85-44ef-90f9-98fb6917853e"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/exclusive-sister-man-killed-police-speaks-out-defends-brother/287-a12f4f21-585e-4e79-b697-7b2380dd2008"
+  },
+  {
+    "text": "Exclusive: Sister of man killed by police speaks out, defends her brother",
+    "url": "https://www.wfaa.com/article/news/local/exclusive-sister-man-killed-police-speaks-out-defends-brother/287-a12f4f21-585e-4e79-b697-7b2380dd2008"
+  },
+  {
+    "text": "Kyle Dail\u2019s sister said her brother was trying to get rid of his gun, not threaten an officer",
+    "url": "https://www.wfaa.com/article/news/local/exclusive-sister-man-killed-police-speaks-out-defends-brother/287-a12f4f21-585e-4e79-b697-7b2380dd2008"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/how-to-watch-the-wfaa-plus-app-on-your-streaming-device/287-43077fdb-6b62-454f-be5e-6b596128f1e0"
+  },
+  {
+    "text": "How to watch the WFAA+ app on your streaming device",
+    "url": "https://www.wfaa.com/article/news/local/how-to-watch-the-wfaa-plus-app-on-your-streaming-device/287-43077fdb-6b62-454f-be5e-6b596128f1e0"
+  },
+  {
+    "text": "The new WFAA+ app offers WFAA content 24/7, both live and on demand.",
+    "url": "https://www.wfaa.com/article/news/local/how-to-watch-the-wfaa-plus-app-on-your-streaming-device/287-43077fdb-6b62-454f-be5e-6b596128f1e0"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/crime/police-shooting-dallas-texas-jupiter-road-july-27-28-2022-alleged-drug-transaction-deal-at-gas-station/287-befba224-1f85-44ef-90f9-98fb6917853e"
+  },
+  {
+    "text": "Dallas police release video of officer shooting, killing man at gas station",
+    "url": "https://www.wfaa.com/article/news/crime/police-shooting-dallas-texas-jupiter-road-july-27-28-2022-alleged-drug-transaction-deal-at-gas-station/287-befba224-1f85-44ef-90f9-98fb6917853e"
+  },
+  {
+    "text": "Police chief Eddie Garcia said officers tried to stop the man earlier that night, but he got away after a chase.",
+    "url": "https://www.wfaa.com/article/news/crime/police-shooting-dallas-texas-jupiter-road-july-27-28-2022-alleged-drug-transaction-deal-at-gas-station/287-befba224-1f85-44ef-90f9-98fb6917853e"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/exclusive-sister-man-killed-police-speaks-out-defends-brother/287-a12f4f21-585e-4e79-b697-7b2380dd2008"
+  },
+  {
+    "text": "Exclusive: Sister of man killed by police speaks out, defends her brother",
+    "url": "https://www.wfaa.com/article/news/local/exclusive-sister-man-killed-police-speaks-out-defends-brother/287-a12f4f21-585e-4e79-b697-7b2380dd2008"
+  },
+  {
+    "text": "Kyle Dail\u2019s sister said her brother was trying to get rid of his gun, not threaten an officer",
+    "url": "https://www.wfaa.com/article/news/local/exclusive-sister-man-killed-police-speaks-out-defends-brother/287-a12f4f21-585e-4e79-b697-7b2380dd2008"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/how-to-watch-the-wfaa-plus-app-on-your-streaming-device/287-43077fdb-6b62-454f-be5e-6b596128f1e0"
+  },
+  {
+    "text": "How to watch the WFAA+ app on your streaming device",
+    "url": "https://www.wfaa.com/article/news/local/how-to-watch-the-wfaa-plus-app-on-your-streaming-device/287-43077fdb-6b62-454f-be5e-6b596128f1e0"
+  },
+  {
+    "text": "The new WFAA+ app offers WFAA content 24/7, both live and on demand.",
+    "url": "https://www.wfaa.com/article/news/local/how-to-watch-the-wfaa-plus-app-on-your-streaming-device/287-43077fdb-6b62-454f-be5e-6b596128f1e0"
+  },
+  {
+    "text": "Some Banana Boat spray sunscreen recalled due to 'unexpected levels of benzene'",
+    "url": "https://www.wfaa.com/article/news/nation-world/nationwide-recall-issued-for-banana-boat-sunscreen-spf-30/507-60e4e5ce-ad57-404a-8202-d3a0c198bf07"
+  },
+  {
+    "text": "Red Cross struggles to see prison where Ukrainian POWs died",
+    "url": "https://www.wfaa.com/article/news/nation-world/ukraine/red-cross-requests-access-to-ukraine-prison/507-9b4404d7-5153-4c69-a18b-cd7b9a05ce5f"
+  },
+  {
+    "text": "Jan. 6 panel to share 20 transcripts with Justice Department",
+    "url": "https://www.wfaa.com/article/news/nation-world/jan-6-panel-to-share-transcripts-with-justice-department/507-a4a115ce-4c37-4f87-8a17-e87a127f69fe"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.wfaa.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Kentucky governor: Death toll from flooding rises to 25",
+    "url": "https://www.wfaa.com/article/news/nation-world/kentucky-appalachia-flooding-update/507-c30574c2-881e-4f3f-bf0b-c478aa825e80"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.wfaa.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Some Banana Boat spray sunscreen recalled due to 'unexpected levels of benzene'",
+    "url": "https://www.wfaa.com/article/news/nation-world/nationwide-recall-issued-for-banana-boat-sunscreen-spf-30/507-60e4e5ce-ad57-404a-8202-d3a0c198bf07"
+  },
+  {
+    "text": "Red Cross struggles to see prison where Ukrainian POWs died",
+    "url": "https://www.wfaa.com/article/news/nation-world/ukraine/red-cross-requests-access-to-ukraine-prison/507-9b4404d7-5153-4c69-a18b-cd7b9a05ce5f"
+  },
+  {
+    "text": "Jan. 6 panel to share 20 transcripts with Justice Department",
+    "url": "https://www.wfaa.com/article/news/nation-world/jan-6-panel-to-share-transcripts-with-justice-department/507-a4a115ce-4c37-4f87-8a17-e87a127f69fe"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.wfaa.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Kentucky governor: Death toll from flooding rises to 25",
+    "url": "https://www.wfaa.com/article/news/nation-world/kentucky-appalachia-flooding-update/507-c30574c2-881e-4f3f-bf0b-c478aa825e80"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.wfaa.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/volunteers-deputies-help-install-new-ac-window-units-for-fort-worth-residents/287-9f2dcbf5-d400-40c9-a784-84d994a5b4d3"
+  },
+  {
+    "text": "Man on mission to help veterans, seniors get new A/C units across Fort Worth as extreme heat bears down this summer",
+    "url": "https://www.wfaa.com/article/news/local/volunteers-deputies-help-install-new-ac-window-units-for-fort-worth-residents/287-9f2dcbf5-d400-40c9-a784-84d994a5b4d3"
+  },
+  {
+    "text": "\"I am going to do this until I can't do it anymore,\" said Darryl Washington.",
+    "url": "https://www.wfaa.com/article/news/local/volunteers-deputies-help-install-new-ac-window-units-for-fort-worth-residents/287-9f2dcbf5-d400-40c9-a784-84d994a5b4d3"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/life/heartwarming/arkansas-woman-kindness-through-letters/527-c27c67d5-a60b-44ed-8875-453840067b77"
+  },
+  {
+    "text": "Arkansas woman with disabilities spreads joy by writing letters to strangers",
+    "url": "https://www.wfaa.com/article/life/heartwarming/arkansas-woman-kindness-through-letters/527-c27c67d5-a60b-44ed-8875-453840067b77"
+  },
+  {
+    "text": "Despite her own adversities, one Arkansas woman is striving to make others happy by spreading kindness through handwritten letters.",
+    "url": "https://www.wfaa.com/article/life/heartwarming/arkansas-woman-kindness-through-letters/527-c27c67d5-a60b-44ed-8875-453840067b77"
+  },
+  {
+    "text": "More Heartwarming",
+    "url": "/section/heartwarming"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/local/volunteers-deputies-help-install-new-ac-window-units-for-fort-worth-residents/287-9f2dcbf5-d400-40c9-a784-84d994a5b4d3"
+  },
+  {
+    "text": "Man on mission to help veterans, seniors get new A/C units across Fort Worth as extreme heat bears down this summer",
+    "url": "https://www.wfaa.com/article/news/local/volunteers-deputies-help-install-new-ac-window-units-for-fort-worth-residents/287-9f2dcbf5-d400-40c9-a784-84d994a5b4d3"
+  },
+  {
+    "text": "\"I am going to do this until I can't do it anymore,\" said Darryl Washington.",
+    "url": "https://www.wfaa.com/article/news/local/volunteers-deputies-help-install-new-ac-window-units-for-fort-worth-residents/287-9f2dcbf5-d400-40c9-a784-84d994a5b4d3"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/life/heartwarming/arkansas-woman-kindness-through-letters/527-c27c67d5-a60b-44ed-8875-453840067b77"
+  },
+  {
+    "text": "Arkansas woman with disabilities spreads joy by writing letters to strangers",
+    "url": "https://www.wfaa.com/article/life/heartwarming/arkansas-woman-kindness-through-letters/527-c27c67d5-a60b-44ed-8875-453840067b77"
+  },
+  {
+    "text": "Despite her own adversities, one Arkansas woman is striving to make others happy by spreading kindness through handwritten letters.",
+    "url": "https://www.wfaa.com/article/life/heartwarming/arkansas-woman-kindness-through-letters/527-c27c67d5-a60b-44ed-8875-453840067b77"
+  },
+  {
+    "text": "More Heartwarming",
+    "url": "/section/heartwarming"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "Former President Donald Trump To Give Key Note Address at CPAC",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "Will Trump announce his plans for 2024?",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "Hot to end July and begin August",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "The triple digit streak is forecast to continue into the first week of August",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "Former President Donald Trump To Give Key Note Address at CPAC",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "Will Trump announce his plans for 2024?",
+    "url": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/president-trump-give-key-note-address-cpac-texas/287-2b953cd3-133d-4c75-b4a2-2d0489b52cec"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "Hot to end July and begin August",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "The triple digit streak is forecast to continue into the first week of August",
+    "url": "https://www.wfaa.com/article/weather/hot-and-dry-heading-into-the-weekend-in-dfw-is-there-relief-on-the-horizon/287-6b8d0c39-640c-4a64-848c-181bc2ec444a"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "Toro pinch-hits for J-Rod, rallies Mariners over Astros 5-4",
+    "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "The Mariners beat Houston for the first time since June 8, snapping a five-game losing streak to the Astros.",
+    "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "Premier League Lacrosse brings star-studded matchups to The Star in Frisco",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "The world\u2019s best lacrosse players, including Dallas native Nakeie Montgomery and Plano native Jon Robbins will continue the 2022 season at The Star.",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "Toro pinch-hits for J-Rod, rallies Mariners over Astros 5-4",
+    "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "The Mariners beat Houston for the first time since June 8, snapping a five-game losing streak to the Astros.",
+    "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "Premier League Lacrosse brings star-studded matchups to The Star in Frisco",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "The world\u2019s best lacrosse players, including Dallas native Nakeie Montgomery and Plano native Jon Robbins will continue the 2022 season at The Star.",
+    "url": "https://www.wfaa.com/article/sports/prremier-league-lacrosse-dallas-frisco-the-star-atlas-archers/287-76f3fbf9-210d-447f-b767-a10c1251bd63"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.wfaa.com/wfaajobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                 Newsletter  ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                 Station Tours  ",
+    "url": "/tour"
+  },
+  {
+    "text": "\n                  RSS ",
+    "url": "/rss"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.wfaa.com/wfaajobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                 Newsletter  ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                 Station Tours  ",
+    "url": "/tour"
+  },
+  {
+    "text": "\n                  RSS ",
+    "url": "/rss"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.wfaa.com/wfaajobs"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/terms"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "/adchoices"
+  },
+  {
+    "text": "EEO Public File Report",
+    "url": "https://interactive.wfaa.com/pdfs/PublicFileReport.pdf"
+  },
+  {
+    "text": "FCC Online Public Inspection File",
+    "url": "/fcc-public-inspection-file"
+  },
+  {
+    "text": "Closed Caption Procedures",
+    "url": "/closed-captioning"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "url": "/do-not-sell-my-information"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "here",
+    "url": "/privacy#opt-out-of-targeted-online-advertising"
+  },
+  {
+    "text": "More information",
+    "url": "/privacy"
+  },
+  {
+    "text": "",
+    "url": "https://onetrust.com/poweredbyonetrust"
+  },
+  {
+    "text": "Back ButtonBack",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "Filter Icon",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "Clear Filters",
+    "url": "javascript:void(0)"
+  },
+  {
+    "text": "View Privacy Notice",
+    "url": "#"
+  },
+  {
+    "text": "Require Opt-Out ",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "https://onetrust.com/poweredbyonetrust"
+  }
+]
