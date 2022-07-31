@@ -82,7 +82,7 @@ Back to Discover,#,nebpublicmedia,False
 Editorial Guidelines,/en/about/editorial-guidelines/,nebpublicmedia,False
 News,/en/news/,nebpublicmedia,False
 PBS LearningMedia Library,https://net.pbslearningmedia.org/,nebpublicmedia,False
-The 1619 Project Education Network,/blog/announcing-1619-project-education-network,pulitzercenter,False
+The 1619 Project Education Network,/blog/announcing-1619-project-education-network,pulitzercenter,True
 Programs for Teachers and Students,/education,pulitzercenter,False
 Brian  Adams,/people/brian-adams,pulitzercenter,False
 Women,/women,pulitzercenter,False
@@ -355,7 +355,7 @@ California Collection Notice,/site/california_privacy_policy.html#2,joplinglobe,
 "Biden emerges from COVID isolation, tells public: Get shots",/region/biden-emerges-from-covid-isolation-tells-public-get-shots/article_f4983dfc-a903-55e9-bc1b-e71967f7d4c5.html,joplinglobe,True
 "Business, Financial Markets",/region/national_business/,joplinglobe,False
 Article with images+5,/region/national_business/federal-tourism-aid-funds-gas-stations-trash-cans-jazz/article_57bf9d0f-a72e-58b5-a6df-4758bf4124c1.html,joplinglobe,True
-Report that I didn't get my paper,https://classadz.vdata.com/Legacy/JoplinGlobe/Circulation/Subscriber/Comment/Create,joplinglobe,True
+Report that I didn't get my paper,https://classadz.vdata.com/Legacy/JoplinGlobe/Circulation/Subscriber/Comment/Create,joplinglobe,False
 Submit a letter,/site/forms/online_services/letter/letter_editor/,joplinglobe,False
 Skip to main content,#main-page-container,joplinglobe,False
 Do you support federal legislation that would protect same-sex marriage?,/news/do-you-support-federal-legislation-that-would-protect-same-sex-marriage/poll_100eb028-0d12-11ed-9d23-67d1d82ec2f4.html,joplinglobe,True
@@ -551,7 +551,7 @@ Nation,/news/national/,newstribune,False
 Download our Vaccine Guide,https://mississippitoday.org/wp-content/uploads/2021/09/MST-VaccineGuide-Updated9.27.2021.pdf,mstodaynews,True
 $25,https://checkout.fundjournalism.org/memberform?org_id=mississippitoday&amount=25&campaign=7015a000002B9zlAAC&installmentPeriod=monthly,mstodaynews,False
 $10,https://checkout.fundjournalism.org/memberform?org_id=mississippitoday&amount=10&campaign=7015a000002B9zgAAC&installmentPeriod=monthly,mstodaynews,False
-Mississippi Stories,https://mississippitoday.org/mississippi-stories-with-marshall-ramsey/,mstodaynews,False
+Mississippi Stories,https://mississippitoday.org/mississippi-stories-with-marshall-ramsey/,mstodaynews,True
 Send a Tip,https://mississippitoday.org/send-a-news-tip/,mstodaynews,False
 Emmett Till movie will debut this fall,https://mississippitoday.org/2022/07/27/emmett-till-movie-will-debut-this-fall/,mstodaynews,True
 Connect with us,https://mississippitoday.org/connect-with-us/,mstodaynews,False
@@ -751,7 +751,7 @@ Web Notifications,https://www.space.com/how-to-turn-off-web-notifications-for-ch
 Environnement,/fr/environnement/,rfi,False
 Sports,/fr/sports/,rfi,False
 2015,/fr/archives/2015/,rfi,False
-Grille des programmes Afrique,/fr/grille-des-programmes-afrique,rfi,False
+Grille des programmes Afrique,/fr/grille-des-programmes-afrique,rfi,True
 "Le réalisateur Denis Côté en un mot, un geste et un silence",/fr/culture/20220729-le-r%C3%A9alisateur-denis-c%C3%B4t%C3%A9-en-un-mot-un-geste-et-un-silence,rfi,True
 Le pape François admet que sa santé ne lui permet pas de voyager au même rythme qu'auparavant,/fr/monde/20220730-le-pape-fran%C3%A7ois-reconna%C3%AEt-que-sa-sant%C3%A9-ne-lui-permet-pas-voyager-au-m%C3%AAme-rythme-qu-auparavant,rfi,True
 Un navire syrien qui transporterait du blé volé par la Russie en Ukraine accoste au Liban,/fr/moyen-orient/20220729-un-navire-syrien-qui-transporterait-du-bl%C3%A9-vol%C3%A9-par-la-russie-en-ukraine-accoste-au-liban,rfi,True
@@ -835,7 +835,7 @@ Voice | ‘I dreamt of freedom’,https://oc-media.org/voices/voice-i-dreamt-of-
 Read more,https://oc-media.org/murderer-of-queer-azerbaijani-journalist-sentenced-to-9-years/,ocmediaorg,True
 Terms of use,https://oc-media.org/terms-of-use/,ocmediaorg,False
 In Pictures | Women’s voices in forestry,https://oc-media.org/in_pictures/in-pictures-womens-voices-in-forestry/,ocmediaorg,True
-Russian invasion of Ukraine,https://oc-media.org/tag/russian-invasion-of-ukraine/,ocmediaorg,True
+Russian invasion of Ukraine,https://oc-media.org/tag/russian-invasion-of-ukraine/,ocmediaorg,False
 Datablog | What shapes attitudes toward the Soviet Union’s collapse in Georgia and Armenia?,https://oc-media.org/features/datablog-what-shapes-attitudes-toward-the-soviet-unions-collapse-in-georgia-and-armenia/,ocmediaorg,True
 Go Ad-Free & Join The Movement,https://www.rawstory.com/st/Rawstory_Plus_Signup,rawstory,False
 Australian PM outlines draft Indigenous recognition vote,https://www.rawstory.com/australian-pm-outlines-draft-indigenous-recognition-vote/,rawstory,True
@@ -883,7 +883,7 @@ Le Figaro : iPhone | Android,https://app.adjust.com/uklxp91,le_figaro,False
 Guide voyage Antilles,https://www.lefigaro.fr/voyages/dossier/antilles,le_figaro,False
 Bons plans,https://www.lefigaro.fr/services/bons-plans,le_figaro,False
 Se connecter,https://connect.lefigaro.fr/login?client=horizon_web&redirect_uri=https://www.lefigaro.fr/,le_figaro,False
-Guide d'achat smartphones et tablettes,https://guide-achat.lefigaro.fr/smartphones-tablettes-et-accessoires,le_figaro,False
+Guide d'achat smartphones et tablettes,https://guide-achat.lefigaro.fr/smartphones-tablettes-et-accessoires,le_figaro,True
 Fig Data,https://www.lefigaro.fr/dossier/fig-data-infographies-datavisualisation,le_figaro,True
 Grenoble : un enfant de 3 ans fait une chute mortelle du 11e étage de l'appartement familialLe garçonnet aurait échappé à la vigilance de ses parents avant de chuter dans le vide depuis le balcon ou une fenêtre de l'appartement.,https://www.lefigaro.fr/faits-divers/grenoble-un-enfant-de-3-ans-fait-une-chute-mortelle-du-11e-etage-de-l-appartement-familial-20220731,le_figaro,True
 Bastia - Laval streaming : regardez le match en direct grâce à ce bon planFigaro Services,https://www.lefigaro.fr/services/bons-plans/bastia-laval-streaming-regardez-le-match-en-direct-grace-a-ce-bon-plan-20220730,le_figaro,True
@@ -906,7 +906,7 @@ Read More,https://perfectunion.us/cori-bush-insulin-costs/,moreperfectus,False
 अपराध,/category/crime,nepalkhabar24,False
 पहिलोपटक घट्यो मेटाको आम्दानी,/science-tech/138367-2022-7-28-11-50-3,nepalkhabar24,True
 यज्ञराज जोशी,/author/65,nepalkhabar24,False
-युक्रेनको पूर्वी क्षेत्रका नागरिकलाई सुरक्षित स्थानमा सर्न निर्देशन,/global/138600-2022-7-31-9-28-28,nepalkhabar24,False
+युक्रेनको पूर्वी क्षेत्रका नागरिकलाई सुरक्षित स्थानमा सर्न निर्देशन,/global/138600-2022-7-31-9-28-28,nepalkhabar24,True
 Fatal collisions involving juvenile cyclists highlight road safety issues in the Bay Area,https://peninsulapress.com/2022/06/10/fatal-collisions-involving-juvenile-cyclists-highlight-road-safety-issues-in-the-bay-area/,peninsupress,True
 Business,https://peninsulapress.com/category/business-tech/,peninsupress,False
 Stanford Journalism Program,http://journalism.stanford.edu,peninsupress,False
@@ -937,7 +937,7 @@ Cartones,/category/cartones.html,lajornada,False
 Galerías,/galeria_imagenes.html,lajornada,False
 Deportes,/category/deportes.html,lajornada,False
 Más secciones,#,lajornada,False
-Letters to the Editor,https://thedailyrecord.com/category/commentary/letters-to-the-editor/,mddailyrecord,False
+Letters to the Editor,https://thedailyrecord.com/category/commentary/letters-to-the-editor/,mddailyrecord,True
 "GREGORY BENNETT, ET AL v. DONALDSON GROUP LLC, ET AL",https://thedailyrecord.com/2022/07/29/gregory-bennett-et-al-v-donaldson-group-llc-et-al/,mddailyrecord,True
 T. Rowe Price’s quarterly numbers once again reflect market declines,https://thedailyrecord.com/2022/07/28/t-rowe-prices-quarterly-numbers-once-again-reflect-market-declines/,mddailyrecord,True
 Commanders owner Dan Snyder testifies before House committee,https://thedailyrecord.com/2022/07/28/commanders-owner-dan-snyder-testifies-before-house-committee/,mddailyrecord,True
@@ -1053,7 +1053,7 @@ Opinion,https://www.stormlake.com/category/opinion/,sltimes,False
 Advertise,https://www.stormlake.com/advertise/,sltimes,False
 ...,https://www.stormlake.com/articles/idnr-testing-to-see-what-killed-storm-lake-fish/,sltimes,True
 Whatchamacallit,https://www.stormlake.com/articles/whatchamacallit-28/,sltimes,False
-"5O’Brien land fetches $21,050 per acre",https://www.stormlake.com/articles/obrien-land-fetches-21050-per-acre/,sltimes,False
+"5O’Brien land fetches $21,050 per acre",https://www.stormlake.com/articles/obrien-land-fetches-21050-per-acre/,sltimes,True
 THE 2022 ALL-TIMES PILOT BASEBALL TEAM,https://www.stormlake.com/articles/the-2022-all-times-pilot-baseball-team/,sltimes,True
 E-Edition,https://www.stormlake.com/category/e-edition/,sltimes,False
 About Us,https://www.stormlake.com/about-us/,sltimes,False
@@ -1130,7 +1130,7 @@ Contest Rules,https://marfapublicradio.org/contest-rules/,marfaradio,False
 Nature Notes,https://marfapublicradio.org/programs/nature-notes/,marfaradio,False
 Powered by Taboola,https://popup.taboola.com/en/?template=colorbox&utm_source=eslmedia-theindependent&utm_medium=referral&utm_content=thumbs-hero-01-b:MS Hero | Card 1:,independent,False
 Jan 6 hearings,/news/world/americas/us-politics,independent,False
-Up to 60% off in the Reiss sale - Ends today,https://www.independent.co.uk/vouchercodes/reiss,independent,False
+Up to 60% off in the Reiss sale - Ends today,https://www.independent.co.uk/vouchercodes/reiss,independent,True
 Rishi Sunak vs Liz Truss: Who is going to be the next prime minister?,/independentpremium/voices/rishi-sunak-liz-truss-prime-minister-who-will-win-b2127613.html,independent,True
 Independent Urdu,https://www.independenturdu.com/,independent,False
 Politics,/news/world/americas/us-politics,independent,False
@@ -1170,7 +1170,7 @@ Gophers Men’s Basketball,https://www.twincities.com/tag/gophers-basketball/,pi
 Grumpy’s in Roseville to close; Latin American restaurant Mito to take its place,https://www.twincities.com/2022/07/25/grumpys-in-roseville-to-close-latin-american-restaurant-mito-to-take-its-place/,pioneerpress,True
 The History of Outlawing Abortion in America,https://daily.jstor.org/the-history-of-outlawing-abortion-in-america/,jstor_daily,True
 The Moral Majority: Collection of Primary Sources,https://daily.jstor.org/the-moral-majority-collection/,jstor_daily,True
-Art & Art History,https://daily.jstor.org/category/arts/art-art-history/,jstor_daily,False
+Art & Art History,https://daily.jstor.org/category/arts/art-art-history/,jstor_daily,True
 Reading Lists,https://daily.jstor.org/type/reading-lists/,jstor_daily,False
 Popularizing Meditation in the Mughal Empire,https://daily.jstor.org/popularizing-meditation-in-the-mughal-empire/,jstor_daily,True
 Every Good Bird Does Fine,https://daily.jstor.org/every-good-bird-does-fine/,jstor_daily,False
@@ -1194,7 +1194,7 @@ Vidéos,https://www.huffingtonpost.fr/nos-videos/,lehuffpost,False
 Assemblée nationale,https://www.huffingtonpost.fr/assemblee-nationale/,lehuffpost,False
 "Comparée à un homme sur les réseaux sociaux, cette joueuse de l’Euro débarque avec une moustache",https://www.huffingtonpost.fr/sport/article/euro-2022-alexandra-popp-debarque-avec-une-moustache-apres-avoir-ete-comparee-a-un-homme_206028.html,lehuffpost,True
 Réseaux sociaux,https://www.huffingtonpost.fr/reseaux-sociaux/,lehuffpost,False
-conditions générales de vente,https://www.huffingtonpost.fr/static/conditions-generales-de-vente,lehuffpost,False
+conditions générales de vente,https://www.huffingtonpost.fr/static/conditions-generales-de-vente,lehuffpost,True
 Facebook,https://fr-fr.facebook.com/LeHuffPost/,lehuffpost,False
 Police,https://www.huffingtonpost.fr/police/,lehuffpost,False
 EN APOTHÉOSE    Il ne faut pas se fier au nom de la dernière étape du Tour de France féminin,https://www.huffingtonpost.fr/sport/article/sur-le-tour-de-france-feminin-la-super-planche-des-belles-filles-reserve-des-surprises_206036.html,lehuffpost,True
@@ -1416,7 +1416,7 @@ Apple News,https://www.macrumors.com/guide/apple-news-plus/,macrumors,False
 Upcoming Products,https://www.macrumors.com/guide/upcoming-apple-products/,macrumors,False
 Backbone One PlayStation Edition Officially Licensed Controller Now Available for iPhone,https://toucharcade.com/2022/07/28/backbone-one-playstation-edition-controller-buy-price-release-date-features-buttons-iphone-official/,macrumors,True
 (8),https://forums.macrumors.com/threads/the-series-7-is-amazing.2353138/unread,macrumors,False
-$89.95,https://www.bhphotovideo.com/c/product/1668450-REG/apple_mj2c3ll_a_homepod_mini_blue.html/kw/APHOMEPMBL/BI/2696/KBID/3612,macrumors,False
+$89.95,https://www.bhphotovideo.com/c/product/1668450-REG/apple_mj2c3ll_a_homepod_mini_blue.html/kw/APHOMEPMBL/BI/2696/KBID/3612,macrumors,True
 WorkOutDoors: New workout features,https://forums.macrumors.com/threads/workoutdoors-new-workout-features.2134687/,macrumors,True
 Beats,https://www.macrumors.com/guide/beats/,macrumors,False
 RSS,https://feeds.macrumors.com/MacRumors-All,macrumors,False
@@ -1460,7 +1460,7 @@ Woman whose son died in crash nearly 3 years ago hears his heartbeat following o
 Investigators,/investigators,king5seattle,False
 "!function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll("".lazy-image__image"")[0],t=e.target.querySelectorAll("".lazy-image__placeholder"")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=""true"",a.classList.remove(""lazy-image__image_loaded_false""),a.classList.add(""lazy-image__image_loaded_true""),a.classList.remove(""lazy-image__image_blur_true""),a.classList.add(""lazy-image__image_blur_false""),t.classList.remove(""lazy-image__placeholder_visible_true""),t.classList.add(""lazy-image__placeholder_visible_false"")}a.unobserve(e.target)})}).observe(e.parentElement)}}();",https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264,king5seattle,True
 here,/privacy#opt-out-of-targeted-online-advertising,king5seattle,False
-Do Not Sell My Personal Information,/do-not-sell-my-information,king5seattle,True
+Do Not Sell My Personal Information,/do-not-sell-my-information,king5seattle,False
 "Right Now
                             Seattle, WA »
 
@@ -1536,13 +1536,13 @@ KVPR,https://www.kvpr.org/kvpr-radio-schedule,kvpr,False
 Summer boosters for people under 50 shelved in favor of updated boosters in the fall,https://www.kvpr.org/npr-news/npr-news/2022-07-28/summer-boosters-for-people-under-50-shelved-in-favor-of-updated-boosters-in-the-fall,kvpr,True
 "Food production employers repeatedly violated COVID-19 guidelines, report says",https://www.kvpr.org/health/2022-07-07/food-production-employers-violated-covid-19-guidelines-in-2020-and-2021,kvpr,True
 U.S. military-run slot machines earn $100 million a year from service members overseas,https://www.kvpr.org/npr-news/npr-news/2022-07-31/u-s-military-run-slot-machines-earn-100-million-a-year-from-service-members-overseas,kvpr,True
-Update My Sustaining Membership,https://donate.nprstations.org/kvpr/update-my-sustaining-membership,kvpr,True
+Update My Sustaining Membership,https://donate.nprstations.org/kvpr/update-my-sustaining-membership,kvpr,False
 Alice Daniel,https://www.kvpr.org/people/alice-daniel,kvpr,False
 How to Listen,https://www.kvpr.org/listen,kvpr,False
 facebook,https://www.facebook.com/valleypublicradio ,kvpr,False
 Alex Jones’ InfoWars conspiracy website parent files for bankruptcy,https://www.nbcnews.com/news/us-news/alex-jones-infowars-conspiracy-website-parent-files-bankruptcy-rcna40759,nbcnews,True
 Mega Millions jackpot winner scoops estimated prize of $1.34 billion,https://www.nbcnews.com/news/us-news/mega-millions-jackpot-winner-scoops-estimated-prize-128-billion-rcna40754,nbcnews,True
-Consumer Reports,https://www.nbcnews.com/select/shopping/consumer-reports-mattresses-ncna1289404,nbcnews,False
+Consumer Reports,https://www.nbcnews.com/select/shopping/consumer-reports-mattresses-ncna1289404,nbcnews,True
 Consumer Reports: Best dehumidifiers,https://www.nbcnews.com/select/shopping/consumer-reports-dehumidifiers-ncna1289320,nbcnews,True
 New Jersey city councilwoman caught on video hitting a cyclist with her SUV and driving away,https://www.nbcnews.com/news/us-news/new-jersey-city-councilwoman-caught-video-hitting-cyclist-suv-driving-rcna40626,nbcnews,True
 Oil companies post record earnings as sky-high gas prices linger,https://www.nbcnews.com/business/business-news/oil-companies-record-earnings-sky-high-gas-prices-linge-rcna40622,nbcnews,True
