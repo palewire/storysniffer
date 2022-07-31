@@ -1,0 +1,9 @@
+tldextract
+pandas
+scikit-learn
+dill
+
+sphinx
+myst-parser
+sphinxcontrib-napoleon
+sphinx-click
