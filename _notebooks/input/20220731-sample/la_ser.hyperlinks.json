@@ -1,0 +1,2550 @@
+[
+  {
+    "text": "Inicio",
+    "url": "/"
+  },
+  {
+    "text": "Deportes",
+    "url": "/deportes/"
+  },
+  {
+    "text": "Humor",
+    "url": "/humor/"
+  },
+  {
+    "text": "Ocio y cultura",
+    "url": "/ocio-y-cultura/"
+  },
+  {
+    "text": "Opini\u00f3n",
+    "url": "/opinion/"
+  },
+  {
+    "text": "Programas",
+    "url": "/programas/"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcast/"
+  },
+  {
+    "text": "Newsletter",
+    "url": "https://usuarios.cadenaser.com/newsletters/?event_log=okdesc&v=pf"
+  },
+  {
+    "text": "Cadena SER",
+    "url": "/"
+  },
+  {
+    "text": "Newsletter",
+    "url": "https://usuarios.cadenaser.com/newsletters/?event_log=okdesc&v=pf"
+  },
+  {
+    "text": "Actualidad",
+    "url": "/actualidad/"
+  },
+  {
+    "text": "Actualidad",
+    "url": "/actualidad/"
+  },
+  {
+    "text": "Pol\u00edtica",
+    "url": "/actualidad/politica/"
+  },
+  {
+    "text": "Tribunales",
+    "url": "/actualidad/tribunales/"
+  },
+  {
+    "text": "Internacional",
+    "url": "/actualidad/internacional/"
+  },
+  {
+    "text": "Sociedad",
+    "url": "/actualidad/sociedad/"
+  },
+  {
+    "text": "Econom\u00eda y negocios",
+    "url": "/actualidad/economia-y-negocios/"
+  },
+  {
+    "text": "Ciencia y tecnolog\u00eda",
+    "url": "/actualidad/ciencia-y-tecnologia/"
+  },
+  {
+    "text": "Deportes",
+    "url": "/deportes/"
+  },
+  {
+    "text": "Deportes",
+    "url": "/deportes/"
+  },
+  {
+    "text": "F\u00fatbol",
+    "url": "/deportes/futbol/"
+  },
+  {
+    "text": "Liga Santander",
+    "url": "/deportes/futbol/liga-santander/"
+  },
+  {
+    "text": "Liga Smartbank",
+    "url": "/deportes/futbol/liga-smartbank/"
+  },
+  {
+    "text": "Champions League",
+    "url": "/deportes/futbol/champions-league/"
+  },
+  {
+    "text": "Europa League",
+    "url": "/deportes/futbol/europa-league/"
+  },
+  {
+    "text": "Motociclismo",
+    "url": "/deportes/motociclismo/"
+  },
+  {
+    "text": "F\u00f3rmula 1",
+    "url": "/deportes/formula-1/"
+  },
+  {
+    "text": "Baloncesto",
+    "url": "/deportes/baloncesto/"
+  },
+  {
+    "text": "Tenis",
+    "url": "/deportes/tenis/"
+  },
+  {
+    "text": "M\u00e1s deportes",
+    "url": "/deportes/mas-deportes/"
+  },
+  {
+    "text": "Humor",
+    "url": "/humor/"
+  },
+  {
+    "text": "Ocio y cultura",
+    "url": "/ocio-y-cultura/"
+  },
+  {
+    "text": "Ocio y cultura",
+    "url": "/ocio-y-cultura/"
+  },
+  {
+    "text": "Ocio",
+    "url": "/ocio-y-cultura/ocio/"
+  },
+  {
+    "text": "Cultura y sociedad",
+    "url": "/ocio-y-cultura/cultura-y-sociedad/"
+  },
+  {
+    "text": "Gastro",
+    "url": "/ocio-y-cultura/gastro/"
+  },
+  {
+    "text": "Gente",
+    "url": "/ocio-y-cultura/gente/"
+  },
+  {
+    "text": "Cine y TV",
+    "url": "/ocio-y-cultura/cine-y-tv/"
+  },
+  {
+    "text": "Historia",
+    "url": "/ocio-y-cultura/historia/"
+  },
+  {
+    "text": "M\u00fasica",
+    "url": "/ocio-y-cultura/musica/"
+  },
+  {
+    "text": "Salud y bienestar",
+    "url": "/ocio-y-cultura/salud-y-bienestar/"
+  },
+  {
+    "text": "Opini\u00f3n",
+    "url": "/opinion/"
+  },
+  {
+    "text": "Andaluc\u00eda",
+    "url": "/ccaa/andalucia/"
+  },
+  {
+    "text": "Arag\u00f3n",
+    "url": "/ccaa/aragon"
+  },
+  {
+    "text": "Asturias",
+    "url": "/ccaa/asturias"
+  },
+  {
+    "text": "Baleares",
+    "url": "/ccaa/baleares"
+  },
+  {
+    "text": "Canarias",
+    "url": "/ccaa/canarias"
+  },
+  {
+    "text": "Cantabria",
+    "url": "/ccaa/cantabria"
+  },
+  {
+    "text": "Catalu\u00f1a",
+    "url": "/ccaa/cataluna"
+  },
+  {
+    "text": "Euskadi",
+    "url": "/ccaa/euskadi"
+  },
+  {
+    "text": "Extremadura",
+    "url": "/ccaa/extremadura"
+  },
+  {
+    "text": "Galicia",
+    "url": "/ccaa/galicia"
+  },
+  {
+    "text": "C. Le\u00f3n",
+    "url": "/ccaa/castillayleon"
+  },
+  {
+    "text": "C. Mancha",
+    "url": "/ccaa/castillalamancha/"
+  },
+  {
+    "text": "C. Madrid",
+    "url": "/ccaa/madrid"
+  },
+  {
+    "text": "C. Valenciana",
+    "url": "/ccaa/valencia/"
+  },
+  {
+    "text": "La Rioja",
+    "url": "/ccaa/rioja"
+  },
+  {
+    "text": "Navarra",
+    "url": "/ccaa/navarra"
+  },
+  {
+    "text": "R. Murcia",
+    "url": "/ccaa/murcia"
+  },
+  {
+    "text": "Emisoras",
+    "url": "/ser/emisoras/"
+  },
+  {
+    "text": "Especiales",
+    "url": "/ser/especiales/"
+  },
+  {
+    "text": "Bazar",
+    "url": "/ocio-y-cultura/bazar/"
+  },
+  {
+    "text": "A vivir que son dos d\u00edas",
+    "url": "/cadena-ser/a-vivir-que-son-dos-dias"
+  },
+  {
+    "text": "Transmite la SER",
+    "url": "/cadena-ser/transmite-la-ser"
+  },
+  {
+    "text": "Otros directos",
+    "url": "#"
+  },
+  {
+    "text": "Hora 14",
+    "url": "/cadena-ser/hora-14"
+  },
+  {
+    "text": "ver programaci\u00f3n",
+    "url": "/cadena-ser/programacion/"
+  },
+  {
+    "text": "ver programas",
+    "url": "/programas/por-radio/cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/hora-25/"
+  },
+  {
+    "text": "Hora 25",
+    "url": "/podcast/cadena-ser/hora-25/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/la-ventana/"
+  },
+  {
+    "text": "La Ventana",
+    "url": "/podcast/cadena-ser/la-ventana/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/hoy-por-hoy/"
+  },
+  {
+    "text": "Hoy por Hoy",
+    "url": "/podcast/cadena-ser/hoy-por-hoy/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/el-larguero/"
+  },
+  {
+    "text": "El Larguero",
+    "url": "/podcast/cadena-ser/el-larguero/"
+  },
+  {
+    "text": "Ver todos",
+    "url": "/podcast/"
+  },
+  {
+    "text": "Actualidad",
+    "url": "/podcast/por-tema/actualidad/"
+  },
+  {
+    "text": "Cultura y Sociedad",
+    "url": "/podcast/por-tema/cultura-y-sociedad/"
+  },
+  {
+    "text": "Deportes",
+    "url": "/podcast/por-tema/deportes/"
+  },
+  {
+    "text": "Ocio",
+    "url": "/podcast/por-tema/ocio/"
+  },
+  {
+    "text": "Econom\u00eda y Negocios",
+    "url": "/podcast/por-tema/economia-y-negocios/"
+  },
+  {
+    "text": "Ciencia Y Tecnolog\u00eda",
+    "url": "/podcast/por-tema/ciencia-y-tecnologia/"
+  },
+  {
+    "text": "Humor",
+    "url": "/podcast/por-tema/humor/"
+  },
+  {
+    "text": "Historia",
+    "url": "/podcast/por-tema/historia/"
+  },
+  {
+    "text": "M\u00fasica",
+    "url": "/podcast/por-tema/musica/"
+  },
+  {
+    "text": "Salud y Bienestar",
+    "url": "/podcast/por-tema/salud-y-bienestar/"
+  },
+  {
+    "text": "Cine y Tv",
+    "url": "/podcast/por-tema/cine-y-tv/"
+  },
+  {
+    "text": "Opini\u00f3n",
+    "url": "/podcast/por-tema/opinion/"
+  },
+  {
+    "text": "Radio Coru\u00f1a",
+    "url": "/radio-coruna/"
+  },
+  {
+    "text": "Radio Ferrol",
+    "url": "/radio-ferrol/"
+  },
+  {
+    "text": "Radio Galicia",
+    "url": "/radio-galicia/"
+  },
+  {
+    "text": "Radio Nord\u00e9s",
+    "url": "/radio-nordes/"
+  },
+  {
+    "text": "SER Vitoria",
+    "url": "/ser-vitoria/"
+  },
+  {
+    "text": "Radio Albacete",
+    "url": "/radio-albacete/"
+  },
+  {
+    "text": "Radio Alcoy",
+    "url": "/radio-alcoy/"
+  },
+  {
+    "text": "Radio Alicante",
+    "url": "/radio-alicante/"
+  },
+  {
+    "text": "Radio Benidorm",
+    "url": "/radio-benidorm/"
+  },
+  {
+    "text": "Radio D\u00e9nia",
+    "url": "/radio-denia/"
+  },
+  {
+    "text": "Radio Elche",
+    "url": "/radio-elche/"
+  },
+  {
+    "text": "Radio Elda",
+    "url": "/radio-elda/"
+  },
+  {
+    "text": "Radio Orihuela",
+    "url": "/radio-orihuela/"
+  },
+  {
+    "text": "Radio Villena",
+    "url": "/radio-villena/"
+  },
+  {
+    "text": "SER Almer\u00eda",
+    "url": "/ser-almeria/"
+  },
+  {
+    "text": "SER Levante",
+    "url": "/ser-levante-albox/"
+  },
+  {
+    "text": "SER N\u00edjar",
+    "url": "/ser-nijar/"
+  },
+  {
+    "text": "SER Poniente",
+    "url": "/ser-poniente/"
+  },
+  {
+    "text": "SER Roquetas",
+    "url": "/ser-roquetas/"
+  },
+  {
+    "text": "R\u00e0dio SER Principat d'Andorra",
+    "url": "/radio-ser-principat-d-andorra/"
+  },
+  {
+    "text": "Radio Asturias",
+    "url": "/radio-asturias/"
+  },
+  {
+    "text": "Radio Nal\u00f3n",
+    "url": "/radio-nalon/"
+  },
+  {
+    "text": "SER Avil\u00e9s",
+    "url": "/ser-aviles/"
+  },
+  {
+    "text": "SER Cangas de On\u00eds",
+    "url": "/ser-cangas-de-onis/"
+  },
+  {
+    "text": "SER Gij\u00f3n",
+    "url": "/ser-gijon/"
+  },
+  {
+    "text": "SER Occidente",
+    "url": "/ser-occidente/"
+  },
+  {
+    "text": "SER Oriente",
+    "url": "/ser-oriente/"
+  },
+  {
+    "text": "SER \u00c1vila",
+    "url": "/ser-avila/"
+  },
+  {
+    "text": "Radio Extremadura",
+    "url": "/radio-extremadura/"
+  },
+  {
+    "text": "SER M\u00e9rida",
+    "url": "/ser-merida/"
+  },
+  {
+    "text": "SER Tierra de Barros",
+    "url": "/ser-tierra-de-barros/"
+  },
+  {
+    "text": "SER Vegas Altas",
+    "url": "/ser-vegas-altas/"
+  },
+  {
+    "text": "R\u00e0dio Barcelona",
+    "url": "/radio-barcelona/"
+  },
+  {
+    "text": "R\u00e0dio Manresa",
+    "url": "/radio-manresa/"
+  },
+  {
+    "text": "SER Catalunya",
+    "url": "/sercat/"
+  },
+  {
+    "text": "SER Osona",
+    "url": "/ser-osona/"
+  },
+  {
+    "text": "SER Pened\u00e8s-Garraf",
+    "url": "/ser-penedesgarraf/"
+  },
+  {
+    "text": "Radio Bilbao",
+    "url": "/radio-bilbao/"
+  },
+  {
+    "text": "Radio Aranda",
+    "url": "/radio-aranda/"
+  },
+  {
+    "text": "Radio Castilla",
+    "url": "/radio-castilla/"
+  },
+  {
+    "text": "SER Miranda",
+    "url": "/ser-miranda/"
+  },
+  {
+    "text": "SER C\u00e1ceres",
+    "url": "/ser-caceres/"
+  },
+  {
+    "text": "SER Navalmoral",
+    "url": "/ser-navalmoral/"
+  },
+  {
+    "text": "SER Norte de Extremadura",
+    "url": "/ser-norte-de-extremadura/"
+  },
+  {
+    "text": "Radio Algeciras",
+    "url": "/radio-algeciras/"
+  },
+  {
+    "text": "Radio C\u00e1diz",
+    "url": "/radio-cadiz/"
+  },
+  {
+    "text": "Radio Jerez",
+    "url": "/radio-jerez/"
+  },
+  {
+    "text": "SER Comarca",
+    "url": "/ser-comarca/"
+  },
+  {
+    "text": "SER La Janda",
+    "url": "/ser-la-janda/"
+  },
+  {
+    "text": "Radio Santander",
+    "url": "/radio-santander/"
+  },
+  {
+    "text": "SER As\u00f3n",
+    "url": "/ser-ason/"
+  },
+  {
+    "text": "SER Castro Urdiales",
+    "url": "/ser-castro-urdiales/"
+  },
+  {
+    "text": "SER Torrelavega",
+    "url": "/ser-torrelavega/"
+  },
+  {
+    "text": "SER Tres Mares",
+    "url": "/ser-tres-mares/"
+  },
+  {
+    "text": "Radio Castell\u00f3n",
+    "url": "/radio-castellon/"
+  },
+  {
+    "text": "Radio La Vall d'Uix\u00f3",
+    "url": "/radio-vall-d-uixo/"
+  },
+  {
+    "text": "SER Maestrat",
+    "url": "/ser-maestrat/"
+  },
+  {
+    "text": "Radio Ceuta",
+    "url": "/radio-ceuta/"
+  },
+  {
+    "text": "Radio Puertollano",
+    "url": "/radio-puertollano/"
+  },
+  {
+    "text": "SER Alc\u00e1zar",
+    "url": "/ser-alcazar/"
+  },
+  {
+    "text": "SER Almad\u00e9n",
+    "url": "/ser-almaden/"
+  },
+  {
+    "text": "SER Ciudad Real",
+    "url": "/ser-ciudad-real/"
+  },
+  {
+    "text": "SER Valdepe\u00f1as",
+    "url": "/ser-valdepenas/"
+  },
+  {
+    "text": "Radio C\u00f3rdoba",
+    "url": "/radio-cordoba/"
+  },
+  {
+    "text": "Radio Luna",
+    "url": "/radio-luna/"
+  },
+  {
+    "text": "Radio Palma",
+    "url": "/radio-palma/"
+  },
+  {
+    "text": "SER Lucena",
+    "url": "/ser-lucena/"
+  },
+  {
+    "text": "Radio 90 Motilla",
+    "url": "/radio-90-motilla/"
+  },
+  {
+    "text": "Radio Azul",
+    "url": "/radio-azul/"
+  },
+  {
+    "text": "Radio Taranc\u00f3n",
+    "url": "/radio-tarancon/"
+  },
+  {
+    "text": "SER Cuenca",
+    "url": "/ser-cuenca/"
+  },
+  {
+    "text": "Radio Eibar",
+    "url": "/radio-eibar/"
+  },
+  {
+    "text": "Radio Irun",
+    "url": "/radio-irun/"
+  },
+  {
+    "text": "Radio San Sebasti\u00e1n",
+    "url": "/radio-san-sebastian/"
+  },
+  {
+    "text": "R\u00e0dio Girona",
+    "url": "/radio-girona/"
+  },
+  {
+    "text": "SER Catalunya Alt Empord\u00e0",
+    "url": "/figueras/"
+  },
+  {
+    "text": "SER Cerdanya",
+    "url": "/radio-pirineus/"
+  },
+  {
+    "text": "SER Garrotxa",
+    "url": "/ser-garrotxa/"
+  },
+  {
+    "text": "Radio Alhama",
+    "url": "/radio-alhama/"
+  },
+  {
+    "text": "Radio Baza",
+    "url": "/radio-baza/"
+  },
+  {
+    "text": "Radio Granada",
+    "url": "/radio-granada/"
+  },
+  {
+    "text": "Radio Guadix",
+    "url": "/radio-guadix/"
+  },
+  {
+    "text": "Radio Loja",
+    "url": "/radio-loja/"
+  },
+  {
+    "text": "Radio Motril",
+    "url": "/radio-motril/"
+  },
+  {
+    "text": "SER Guadalajara",
+    "url": "/ser-guadalajara/"
+  },
+  {
+    "text": "Radio Huelva",
+    "url": "/radio-huelva/"
+  },
+  {
+    "text": "Radio Sierra de Aracena",
+    "url": "/radio-sierra-de-aracena/"
+  },
+  {
+    "text": "SER And\u00e9valo y Minas",
+    "url": "/radio-valverde/"
+  },
+  {
+    "text": "SER Costa de la Luz",
+    "url": "/ser-costa-de-la-luz/"
+  },
+  {
+    "text": "Radio A\u00ednsa",
+    "url": "/radio-ainsa/"
+  },
+  {
+    "text": "Radio Benasque SER",
+    "url": "/radio-benasque-ser/"
+  },
+  {
+    "text": "Radio Graus",
+    "url": "/radio-graus/"
+  },
+  {
+    "text": "Radio Huesca",
+    "url": "/radio-huesca/"
+  },
+  {
+    "text": "Radio Jaca SER Pirineos",
+    "url": "/radio-jaca-ser-pirineos/"
+  },
+  {
+    "text": "Radio Sabi\u00f1\u00e1nigo",
+    "url": "/radio-sabinanigo/"
+  },
+  {
+    "text": "Radio Sari\u00f1ena",
+    "url": "/radio-sarinena/"
+  },
+  {
+    "text": "SER Arag\u00f3n Oriental",
+    "url": "/ser-aragon-oriental/"
+  },
+  {
+    "text": "Radio Ibiza",
+    "url": "/radio-ibiza/"
+  },
+  {
+    "text": "Radio Mallorca",
+    "url": "/radio-mallorca/"
+  },
+  {
+    "text": "Radio Menorca",
+    "url": "/radio-menorca/"
+  },
+  {
+    "text": "Radio Ja\u00e9n",
+    "url": "/radio-jaen/"
+  },
+  {
+    "text": "Radio J\u00f3dar",
+    "url": "/radio-jodar/"
+  },
+  {
+    "text": "Radio Linares",
+    "url": "/radio-linares/"
+  },
+  {
+    "text": "Radio \u00dabeda",
+    "url": "/radio-ubeda/"
+  },
+  {
+    "text": "SER And\u00fajar",
+    "url": "/ser-andujar/"
+  },
+  {
+    "text": "Radio Calahorra",
+    "url": "/radio-rioja-calahorra/"
+  },
+  {
+    "text": "Radio Haro",
+    "url": "/radio-haro/"
+  },
+  {
+    "text": "Radio Rioja",
+    "url": "/radio-rioja/"
+  },
+  {
+    "text": "SER Lanzarote",
+    "url": "/ser-lanzarote/"
+  },
+  {
+    "text": "SER Las Palmas",
+    "url": "/ser-las-palmas/"
+  },
+  {
+    "text": "SER Maspalomas",
+    "url": "/ser-maspalomas/"
+  },
+  {
+    "text": "Radio Bierzo",
+    "url": "/radio-bierzo/"
+  },
+  {
+    "text": "Radio Le\u00f3n",
+    "url": "/radio-leon/"
+  },
+  {
+    "text": "R\u00e0dio Lleida",
+    "url": "/radio-lleida/"
+  },
+  {
+    "text": "SER Catalunya Cat. Central",
+    "url": "/solsona/"
+  },
+  {
+    "text": "SER Val d\u2019Aran",
+    "url": "/ser-val-d-aran/"
+  },
+  {
+    "text": "Radio Faro",
+    "url": "/radio-faro/"
+  },
+  {
+    "text": "Radio Lugo",
+    "url": "/radio-lugo/"
+  },
+  {
+    "text": "Cadena SER",
+    "url": "/cadena-ser/"
+  },
+  {
+    "text": "Radio Aranjuez",
+    "url": "/radio-aranjuez/"
+  },
+  {
+    "text": "Radio Madrid",
+    "url": "/radio-madrid/"
+  },
+  {
+    "text": "SER Henares",
+    "url": "/ser-henares/"
+  },
+  {
+    "text": "SER Madrid Norte",
+    "url": "/ser-madrid-norte/"
+  },
+  {
+    "text": "SER Madrid Oeste",
+    "url": "/ser-madrid-oeste/"
+  },
+  {
+    "text": "SER Madrid Sierra",
+    "url": "/ser-madrid-sierra/"
+  },
+  {
+    "text": "SER Madrid Sur",
+    "url": "/ser-madrid-sur/"
+  },
+  {
+    "text": "Radio Axarqu\u00eda",
+    "url": "/radio-axarquia/"
+  },
+  {
+    "text": "Radio Coca SER Ronda",
+    "url": "/radio-coca-ser-ronda/"
+  },
+  {
+    "text": "SER Antequera",
+    "url": "/ser-antequera/"
+  },
+  {
+    "text": "SER M\u00e1laga",
+    "url": "/ser-malaga/"
+  },
+  {
+    "text": "SER Marbella Costa del Sol",
+    "url": "/ser-marbella-costa-del-sol/"
+  },
+  {
+    "text": "Radio Melilla",
+    "url": "/radio-melilla/"
+  },
+  {
+    "text": "Radio Cartagena",
+    "url": "/radio-cartagena/"
+  },
+  {
+    "text": "Radio Lorca",
+    "url": "/radio-lorca/"
+  },
+  {
+    "text": "Radio Mula",
+    "url": "/radio-mula/"
+  },
+  {
+    "text": "Radio Murcia",
+    "url": "/radio-murcia/"
+  },
+  {
+    "text": "SER Arco Norte",
+    "url": "/ser-arco-norte/"
+  },
+  {
+    "text": "Radio Alsasua",
+    "url": "/alsasua/"
+  },
+  {
+    "text": "Radio Estella",
+    "url": "/radio-estella/"
+  },
+  {
+    "text": "Radio Pamplona",
+    "url": "/radio-pamplona/"
+  },
+  {
+    "text": "Radio Tafalla",
+    "url": "/radio-tafalla/"
+  },
+  {
+    "text": "SER Tudela",
+    "url": "/ser-tudela/"
+  },
+  {
+    "text": "Radio Limia",
+    "url": "/radio-limia/"
+  },
+  {
+    "text": "Radio Ourense",
+    "url": "/radio-ourense/"
+  },
+  {
+    "text": "Radio Ribeiro",
+    "url": "/radio-ribeiro/"
+  },
+  {
+    "text": "Radio Palencia",
+    "url": "/radio-palencia/"
+  },
+  {
+    "text": "Radio Arosa",
+    "url": "/radio-arosa/"
+  },
+  {
+    "text": "Radio Pontevedra",
+    "url": "/radio-pontevedra/"
+  },
+  {
+    "text": "Radio Vigo",
+    "url": "/radio-vigo/"
+  },
+  {
+    "text": "SER Baixo Mi\u00f1o",
+    "url": "/ser-baixo-mino/"
+  },
+  {
+    "text": "SER Deza-Tabeir\u00f3s",
+    "url": "/ser-deza-tabeiros/"
+  },
+  {
+    "text": "Radio Salamanca",
+    "url": "/radio-salamanca/"
+  },
+  {
+    "text": "SER B\u00e9jar",
+    "url": "/ser-bejar/"
+  },
+  {
+    "text": "Radio Cu\u00e9llar",
+    "url": "/radio-cuellar/"
+  },
+  {
+    "text": "Radio Segovia",
+    "url": "/radio-segovia/"
+  },
+  {
+    "text": "Radio Sep\u00falveda",
+    "url": "/radio-sepulveda/"
+  },
+  {
+    "text": "Radio Mor\u00f3n",
+    "url": "/radio-moron/"
+  },
+  {
+    "text": "Radio Sevilla",
+    "url": "/radio-sevilla/"
+  },
+  {
+    "text": "SER Andaluc\u00eda Centro",
+    "url": "/ser-andalucia-centro/"
+  },
+  {
+    "text": "SER Soria",
+    "url": "/ser-soria/"
+  },
+  {
+    "text": "Radio Club Tenerife",
+    "url": "/radio-club-tenerife/"
+  },
+  {
+    "text": "Radio Garo\u00e9",
+    "url": "/radio-garoe/"
+  },
+  {
+    "text": "Radio La Palma",
+    "url": "/radio-la-palma/"
+  },
+  {
+    "text": "SER La Gomera",
+    "url": "/ser-la-gomera/"
+  },
+  {
+    "text": "R\u00e0dio Mora d'Ebre",
+    "url": "/radio-mora-d-ebre/"
+  },
+  {
+    "text": "R\u00e0dio Reus",
+    "url": "/radio-reus/"
+  },
+  {
+    "text": "SER Ebre",
+    "url": "/ser-ebre/"
+  },
+  {
+    "text": "SER Tarragona",
+    "url": "/ser-tarragona/"
+  },
+  {
+    "text": "Radio La Comarca",
+    "url": "/radio-la-comarca/"
+  },
+  {
+    "text": "Radio Utrillas",
+    "url": "/radio-utrillas/"
+  },
+  {
+    "text": "SER Teruel",
+    "url": "/ser-teruel/"
+  },
+  {
+    "text": "SER Talavera",
+    "url": "/ser-talavera/"
+  },
+  {
+    "text": "SER Toledo",
+    "url": "/ser-toledo/"
+  },
+  {
+    "text": "Radio Gandia",
+    "url": "/radio-gandia/"
+  },
+  {
+    "text": "Radio Ontinyent",
+    "url": "/radio-ontinyent/"
+  },
+  {
+    "text": "Radio Valencia",
+    "url": "/radio-valencia/"
+  },
+  {
+    "text": "Radio X\u00e0tiva",
+    "url": "/radio-xativa/"
+  },
+  {
+    "text": "Radio Medina",
+    "url": "/radio-medina/"
+  },
+  {
+    "text": "Radio Pe\u00f1afiel",
+    "url": "/radio-penafiel/"
+  },
+  {
+    "text": "Radio Valladolid",
+    "url": "/radio-valladolid/"
+  },
+  {
+    "text": "SER Duero",
+    "url": "/ser-duero/"
+  },
+  {
+    "text": "Radio Benavente",
+    "url": "/radio-benavente/"
+  },
+  {
+    "text": "Radio Zamora",
+    "url": "/radio-zamora/"
+  },
+  {
+    "text": "Radio Caspe",
+    "url": "/radio-caspe/"
+  },
+  {
+    "text": "Radio Cinco Villas",
+    "url": "/radio-cinco-villas/"
+  },
+  {
+    "text": "Radio Zaragoza",
+    "url": "/radio-zaragoza/"
+  },
+  {
+    "text": "SER Alag\u00f3n",
+    "url": "/ser-alagon/"
+  },
+  {
+    "text": "SER Calatayud",
+    "url": "/ser-calatayud/"
+  },
+  {
+    "text": "Contin\u00faa la operaci\u00f3n salida del verano: m\u00e1s de 25.000 vuelos programados y hasta 14.000 plazas de Renfe",
+    "url": "/nacional/2022/07/31/continua-la-operacion-salida-del-verano-mas-de-25000-vuelos-programados-y-renfe-aumenta-en-14000-sus-plazas-cadena-ser/"
+  },
+  {
+    "text": "Zelenski ordena la evacuaci\u00f3n obligatoria de la regi\u00f3n del Donetsk ante el incremento de ataques rusos\u00a0",
+    "url": "/nacional/2022/07/30/reino-unido-acusa-a-rusia-de-preparar-referendums-en-las-zonas-ocupadas-del-sur-de-ucrania-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/los-materiales-que-empiezan-a-bajar-de-precio-despues-de-meses-inaccesibles-cadena-ser/"
+  },
+  {
+    "text": "Los materiales que empiezan a bajar de precio despu\u00e9s de meses\u00a0",
+    "url": "/nacional/2022/07/31/los-materiales-que-empiezan-a-bajar-de-precio-despues-de-meses-inaccesibles-cadena-ser/"
+  },
+  {
+    "text": "Pablo Anzola",
+    "url": "/autor/pablo_anzola_trevijano/a/"
+  },
+  {
+    "text": "Julio Guerra",
+    "url": "/autor/julio_guerra_rubio/a/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/los-incendios-activos-siguen-quemando-hectareas-en-espana-el-pais-registra-el-peor-ano-de-la-decada-en-superficie-quemada-con-mas-de-200000-arrasadas-cadena-ser/"
+  },
+  {
+    "text": "Los incendios siguen arrasando hect\u00e1reas en Espa\u00f1a: el pa\u00eds registra el peor a\u00f1o de la d\u00e9cada en superficie quemada con m\u00e1s de 200.000",
+    "url": "/nacional/2022/07/31/los-incendios-activos-siguen-quemando-hectareas-en-espana-el-pais-registra-el-peor-ano-de-la-decada-en-superficie-quemada-con-mas-de-200000-arrasadas-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/castillalamancha/2022/07/30/el-incendio-de-sevilleja-de-la-jara-a-nivel-0-por-las-condiciones-favorables-ser-toledo/"
+  },
+  {
+    "text": "El incendio de Sevilleja de la Jara (Toledo), a nivel 0 por las condiciones favorables ",
+    "url": "/castillalamancha/2022/07/30/el-incendio-de-sevilleja-de-la-jara-a-nivel-0-por-las-condiciones-favorables-ser-toledo/"
+  },
+  {
+    "text": "Argelia desautoriza a una patronal bancaria sobre el bloqueo comercial con Espa\u00f1a",
+    "url": "/nacional/2022/07/30/argelia-desautoriza-a-una-patronal-bancaria-sobre-el-bloqueo-comercial-con-espana-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/321/"
+  },
+  {
+    "text": "Rupturas Ejemplares | Dos amigas separadas por Hitler",
+    "url": "/audio/1659257695161/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/boletines/1043/"
+  },
+  {
+    "text": "Las noticias de las 12:00",
+    "url": "/audio/1659262505_1206/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/la-hora-extra/668/"
+  },
+  {
+    "text": "Sara Torres: \"La falta de comunicaci\u00f3n y de entender a otras generaciones es el gran problema del feminismo hoy\"",
+    "url": "/audio/1659166077453/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/matinal-ser/1681/"
+  },
+  {
+    "text": "Los materiales que empiezan a bajar de precio despu\u00e9s de meses inaccesibles",
+    "url": "/audio/1659253488513/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/alberto-nunez-feijoo-cuando-gobierne-el-espanol-no-sera-una-lengua-extranjera-en-cataluna-cadena-ser/"
+  },
+  {
+    "text": "Alberto N\u00fa\u00f1ez Feij\u00f3o: \"Cuando gobierne, el espa\u00f1ol no ser\u00e1 una lengua extranjera en Catalu\u00f1a\"",
+    "url": "/nacional/2022/07/31/alberto-nunez-feijoo-cuando-gobierne-el-espanol-no-sera-una-lengua-extranjera-en-cataluna-cadena-ser/"
+  },
+  {
+    "text": "Letonia asegura que cuenta con suficiente gas para el invierno",
+    "url": "/nacional/2022/07/30/letonia-asegura-que-tiene-suficiente-gas-para-el-invierno-pese-al-corte-de-moscu-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/la-comision-europea-ve-insuficientes-las-conexiones-de-gas-entre-la-peninsula-iberica-y-la-ue-y-ve-clave-el-papel-de-espana-y-portugal-cadena-ser/"
+  },
+  {
+    "text": "Bruselas ve insuficientes las conexiones de gas entre la pen\u00ednsula ib\u00e9rica y la UE",
+    "url": "/nacional/2022/07/30/la-comision-europea-ve-insuficientes-las-conexiones-de-gas-entre-la-peninsula-iberica-y-la-ue-y-ve-clave-el-papel-de-espana-y-portugal-cadena-ser/"
+  },
+  {
+    "text": "La Comunidad Valenciana aprueba un protocolo para luchar contra las agresiones a profesionales sanitarios",
+    "url": "/comunitat-valenciana/2022/07/31/la-comunitat-valenciana-aprueba-un-nuevo-protocolo-para-luchar-contra-las-agresiones-a-profesionales-sanitarios-radio-valencia/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/los-simpatizantes-del-clerigo-al-sadr-vuelven-a-asaltar-el-parlamento-de-irak-en-protesta-del-candidato-chii-cadena-ser/"
+  },
+  {
+    "text": "Los simpatizantes del cl\u00e9rigo Al Sadr vuelven a asaltar el Parlamento de Irak en protesta del candidato chi\u00ed",
+    "url": "/nacional/2022/07/30/los-simpatizantes-del-clerigo-al-sadr-vuelven-a-asaltar-el-parlamento-de-irak-en-protesta-del-candidato-chii-cadena-ser/"
+  },
+  {
+    "text": "La C\u00e1mara Baja de EEUU aprueba prohibir los fusiles de asalto",
+    "url": "/nacional/2022/07/30/la-camara-baja-de-eeuu-aprueba-prohibir-los-fusiles-de-asalto-aunque-con-pocos-visos-de-prosperar-en-el-senado-cadena-ser/"
+  },
+  {
+    "text": "S\u00e1nchez reitera a Bosnia el apoyo de Espa\u00f1a para su candidatura a la UE, pero pide acometer reformas electorales y judiciales",
+    "url": "/nacional/2022/07/30/sanchez-reitera-a-bosnia-el-apoyo-de-espana-para-su-candidatura-a-la-ue-pero-pide-acometer-reformas-electorales-y-judiciales-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/29/sanchez-en-su-visita-al-presidente-serbio-en-lo-que-tiene-que-ver-con-kosovo-espana-ha-estado-y-va-a-estar-del-lado-de-serbia-cadena-ser/"
+  },
+  {
+    "text": "S\u00e1nchez visita Serbia y muestra la solidaridad de Espa\u00f1a con el pueblo serbio",
+    "url": "/nacional/2022/07/29/sanchez-en-su-visita-al-presidente-serbio-en-lo-que-tiene-que-ver-con-kosovo-espana-ha-estado-y-va-a-estar-del-lado-de-serbia-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/el-papa-deja-la-puerta-abierta-a-su-dimision-es-una-opcion-muy-normal-cadena-ser/"
+  },
+  {
+    "text": "El papa abre la puerta a su dimisi\u00f3n: \"No creo que pueda seguir con el mismo ritmo de viajes que antes\"",
+    "url": "/nacional/2022/07/30/el-papa-deja-la-puerta-abierta-a-su-dimision-es-una-opcion-muy-normal-cadena-ser/"
+  },
+  {
+    "text": "Investigan un ataque por sumisi\u00f3n qu\u00edmica a dos j\u00f3venes en una discoteca de Bilbao",
+    "url": "/euskadi/2022/07/31/investigan-un-ataque-por-sumision-quimica-a-dos-jovenes-en-discoteca-de-bilbao-radio-bilbao/"
+  },
+  {
+    "text": "Muere una ni\u00f1a de diez a\u00f1os tras caer desde un edificio en Valencia",
+    "url": "/comunitat-valenciana/2022/07/31/muere-una-nina-de-diez-anos-tras-caer-desde-lo-alto-de-un-edificio-en-valencia-radio-valencia/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/nathy-peluso-sobrevive-al-exito-del-indie-nacional-en-el-low-cadena-ser/"
+  },
+  {
+    "text": "Fuego y chinchetas",
+    "url": "/cadena-ser/fuego-y-chinchetas/"
+  },
+  {
+    "text": "Nathy Peluso sobrevive al \u00e9xito del indie nacional en el Low Festival",
+    "url": "/nacional/2022/07/30/nathy-peluso-sobrevive-al-exito-del-indie-nacional-en-el-low-cadena-ser/"
+  },
+  {
+    "text": "\u00cd\u00f1igo Renedo",
+    "url": "/autor/inigo_renedo_sanchez/a/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/espana-se-divide-entre-elevadas-temperaturas-y-tormentas-que-podran-ir-acompanadas-de-granizo-consulta-el-tiempo-para-este-domingo-cadena-ser/"
+  },
+  {
+    "text": "Espa\u00f1a se divide entre elevadas temperaturas y tormentas que podr\u00e1n ir acompa\u00f1adas de granizo: consulta el tiempo para este domingo",
+    "url": "/nacional/2022/07/31/espana-se-divide-entre-elevadas-temperaturas-y-tormentas-que-podran-ir-acompanadas-de-granizo-consulta-el-tiempo-para-este-domingo-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "https://www.20minutos.es/salud/la-vacuna-del-virus-del-papiloma-humano-un-pinchazo-de-lujo-en-espana-yo-puedo-pagar-500e-pero-no-creo-que-todo-el-mundo-pueda-5017516/?utm_medium=home&utm_campaign=interc&utm_source=cadenaser.com"
+  },
+  {
+    "text": "La vacuna del Virus del Papiloma Humano, un pinchazo de lujo en Espa\u00f1a: \"Yo puedo pagar 500\u20ac, pero no creo que todo el mundo pueda\"\n\n",
+    "url": "https://www.20minutos.es/salud/la-vacuna-del-virus-del-papiloma-humano-un-pinchazo-de-lujo-en-espana-yo-puedo-pagar-500e-pero-no-creo-que-todo-el-mundo-pueda-5017516/?utm_medium=home&utm_campaign=interc&utm_source=cadenaser.com"
+  },
+  {
+    "text": "",
+    "url": "/andalucia/2022/07/31/escanear-el-jamon-antes-de-comprarlo-una-app-permite-al-consumidor-rastrear-el-iberico-desde-el-origen-hasta-la-mesa-radio-cordoba/"
+  },
+  {
+    "text": "'Escanear' el jam\u00f3n antes de comprarlo: una app permite al consumidor rastrear el ib\u00e9rico desde el origen hasta la mesa",
+    "url": "/andalucia/2022/07/31/escanear-el-jamon-antes-de-comprarlo-una-app-permite-al-consumidor-rastrear-el-iberico-desde-el-origen-hasta-la-mesa-radio-cordoba/"
+  },
+  {
+    "text": "\u00c1lvaro Guerrero Jim\u00e9nez",
+    "url": "/autor/alvaro_guerrero_jimenez/a/"
+  },
+  {
+    "text": "",
+    "url": "https://retinatendencias.com/cultura-digital/el-gran-error-de-netflix-auge-y-caida-de-la-plataforma-que-cambio-la-television/"
+  },
+  {
+    "text": "El gran error de Netflix. Auge y ca\u00edda de la plataforma que cambi\u00f3 la TV",
+    "url": "https://retinatendencias.com/cultura-digital/el-gran-error-de-netflix-auge-y-caida-de-la-plataforma-que-cambio-la-television/"
+  },
+  {
+    "text": "",
+    "url": "/cmadrid/2022/07/30/un-joven-de-17-anos-en-estado-grave-tras-zambullirse-de-cabeza-en-el-pantano-de-san-juan-en-madrid-radio-madrid/"
+  },
+  {
+    "text": "Un joven de 17 a\u00f1os en estado grave tras zambullirse de cabeza en el pantano de San Juan en Madrid",
+    "url": "/cmadrid/2022/07/30/un-joven-de-17-anos-en-estado-grave-tras-zambullirse-de-cabeza-en-el-pantano-de-san-juan-en-madrid-radio-madrid/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/protectores-solares-que-debes-usar-para-evitar-un-impacto-negativo-en-el-mar-cadena-ser/"
+  },
+  {
+    "text": "C\u00f3mo proteger y cuidar los mares y oc\u00e9anos con el protector solar adecuado",
+    "url": "/nacional/2022/07/30/protectores-solares-que-debes-usar-para-evitar-un-impacto-negativo-en-el-mar-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/detenidos-83-sospechosos-de-la-violacion-en-grupo-de-ocho-modelos-que-grababan-un-video-musical-en-sudafrica-cadena-ser/"
+  },
+  {
+    "text": "Detenidos 83 sospechosos de la violaci\u00f3n en grupo de ocho modelos que grababan un v\u00eddeo musical en Sud\u00e1frica",
+    "url": "/nacional/2022/07/30/detenidos-83-sospechosos-de-la-violacion-en-grupo-de-ocho-modelos-que-grababan-un-video-musical-en-sudafrica-cadena-ser/"
+  },
+  {
+    "text": "Suscr\u00edbete gratis",
+    "url": "https://usuarios.cadenaser.com/newsletters/?event_log=okdesc&v=pf"
+  },
+  {
+    "text": "Podcast de Actualidad",
+    "url": "/podcast/por-tema/actualidad/"
+  },
+  {
+    "text": "Ver todos",
+    "url": "/podcast/por-tema/actualidad/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/321/"
+  },
+  {
+    "text": "A vivir que son dos d\u00edas",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/321/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/hora-14/775/"
+  },
+  {
+    "text": "Hora 14",
+    "url": "/podcast/cadena-ser/hora-14/775/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/1713/"
+  },
+  {
+    "text": "Cr\u00f3nica 24/7",
+    "url": "/podcast/cadena-ser/1713/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/hora-25/320/"
+  },
+  {
+    "text": "Hora 25",
+    "url": "/podcast/cadena-ser/hora-25/320/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/la-ventana/324/"
+  },
+  {
+    "text": "La Ventana",
+    "url": "/podcast/cadena-ser/la-ventana/324/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/hoy-por-hoy/222/"
+  },
+  {
+    "text": "Hoy por Hoy",
+    "url": "/podcast/cadena-ser/hoy-por-hoy/222/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/el-real-madrid-llega-en-forma-a-la-final-de-la-supercopa-de-europa-cadena-ser/"
+  },
+  {
+    "text": "El Madrid llega en forma a la final de la Supercopa de Europa",
+    "url": "/nacional/2022/07/31/el-real-madrid-llega-en-forma-a-la-final-de-la-supercopa-de-europa-cadena-ser/"
+  },
+  {
+    "text": "Timo Werner, ofrecido al Real Madrid como suplente de Karim Benzema",
+    "url": "/nacional/2022/07/30/el-real-madrid-afronta-la-operacion-12-dias-timo-werner-ofrecido-a-los-blancos-como-recambio-de-karim-benzema-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/xavi-hernandez-es-una-cuestion-de-tiempo-que-marque-lewandowski-cadena-ser/"
+  },
+  {
+    "text": "Xavi Hern\u00e1ndez: \"Es cuesti\u00f3n de tiempo que marque Lewandowski\"",
+    "url": "/nacional/2022/07/31/xavi-hernandez-es-una-cuestion-de-tiempo-que-marque-lewandowski-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/xavi-messi-se-merece-una-ultima-oportunidad-en-el-barca-cadena-ser/"
+  },
+  {
+    "text": "Xavi lo tiene claro con Leo Messi: \"Se merece una \u00faltima oportunidad en el Bar\u00e7a\"",
+    "url": "/nacional/2022/07/30/xavi-messi-se-merece-una-ultima-oportunidad-en-el-barca-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/29/laporta-problemas-con-las-inscripciones-ingresamos-mas-de-600-millones-en-45-dias-espero-que-entiendan-nuestro-esfuerzo-pero-con-laliga-nadie-sabe-cadena-ser/"
+  },
+  {
+    "text": "Laporta: \"\u00bfInscribir fichajes? Hemos ingresado 600 millones en 45 d\u00edas, pero con LaLiga nunca se sabe...\"",
+    "url": "/nacional/2022/07/29/laporta-problemas-con-las-inscripciones-ingresamos-mas-de-600-millones-en-45-dias-espero-que-entiendan-nuestro-esfuerzo-pero-con-laliga-nadie-sabe-cadena-ser/"
+  },
+  {
+    "text": "Mercado de fichajes, en vivo: \u00d3scar Mingueza ficha por el Celta de Vigo",
+    "url": "/nacional/2022/07/27/mercado-de-fichajes-en-directo-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/comunitat-valenciana/2022/07/30/con-soler-y-guedes-la-vida-es-mas-facil-en-el-valencia-radio-valencia/"
+  },
+  {
+    "text": "Con Soler y Guedes, la vida es m\u00e1s f\u00e1cil en el Valencia",
+    "url": "/comunitat-valenciana/2022/07/30/con-soler-y-guedes-la-vida-es-mas-facil-en-el-valencia-radio-valencia/"
+  },
+  {
+    "text": "Descargar",
+    "url": "https://prisa-es.mc.tritondigital.com/EL_LARGUERO_CADENASER_225_P/media/playser/audio/20227/30/1659215570109_28394.mp3?dist=cadenaser-web-tfp-permanente&csegid=22000&dl=1"
+  },
+  {
+    "text": "El movimiento en cadena que har\u00eda al Atl\u00e9tico meterse en la operaci\u00f3n Cristiano\u00a0",
+    "url": "/nacional/2022/07/30/el-movimiento-en-cadena-que-haria-al-atletico-de-madrid-meterse-de-lleno-en-la-operacion-cristiano-ronaldo-cadena-ser/"
+  },
+  {
+    "text": "Descargar",
+    "url": "https://prisa-es.mc.tritondigital.com/EL_LARGUERO_CADENASER_225_P/media/playser/audio/20227/31/1659215311476_68170.mp3?dist=cadenaser-web-tfp-permanente&csegid=22000&dl=1"
+  },
+  {
+    "text": "Scariolo conf\u00eda en poder \"tapar, disfrazar o disimular\" los agujeros en el Eurobasket",
+    "url": "/nacional/2022/07/30/scariolo-confia-en-poder-tapar-disfrazar-o-disimular-los-agujeros-en-el-eurobasket-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/25/la-llama-eterna-de-barcelona-92-cadena-ser/"
+  },
+  {
+    "text": "La estela de \u2018El Cohete de Chiclana\u2019: vuelo al oro en el vel\u00f3dromo",
+    "url": "/nacional/2022/07/25/la-llama-eterna-de-barcelona-92-cadena-ser/"
+  },
+  {
+    "text": "Podcast de Deportes",
+    "url": "/podcast/por-tema/deportes/"
+  },
+  {
+    "text": "Ver todos",
+    "url": "/podcast/por-tema/deportes/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/flash-deportes-ser/1156/"
+  },
+  {
+    "text": "Flash Deportes SER",
+    "url": "/podcast/cadena-ser/flash-deportes-ser/1156/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/el-larguero/225/"
+  },
+  {
+    "text": "El Larguero",
+    "url": "/podcast/cadena-ser/el-larguero/225/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/hora-25/hora-25-hora-25-deportes/374/"
+  },
+  {
+    "text": "Hora 25 Deportes",
+    "url": "/podcast/cadena-ser/hora-25/hora-25-hora-25-deportes/374/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/ser-runner/697/"
+  },
+  {
+    "text": "SER Runner",
+    "url": "/podcast/cadena-ser/ser-runner/697/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/ser-deportivos/353/"
+  },
+  {
+    "text": "SER Deportivos",
+    "url": "/podcast/cadena-ser/ser-deportivos/353/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/1703/"
+  },
+  {
+    "text": "P\u00e1del Club",
+    "url": "/podcast/cadena-ser/1703/"
+  },
+  {
+    "text": "Descargar",
+    "url": "https://prisa-es.mc.tritondigital.com/LA_HORA_EXTRA_SER_PODCAST_668_P/media/playser/audio/20227/31/1659250378304_97369.mp3?dist=cadenaser-web-tfp-permanente&csegid=22000&dl=1"
+  },
+  {
+    "text": "La Hora Extra",
+    "url": "/cadena-ser/la-hora-extra/"
+  },
+  {
+    "text": "Miedo, culpa o verg\u00fcenza: las violencias diarias que hay que negociar",
+    "url": "/nacional/2022/07/31/miedo-culpa-o-verguenza-las-violencias-diarias-que-hay-que-negociar-cadena-ser/"
+  },
+  {
+    "text": "Daniel de la Fuente",
+    "url": "/autor/daniel_de_la_fuente_juan/a/"
+  },
+  {
+    "text": "Sara Torres: \"La falta de comunicaci\u00f3n y de entender a otras generaciones es el temazo del feminismo hoy\"",
+    "url": "/nacional/2022/07/31/sara-torres-la-falta-de-comunicacion-y-de-entender-a-otras-generaciones-es-el-temazo-del-feminismo-hoy-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/la-dulce-venganza-de-george-harrison-cadena-ser/"
+  },
+  {
+    "text": "Sof\u00e1 Sonoro",
+    "url": "/cadena-ser/sofa-sonoro/"
+  },
+  {
+    "text": "La dulce venganza de George Harrison",
+    "url": "/nacional/2022/07/30/la-dulce-venganza-de-george-harrison-cadena-ser/"
+  },
+  {
+    "text": "Alfonso Cardenal",
+    "url": "/autor/alfonso_cardenal_regueiro/a/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/el-chef-espanol-arzak-en-su-80-cumpleanos-la-cocina-me-ha-dado-la-fuerza-para-vivir-cadena-ser/"
+  },
+  {
+    "text": "El chef espa\u00f1ol Arzak, en su 80 cumplea\u00f1os: \"La cocina me ha dado la fuerza para vivir\"",
+    "url": "/nacional/2022/07/30/el-chef-espanol-arzak-en-su-80-cumpleanos-la-cocina-me-ha-dado-la-fuerza-para-vivir-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "https://elpais.com/escaparate/2022-07-25/los-mejores-ventiladores-de-torre-inteligentes-que-se-controlan-desde-el-movil.html?prm=escaparate_cadenaser_home"
+  },
+  {
+    "text": "Los mejores ventiladores de torre inteligentes que se controlan desde el m\u00f3vil",
+    "url": "https://elpais.com/escaparate/2022-07-25/los-mejores-ventiladores-de-torre-inteligentes-que-se-controlan-desde-el-movil.html?prm=escaparate_cadenaser_home"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/30/buenos-dias-tristeza-el-final-de-la-juventud-cadena-ser/"
+  },
+  {
+    "text": "'Buenos d\u00edas, tristeza', el final de la juventud",
+    "url": "/nacional/2022/07/30/buenos-dias-tristeza-el-final-de-la-juventud-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/31/la-paella-que-se-ha-encontrado-almudena-ariza-en-nueva-york-paraliza-a-todo-twitter-churras-con-merinas-cadena-ser/"
+  },
+  {
+    "text": "La paella que se ha encontrado Almudena Ariza en Nueva York paraliza a todo Twitter",
+    "url": "/nacional/2022/07/31/la-paella-que-se-ha-encontrado-almudena-ariza-en-nueva-york-paraliza-a-todo-twitter-churras-con-merinas-cadena-ser/"
+  },
+  {
+    "text": "",
+    "url": "/nacional/2022/07/19/nuevas-voces-en-los-principales-programas-de-la-cadena-ser-radio-madrid/"
+  },
+  {
+    "text": "Nuevas voces en los principales programas de la Cadena SER",
+    "url": "/nacional/2022/07/19/nuevas-voces-en-los-principales-programas-de-la-cadena-ser-radio-madrid/"
+  },
+  {
+    "text": "",
+    "url": "https://motor.elpais.com/coches-electricos/el-coche-electrico-de-lidl-que-se-agoto-en-48-horas/"
+  },
+  {
+    "text": "El coche el\u00e9ctrico de Lidl que se agot\u00f3 en 48 horas",
+    "url": "https://motor.elpais.com/coches-electricos/el-coche-electrico-de-lidl-que-se-agoto-en-48-horas/"
+  },
+  {
+    "text": "Podcast de Cultura y sociedad",
+    "url": "/podcast/por-tema/cultura-y-sociedad/"
+  },
+  {
+    "text": "Ver todos",
+    "url": "/podcast/por-tema/cultura-y-sociedad/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/a-vivir-que-son-dos-dias-a-vivir-a-las-10/1622/"
+  },
+  {
+    "text": "A Vivir a las 10",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/a-vivir-que-son-dos-dias-a-vivir-a-las-10/1622/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/transmite-la-ser/1356/"
+  },
+  {
+    "text": "Transmite la SER",
+    "url": "/podcast/cadena-ser/transmite-la-ser/1356/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/la-hora-extra/668/"
+  },
+  {
+    "text": "La Hora Extra",
+    "url": "/podcast/cadena-ser/la-hora-extra/668/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/algo-pasa/3269/"
+  },
+  {
+    "text": "Algo Pasa",
+    "url": "/podcast/cadena-ser/algo-pasa/3269/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/un-libro-una-hora/1251/"
+  },
+  {
+    "text": "Un Libro Una Hora",
+    "url": "/podcast/cadena-ser/un-libro-una-hora/1251/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/el-sidecar/3271/"
+  },
+  {
+    "text": "El Sidecar",
+    "url": "/podcast/cadena-ser/el-sidecar/3271/"
+  },
+  {
+    "text": "\n    \n            La Espa\u00f1a Despoblada\n    \n        ",
+    "url": "https://cadenaser.com/tag/despoblacion/a/"
+  },
+  {
+    "text": "\n    \n            \n    \n        ",
+    "url": "https://www.fenieenergia.es/?"
+  },
+  {
+    "text": "",
+    "url": "/rioja/2022/05/23/arnedillo-acoge-la-segunda-edicion-de-la-espana-despoblada-de-la-cadena-ser-radio-rioja/"
+  },
+  {
+    "text": "La Rioja, \"la tierra donde quedarse no es un fracaso\"",
+    "url": "/rioja/2022/05/23/arnedillo-acoge-la-segunda-edicion-de-la-espana-despoblada-de-la-cadena-ser-radio-rioja/"
+  },
+  {
+    "text": "",
+    "url": "/castillalamancha/2022/06/27/implicar-a-los-maestros-con-el-territorio-el-reto-de-la-escuela-rural-en-cuenca-ser-cuenca/"
+  },
+  {
+    "text": "Implicar a los maestros con el territorio, el reto de la escuela rural\u00a0",
+    "url": "/castillalamancha/2022/06/27/implicar-a-los-maestros-con-el-territorio-el-reto-de-la-escuela-rural-en-cuenca-ser-cuenca/"
+  },
+  {
+    "text": "",
+    "url": "/castillayleon/2022/06/09/los-jovenes-de-la-alberca-y-ledesma-que-quieren-seguir-formandose-continuan-obligados-a-hacer-viajes-imposibles-a-50-km-de-distancia-radio-salamanca/"
+  },
+  {
+    "text": "Abocados a viajar alrededor de 50 km para poder seguir form\u00e1ndose",
+    "url": "/castillayleon/2022/06/09/los-jovenes-de-la-alberca-y-ledesma-que-quieren-seguir-formandose-continuan-obligados-a-hacer-viajes-imposibles-a-50-km-de-distancia-radio-salamanca/"
+  },
+  {
+    "text": "Podcast de Humor",
+    "url": "/podcast/por-tema/humor/"
+  },
+  {
+    "text": "Ver todos",
+    "url": "/podcast/por-tema/humor/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/nadie-sabe-nada/488/"
+  },
+  {
+    "text": "Nadie Sabe Nada",
+    "url": "/podcast/cadena-ser/nadie-sabe-nada/488/"
+  },
+  {
+    "text": "",
+    "url": "https://www.hbomax.com/es/es"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/a-vivir-que-son-dos-dias-comicos/1511/"
+  },
+  {
+    "text": "C\u00f3micos",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/a-vivir-que-son-dos-dias-comicos/1511/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/las-noches-de-ortega/928/"
+  },
+  {
+    "text": "Las Noches de Ortega",
+    "url": "/podcast/cadena-ser/las-noches-de-ortega/928/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/buenismo-bien/1082/"
+  },
+  {
+    "text": "Buenismo bien",
+    "url": "/podcast/cadena-ser/buenismo-bien/1082/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/a-vivir-que-son-dos-dias-las-preguntas-de-broncano/1512/"
+  },
+  {
+    "text": "Las preguntas de Broncano",
+    "url": "/podcast/cadena-ser/a-vivir-que-son-dos-dias/a-vivir-que-son-dos-dias-las-preguntas-de-broncano/1512/"
+  },
+  {
+    "text": "",
+    "url": "/podcast/cadena-ser/la-ventana/especialistas-secundarios/969/"
+  },
+  {
+    "text": "Especialistas Secundarios",
+    "url": "/podcast/cadena-ser/la-ventana/especialistas-secundarios/969/"
+  },
+  {
+    "text": "Aviso Legal",
+    "url": "https://cadenaser.com/aviso-legal/"
+  },
+  {
+    "text": "Pol\u00edtica de privacidad",
+    "url": "https://cadenaser.com/politica-privacidad/"
+  },
+  {
+    "text": "Pol\u00edtica de cookies",
+    "url": "https://cadenaser.com/politica-de-cookies/"
+  },
+  {
+    "text": "La SER en tu m\u00f3vil",
+    "url": "https://cadenaser.com/ser-en-tu-movil/"
+  },
+  {
+    "text": "Configuraci\u00f3n de cookies",
+    "url": "#"
+  },
+  {
+    "text": "Ver programaci\u00f3n completa",
+    "url": "/cadena-ser/programacion/"
+  },
+  {
+    "text": "Ver todos los podcasts",
+    "url": "/podcast/"
+  },
+  {
+    "text": "Ver todos los boletines",
+    "url": "https://cadenaser.com/especiales/boletines-informativos/"
+  },
+  {
+    "text": "Radio Coru\u00f1a",
+    "url": "/radio-coruna/"
+  },
+  {
+    "text": "Radio Ferrol",
+    "url": "/radio-ferrol/"
+  },
+  {
+    "text": "Radio Galicia",
+    "url": "/radio-galicia/"
+  },
+  {
+    "text": "Radio Nord\u00e9s",
+    "url": "/radio-nordes/"
+  },
+  {
+    "text": "SER Vitoria",
+    "url": "/ser-vitoria/"
+  },
+  {
+    "text": "Radio Albacete",
+    "url": "/radio-albacete/"
+  },
+  {
+    "text": "Radio Alcoy",
+    "url": "/radio-alcoy/"
+  },
+  {
+    "text": "Radio Alicante",
+    "url": "/radio-alicante/"
+  },
+  {
+    "text": "Radio Benidorm",
+    "url": "/radio-benidorm/"
+  },
+  {
+    "text": "Radio D\u00e9nia",
+    "url": "/radio-denia/"
+  },
+  {
+    "text": "Radio Elche",
+    "url": "/radio-elche/"
+  },
+  {
+    "text": "Radio Elda",
+    "url": "/radio-elda/"
+  },
+  {
+    "text": "Radio Orihuela",
+    "url": "/radio-orihuela/"
+  },
+  {
+    "text": "Radio Villena",
+    "url": "/radio-villena/"
+  },
+  {
+    "text": "SER Almer\u00eda",
+    "url": "/ser-almeria/"
+  },
+  {
+    "text": "SER Levante",
+    "url": "/ser-levante-albox/"
+  },
+  {
+    "text": "SER N\u00edjar",
+    "url": "/ser-nijar/"
+  },
+  {
+    "text": "SER Poniente",
+    "url": "/ser-poniente/"
+  },
+  {
+    "text": "SER Roquetas",
+    "url": "/ser-roquetas/"
+  },
+  {
+    "text": "R\u00e0dio SER Principat d'Andorra",
+    "url": "/radio-ser-principat-d-andorra/"
+  },
+  {
+    "text": "Radio Asturias",
+    "url": "/radio-asturias/"
+  },
+  {
+    "text": "Radio Nal\u00f3n",
+    "url": "/radio-nalon/"
+  },
+  {
+    "text": "SER Avil\u00e9s",
+    "url": "/ser-aviles/"
+  },
+  {
+    "text": "SER Cangas de On\u00eds",
+    "url": "/ser-cangas-de-onis/"
+  },
+  {
+    "text": "SER Gij\u00f3n",
+    "url": "/ser-gijon/"
+  },
+  {
+    "text": "SER Occidente",
+    "url": "/ser-occidente/"
+  },
+  {
+    "text": "SER Oriente",
+    "url": "/ser-oriente/"
+  },
+  {
+    "text": "SER \u00c1vila",
+    "url": "/ser-avila/"
+  },
+  {
+    "text": "Radio Extremadura",
+    "url": "/radio-extremadura/"
+  },
+  {
+    "text": "SER M\u00e9rida",
+    "url": "/ser-merida/"
+  },
+  {
+    "text": "SER Tierra de Barros",
+    "url": "/ser-tierra-de-barros/"
+  },
+  {
+    "text": "SER Vegas Altas",
+    "url": "/ser-vegas-altas/"
+  },
+  {
+    "text": "R\u00e0dio Barcelona",
+    "url": "/radio-barcelona/"
+  },
+  {
+    "text": "R\u00e0dio Manresa",
+    "url": "/radio-manresa/"
+  },
+  {
+    "text": "SER Catalunya",
+    "url": "/sercat/"
+  },
+  {
+    "text": "SER Osona",
+    "url": "/ser-osona/"
+  },
+  {
+    "text": "SER Pened\u00e8s-Garraf",
+    "url": "/ser-penedesgarraf/"
+  },
+  {
+    "text": "Radio Bilbao",
+    "url": "/radio-bilbao/"
+  },
+  {
+    "text": "Radio Aranda",
+    "url": "/radio-aranda/"
+  },
+  {
+    "text": "Radio Castilla",
+    "url": "/radio-castilla/"
+  },
+  {
+    "text": "SER Miranda",
+    "url": "/ser-miranda/"
+  },
+  {
+    "text": "SER C\u00e1ceres",
+    "url": "/ser-caceres/"
+  },
+  {
+    "text": "SER Navalmoral",
+    "url": "/ser-navalmoral/"
+  },
+  {
+    "text": "SER Norte de Extremadura",
+    "url": "/ser-norte-de-extremadura/"
+  },
+  {
+    "text": "Radio Algeciras",
+    "url": "/radio-algeciras/"
+  },
+  {
+    "text": "Radio C\u00e1diz",
+    "url": "/radio-cadiz/"
+  },
+  {
+    "text": "Radio Jerez",
+    "url": "/radio-jerez/"
+  },
+  {
+    "text": "SER Comarca",
+    "url": "/ser-comarca/"
+  },
+  {
+    "text": "SER La Janda",
+    "url": "/ser-la-janda/"
+  },
+  {
+    "text": "Radio Santander",
+    "url": "/radio-santander/"
+  },
+  {
+    "text": "SER As\u00f3n",
+    "url": "/ser-ason/"
+  },
+  {
+    "text": "SER Castro Urdiales",
+    "url": "/ser-castro-urdiales/"
+  },
+  {
+    "text": "SER Torrelavega",
+    "url": "/ser-torrelavega/"
+  },
+  {
+    "text": "SER Tres Mares",
+    "url": "/ser-tres-mares/"
+  },
+  {
+    "text": "Radio Castell\u00f3n",
+    "url": "/radio-castellon/"
+  },
+  {
+    "text": "Radio La Vall d'Uix\u00f3",
+    "url": "/radio-vall-d-uixo/"
+  },
+  {
+    "text": "SER Maestrat",
+    "url": "/ser-maestrat/"
+  },
+  {
+    "text": "Radio Ceuta",
+    "url": "/radio-ceuta/"
+  },
+  {
+    "text": "Radio Puertollano",
+    "url": "/radio-puertollano/"
+  },
+  {
+    "text": "SER Alc\u00e1zar",
+    "url": "/ser-alcazar/"
+  },
+  {
+    "text": "SER Almad\u00e9n",
+    "url": "/ser-almaden/"
+  },
+  {
+    "text": "SER Ciudad Real",
+    "url": "/ser-ciudad-real/"
+  },
+  {
+    "text": "SER Valdepe\u00f1as",
+    "url": "/ser-valdepenas/"
+  },
+  {
+    "text": "Radio C\u00f3rdoba",
+    "url": "/radio-cordoba/"
+  },
+  {
+    "text": "Radio Luna",
+    "url": "/radio-luna/"
+  },
+  {
+    "text": "Radio Palma",
+    "url": "/radio-palma/"
+  },
+  {
+    "text": "SER Lucena",
+    "url": "/ser-lucena/"
+  },
+  {
+    "text": "Radio 90 Motilla",
+    "url": "/radio-90-motilla/"
+  },
+  {
+    "text": "Radio Azul",
+    "url": "/radio-azul/"
+  },
+  {
+    "text": "Radio Taranc\u00f3n",
+    "url": "/radio-tarancon/"
+  },
+  {
+    "text": "SER Cuenca",
+    "url": "/ser-cuenca/"
+  },
+  {
+    "text": "Radio Eibar",
+    "url": "/radio-eibar/"
+  },
+  {
+    "text": "Radio Irun",
+    "url": "/radio-irun/"
+  },
+  {
+    "text": "Radio San Sebasti\u00e1n",
+    "url": "/radio-san-sebastian/"
+  },
+  {
+    "text": "R\u00e0dio Girona",
+    "url": "/radio-girona/"
+  },
+  {
+    "text": "SER Catalunya Alt Empord\u00e0",
+    "url": "/figueras/"
+  },
+  {
+    "text": "SER Cerdanya",
+    "url": "/radio-pirineus/"
+  },
+  {
+    "text": "SER Garrotxa",
+    "url": "/ser-garrotxa/"
+  },
+  {
+    "text": "Radio Alhama",
+    "url": "/radio-alhama/"
+  },
+  {
+    "text": "Radio Baza",
+    "url": "/radio-baza/"
+  },
+  {
+    "text": "Radio Granada",
+    "url": "/radio-granada/"
+  },
+  {
+    "text": "Radio Guadix",
+    "url": "/radio-guadix/"
+  },
+  {
+    "text": "Radio Loja",
+    "url": "/radio-loja/"
+  },
+  {
+    "text": "Radio Motril",
+    "url": "/radio-motril/"
+  },
+  {
+    "text": "SER Guadalajara",
+    "url": "/ser-guadalajara/"
+  },
+  {
+    "text": "Radio Huelva",
+    "url": "/radio-huelva/"
+  },
+  {
+    "text": "Radio Sierra de Aracena",
+    "url": "/radio-sierra-de-aracena/"
+  },
+  {
+    "text": "SER And\u00e9valo y Minas",
+    "url": "/radio-valverde/"
+  },
+  {
+    "text": "SER Costa de la Luz",
+    "url": "/ser-costa-de-la-luz/"
+  },
+  {
+    "text": "Radio A\u00ednsa",
+    "url": "/radio-ainsa/"
+  },
+  {
+    "text": "Radio Benasque SER",
+    "url": "/radio-benasque-ser/"
+  },
+  {
+    "text": "Radio Graus",
+    "url": "/radio-graus/"
+  },
+  {
+    "text": "Radio Huesca",
+    "url": "/radio-huesca/"
+  },
+  {
+    "text": "Radio Jaca SER Pirineos",
+    "url": "/radio-jaca-ser-pirineos/"
+  },
+  {
+    "text": "Radio Sabi\u00f1\u00e1nigo",
+    "url": "/radio-sabinanigo/"
+  },
+  {
+    "text": "Radio Sari\u00f1ena",
+    "url": "/radio-sarinena/"
+  },
+  {
+    "text": "SER Arag\u00f3n Oriental",
+    "url": "/ser-aragon-oriental/"
+  },
+  {
+    "text": "Radio Ibiza",
+    "url": "/radio-ibiza/"
+  },
+  {
+    "text": "Radio Mallorca",
+    "url": "/radio-mallorca/"
+  },
+  {
+    "text": "Radio Menorca",
+    "url": "/radio-menorca/"
+  },
+  {
+    "text": "Radio Ja\u00e9n",
+    "url": "/radio-jaen/"
+  },
+  {
+    "text": "Radio J\u00f3dar",
+    "url": "/radio-jodar/"
+  },
+  {
+    "text": "Radio Linares",
+    "url": "/radio-linares/"
+  },
+  {
+    "text": "Radio \u00dabeda",
+    "url": "/radio-ubeda/"
+  },
+  {
+    "text": "SER And\u00fajar",
+    "url": "/ser-andujar/"
+  },
+  {
+    "text": "Radio Calahorra",
+    "url": "/radio-rioja-calahorra/"
+  },
+  {
+    "text": "Radio Haro",
+    "url": "/radio-haro/"
+  },
+  {
+    "text": "Radio Rioja",
+    "url": "/radio-rioja/"
+  },
+  {
+    "text": "SER Lanzarote",
+    "url": "/ser-lanzarote/"
+  },
+  {
+    "text": "SER Las Palmas",
+    "url": "/ser-las-palmas/"
+  },
+  {
+    "text": "SER Maspalomas",
+    "url": "/ser-maspalomas/"
+  },
+  {
+    "text": "Radio Bierzo",
+    "url": "/radio-bierzo/"
+  },
+  {
+    "text": "Radio Le\u00f3n",
+    "url": "/radio-leon/"
+  },
+  {
+    "text": "R\u00e0dio Lleida",
+    "url": "/radio-lleida/"
+  },
+  {
+    "text": "SER Catalunya Cat. Central",
+    "url": "/solsona/"
+  },
+  {
+    "text": "SER Val d\u2019Aran",
+    "url": "/ser-val-d-aran/"
+  },
+  {
+    "text": "Radio Faro",
+    "url": "/radio-faro/"
+  },
+  {
+    "text": "Radio Lugo",
+    "url": "/radio-lugo/"
+  },
+  {
+    "text": "Cadena SER",
+    "url": "/cadena-ser/"
+  },
+  {
+    "text": "Radio Aranjuez",
+    "url": "/radio-aranjuez/"
+  },
+  {
+    "text": "Radio Madrid",
+    "url": "/radio-madrid/"
+  },
+  {
+    "text": "SER Henares",
+    "url": "/ser-henares/"
+  },
+  {
+    "text": "SER Madrid Norte",
+    "url": "/ser-madrid-norte/"
+  },
+  {
+    "text": "SER Madrid Oeste",
+    "url": "/ser-madrid-oeste/"
+  },
+  {
+    "text": "SER Madrid Sierra",
+    "url": "/ser-madrid-sierra/"
+  },
+  {
+    "text": "SER Madrid Sur",
+    "url": "/ser-madrid-sur/"
+  },
+  {
+    "text": "Radio Axarqu\u00eda",
+    "url": "/radio-axarquia/"
+  },
+  {
+    "text": "Radio Coca SER Ronda",
+    "url": "/radio-coca-ser-ronda/"
+  },
+  {
+    "text": "SER Antequera",
+    "url": "/ser-antequera/"
+  },
+  {
+    "text": "SER M\u00e1laga",
+    "url": "/ser-malaga/"
+  },
+  {
+    "text": "SER Marbella Costa del Sol",
+    "url": "/ser-marbella-costa-del-sol/"
+  },
+  {
+    "text": "Radio Melilla",
+    "url": "/radio-melilla/"
+  },
+  {
+    "text": "Radio Cartagena",
+    "url": "/radio-cartagena/"
+  },
+  {
+    "text": "Radio Lorca",
+    "url": "/radio-lorca/"
+  },
+  {
+    "text": "Radio Mula",
+    "url": "/radio-mula/"
+  },
+  {
+    "text": "Radio Murcia",
+    "url": "/radio-murcia/"
+  },
+  {
+    "text": "SER Arco Norte",
+    "url": "/ser-arco-norte/"
+  },
+  {
+    "text": "Radio Alsasua",
+    "url": "/alsasua/"
+  },
+  {
+    "text": "Radio Estella",
+    "url": "/radio-estella/"
+  },
+  {
+    "text": "Radio Pamplona",
+    "url": "/radio-pamplona/"
+  },
+  {
+    "text": "Radio Tafalla",
+    "url": "/radio-tafalla/"
+  },
+  {
+    "text": "SER Tudela",
+    "url": "/ser-tudela/"
+  },
+  {
+    "text": "Radio Limia",
+    "url": "/radio-limia/"
+  },
+  {
+    "text": "Radio Ourense",
+    "url": "/radio-ourense/"
+  },
+  {
+    "text": "Radio Ribeiro",
+    "url": "/radio-ribeiro/"
+  },
+  {
+    "text": "Radio Palencia",
+    "url": "/radio-palencia/"
+  },
+  {
+    "text": "Radio Arosa",
+    "url": "/radio-arosa/"
+  },
+  {
+    "text": "Radio Pontevedra",
+    "url": "/radio-pontevedra/"
+  },
+  {
+    "text": "Radio Vigo",
+    "url": "/radio-vigo/"
+  },
+  {
+    "text": "SER Baixo Mi\u00f1o",
+    "url": "/ser-baixo-mino/"
+  },
+  {
+    "text": "SER Deza-Tabeir\u00f3s",
+    "url": "/ser-deza-tabeiros/"
+  },
+  {
+    "text": "Radio Salamanca",
+    "url": "/radio-salamanca/"
+  },
+  {
+    "text": "SER B\u00e9jar",
+    "url": "/ser-bejar/"
+  },
+  {
+    "text": "Radio Cu\u00e9llar",
+    "url": "/radio-cuellar/"
+  },
+  {
+    "text": "Radio Segovia",
+    "url": "/radio-segovia/"
+  },
+  {
+    "text": "Radio Sep\u00falveda",
+    "url": "/radio-sepulveda/"
+  },
+  {
+    "text": "Radio Mor\u00f3n",
+    "url": "/radio-moron/"
+  },
+  {
+    "text": "Radio Sevilla",
+    "url": "/radio-sevilla/"
+  },
+  {
+    "text": "SER Andaluc\u00eda Centro",
+    "url": "/ser-andalucia-centro/"
+  },
+  {
+    "text": "SER Soria",
+    "url": "/ser-soria/"
+  },
+  {
+    "text": "Radio Club Tenerife",
+    "url": "/radio-club-tenerife/"
+  },
+  {
+    "text": "Radio Garo\u00e9",
+    "url": "/radio-garoe/"
+  },
+  {
+    "text": "Radio La Palma",
+    "url": "/radio-la-palma/"
+  },
+  {
+    "text": "SER La Gomera",
+    "url": "/ser-la-gomera/"
+  },
+  {
+    "text": "R\u00e0dio Mora d'Ebre",
+    "url": "/radio-mora-d-ebre/"
+  },
+  {
+    "text": "R\u00e0dio Reus",
+    "url": "/radio-reus/"
+  },
+  {
+    "text": "SER Ebre",
+    "url": "/ser-ebre/"
+  },
+  {
+    "text": "SER Tarragona",
+    "url": "/ser-tarragona/"
+  },
+  {
+    "text": "Radio La Comarca",
+    "url": "/radio-la-comarca/"
+  },
+  {
+    "text": "Radio Utrillas",
+    "url": "/radio-utrillas/"
+  },
+  {
+    "text": "SER Teruel",
+    "url": "/ser-teruel/"
+  },
+  {
+    "text": "SER Talavera",
+    "url": "/ser-talavera/"
+  },
+  {
+    "text": "SER Toledo",
+    "url": "/ser-toledo/"
+  },
+  {
+    "text": "Radio Gandia",
+    "url": "/radio-gandia/"
+  },
+  {
+    "text": "Radio Ontinyent",
+    "url": "/radio-ontinyent/"
+  },
+  {
+    "text": "Radio Valencia",
+    "url": "/radio-valencia/"
+  },
+  {
+    "text": "Radio X\u00e0tiva",
+    "url": "/radio-xativa/"
+  },
+  {
+    "text": "Radio Medina",
+    "url": "/radio-medina/"
+  },
+  {
+    "text": "Radio Pe\u00f1afiel",
+    "url": "/radio-penafiel/"
+  },
+  {
+    "text": "Radio Valladolid",
+    "url": "/radio-valladolid/"
+  },
+  {
+    "text": "SER Duero",
+    "url": "/ser-duero/"
+  },
+  {
+    "text": "Radio Benavente",
+    "url": "/radio-benavente/"
+  },
+  {
+    "text": "Radio Zamora",
+    "url": "/radio-zamora/"
+  },
+  {
+    "text": "Radio Caspe",
+    "url": "/radio-caspe/"
+  },
+  {
+    "text": "Radio Cinco Villas",
+    "url": "/radio-cinco-villas/"
+  },
+  {
+    "text": "Radio Zaragoza",
+    "url": "/radio-zaragoza/"
+  },
+  {
+    "text": "SER Alag\u00f3n",
+    "url": "/ser-alagon/"
+  },
+  {
+    "text": "SER Calatayud",
+    "url": "/ser-calatayud/"
+  },
+  {
+    "text": "Ir al podcast",
+    "url": "#"
+  },
+  {
+    "text": "Ver transcripci\u00f3n",
+    "url": "#"
+  },
+  {
+    "text": "Descargar audio",
+    "url": "#"
+  },
+  {
+    "text": "search by queryly ",
+    "url": "https://www.queryly.com/"
+  },
+  {
+    "text": "Advanced Search",
+    "url": "#"
+  }
+]

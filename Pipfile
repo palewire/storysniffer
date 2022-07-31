@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 tldextract = "*"
 scikit-learn = "*"
+dill = "*"
+pandas = "*"
 
 [dev-packages]
 pre-commit = "*"

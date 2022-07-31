@@ -1,0 +1,1006 @@
+[
+  {
+    "text": "Skip to Nav",
+    "url": "#navBar"
+  },
+  {
+    "text": "Skip to Main",
+    "url": "#main-content"
+  },
+  {
+    "text": "Skip to Footer",
+    "url": "#footer"
+  },
+  {
+    "text": "Donate",
+    "url": "https://donate.kqed.org/givetoday"
+  },
+  {
+    "text": "News",
+    "url": "/"
+  },
+  {
+    "text": "Politics",
+    "url": "/politics"
+  },
+  {
+    "text": "Science",
+    "url": "/science"
+  },
+  {
+    "text": "Education",
+    "url": "/educationnews"
+  },
+  {
+    "text": "Housing",
+    "url": "/housing"
+  },
+  {
+    "text": "Immigration",
+    "url": "/immigration"
+  },
+  {
+    "text": "Criminal Justice",
+    "url": "/criminaljustice"
+  },
+  {
+    "text": "Silicon Valley",
+    "url": "/siliconvalley"
+  },
+  {
+    "text": "Forum",
+    "url": "/forum"
+  },
+  {
+    "text": "The California Report",
+    "url": "/californiareport"
+  },
+  {
+    "text": "Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "Critics\u2019 Picks",
+    "url": "/thedolist"
+  },
+  {
+    "text": "Cultural Commentary",
+    "url": "/artscommentary"
+  },
+  {
+    "text": "Food & Drink",
+    "url": "/food"
+  },
+  {
+    "text": "Rebel Girls",
+    "url": "/rebelgirls"
+  },
+  {
+    "text": "Arts Video",
+    "url": "/artsvideos"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts"
+  },
+  {
+    "text": "Bay Curious",
+    "url": "/podcasts/baycurious"
+  },
+  {
+    "text": "Rightnowish",
+    "url": "/podcasts/rightnowish"
+  },
+  {
+    "text": "The Bay",
+    "url": "/podcasts/thebay"
+  },
+  {
+    "text": "On Our Watch",
+    "url": "/podcasts/onourwatch"
+  },
+  {
+    "text": "Mindshift",
+    "url": "/podcasts/mindshift"
+  },
+  {
+    "text": "Consider This",
+    "url": "/podcasts/considerthis"
+  },
+  {
+    "text": "Political Breakdown",
+    "url": "/podcasts/politicalbreakdown"
+  },
+  {
+    "text": "Live Radio",
+    "url": "/radio"
+  },
+  {
+    "text": "TV",
+    "url": "/tv"
+  },
+  {
+    "text": "Events",
+    "url": "/events"
+  },
+  {
+    "text": "For Educators",
+    "url": "/education"
+  },
+  {
+    "text": "Support KQED",
+    "url": "/support"
+  },
+  {
+    "text": "About",
+    "url": "/about"
+  },
+  {
+    "text": "Help Center",
+    "url": "https://kqed-helpcenter.kqed.org/s/"
+  },
+  {
+    "text": "KQED",
+    "url": "/"
+  },
+  {
+    "text": "News",
+    "url": "/"
+  },
+  {
+    "text": "Politics",
+    "url": "/politics"
+  },
+  {
+    "text": "Science",
+    "url": "/science"
+  },
+  {
+    "text": "Education",
+    "url": "/educationnews"
+  },
+  {
+    "text": "Housing",
+    "url": "/housing"
+  },
+  {
+    "text": "Immigration",
+    "url": "/immigration"
+  },
+  {
+    "text": "Criminal Justice",
+    "url": "/criminaljustice"
+  },
+  {
+    "text": "Silicon Valley",
+    "url": "/siliconvalley"
+  },
+  {
+    "text": "Forum",
+    "url": "/forum"
+  },
+  {
+    "text": "The California Report",
+    "url": "/californiareport"
+  },
+  {
+    "text": "Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "Critics\u2019 Picks",
+    "url": "/thedolist"
+  },
+  {
+    "text": "Cultural Commentary",
+    "url": "/artscommentary"
+  },
+  {
+    "text": "Food & Drink",
+    "url": "/food"
+  },
+  {
+    "text": "Rebel Girls",
+    "url": "/rebelgirls"
+  },
+  {
+    "text": "Arts Video",
+    "url": "/artsvideos"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts"
+  },
+  {
+    "text": "Bay Curious",
+    "url": "/podcasts/baycurious"
+  },
+  {
+    "text": "Rightnowish",
+    "url": "/podcasts/rightnowish"
+  },
+  {
+    "text": "The Bay",
+    "url": "/podcasts/thebay"
+  },
+  {
+    "text": "On Our Watch",
+    "url": "/podcasts/onourwatch"
+  },
+  {
+    "text": "MindShift",
+    "url": "/podcasts/mindshift"
+  },
+  {
+    "text": "Consider This",
+    "url": "/podcasts/considerthis"
+  },
+  {
+    "text": "Political Breakdown",
+    "url": "/podcasts/politicalbreakdown"
+  },
+  {
+    "text": "Events",
+    "url": "/events"
+  },
+  {
+    "text": "KQED Live",
+    "url": "/events"
+  },
+  {
+    "text": "Past Events",
+    "url": "/events/archive"
+  },
+  {
+    "text": "PRX Podcast Garage",
+    "url": "/podcastgarage"
+  },
+  {
+    "text": "For Educators",
+    "url": "https://kqed.teachable.com/p/events"
+  },
+  {
+    "text": "Community Art",
+    "url": "/about/communityart"
+  },
+  {
+    "text": "Plan Your Visit",
+    "url": "/about/visit"
+  },
+  {
+    "text": "TV",
+    "url": "/tv"
+  },
+  {
+    "text": "Live TV \u2013 KQED 9",
+    "url": "/livetv"
+  },
+  {
+    "text": "TV Schedule",
+    "url": "/tv/schedules/daily"
+  },
+  {
+    "text": "On KQED Magazine",
+    "url": "/support/membership/onq"
+  },
+  {
+    "text": "Film School Shorts",
+    "url": "/filmschoolshorts"
+  },
+  {
+    "text": "Check, Please! Bay Area",
+    "url": "/checkplease"
+  },
+  {
+    "text": "Truly CA",
+    "url": "/trulyca"
+  },
+  {
+    "text": "KQED Newsroom",
+    "url": "/kqednewsroom"
+  },
+  {
+    "text": "Support KQED",
+    "url": "/support"
+  },
+  {
+    "text": "Membership",
+    "url": "/support/membership"
+  },
+  {
+    "text": "Gift Planning",
+    "url": "/support/giftplanning"
+  },
+  {
+    "text": "Car Donation",
+    "url": "https://kqed.careasy.org/HOME.html"
+  },
+  {
+    "text": "Donor Portal",
+    "url": "https://my.kqed.org/user"
+  },
+  {
+    "text": "Volunteer",
+    "url": "/support/volunteer"
+  },
+  {
+    "text": "Corporate Sponsorship",
+    "url": "/corporate-sponsorship"
+  },
+  {
+    "text": "Twitter",
+    "url": "https://twitter.com/intent/tweet?url="
+  },
+  {
+    "text": "Email",
+    "url": "mailto:?subject=Check%20out%20this%20article%20from%20KQED&body="
+  },
+  {
+    "text": "News",
+    "url": "/"
+  },
+  {
+    "text": "Politics",
+    "url": "/politics"
+  },
+  {
+    "text": "Science",
+    "url": "/science"
+  },
+  {
+    "text": "Education",
+    "url": "/educationnews"
+  },
+  {
+    "text": "Housing",
+    "url": "/housing"
+  },
+  {
+    "text": "Immigration",
+    "url": "/immigration"
+  },
+  {
+    "text": "Criminal Justice",
+    "url": "/criminaljustice"
+  },
+  {
+    "text": "Silicon Valley",
+    "url": "/siliconvalley"
+  },
+  {
+    "text": "Forum",
+    "url": "/forum"
+  },
+  {
+    "text": "The California Report",
+    "url": "/californiareport"
+  },
+  {
+    "text": "Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "Critics\u2019 Picks",
+    "url": "/thedolist"
+  },
+  {
+    "text": "Cultural Commentary",
+    "url": "/artscommentary"
+  },
+  {
+    "text": "Food & Drink",
+    "url": "/food"
+  },
+  {
+    "text": "Rebel Girls",
+    "url": "/rebelgirls"
+  },
+  {
+    "text": "Arts Video",
+    "url": "/artsvideos"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts"
+  },
+  {
+    "text": "Bay Curious",
+    "url": "/podcasts/baycurious"
+  },
+  {
+    "text": "Rightnowish",
+    "url": "/podcasts/rightnowish"
+  },
+  {
+    "text": "The Bay",
+    "url": "/podcasts/thebay"
+  },
+  {
+    "text": "On Our Watch",
+    "url": "/podcasts/onourwatch"
+  },
+  {
+    "text": "MindShift",
+    "url": "/podcasts/mindshift"
+  },
+  {
+    "text": "Consider This",
+    "url": "/podcasts/considerthis"
+  },
+  {
+    "text": "Political Breakdown",
+    "url": "/podcasts/politicalbreakdown"
+  },
+  {
+    "text": "Events",
+    "url": "/events"
+  },
+  {
+    "text": "KQED Live",
+    "url": "/events"
+  },
+  {
+    "text": "Past Events",
+    "url": "/events/archive"
+  },
+  {
+    "text": "PRX Podcast Garage",
+    "url": "/podcastgarage"
+  },
+  {
+    "text": "For Educators",
+    "url": "https://kqed.teachable.com/p/events"
+  },
+  {
+    "text": "Community Art",
+    "url": "/about/communityart"
+  },
+  {
+    "text": "Plan Your Visit",
+    "url": "/about/visit"
+  },
+  {
+    "text": "TV",
+    "url": "/tv"
+  },
+  {
+    "text": "Live TV \u2013 KQED 9",
+    "url": "/livetv"
+  },
+  {
+    "text": "TV Schedule",
+    "url": "/tv/schedules/daily"
+  },
+  {
+    "text": "On KQED Magazine",
+    "url": "/support/membership/onq"
+  },
+  {
+    "text": "Film School Shorts",
+    "url": "/filmschoolshorts"
+  },
+  {
+    "text": "Check, Please! Bay Area",
+    "url": "/checkplease"
+  },
+  {
+    "text": "Truly CA",
+    "url": "/trulyca"
+  },
+  {
+    "text": "KQED Newsroom",
+    "url": "/kqednewsroom"
+  },
+  {
+    "text": "Support KQED",
+    "url": "/support"
+  },
+  {
+    "text": "Membership",
+    "url": "/support/membership"
+  },
+  {
+    "text": "Gift Planning",
+    "url": "/support/giftplanning"
+  },
+  {
+    "text": "Car Donation",
+    "url": "https://kqed.careasy.org/HOME.html"
+  },
+  {
+    "text": "Donor Portal",
+    "url": "https://my.kqed.org/user"
+  },
+  {
+    "text": "Volunteer",
+    "url": "/support/volunteer"
+  },
+  {
+    "text": "Corporate Sponsorship",
+    "url": "/corporate-sponsorship"
+  },
+  {
+    "text": "Hidden Brain",
+    "url": "/radio/program/hidden-brain"
+  },
+  {
+    "text": "Alia Crum says that our perceptions are always filtered through our mindsets \u2014 and these mindsets shape our lives in profound ways. In the second of two episodes, the psychologist explains how our beliefs about food and exercise affect our bodies. ",
+    "url": "/radio"
+  },
+  {
+    "text": "see more",
+    "url": "/radio"
+  },
+  {
+    "text": "Radio Schedule",
+    "url": "/radio/schedule"
+  },
+  {
+    "text": "Hidden Brain",
+    "url": "/radio/program/hidden-brain"
+  },
+  {
+    "text": "Alia Crum says that our perceptions are always filtered through our mindsets \u2014 and these mindsets shape our lives in profound ways. In the second of two episodes, the psychologist explains how our beliefs about food and exercise affect our bodies. ",
+    "url": "/radio"
+  },
+  {
+    "text": "see more",
+    "url": "/radio"
+  },
+  {
+    "text": "Radio Schedule",
+    "url": "/radio/schedule"
+  },
+  {
+    "text": "",
+    "url": "/news/11920864/lgbtq-community-hears-painful-echoes-of-aids-crisis-in-government-response-to-monkeypox"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920121/sf-officials-outraged-over-laguna-honda-patient-deaths-following-federally-mandated-transfers"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920788/taking-an-eviction-case-to-court-is-risky-but-this-mom-decided-to-try-it"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920913/can-kids-get-monkeypox-what-we-know-right-now-for-parents-and-caregivers"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920867/how-to-find-free-camping-in-californias-national-forests"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920898/to-make-insulin-affordable-california-aims-to-create-its-own-brand"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "Science",
+    "url": "/science"
+  },
+  {
+    "text": "Science",
+    "url": "/science"
+  },
+  {
+    "text": "",
+    "url": "/news/11920913/can-kids-get-monkeypox-what-we-know-right-now-for-parents-and-caregivers"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920772/bay-area-sea-level-rise-monkeypox-update"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11919070/monkeypox-in-the-bay-area-from-symptoms-to-how-to-find-a-vaccine-heres-what-we-know"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "More Science",
+    "url": "/science"
+  },
+  {
+    "text": "Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "",
+    "url": "/arts/13916810/monkeypox-gatherings-festivals-concerts-san-francisco-bay-area-state-of-emergency"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/arts/13916794/azalina-malaysian-restaurant-reopening-tenderloin"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/arts/13916796/beyonce-releases-seventh-album-renaissance"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "More Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "",
+    "url": "/reparations"
+  },
+  {
+    "text": "Read the Series",
+    "url": "/reparations"
+  },
+  {
+    "text": "",
+    "url": "/pge"
+  },
+  {
+    "text": "Read the Series",
+    "url": "/pge"
+  },
+  {
+    "text": "",
+    "url": "/rebelgirls"
+  },
+  {
+    "text": "Read the Series",
+    "url": "/rebelgirls"
+  },
+  {
+    "text": "",
+    "url": "https://learn.kqed.org/challenges/submission/NjI1OGVmNmU5MjhiMTg1MzAyOTg2NWEw"
+  },
+  {
+    "text": "",
+    "url": "https://learn.kqed.org/challenges/submission/NjI1ZjIzMWQ5MjhiMTg1MzAyOTg2NjAw"
+  },
+  {
+    "text": "",
+    "url": "https://learn.kqed.org/challenges/submission/NjI1YzUzM2E5MjhiMTg1MzAyOTg2NWE0"
+  },
+  {
+    "text": "More Youth Media",
+    "url": "https://learn.kqed.org/challenges/"
+  },
+  {
+    "text": "",
+    "url": "/news/11918382/starting-friday-thousands-of-california-tenants-still-waiting-on-rent-relief-can-be-evicted"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11917071/more-california-cities-are-outlawing-harassment-by-landlords"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11916729/my-roots-are-at-the-flea-market-as-la-pulga-closure-looms-over-vendors-one-san-jose-family-weighs-the-future"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11914873/newsoms-care-court-faces-foe-shortage-of-treatment-beds-housing"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "More Housing Affordability",
+    "url": "/housing"
+  },
+  {
+    "text": "",
+    "url": "/news/11919749/ice-detainees-making-1-a-day-sue-over-alleged-wage-theft"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11919161/ice-detainees-protested-1-a-day-wage-now-theyre-in-solitary-confinement"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/arts/13915669/filmmaker-maya-cueva-focuses-on-reproductive-rights-and-immigration"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11918317/blacklisted-for-speaking-up-how-california-farmworkers-fighting-abuses-are-vulnerable-to-retaliation"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "More Immigration",
+    "url": "/immigration"
+  },
+  {
+    "text": "KQED Original Podcasts",
+    "url": "/podcasts"
+  },
+  {
+    "text": "KQED Original Podcasts",
+    "url": "/podcasts"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/baycurious"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/truthbetold"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/thebay"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/rightnowish"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/mindshift"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/soldout"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/considerthis"
+  },
+  {
+    "text": "",
+    "url": "/podcasts/onourwatch"
+  },
+  {
+    "text": "",
+    "url": "/news/11920121/sf-officials-outraged-over-laguna-honda-patient-deaths-following-federally-mandated-transfers"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920788/taking-an-eviction-case-to-court-is-risky-but-this-mom-decided-to-try-it"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920913/can-kids-get-monkeypox-what-we-know-right-now-for-parents-and-caregivers"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920867/how-to-find-free-camping-in-californias-national-forests"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920898/to-make-insulin-affordable-california-aims-to-create-its-own-brand"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/arts/13916810/monkeypox-gatherings-festivals-concerts-san-francisco-bay-area-state-of-emergency"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "",
+    "url": "/news/11920452/ann-hsu-sfusd-saga-after-racist-statement-whos-pushing-for-her-removal-and-whos-supporting-her"
+  },
+  {
+    "text": "Save Article",
+    "url": "#"
+  },
+  {
+    "text": "Ki Sung",
+    "url": "/author/ksung"
+  },
+  {
+    "text": "Devin Katayama",
+    "url": "/author/dkatayama"
+  },
+  {
+    "text": "Pendarvis Harshaw",
+    "url": "/author/ogpenn"
+  },
+  {
+    "text": "Kevin Stark",
+    "url": "/author/kevinstark"
+  },
+  {
+    "text": "Gabe Meline",
+    "url": "/author/gmeline"
+  },
+  {
+    "text": "Mina Kim",
+    "url": "/author/minakim"
+  },
+  {
+    "text": "Sarah Hotchkiss",
+    "url": "/author/shotchkiss"
+  },
+  {
+    "text": "Nastia Voynovskaya",
+    "url": "/author/nvoynovskaya"
+  },
+  {
+    "text": "Sasha Khokha",
+    "url": "/author/sasha-khokha"
+  },
+  {
+    "text": "TV",
+    "url": "/tv"
+  },
+  {
+    "text": "Radio",
+    "url": "/radio"
+  },
+  {
+    "text": "Podcasts",
+    "url": "/podcasts"
+  },
+  {
+    "text": "Events",
+    "url": "/events"
+  },
+  {
+    "text": "For Educators",
+    "url": "/education"
+  },
+  {
+    "text": "News",
+    "url": "/"
+  },
+  {
+    "text": "Science",
+    "url": "/science"
+  },
+  {
+    "text": "Arts & Culture",
+    "url": "/arts"
+  },
+  {
+    "text": "Donate",
+    "url": "/support"
+  },
+  {
+    "text": "Help Center",
+    "url": "https://kqed-helpcenter.kqed.org/s/"
+  },
+  {
+    "text": "About",
+    "url": "/about"
+  },
+  {
+    "text": " Staff DEI Report ",
+    "url": "/about/dei"
+  },
+  {
+    "text": "Careers",
+    "url": "/careers"
+  },
+  {
+    "text": "Corporate Sponsorship",
+    "url": "/corporate-sponsorship"
+  },
+  {
+    "text": "Contact Us",
+    "url": "https://kqed-helpcenter.kqed.org/s/contactsupport"
+  },
+  {
+    "text": "",
+    "url": "https://www.facebook.com/KQED"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/KQED"
+  },
+  {
+    "text": "",
+    "url": "https://www.instagram.com/kqed"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/about/terms-service"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/about/privacy-policy"
+  },
+  {
+    "text": "Contest Rules",
+    "url": "/support/contest-rules"
+  },
+  {
+    "text": "FCC Public Files",
+    "url": "/about/report-to-the-community/fcc-public-inspection-files"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Skip Navigation",
+    "url": "#main"
+  },
+  {
+    "text": "\n                \n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                                        News\n                            ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Local\n                                                        ",
+    "url": "/local"
+  },
+  {
+    "text": "\n                                                                    Sports\n                                                        ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                                                                    Texas\n                                                        ",
+    "url": "/texas"
+  },
+  {
+    "text": "\n                                                                    Politics\n                                                        ",
+    "url": "/politics"
+  },
+  {
+    "text": "\n                                                                    Nation World\n                                                        ",
+    "url": "/nation-world"
+  },
+  {
+    "text": "\n                                                                    Investigations\n                                                        ",
+    "url": "/investigations"
+  },
+  {
+    "text": "\n                                                                    Entertainment\n                                                        ",
+    "url": "/entertainment"
+  },
+  {
+    "text": "\n                                                                    Heartwarming\n                                                        ",
+    "url": "/heartwarming"
+  },
+  {
+    "text": "\n                                                                    Features\n                                                        ",
+    "url": "/features"
+  },
+  {
+    "text": "\n                                                                    VERIFY\n                                                        ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n                                                                    Health\n                                                        ",
+    "url": "/health"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Officer shoots knife-wielding man in west Houston, police say",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/video/news/local/hpd-officer-shoots-suspect-armed-with-knife-in-west-houston/285-e3b0989d-1a25-42ec-aab0-b2b56e9aef8d"
+  },
+  {
+    "text": "HPD: Officer shoots suspect armed with knife in west Houston",
+    "url": "https://www.khou.com/video/news/local/hpd-officer-shoots-suspect-armed-with-knife-in-west-houston/285-e3b0989d-1a25-42ec-aab0-b2b56e9aef8d"
+  },
+  {
+    "text": "\n                                        Weather\n                            ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Forecast\n                                                        ",
+    "url": "/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "\n                                                                    Radar\n                                                        ",
+    "url": "/radar"
+  },
+  {
+    "text": "\n                                                                    10-Day\n                                                        ",
+    "url": "/10-day"
+  },
+  {
+    "text": "\n                                                                    Maps\n                                                        ",
+    "url": "/maps"
+  },
+  {
+    "text": "\n                                                                    Hurricane\n                                                        ",
+    "url": "/hurricane"
+  },
+  {
+    "text": "\n                                                                    Traffic\n                                                        ",
+    "url": "/traffic"
+  },
+  {
+    "text": "\n                                                                    Weather School\n                                                        ",
+    "url": "https://www.youtube.com/watch?v=npm2Wb_g8DU&list=PLQHbZRZgPITmHEpastjtwBMmwDDpwY4F8"
+  },
+  {
+    "text": "\n                                                                    Live Webcams\n                                                        ",
+    "url": "/webcams"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "Houston forecast: Lower rain chances for Sunday",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/video/weather/forecast/houston-forecast-lower-rain-chances-for-sunday/285-b03da57c-114a-4898-ac4d-3691dc3892e1"
+  },
+  {
+    "text": "Houston forecast: Lower rain chances for Sunday",
+    "url": "https://www.khou.com/video/weather/forecast/houston-forecast-lower-rain-chances-for-sunday/285-b03da57c-114a-4898-ac4d-3691dc3892e1"
+  },
+  {
+    "text": "\n                                        Near Me\n                            ",
+    "url": "/near-me"
+  },
+  {
+    "text": "\n                                        VERIFY\n                            ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n        Watch Live\n    ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n        \n        \n            ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n                            Search\n                        ",
+    "url": "/search"
+  },
+  {
+    "text": "\n                    \n                        \n                            Right Now\n                            Houston, TX\u00a0\u00bb\n                        \n                        \n                            \n                                78\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Houston, TX\u00a0\u00bb\n                        \n                    \n                ",
+    "url": "/weather"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather/alerts"
+  },
+  {
+    "text": "Closings",
+    "url": "/closings"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "Monkeypox",
+    "url": "http://khou.com/monkeypox"
+  },
+  {
+    "text": "COVID-19",
+    "url": "/coronavirus-covid-19"
+  },
+  {
+    "text": "Uvalde school mass shooting",
+    "url": "http://khou.com/uvalde"
+  },
+  {
+    "text": "Living in the Lone Star",
+    "url": "http://khou.com/living"
+  },
+  {
+    "text": "Our Story, Our History",
+    "url": "https://www.khou.com/ourstoryourhistory"
+  },
+  {
+    "text": "Great Day Houston",
+    "url": "/greatday"
+  },
+  {
+    "text": "VERIFY",
+    "url": "/verify"
+  },
+  {
+    "text": "Sign up for our newsletter",
+    "url": "https://www.khou.com/email"
+  },
+  {
+    "text": "Investigations",
+    "url": "/investigations"
+  },
+  {
+    "text": "At the border",
+    "url": "http://khou.com/attheborder"
+  },
+  {
+    "text": "Education Station",
+    "url": "http://khou.com/education"
+  },
+  {
+    "text": "Tragedy at Astroworld",
+    "url": "https://www.khou.com/astroworld"
+  },
+  {
+    "text": "Heroes Nextdoor",
+    "url": "/heroesnextdoor"
+  },
+  {
+    "text": "Live Webcams",
+    "url": "/webcams"
+  },
+  {
+    "text": "COVID Vaccine ",
+    "url": "http://khou.com/vaccine"
+  },
+  {
+    "text": "\n                            \n                            Read More \u00bb\n                        ",
+    "url": "#"
+  },
+  {
+    "text": "More () \u00bb",
+    "url": "/breaking-news"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Officer shoots knife-wielding man in west Houston, police say",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Police say the man was running towards officers when one of the officers opened fire.",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/crime/uber-driver-charged-with-murder-pastor-mouton/285-9eac6baa-1c8b-4915-8898-14dc799eee1d"
+  },
+  {
+    "text": "Bond set at $500,000 for man accused of killing a Houston pastor in a road rage incident",
+    "url": "https://www.khou.com/article/news/crime/uber-driver-charged-with-murder-pastor-mouton/285-9eac6baa-1c8b-4915-8898-14dc799eee1d"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-gun-buyback-program/285-a10fed44-3e03-43ef-a924-8588f9ac35af"
+  },
+  {
+    "text": "City of Houston calls first annual gun buyback event a success",
+    "url": "https://www.khou.com/article/news/local/houston-gun-buyback-program/285-a10fed44-3e03-43ef-a924-8588f9ac35af"
+  },
+  {
+    "text": "24-year-old Houston man takes to the street to search for kidney donor",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "Houston Health Department reopens moneypox vaccine appointments",
+    "url": "https://www.khou.com/article/news/local/houston-monkeypox-vaccine-appointments-reopen/285-5108b38f-df10-4ddc-9433-02c96de73975"
+  },
+  {
+    "text": "Some Banana Boat spray sunscreen recalled due to 'unexpected levels of benzene'",
+    "url": "https://www.khou.com/article/news/nation-world/nationwide-recall-issued-for-banana-boat-sunscreen-spf-30/507-60e4e5ce-ad57-404a-8202-d3a0c198bf07"
+  },
+  {
+    "text": "Back-to-school survey for parents: What are your questions/concerns?",
+    "url": "https://www.khou.com/article/news/education/back-to-school-parent-survey/285-d0b93ee8-adf9-4a78-8843-a74ce18605d0"
+  },
+  {
+    "text": "Community throws 'Warrior Parade' for 4-year-old with terminal brain tumor",
+    "url": "https://www.khou.com/article/news/local/santa-fe-four-year-old-brain-tumor/285-ab21b64a-4191-4815-a754-296ab1f3340b"
+  },
+  {
+    "text": "Young alligator spotted outside home in northeast Harris County",
+    "url": "https://www.khou.com/article/life/animals/houston-alligator-found/285-e680530a-5b9d-473d-a724-c959bbf8fd66"
+  },
+  {
+    "text": "3 takeaways from 2 days of the Houston Texans training camp",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/news/local/contests/watch-and-win-summer-sizzle-sweepstakes/285-40bdbd44-52b3-44df-a55e-b859d132ef45"
+  },
+  {
+    "text": "KHOU 11 Morning News:  Watch & Win Summer Sizzle Sweepstakes",
+    "url": "https://www.khou.com/article/news/local/contests/watch-and-win-summer-sizzle-sweepstakes/285-40bdbd44-52b3-44df-a55e-b859d132ef45"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/news/health/what-we-know-monkeypox/285-99ab39f6-b3f0-41af-a4c6-5792d86e98e3"
+  },
+  {
+    "text": "Here's what you need to know about monkeypox",
+    "url": "https://www.khou.com/article/news/health/what-we-know-monkeypox/285-99ab39f6-b3f0-41af-a4c6-5792d86e98e3"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-atlantic-hurricane-guide/285-f18121f6-e2f7-44e8-bd33-2be5c762deeb"
+  },
+  {
+    "text": "Hurricane season: Interactive storm tracker; supply lists, evacuation info and more",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-atlantic-hurricane-guide/285-f18121f6-e2f7-44e8-bd33-2be5c762deeb"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-hurricane-preparedness-guide/285-0a55824a-c749-47a7-bfa2-aeca5fce1ecd"
+  },
+  {
+    "text": "2022 Hurricane Preparedness Guide",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-hurricane-preparedness-guide/285-0a55824a-c749-47a7-bfa2-aeca5fce1ecd"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/features/houston-pride-parade-documentary-khou/285-62cebd83-ac02-43ac-9127-00c6d8860c05"
+  },
+  {
+    "text": "KHOU 11 tells story of Houston's Pride parade in new documentary film | How to watch",
+    "url": "https://www.khou.com/article/features/houston-pride-parade-documentary-khou/285-62cebd83-ac02-43ac-9127-00c6d8860c05"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/entertainment/events/juneteenth/khou-juneteenth-documentary/285-78783dfb-6ecd-4602-8a3c-8cef255dcf2f"
+  },
+  {
+    "text": "Watch full KHOU 11 presentation of 'Juneteenth 1865-2022: The Pursuit of Economic Equality'",
+    "url": "https://www.khou.com/article/entertainment/events/juneteenth/khou-juneteenth-documentary/285-78783dfb-6ecd-4602-8a3c-8cef255dcf2f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/weather/hurricane/hurricane-season-names/285-b713cbb8-4781-43e4-87bb-4ba8f451a829"
+  },
+  {
+    "text": "These are the tropical storm and hurricane names for 2022",
+    "url": "https://www.khou.com/article/weather/hurricane/hurricane-season-names/285-b713cbb8-4781-43e4-87bb-4ba8f451a829"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/news/local/texas-power-outage-map/285-bd99290c-4ec6-4bba-a6d1-165846236f9f"
+  },
+  {
+    "text": "Interactive map | Check power outages across the state",
+    "url": "https://www.khou.com/article/news/local/texas-power-outage-map/285-bd99290c-4ec6-4bba-a6d1-165846236f9f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/news/local/contests/watch-and-win-summer-sizzle-sweepstakes/285-40bdbd44-52b3-44df-a55e-b859d132ef45"
+  },
+  {
+    "text": "KHOU 11 Morning News:  Watch & Win Summer Sizzle Sweepstakes",
+    "url": "https://www.khou.com/article/news/local/contests/watch-and-win-summer-sizzle-sweepstakes/285-40bdbd44-52b3-44df-a55e-b859d132ef45"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/news/health/what-we-know-monkeypox/285-99ab39f6-b3f0-41af-a4c6-5792d86e98e3"
+  },
+  {
+    "text": "Here's what you need to know about monkeypox",
+    "url": "https://www.khou.com/article/news/health/what-we-know-monkeypox/285-99ab39f6-b3f0-41af-a4c6-5792d86e98e3"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-atlantic-hurricane-guide/285-f18121f6-e2f7-44e8-bd33-2be5c762deeb"
+  },
+  {
+    "text": "Hurricane season: Interactive storm tracker; supply lists, evacuation info and more",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-atlantic-hurricane-guide/285-f18121f6-e2f7-44e8-bd33-2be5c762deeb"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-hurricane-preparedness-guide/285-0a55824a-c749-47a7-bfa2-aeca5fce1ecd"
+  },
+  {
+    "text": "2022 Hurricane Preparedness Guide",
+    "url": "https://www.khou.com/article/weather/hurricane/2022-hurricane-preparedness-guide/285-0a55824a-c749-47a7-bfa2-aeca5fce1ecd"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/features/houston-pride-parade-documentary-khou/285-62cebd83-ac02-43ac-9127-00c6d8860c05"
+  },
+  {
+    "text": "KHOU 11 tells story of Houston's Pride parade in new documentary film | How to watch",
+    "url": "https://www.khou.com/article/features/houston-pride-parade-documentary-khou/285-62cebd83-ac02-43ac-9127-00c6d8860c05"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/entertainment/events/juneteenth/khou-juneteenth-documentary/285-78783dfb-6ecd-4602-8a3c-8cef255dcf2f"
+  },
+  {
+    "text": "Watch full KHOU 11 presentation of 'Juneteenth 1865-2022: The Pursuit of Economic Equality'",
+    "url": "https://www.khou.com/article/entertainment/events/juneteenth/khou-juneteenth-documentary/285-78783dfb-6ecd-4602-8a3c-8cef255dcf2f"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/weather/hurricane/hurricane-season-names/285-b713cbb8-4781-43e4-87bb-4ba8f451a829"
+  },
+  {
+    "text": "These are the tropical storm and hurricane names for 2022",
+    "url": "https://www.khou.com/article/weather/hurricane/hurricane-season-names/285-b713cbb8-4781-43e4-87bb-4ba8f451a829"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.khou.com/article/news/local/texas-power-outage-map/285-bd99290c-4ec6-4bba-a6d1-165846236f9f"
+  },
+  {
+    "text": "Interactive map | Check power outages across the state",
+    "url": "https://www.khou.com/article/news/local/texas-power-outage-map/285-bd99290c-4ec6-4bba-a6d1-165846236f9f"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "Houston forecast: Lower rain chances for Sunday",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "Rain chances briefly drop Sunday as Saharan dust moves across the area.",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Hours before the Mega Millions drawing, the jackpot prize skyrocketed to $1.28 billion, the second largest prize in game history.",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Biden's physician said the president had a \"rebound\" of COVID positivity after treatment with Paxlovid.",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/sports/houston-texans-2022-training-camp/285-fd1fcb58-457f-4ed8-920d-c0c74877de3c"
+  },
+  {
+    "text": "Drama-free Texans training camp a welcome sight",
+    "url": "https://www.khou.com/article/sports/houston-texans-2022-training-camp/285-fd1fcb58-457f-4ed8-920d-c0c74877de3c"
+  },
+  {
+    "text": "Drama is what summed up the 2021 Houston Texans, but thankfully, times are changing.",
+    "url": "https://www.khou.com/article/sports/houston-texans-2022-training-camp/285-fd1fcb58-457f-4ed8-920d-c0c74877de3c"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "Houston forecast: Lower rain chances for Sunday",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "Rain chances briefly drop Sunday as Saharan dust moves across the area.",
+    "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather/285-94685554-14d0-483f-b4f1-ccbf1c54ca71"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Hours before the Mega Millions drawing, the jackpot prize skyrocketed to $1.28 billion, the second largest prize in game history.",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Biden's physician said the president had a \"rebound\" of COVID positivity after treatment with Paxlovid.",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/sports/houston-texans-2022-training-camp/285-fd1fcb58-457f-4ed8-920d-c0c74877de3c"
+  },
+  {
+    "text": "Drama-free Texans training camp a welcome sight",
+    "url": "https://www.khou.com/article/sports/houston-texans-2022-training-camp/285-fd1fcb58-457f-4ed8-920d-c0c74877de3c"
+  },
+  {
+    "text": "Drama is what summed up the 2021 Houston Texans, but thankfully, times are changing.",
+    "url": "https://www.khou.com/article/sports/houston-texans-2022-training-camp/285-fd1fcb58-457f-4ed8-920d-c0c74877de3c"
+  },
+  {
+    "text": "Some Banana Boat spray sunscreen recalled due to 'unexpected levels of benzene'",
+    "url": "https://www.khou.com/article/news/nation-world/nationwide-recall-issued-for-banana-boat-sunscreen-spf-30/507-60e4e5ce-ad57-404a-8202-d3a0c198bf07"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Overturning Roe v. Wade isn't the end for abortion opponents",
+    "url": "https://www.khou.com/article/news/nation-world/roe-v-wade-abortion-opponents/507-58d35ed0-6c28-47d4-902c-816e67474479"
+  },
+  {
+    "text": "Kentucky governor: Death toll from flooding rises to 25",
+    "url": "https://www.khou.com/article/news/nation-world/kentucky-appalachia-flooding-update/507-c30574c2-881e-4f3f-bf0b-c478aa825e80"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Pope says he'll slow down amid health concerns",
+    "url": "https://www.khou.com/article/news/nation-world/pope-says-he-will-slow-down/507-91ff53c1-39ba-4efc-bd9f-5824c4e4a07e"
+  },
+  {
+    "text": "Some Banana Boat spray sunscreen recalled due to 'unexpected levels of benzene'",
+    "url": "https://www.khou.com/article/news/nation-world/nationwide-recall-issued-for-banana-boat-sunscreen-spf-30/507-60e4e5ce-ad57-404a-8202-d3a0c198bf07"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.khou.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Overturning Roe v. Wade isn't the end for abortion opponents",
+    "url": "https://www.khou.com/article/news/nation-world/roe-v-wade-abortion-opponents/507-58d35ed0-6c28-47d4-902c-816e67474479"
+  },
+  {
+    "text": "Kentucky governor: Death toll from flooding rises to 25",
+    "url": "https://www.khou.com/article/news/nation-world/kentucky-appalachia-flooding-update/507-c30574c2-881e-4f3f-bf0b-c478aa825e80"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.khou.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Pope says he'll slow down amid health concerns",
+    "url": "https://www.khou.com/article/news/nation-world/pope-says-he-will-slow-down/507-91ff53c1-39ba-4efc-bd9f-5824c4e4a07e"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/outreach/texans-helping-texans/conroe-backpacks-baily-cowart/285-05b74902-721c-4393-b141-058a5e9e0dcd"
+  },
+  {
+    "text": "'Just keep your faith' | Conroe 11-year-old helping 800 students start the school year",
+    "url": "https://www.khou.com/article/news/local/outreach/texans-helping-texans/conroe-backpacks-baily-cowart/285-05b74902-721c-4393-b141-058a5e9e0dcd"
+  },
+  {
+    "text": "Baily Cowart began donating school supplies when she was only five years old. Now, 800 students will get off to a better start because of her.",
+    "url": "https://www.khou.com/article/news/local/outreach/texans-helping-texans/conroe-backpacks-baily-cowart/285-05b74902-721c-4393-b141-058a5e9e0dcd"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/life/heartwarming/7-year-old-saves-toddler-from-potentially-drowning/103-701baece-4df5-4351-b599-00f42d9dc582"
+  },
+  {
+    "text": "7-year-old saves toddler from potentially drowning at a pool in Sacramento",
+    "url": "https://www.khou.com/article/life/heartwarming/7-year-old-saves-toddler-from-potentially-drowning/103-701baece-4df5-4351-b599-00f42d9dc582"
+  },
+  {
+    "text": "Seeing the toddler at the bottom of the pool, Massiah Browne told his 9-year-old aunt and they were able to get the child out\u2014alive.",
+    "url": "https://www.khou.com/article/life/heartwarming/7-year-old-saves-toddler-from-potentially-drowning/103-701baece-4df5-4351-b599-00f42d9dc582"
+  },
+  {
+    "text": "More Heartwarming",
+    "url": "/section/heartwarming"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/outreach/texans-helping-texans/conroe-backpacks-baily-cowart/285-05b74902-721c-4393-b141-058a5e9e0dcd"
+  },
+  {
+    "text": "'Just keep your faith' | Conroe 11-year-old helping 800 students start the school year",
+    "url": "https://www.khou.com/article/news/local/outreach/texans-helping-texans/conroe-backpacks-baily-cowart/285-05b74902-721c-4393-b141-058a5e9e0dcd"
+  },
+  {
+    "text": "Baily Cowart began donating school supplies when she was only five years old. Now, 800 students will get off to a better start because of her.",
+    "url": "https://www.khou.com/article/news/local/outreach/texans-helping-texans/conroe-backpacks-baily-cowart/285-05b74902-721c-4393-b141-058a5e9e0dcd"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/life/heartwarming/7-year-old-saves-toddler-from-potentially-drowning/103-701baece-4df5-4351-b599-00f42d9dc582"
+  },
+  {
+    "text": "7-year-old saves toddler from potentially drowning at a pool in Sacramento",
+    "url": "https://www.khou.com/article/life/heartwarming/7-year-old-saves-toddler-from-potentially-drowning/103-701baece-4df5-4351-b599-00f42d9dc582"
+  },
+  {
+    "text": "Seeing the toddler at the bottom of the pool, Massiah Browne told his 9-year-old aunt and they were able to get the child out\u2014alive.",
+    "url": "https://www.khou.com/article/life/heartwarming/7-year-old-saves-toddler-from-potentially-drowning/103-701baece-4df5-4351-b599-00f42d9dc582"
+  },
+  {
+    "text": "More Heartwarming",
+    "url": "/section/heartwarming"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Officer shoots knife-wielding man in west Houston, police say",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Police say the man was running towards officers when one of the officers opened fire.",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "24-year-old Houston man takes to the street to search for kidney donor",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "A 24-year-old Houston man needs your help, he\u2019s in need of a kidney donor. And his search has taken him to the streets.",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Officer shoots knife-wielding man in west Houston, police say",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "Police say the man was running towards officers when one of the officers opened fire.",
+    "url": "https://www.khou.com/article/news/local/houston-police-officer-shooting/285-fb9338be-65dc-4461-b0f2-bff472036cb5"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "24-year-old Houston man takes to the street to search for kidney donor",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "A 24-year-old Houston man needs your help, he\u2019s in need of a kidney donor. And his search has taken him to the streets.",
+    "url": "https://www.khou.com/article/news/local/houston-man-needs-kidney-donor/285-1c6c0234-a843-4eef-b339-63ec0425ad84"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "Toro pinch-hits for J-Rod, rallies Mariners over Astros 5-4",
+    "url": "https://www.khou.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "The Mariners beat Houston for the first time since June 8, snapping a five-game losing streak to the Astros.",
+    "url": "https://www.khou.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "3 takeaways from 2 days of the Houston Texans training camp",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "What has stood out from training camp so far? Here are the three things that I\u2019ve noticed.",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "Toro pinch-hits for J-Rod, rallies Mariners over Astros 5-4",
+    "url": "https://www.khou.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "The Mariners beat Houston for the first time since June 8, snapping a five-game losing streak to the Astros.",
+    "url": "https://www.khou.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "3 takeaways from 2 days of the Houston Texans training camp",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "What has stood out from training camp so far? Here are the three things that I\u2019ve noticed.",
+    "url": "https://www.khou.com/article/sports/nfl/texans/texans-training-camp-takeaways-recap/285-35fa6c64-89cb-4130-828c-501c2e0fe96c"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.khou.com/khoujobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                  Newsletters ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "\n             About Us",
+    "url": "/about-us"
+  },
+  {
+    "text": "Advertise",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n          Contact Us ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.khou.com/khoujobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                  Newsletters ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.khou.com/khoujobs"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/terms"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "/adchoices"
+  },
+  {
+    "text": "EEO Public File Report",
+    "url": "https://interactive.khou.com/pdfs/PublicFileReport.pdf"
+  },
+  {
+    "text": "FCC Online Public Inspection File",
+    "url": "/fcc-public-inspection-file"
+  },
+  {
+    "text": "Closed Caption Procedures",
+    "url": "/closed-captioning"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "url": "/do-not-sell-my-information"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "here",
+    "url": "/privacy#opt-out-of-targeted-online-advertising"
+  },
+  {
+    "text": "More information",
+    "url": "/privacy"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  }
+]

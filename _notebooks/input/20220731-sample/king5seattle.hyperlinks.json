@@ -1,0 +1,802 @@
+[
+  {
+    "text": "Skip Navigation",
+    "url": "#main"
+  },
+  {
+    "text": "\n                \n            ",
+    "url": "/"
+  },
+  {
+    "text": "\n                                        News\n                            ",
+    "url": "/news"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Local\n                                                        ",
+    "url": "/local"
+  },
+  {
+    "text": "\n                                                                    Money\n                                                        ",
+    "url": "/money"
+  },
+  {
+    "text": "\n                                                                    Sports\n                                                        ",
+    "url": "/sports"
+  },
+  {
+    "text": "\n                                                                    Investigators\n                                                        ",
+    "url": "/investigators"
+  },
+  {
+    "text": "\n                                                                    Nation World\n                                                        ",
+    "url": "/nation-world"
+  },
+  {
+    "text": "\n                                                                    Politics\n                                                        ",
+    "url": "/politics"
+  },
+  {
+    "text": "\n                                                                    Environment\n                                                        ",
+    "url": "/environment"
+  },
+  {
+    "text": "\n                                                                    Healthlink\n                                                        ",
+    "url": "/healthlink"
+  },
+  {
+    "text": "\n                                                                    Entertainment\n                                                        ",
+    "url": "/entertainment"
+  },
+  {
+    "text": "\n                                                                    Community\n                                                        ",
+    "url": "/community"
+  },
+  {
+    "text": "\n                                                                    Features\n                                                        ",
+    "url": "/features"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "Over dozen people affected by pepper spray on light rail; suspect still at large",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "Issaquah girls' softball team headed to compete in the World Series",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "\n                                        Weather\n                            ",
+    "url": "/weather/"
+  },
+  {
+    "text": "\n                                                    Back\n                                                ",
+    "url": "#"
+  },
+  {
+    "text": "\n                                                                    Forecast\n                                                        ",
+    "url": "/forecast"
+  },
+  {
+    "text": "\n                                                                    Radar\n                                                        ",
+    "url": "/radar"
+  },
+  {
+    "text": "\n                                                                    10-Day\n                                                        ",
+    "url": "/10-day"
+  },
+  {
+    "text": "\n                                                                    Hourly\n                                                        ",
+    "url": "/hourly"
+  },
+  {
+    "text": "\n                                                                    Maps\n                                                        ",
+    "url": "/maps"
+  },
+  {
+    "text": "\n                                                                    Traffic\n                                                        ",
+    "url": "/traffic"
+  },
+  {
+    "text": "\n                                                                    Drive Times\n                                                        ",
+    "url": "/drive-times"
+  },
+  {
+    "text": "\n                                                                    Webcams\n                                                        ",
+    "url": "/webcams"
+  },
+  {
+    "text": "\n                                                                    SchoolNet\n                                                        ",
+    "url": "/schoolnet"
+  },
+  {
+    "text": "\n                                                                    Closings & Delays\n                                                        ",
+    "url": "/closings"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/video/weather/forecast/king-5-weather/281-bae6a6c2-118d-44c6-9d5c-86baa3908367"
+  },
+  {
+    "text": "KING 5 Weather",
+    "url": "https://www.king5.com/video/weather/forecast/king-5-weather/281-bae6a6c2-118d-44c6-9d5c-86baa3908367"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/weather/forecast/seattle-tacoma-everett-forecast-weather/281-6d2914da-c5df-43b8-8a97-223010766765"
+  },
+  {
+    "text": "Western Washington Forecast",
+    "url": "https://www.king5.com/article/weather/forecast/seattle-tacoma-everett-forecast-weather/281-6d2914da-c5df-43b8-8a97-223010766765"
+  },
+  {
+    "text": "\n                                        Near Me\n                            ",
+    "url": "/near-me"
+  },
+  {
+    "text": "\n                                        VERIFY\n                            ",
+    "url": "/verify"
+  },
+  {
+    "text": "\n        Watch Live\n    ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n        \n        \n            ",
+    "url": "/watch"
+  },
+  {
+    "text": "\n                            Search\n                        ",
+    "url": "/search"
+  },
+  {
+    "text": "\n                    \n                        \n                            Right Now\n                            Seattle, WA\u00a0\u00bb\n                        \n                        \n                            \n                                65\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Seattle, WA\u00a0\u00bb\n                        \n                    \n                ",
+    "url": "/weather"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather/alerts"
+  },
+  {
+    "text": "Closings",
+    "url": "/closings"
+  },
+  {
+    "text": "Advertise With Us",
+    "url": "/advertise"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/coronavirus-covid-19"
+  },
+  {
+    "text": "Evening",
+    "url": "/evening"
+  },
+  {
+    "text": "New Day",
+    "url": "/new-day-nw"
+  },
+  {
+    "text": "Sports",
+    "url": "https://www.king5.com/sports"
+  },
+  {
+    "text": "Facing Race",
+    "url": "https://www.king5.com/facing-race"
+  },
+  {
+    "text": "Investigators",
+    "url": "/investigators"
+  },
+  {
+    "text": "Explore the PNW",
+    "url": "/explore-the-pnw"
+  },
+  {
+    "text": "Stand For Truth",
+    "url": "https://www.king5.com/stand-for-truth"
+  },
+  {
+    "text": "TV Listings",
+    "url": "https://www.king5.com/tv-listings"
+  },
+  {
+    "text": "Meet the Team",
+    "url": "https://www.king5.com/meet-the-team"
+  },
+  {
+    "text": "\n                            \n                            Read More \u00bb\n                        ",
+    "url": "#"
+  },
+  {
+    "text": "More (-1) \u00bb",
+    "url": "/breaking-news"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/sports/upcoming-recovery-day-mariners-celebrate-youth-community/281-c40488ae-f977-47d9-8259-5c2886b4eb18"
+  },
+  {
+    "text": "August's Recovery Day at the Mariners to celebrate youth in recovery",
+    "url": "https://www.king5.com/article/sports/upcoming-recovery-day-mariners-celebrate-youth-community/281-c40488ae-f977-47d9-8259-5c2886b4eb18"
+  },
+  {
+    "text": "Teens with Seattle alternative peer group BRIDGES will speak before the game and throw the first pitch.",
+    "url": "https://www.king5.com/article/sports/upcoming-recovery-day-mariners-celebrate-youth-community/281-c40488ae-f977-47d9-8259-5c2886b4eb18"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/money/business/faa-clears-boeing-delivery-787-dreamliners/281-38e03ab2-e79c-4eb8-9c21-3c1549a9852b"
+  },
+  {
+    "text": "FAA clears Boeing to resume delivery of 787 Dreamliners",
+    "url": "https://www.king5.com/article/money/business/faa-clears-boeing-delivery-787-dreamliners/281-38e03ab2-e79c-4eb8-9c21-3c1549a9852b"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/weather/tree-removal-concerns-unincorporated-king-county-heat/281-20249b6c-c2be-4b5e-a0a7-35c45c746718"
+  },
+  {
+    "text": "Tree removal raises concerns about the heat in unincorporated King County",
+    "url": "https://www.king5.com/article/weather/tree-removal-concerns-unincorporated-king-county-heat/281-20249b6c-c2be-4b5e-a0a7-35c45c746718"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.king5.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "Over dozen people affected by pepper spray on light rail; suspect still at large",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "Seattle mayor's executive order addresses sexual assault backlog; advocates say it's a good first step",
+    "url": "https://www.king5.com/article/news/local/seattle/seattle-mayor-executive-order-sexual-assault-investigation-backlog/281-dd785625-33c2-4102-9a12-be787c76f987"
+  },
+  {
+    "text": "Washington farmers say extreme heat, heavy rainfall present challenges for crops",
+    "url": "https://www.king5.com/article/news/local/washington-weather-highs-lows-present-challenges-famers/281-2eb5778a-7b8f-481a-8cfa-ab0de2505ded"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.king5.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "Seattle area could experience longest stretch of 90 degree days on record",
+    "url": "https://www.king5.com/article/weather/dangerous-heatwave-washington-this-week/281-c15ca0f0-48dd-4c39-a8b2-6589a9f32126"
+  },
+  {
+    "text": "'Everything happened so quickly': Father recounts Seattle gun battle that left his son wounded",
+    "url": "https://www.king5.com/article/news/crime/2020-seattle-shooting-trial/281-52de19d2-1701-4534-833f-bc15e261b2f4"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "https://policies.google.com/privacy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/entertainment/television/programs/evening/floating-lemonade-stand-lake-union-seattle-lemons-for-good/281-4a17ee5c-84a5-4924-a056-401743ef5f4c"
+  },
+  {
+    "text": "Meet the young entrepreneurs behind Lake Union's floating lemonade stand",
+    "url": "https://www.king5.com/article/entertainment/television/programs/evening/floating-lemonade-stand-lake-union-seattle-lemons-for-good/281-4a17ee5c-84a5-4924-a056-401743ef5f4c"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/local/invasive-beetle-spotted-oregon-first-time/283-2fa1afbb-bf46-4d8c-a3dd-87a1f9195139"
+  },
+  {
+    "text": "Oregon logs first sighting of invasive emerald ash borer beetle",
+    "url": "https://www.king5.com/article/news/local/invasive-beetle-spotted-oregon-first-time/283-2fa1afbb-bf46-4d8c-a3dd-87a1f9195139"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/local/vancouver-clears-homeless-camps-wildfire-risk/283-3d7c9d44-4a6b-4b31-a926-32a8bb722676"
+  },
+  {
+    "text": "Vancouver clears homeless camps at risk of spreading fire",
+    "url": "https://www.king5.com/article/news/local/vancouver-clears-homeless-camps-wildfire-risk/283-3d7c9d44-4a6b-4b31-a926-32a8bb722676"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/nation-world/pink-diamond-found-in-angola/507-fb1342b6-380d-4beb-8043-bbade1606089"
+  },
+  {
+    "text": "'Spectacular' pink diamond is largest such stone found in 300 years",
+    "url": "https://www.king5.com/article/news/nation-world/pink-diamond-found-in-angola/507-fb1342b6-380d-4beb-8043-bbade1606089"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/verify/choco-taco-has-been-discontinued/536-7c3477e0-f5d5-4dc3-9f86-04bd23e61809"
+  },
+  {
+    "text": "Yes, the Choco Taco has been discontinued",
+    "url": "https://www.king5.com/article/news/verify/choco-taco-has-been-discontinued/536-7c3477e0-f5d5-4dc3-9f86-04bd23e61809"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/verify/how-to-save-energy-cool-home-heat-wave/536-77d536aa-dfd5-4b71-b6ab-ef1f69be04a2"
+  },
+  {
+    "text": "How to stay cool in a heat wave: 5 Fast Facts",
+    "url": "https://www.king5.com/article/news/verify/how-to-save-energy-cool-home-heat-wave/536-77d536aa-dfd5-4b71-b6ab-ef1f69be04a2"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/nation-world/jeopardy-permanent-host-decision-2022-season-39/507-541e83c9-ba2d-46ff-b30d-12de7f916dbb"
+  },
+  {
+    "text": "\u2018Jeopardy!\u2019 has decided who will be the permanent host",
+    "url": "https://www.king5.com/article/news/nation-world/jeopardy-permanent-host-decision-2022-season-39/507-541e83c9-ba2d-46ff-b30d-12de7f916dbb"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/nation-world/how-to-help-monarch-butterflies/507-0b1bdead-392c-42e4-8529-fff98abaacc0"
+  },
+  {
+    "text": "One of America's most iconic butterflies is in trouble. Here's how to help.",
+    "url": "https://www.king5.com/article/news/nation-world/how-to-help-monarch-butterflies/507-0b1bdead-392c-42e4-8529-fff98abaacc0"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/entertainment/television/programs/evening/floating-lemonade-stand-lake-union-seattle-lemons-for-good/281-4a17ee5c-84a5-4924-a056-401743ef5f4c"
+  },
+  {
+    "text": "Meet the young entrepreneurs behind Lake Union's floating lemonade stand",
+    "url": "https://www.king5.com/article/entertainment/television/programs/evening/floating-lemonade-stand-lake-union-seattle-lemons-for-good/281-4a17ee5c-84a5-4924-a056-401743ef5f4c"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/local/invasive-beetle-spotted-oregon-first-time/283-2fa1afbb-bf46-4d8c-a3dd-87a1f9195139"
+  },
+  {
+    "text": "Oregon logs first sighting of invasive emerald ash borer beetle",
+    "url": "https://www.king5.com/article/news/local/invasive-beetle-spotted-oregon-first-time/283-2fa1afbb-bf46-4d8c-a3dd-87a1f9195139"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/local/vancouver-clears-homeless-camps-wildfire-risk/283-3d7c9d44-4a6b-4b31-a926-32a8bb722676"
+  },
+  {
+    "text": "Vancouver clears homeless camps at risk of spreading fire",
+    "url": "https://www.king5.com/article/news/local/vancouver-clears-homeless-camps-wildfire-risk/283-3d7c9d44-4a6b-4b31-a926-32a8bb722676"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/nation-world/pink-diamond-found-in-angola/507-fb1342b6-380d-4beb-8043-bbade1606089"
+  },
+  {
+    "text": "'Spectacular' pink diamond is largest such stone found in 300 years",
+    "url": "https://www.king5.com/article/news/nation-world/pink-diamond-found-in-angola/507-fb1342b6-380d-4beb-8043-bbade1606089"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/verify/choco-taco-has-been-discontinued/536-7c3477e0-f5d5-4dc3-9f86-04bd23e61809"
+  },
+  {
+    "text": "Yes, the Choco Taco has been discontinued",
+    "url": "https://www.king5.com/article/news/verify/choco-taco-has-been-discontinued/536-7c3477e0-f5d5-4dc3-9f86-04bd23e61809"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/verify/how-to-save-energy-cool-home-heat-wave/536-77d536aa-dfd5-4b71-b6ab-ef1f69be04a2"
+  },
+  {
+    "text": "How to stay cool in a heat wave: 5 Fast Facts",
+    "url": "https://www.king5.com/article/news/verify/how-to-save-energy-cool-home-heat-wave/536-77d536aa-dfd5-4b71-b6ab-ef1f69be04a2"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/nation-world/jeopardy-permanent-host-decision-2022-season-39/507-541e83c9-ba2d-46ff-b30d-12de7f916dbb"
+  },
+  {
+    "text": "\u2018Jeopardy!\u2019 has decided who will be the permanent host",
+    "url": "https://www.king5.com/article/news/nation-world/jeopardy-permanent-host-decision-2022-season-39/507-541e83c9-ba2d-46ff-b30d-12de7f916dbb"
+  },
+  {
+    "text": "\n                                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                    ",
+    "url": "https://www.king5.com/article/news/nation-world/how-to-help-monarch-butterflies/507-0b1bdead-392c-42e4-8529-fff98abaacc0"
+  },
+  {
+    "text": "One of America's most iconic butterflies is in trouble. Here's how to help.",
+    "url": "https://www.king5.com/article/news/nation-world/how-to-help-monarch-butterflies/507-0b1bdead-392c-42e4-8529-fff98abaacc0"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/5-things-to-know-this-weekend-july-2022/281-f417281f-4cbb-483c-a751-dc2e878b4877"
+  },
+  {
+    "text": "5 things to know this weekend",
+    "url": "https://www.king5.com/article/news/local/5-things-to-know-this-weekend-july-2022/281-f417281f-4cbb-483c-a751-dc2e878b4877"
+  },
+  {
+    "text": "Long stretch of 90-degree days; Tree removal concerns; AG investigates SPU policy; Pilot survives; Ballot drop box locations.",
+    "url": "https://www.king5.com/article/news/local/5-things-to-know-this-weekend-july-2022/281-f417281f-4cbb-483c-a751-dc2e878b4877"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/crime/man-fatally-shot-neighbor-no-contact-order-piece-county/281-be57abd3-222f-4c43-9e1d-55c73de5b444"
+  },
+  {
+    "text": "Man with 'No Contact Order' killed while attempting to break into home where girlfriend stayed",
+    "url": "https://www.king5.com/article/news/crime/man-fatally-shot-neighbor-no-contact-order-piece-county/281-be57abd3-222f-4c43-9e1d-55c73de5b444"
+  },
+  {
+    "text": "The man was threatening his girlfriend, who had a No Contact Order against him and had stayed with neighbors after an altercation with him Thursday night.",
+    "url": "https://www.king5.com/article/news/crime/man-fatally-shot-neighbor-no-contact-order-piece-county/281-be57abd3-222f-4c43-9e1d-55c73de5b444"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/crime/three-people-injured-drive-by-shooting/281-2fd25498-7cc4-40bd-9a17-3bb709e38389"
+  },
+  {
+    "text": "Three people injured in drive-by shooting at Isaac Evans Park in Auburn",
+    "url": "https://www.king5.com/article/news/crime/three-people-injured-drive-by-shooting/281-2fd25498-7cc4-40bd-9a17-3bb709e38389"
+  },
+  {
+    "text": "Two of the victims are in critical condition. One had to be airlifted to the hospital.",
+    "url": "https://www.king5.com/article/news/crime/three-people-injured-drive-by-shooting/281-2fd25498-7cc4-40bd-9a17-3bb709e38389"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/5-things-to-know-this-weekend-july-2022/281-f417281f-4cbb-483c-a751-dc2e878b4877"
+  },
+  {
+    "text": "5 things to know this weekend",
+    "url": "https://www.king5.com/article/news/local/5-things-to-know-this-weekend-july-2022/281-f417281f-4cbb-483c-a751-dc2e878b4877"
+  },
+  {
+    "text": "Long stretch of 90-degree days; Tree removal concerns; AG investigates SPU policy; Pilot survives; Ballot drop box locations.",
+    "url": "https://www.king5.com/article/news/local/5-things-to-know-this-weekend-july-2022/281-f417281f-4cbb-483c-a751-dc2e878b4877"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/crime/man-fatally-shot-neighbor-no-contact-order-piece-county/281-be57abd3-222f-4c43-9e1d-55c73de5b444"
+  },
+  {
+    "text": "Man with 'No Contact Order' killed while attempting to break into home where girlfriend stayed",
+    "url": "https://www.king5.com/article/news/crime/man-fatally-shot-neighbor-no-contact-order-piece-county/281-be57abd3-222f-4c43-9e1d-55c73de5b444"
+  },
+  {
+    "text": "The man was threatening his girlfriend, who had a No Contact Order against him and had stayed with neighbors after an altercation with him Thursday night.",
+    "url": "https://www.king5.com/article/news/crime/man-fatally-shot-neighbor-no-contact-order-piece-county/281-be57abd3-222f-4c43-9e1d-55c73de5b444"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/crime/three-people-injured-drive-by-shooting/281-2fd25498-7cc4-40bd-9a17-3bb709e38389"
+  },
+  {
+    "text": "Three people injured in drive-by shooting at Isaac Evans Park in Auburn",
+    "url": "https://www.king5.com/article/news/crime/three-people-injured-drive-by-shooting/281-2fd25498-7cc4-40bd-9a17-3bb709e38389"
+  },
+  {
+    "text": "Two of the victims are in critical condition. One had to be airlifted to the hospital.",
+    "url": "https://www.king5.com/article/news/crime/three-people-injured-drive-by-shooting/281-2fd25498-7cc4-40bd-9a17-3bb709e38389"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.king5.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "FAA clears Boeing to resume delivery of 787 Dreamliners",
+    "url": "https://www.king5.com/article/money/business/faa-clears-boeing-delivery-787-dreamliners/281-38e03ab2-e79c-4eb8-9c21-3c1549a9852b"
+  },
+  {
+    "text": "Overturning Roe v. Wade isn't the end for abortion opponents",
+    "url": "https://www.king5.com/article/news/nation-world/roe-v-wade-abortion-opponents/507-58d35ed0-6c28-47d4-902c-816e67474479"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.king5.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "House passes semi-automatic gun ban after 18-year lapse",
+    "url": "https://www.king5.com/article/news/nation-world/house-passes-semi-automatic-gun-ban/507-def72706-6c3b-49e4-95c9-12f1920922e4"
+  },
+  {
+    "text": "When should you get tested for monkeypox?",
+    "url": "https://www.king5.com/article/news/nation-world/how-to-know-when-you-have-monkeypox/507-94a30b0f-1fc3-4bcf-af4a-4db270ed01a7"
+  },
+  {
+    "text": "Biden tests positive for COVID-19 again in rare 'rebound' case",
+    "url": "https://www.king5.com/article/news/nation-world/biden-positive-covid-test-paxlovid-rebound/507-4977ebee-0147-4ab4-8caf-820728ddc680"
+  },
+  {
+    "text": "FAA clears Boeing to resume delivery of 787 Dreamliners",
+    "url": "https://www.king5.com/article/money/business/faa-clears-boeing-delivery-787-dreamliners/281-38e03ab2-e79c-4eb8-9c21-3c1549a9852b"
+  },
+  {
+    "text": "Overturning Roe v. Wade isn't the end for abortion opponents",
+    "url": "https://www.king5.com/article/news/nation-world/roe-v-wade-abortion-opponents/507-58d35ed0-6c28-47d4-902c-816e67474479"
+  },
+  {
+    "text": "Only one Mega Millions jackpot winner, but 26 win big",
+    "url": "https://www.king5.com/article/news/nation-world/mega-millions-winning-numbers-july-29-jackpot/507-77798612-3285-47d2-bb8c-2a061c35c637"
+  },
+  {
+    "text": "House passes semi-automatic gun ban after 18-year lapse",
+    "url": "https://www.king5.com/article/news/nation-world/house-passes-semi-automatic-gun-ban/507-def72706-6c3b-49e4-95c9-12f1920922e4"
+  },
+  {
+    "text": "When should you get tested for monkeypox?",
+    "url": "https://www.king5.com/article/news/nation-world/how-to-know-when-you-have-monkeypox/507-94a30b0f-1fc3-4bcf-af4a-4db270ed01a7"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/life/i-hear-it-gahanna-mother-hears-late-sons-heartbeat-after-an-organ-transplant/530-7e0dce6f-72db-49ff-adf7-35cbcddeb052"
+  },
+  {
+    "text": "Woman whose son died in crash nearly 3 years ago hears his heartbeat following organ donation",
+    "url": "https://www.king5.com/article/life/i-hear-it-gahanna-mother-hears-late-sons-heartbeat-after-an-organ-transplant/530-7e0dce6f-72db-49ff-adf7-35cbcddeb052"
+  },
+  {
+    "text": "JaShawn Scott was killed in a crash nearly three years ago. His mother recently got to hear her son's heartbeat again.",
+    "url": "https://www.king5.com/article/life/i-hear-it-gahanna-mother-hears-late-sons-heartbeat-after-an-organ-transplant/530-7e0dce6f-72db-49ff-adf7-35cbcddeb052"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/entertainment/television/programs/new-day-northwest/101-year-old-seattle-woman-throws-first-pitch-at-mariners-game/281-f16ce6ca-9ced-4cd5-9929-f4b9566465c4"
+  },
+  {
+    "text": "101-year-old Seattle woman throws first pitch at Mariners game",
+    "url": "https://www.king5.com/article/entertainment/television/programs/new-day-northwest/101-year-old-seattle-woman-throws-first-pitch-at-mariners-game/281-f16ce6ca-9ced-4cd5-9929-f4b9566465c4"
+  },
+  {
+    "text": "Mabel Cross prepared for her big moment by doing cross-training, walking up flights of stairs and tossing the baseball to family members.",
+    "url": "https://www.king5.com/article/entertainment/television/programs/new-day-northwest/101-year-old-seattle-woman-throws-first-pitch-at-mariners-game/281-f16ce6ca-9ced-4cd5-9929-f4b9566465c4"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/life/i-hear-it-gahanna-mother-hears-late-sons-heartbeat-after-an-organ-transplant/530-7e0dce6f-72db-49ff-adf7-35cbcddeb052"
+  },
+  {
+    "text": "Woman whose son died in crash nearly 3 years ago hears his heartbeat following organ donation",
+    "url": "https://www.king5.com/article/life/i-hear-it-gahanna-mother-hears-late-sons-heartbeat-after-an-organ-transplant/530-7e0dce6f-72db-49ff-adf7-35cbcddeb052"
+  },
+  {
+    "text": "JaShawn Scott was killed in a crash nearly three years ago. His mother recently got to hear her son's heartbeat again.",
+    "url": "https://www.king5.com/article/life/i-hear-it-gahanna-mother-hears-late-sons-heartbeat-after-an-organ-transplant/530-7e0dce6f-72db-49ff-adf7-35cbcddeb052"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/entertainment/television/programs/new-day-northwest/101-year-old-seattle-woman-throws-first-pitch-at-mariners-game/281-f16ce6ca-9ced-4cd5-9929-f4b9566465c4"
+  },
+  {
+    "text": "101-year-old Seattle woman throws first pitch at Mariners game",
+    "url": "https://www.king5.com/article/entertainment/television/programs/new-day-northwest/101-year-old-seattle-woman-throws-first-pitch-at-mariners-game/281-f16ce6ca-9ced-4cd5-9929-f4b9566465c4"
+  },
+  {
+    "text": "Mabel Cross prepared for her big moment by doing cross-training, walking up flights of stairs and tossing the baseball to family members.",
+    "url": "https://www.king5.com/article/entertainment/television/programs/new-day-northwest/101-year-old-seattle-woman-throws-first-pitch-at-mariners-game/281-f16ce6ca-9ced-4cd5-9929-f4b9566465c4"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "Over dozen people affected by pepper spray on light rail; suspect still at large",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "SPD confirmed a suspect used pepper spray while on a train, and 15 dealt with exposure of some kind.",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "Issaquah girls' softball team headed to compete in the World Series",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "The Issaquah Little League Majors All-Star softball team put on a dominant performance in the nationals, and they're now on the way to their sport's biggest stage.",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "Over dozen people affected by pepper spray on light rail; suspect still at large",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "SPD confirmed a suspect used pepper spray while on a train, and 15 dealt with exposure of some kind.",
+    "url": "https://www.king5.com/article/news/local/seattle/over-dozen-people-affected-by-pepper-spray-on-light-rail-suspect-still-at-large/281-ee6115e9-c2f6-450f-beb5-78af8330de52"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "Issaquah girls' softball team headed to compete in the World Series",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "The Issaquah Little League Majors All-Star softball team put on a dominant performance in the nationals, and they're now on the way to their sport's biggest stage.",
+    "url": "https://www.king5.com/article/news/local/issaquah-little-league-majors-all-star-softball-team-world-series/281-1e216030-5e40-4cac-a87b-8bf751cc2e20"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.king5.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.king5.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "Yes, monkeypox can spread by trying on clothing or changing bed sheets",
+    "url": "https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "While monkeypox can spread through touching contaminated clothing and linens, there are ways to clean and disinfect these items.",
+    "url": "https://www.king5.com/article/news/verify/monkeypox-verify/monkeypox-transmission-spread-through-contiminated-clothes-bed-linens-fact-check/536-3a4ea57d-bbd4-4d3b-9d35-9b264a440264"
+  },
+  {
+    "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+    "url": "https://www.king5.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Yes, there is an official definition of a recession",
+    "url": "https://www.king5.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "Though some people claim two consecutive quarters of GDP decline constitutes a recession, that's not the official definition in the U.S.",
+    "url": "https://www.king5.com/article/news/verify/money-verify/what-is-a-recession-official-definition/536-47a3cc51-3385-4f43-8fbd-1456c01536df"
+  },
+  {
+    "text": "\n             About Us\n                                                        ",
+    "url": "/about-us"
+  },
+  {
+    "text": "\n                                                                    Advertise\n                                                        ",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n                                                                    Contact Us\n                                                        ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "\n                                                                    Jobs\n                  ",
+    "url": "https://www.king5.com/kingjobs"
+  },
+  {
+    "text": "\n        \n      ",
+    "url": "https://www.king5.com/kingjobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                  Newsletters ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "\n             About Us\n                                                        ",
+    "url": "/about-us"
+  },
+  {
+    "text": "\n                                                                    Advertise\n                                                        ",
+    "url": "/advertise"
+  },
+  {
+    "text": "\n                                                                    Contact Us\n                                                        ",
+    "url": "/contact-us"
+  },
+  {
+    "text": "\n                                                                    Jobs\n                  ",
+    "url": "https://www.king5.com/kingjobs"
+  },
+  {
+    "text": "\n                 Meet the Team  ",
+    "url": "/meet-the-team"
+  },
+  {
+    "text": "\n                     TV Listings",
+    "url": "/tv-listings"
+  },
+  {
+    "text": "\n                  Newsletters ",
+    "url": "/email"
+  },
+  {
+    "text": "\n                  Connect ",
+    "url": "/connect"
+  },
+  {
+    "text": "Jobs",
+    "url": "https://www.king5.com/kingjobs"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/terms"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "/adchoices"
+  },
+  {
+    "text": "EEO Public File Report",
+    "url": "https://interactive.king5.com/pdfs/PublicFileReport.pdf"
+  },
+  {
+    "text": "FCC Online Public Inspection File",
+    "url": "/fcc-public-inspection-file"
+  },
+  {
+    "text": "Closed Caption Procedures",
+    "url": "/closed-captioning"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "url": "/do-not-sell-my-information"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy"
+  },
+  {
+    "text": "here",
+    "url": "/privacy#opt-out-of-targeted-online-advertising"
+  },
+  {
+    "text": "More information",
+    "url": "/privacy"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  },
+  {
+    "text": "",
+    "url": "https://www.onetrust.com/products/cookie-consent/"
+  }
+]

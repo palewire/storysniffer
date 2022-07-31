@@ -1,0 +1,654 @@
+[
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "67\u00b0",
+    "url": "/weather"
+  },
+  {
+    "text": "WATCH LIVE",
+    "url": "/newjersey-live"
+  },
+  {
+    "text": "News",
+    "url": "/category/new-jersey-news"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather"
+  },
+  {
+    "text": "Investigative",
+    "url": "/category/team-12-investigates"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/category/new-jersey-coronavirus"
+  },
+  {
+    "text": "Crime",
+    "url": "/category/new-jersey-crime"
+  },
+  {
+    "text": "The Real Deal",
+    "url": "/category/the-real-deal"
+  },
+  {
+    "text": "Politics",
+    "url": "/category/new-jersey-politics"
+  },
+  {
+    "text": "Sports",
+    "url": "/category/new-jersey-sports"
+  },
+  {
+    "text": "Food & Fun",
+    "url": "/category/new-jersey-food-and-fun"
+  },
+  {
+    "text": "Environment",
+    "url": "/category/new-jersey-environment"
+  },
+  {
+    "text": "Transportation",
+    "url": "/category/new-jersey-transportation"
+  },
+  {
+    "text": "State of Our Schools",
+    "url": "/category/new-jersey-state-of-our-schools"
+  },
+  {
+    "text": "Numbers & Links",
+    "url": "/category/new-jersey-numbers-and-links"
+  },
+  {
+    "text": "N12 Events",
+    "url": "/new-jersey-events"
+  },
+  {
+    "text": "Noticias Univision 41",
+    "url": "/category/noticias-univision-41-por-news-12"
+  },
+  {
+    "text": "Road Trip: Close to Home",
+    "url": "/category/new-jersey-road-trip-close-to-home"
+  },
+  {
+    "text": "Kane in Your Corner",
+    "url": "/category/kane-in-your-corner"
+  },
+  {
+    "text": "Turn to Tara",
+    "url": "/category/turn-to-tara"
+  },
+  {
+    "text": "Positively New Jersey",
+    "url": "/category/new-jersey-positively-new-jersey"
+  },
+  {
+    "text": "Just Engaged in New Jersey",
+    "url": "/just-engaged-in-new-jersey-41615353"
+  },
+  {
+    "text": "Just Married in New Jersey",
+    "url": "/just-married-in-new-jersey-41505296"
+  },
+  {
+    "text": "On the Scene",
+    "url": "/category/new-jersey-on-the-scene"
+  },
+  {
+    "text": "Jersey Proud",
+    "url": "/category/new-jersey-jersey-proud"
+  },
+  {
+    "text": "Birthday Smiles",
+    "url": "/new-jersey-birthday-smiles-41504912"
+  },
+  {
+    "text": "On A Positive Note",
+    "url": "/category/on-a-positive-note"
+  },
+  {
+    "text": "Scholar Athlete",
+    "url": "/category/new-jersey-scholar-athlete"
+  },
+  {
+    "text": "Marijuana Matters",
+    "url": "/category/new-jersey-marijuana-matters"
+  },
+  {
+    "text": "Photo Galleries",
+    "url": "/category/new-jersey-photo-galleries"
+  },
+  {
+    "text": "Honor Roll",
+    "url": "/nj-honor-roll"
+  },
+  {
+    "text": "What\u2019s Cooking",
+    "url": "/category/long-island-whats-cooking"
+  },
+  {
+    "text": "Spotted Lanternfly: Stomp It Out",
+    "url": "/category/spottedlanternflystompitout"
+  },
+  {
+    "text": "N12 Originals",
+    "url": "/category/n12-originals"
+  },
+  {
+    "text": "The New Normal",
+    "url": "/category/the-new-normal"
+  },
+  {
+    "text": "Team 12 Investigates",
+    "url": "/category/team-12-investigates"
+  },
+  {
+    "text": "Hometown Heroes",
+    "url": "/njhometownheroes"
+  },
+  {
+    "text": "Storm Watch Blog",
+    "url": "/storm-watch-updates"
+  },
+  {
+    "text": "The Bronx",
+    "url": "https://bronx.news12.com/?region=bronx"
+  },
+  {
+    "text": "Brooklyn",
+    "url": "https://brooklyn.news12.com/?region=brooklyn"
+  },
+  {
+    "text": "Connecticut",
+    "url": "https://connecticut.news12.com/?region=connecticut"
+  },
+  {
+    "text": "Hudson Valley",
+    "url": "https://hudsonvalley.news12.com/?region=hudsonvalley"
+  },
+  {
+    "text": "Long Island",
+    "url": "https://longisland.news12.com/?region=longisland"
+  },
+  {
+    "text": "New Jersey",
+    "url": "https://newjersey.news12.com/?region=newjersey"
+  },
+  {
+    "text": "Westchester",
+    "url": "https://westchester.news12.com/?region=westchester"
+  },
+  {
+    "text": "Explore Newsletters",
+    "url": "/newsletter"
+  },
+  {
+    "text": "",
+    "url": "/"
+  },
+  {
+    "text": "67\u00b0",
+    "url": "/weather"
+  },
+  {
+    "text": "WATCH LIVE",
+    "url": "/newjersey-live"
+  },
+  {
+    "text": "News",
+    "url": "/category/new-jersey-news"
+  },
+  {
+    "text": "Weather",
+    "url": "/weather"
+  },
+  {
+    "text": "Investigative",
+    "url": "/category/team-12-investigates"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "/category/new-jersey-coronavirus"
+  },
+  {
+    "text": "Crime",
+    "url": "/category/new-jersey-crime"
+  },
+  {
+    "text": "The Real Deal",
+    "url": "/category/the-real-deal"
+  },
+  {
+    "text": "Authorities: 23-year-old motorcyclist fatally crashes in HowellAuthorities say a motorcyclist was killed in a crash in Howell Friday night.Jul 31 2022, 11:06 AM ",
+    "url": "/authorities-23-year-old-motorcyclist-fatally-crashes-in-howell"
+  },
+  {
+    "text": " Sun, clouds high near 85 on Sunday; chance of evening rainJul 31 2022, 3:02 AM ",
+    "url": "/sun-clouds-high-near-85-on-sunday-chance-of-evening-rain"
+  },
+  {
+    "text": "Protesters call for Jersey City councilwoman accused in hit-and-run to resignJul 31 2022, 12:30 AM ",
+    "url": "/protesters-call-for-jersey-city-councilwoman-accused-in-hit-and-run-to-resign"
+  },
+  {
+    "text": " Ocean Grove to overhaul iconic pier destroyed by SandyJul 31 2022, 2:55 AM ",
+    "url": "/ocean-grove-to-overhaul-iconic-pier-destroyed-by-sandy"
+  },
+  {
+    "text": "Biden tests positive for COVID-19, returns to isolationJul 30 2022, 7:00 PM ",
+    "url": "/biden-tests-positive-for-covid-19-returns-to-isolation"
+  },
+  {
+    "text": "Passaic police officer accused in DWI crash that injured womanJul 30 2022, 10:13 PM ",
+    "url": "/passaic-police-officer-accused-in-dwi-crash-that-injured-woman"
+  },
+  {
+    "text": "Veteran gets surprise birthday celebration from Asbury Park Wall Motorcycle CommitteeJul 30 2022, 10:13 PM ",
+    "url": "/veteran-gets-surprise-birthday-celebration-from-asbury-park-wall-motorcycle-committee"
+  },
+  {
+    "text": "Authorities: 23-year-old motorcyclist fatally crashes in HowellAuthorities say a motorcyclist was killed in a crash in Howell Friday night.Jul 31 2022, 11:06 AM ",
+    "url": "/authorities-23-year-old-motorcyclist-fatally-crashes-in-howell"
+  },
+  {
+    "text": "Sun, clouds high near 85 on Sunday; chance of evening rainJul 31 2022, 3:02 AM ",
+    "url": "/sun-clouds-high-near-85-on-sunday-chance-of-evening-rain"
+  },
+  {
+    "text": "Protesters call for Jersey City councilwoman accused in hit-and-run to resignJul 31 2022, 12:30 AM ",
+    "url": "/protesters-call-for-jersey-city-councilwoman-accused-in-hit-and-run-to-resign"
+  },
+  {
+    "text": "Ocean Grove to overhaul iconic pier destroyed by SandyJul 31 2022, 2:55 AM ",
+    "url": "/ocean-grove-to-overhaul-iconic-pier-destroyed-by-sandy"
+  },
+  {
+    "text": "Biden tests positive for COVID-19, returns to isolationJul 30 2022, 7:00 PM ",
+    "url": "/biden-tests-positive-for-covid-19-returns-to-isolation"
+  },
+  {
+    "text": "Passaic police officer accused in DWI crash that injured womanJul 30 2022, 10:13 PM ",
+    "url": "/passaic-police-officer-accused-in-dwi-crash-that-injured-woman"
+  },
+  {
+    "text": "Veteran gets surprise birthday celebration from Asbury Park Wall Motorcycle CommitteeJul 30 2022, 10:13 PM ",
+    "url": "/veteran-gets-surprise-birthday-celebration-from-asbury-park-wall-motorcycle-committee"
+  },
+  {
+    "text": "Coronavirus",
+    "url": "https://newjersey.news12.com/category/new-jersey-coronavirus?utm_source=homepage"
+  },
+  {
+    "text": " Biden tests positive for COVID-19, returns to isolationJul 30, 7:00 PM",
+    "url": "/biden-tests-positive-for-covid-19-returns-to-isolation"
+  },
+  {
+    "text": "US reaches deal with Moderna for Omicron COVID-19 vaccine",
+    "url": "/us-reaches-deal-with-moderna-for-omicron-covid-19-vaccine"
+  },
+  {
+    "text": "Biden tests negative for COVID-19, ends 'strict isolation'",
+    "url": "/biden-tests-negative-for-covid-19-ends-strict-isolation"
+  },
+  {
+    "text": "The New Normal: How should people be navigating COVID as BA.5 drives up cases?",
+    "url": "/the-new-normal-how-should-people-be-navigating-covid-as-ba-5-drives-up-cases"
+  },
+  {
+    "text": "The New Normal: What education professionals expect for the new school year",
+    "url": "/the-new-normal-what-education-professionals-expect-for-the-new-school-year"
+  },
+  {
+    "text": "The New Normal: What doctors are saying about President Biden catching COVID-19",
+    "url": "/the-new-normal-what-doctors-are-saying-about-president-biden-catching-covid-19"
+  },
+  {
+    "text": "Beat the Heat",
+    "url": "https://newjersey.news12.com/nj-beat-the-heat"
+  },
+  {
+    "text": "20 handy tips to conserve water and save money this summerJul 29, 8:42 AM",
+    "url": "/handy-tips-to-conserve-water-and-save-money-this-summer"
+  },
+  {
+    "text": "LIVE BLOG: News 12 weather updates",
+    "url": "/storm-watch-updates"
+  },
+  {
+    "text": "15 tips to help you save energy and money during peak summer days",
+    "url": "/tips-to-help-you-save-energy-and-money-during-peak-summer-days"
+  },
+  {
+    "text": "Cool at the pool: NJ residents seek refuge from scorching summer heat",
+    "url": "/cool-at-the-pool-nj-residents-seek-refuge-from-scorching-summer-heat"
+  },
+  {
+    "text": "Guide: Cooling centers around the tri-state area",
+    "url": "/guide-cooling-centers-around-the-tri-state-area"
+  },
+  {
+    "text": "Do you know what to do when lightning strikes? Here are 19 tips to help you stay safe",
+    "url": "/do-you-know-what-to-do-when-lightning-strikes-here-are-tips-to-help-you-stay-safe"
+  },
+  {
+    "text": "The Real Deal",
+    "url": "https://newjersey.news12.com/the-real-deal"
+  },
+  {
+    "text": "The Real Deal: The hidden cost of using a credit card at a restaurantJul 27, 10:57 AM",
+    "url": "/the-real-deal-the-hidden-cost-of-using-a-credit-card-at-a-restaurant"
+  },
+  {
+    "text": "The Real Deal: How to save on your summer energy bill",
+    "url": "/the-real-deal-how-to-save-on-your-summer-energy-bill"
+  },
+  {
+    "text": "The Real Deal: What happens to leftover food at restaurants? Here\u2019s the app that will help you and them save",
+    "url": "/the-real-deal-what-happens-to-leftover-food-at-restaurants-here-s-the-app-that-will-help-you-and-them-save"
+  },
+  {
+    "text": "The Real Deal: How to save on back-to-school supplies",
+    "url": "/the-real-deal-how-to-save-on-back-to-school-supplies"
+  },
+  {
+    "text": "The Real Deal: Buy now, pay later options and how to navigate big purchases",
+    "url": "/the-real-deal-buy-now-pay-later-options-and-how-to-navigate-big-purchases"
+  },
+  {
+    "text": "Avoid the risks of having multiple buy now, pay later loans",
+    "url": "/avoid-the-risks-of-having-multiple-buy-now-pay-later-loans"
+  },
+  {
+    "text": "Power & Politics",
+    "url": "https://newjersey.news12.com/category/new-jersey-politics?utm_source=homepage"
+  },
+  {
+    "text": "Power & Politics: The Forward Party; Monkeypox outbreak grows in NJ; combatting dark money in politicsJul 30, 11:45 PM",
+    "url": "/power-and-politics-the-forward-party-monkeypox-outbreak-grows-in-nj-combatting-dark-money-in-politics"
+  },
+  {
+    "text": "Ask Gov. Murphy - Full show from July 27, 2022",
+    "url": "/watch-live-ask-gov-murphy-for-july-27-2022"
+  },
+  {
+    "text": "Activist: Hudson County Democrats' silence about council member's hit-and-run highlights power of group",
+    "url": "/activist-hudson-county-democrats-silence-about-council-members-hit-and-run-highlights-power-of-group"
+  },
+  {
+    "text": "Manchin says he has health, energy, tax deal with Schumer",
+    "url": "/manchin-says-he-has-health-energy-tax-deal-with-schumer"
+  },
+  {
+    "text": "9/11 families infuriated by Saudi-backed golf tournament at Trump\u2019s Bedminster club",
+    "url": "/9-11-families-infuriated-by-saudi-backed-golf-tournament-at-trump-s-bedminster-club"
+  },
+  {
+    "text": "Lawsuit asks how police use DNA data from NJ newborn blood database",
+    "url": "/lawsuit-asks-how-police-use-dna-data-from-nj-newborn-blood-database"
+  },
+  {
+    "text": "Kane In Your Corner",
+    "url": "https://newjersey.news12.com/category/kane-in-your-corner"
+  },
+  {
+    "text": " Police shooting incident that sparked KIYC investigation ends in plea agreementJul 28, 2:59 AM",
+    "url": "/kiyc-plea-agreement-reached-in-bloomfield-police-motorist-shooting"
+  },
+  {
+    "text": "KIYC: Have you ever had debt collectors try to collect money that you don't think you owe? Here's what to do.",
+    "url": "/kiyc-have-you-ever-had-debt-collectors-try-to-collect-money-that-you-dont-think-you-owe-heres-what-to-do"
+  },
+  {
+    "text": "KIYC: Owners of Chevy Bolt vehicles frustrated due to battery problems. Here\u2019s what to do.",
+    "url": "/kiyc-owners-of-chevy-bolt-vehicles-frustrated-due-to-battery-problems-here-s-what-to-do"
+  },
+  {
+    "text": "Sending tips to Kane In Your Corner",
+    "url": "/sending-tips-to-kane-in-your-corner"
+  },
+  {
+    "text": "Warren County settles lawsuit with child sex abuse victim who says county failed to protect him",
+    "url": "/warren-county-settles-lawsuit-with-child-sex-abuse-victim-who-says-county-failed-to-protect-him"
+  },
+  {
+    "text": "'When you're raped at 11, you don't forget it.' Jury begins deliberations in Warren County sex abuse lawsuit",
+    "url": "/when-youre-raped-at-11-you-dont-forget-it-jury-begins-deliberations-in-warren-county-sex-abuse-lawsuit"
+  },
+  {
+    "text": "On the Scene",
+    "url": "https://newjersey.news12.com/new-jersey-on-the-scene"
+  },
+  {
+    "text": "On The Scene: New exhibit at Lincoln Center showcases 50 years of theater performancesJul 27, 11:58 AM",
+    "url": "/on-the-scene-new-exhibit-at-lincoln-center-showcases-50-years-of-theater-performances"
+  },
+  {
+    "text": "On the Scene: 2 of Sondheim\u2019s most loved works currently running on Broadway",
+    "url": "/on-the-scene-2-of-sondheim-s-most-loved-works-currently-running-on-broadway"
+  },
+  {
+    "text": "On The Scene: Musical \u201cInto the Woods\u201d makes journey back to Broadway. See the cast firsthand.",
+    "url": "/on-the-scene-musical-into-the-woods-makes-journey-back-to-broadway-see-the-cast-firsthand"
+  },
+  {
+    "text": "Museum of Broadway set to open Nov. 15 in Manhattan",
+    "url": "/museum-of-broadway-set-to-open-nov-15-in-manhattan"
+  },
+  {
+    "text": "On The Scene: At least 9 Broadway plays, musicals announce closing dates. Here is the list.",
+    "url": "/on-the-scene-at-least-9-broadway-plays-musicals-announce-closing-dates-here-is-the-list"
+  },
+  {
+    "text": "Ready to catch a Broadway show? Check out these shows and how to score discounted tickets.",
+    "url": "/ready-to-catch-a-broadway-show-check-out-these-shows-and-how-to-score-discounted-tickets"
+  },
+  {
+    "text": "Sun, Jul 31 @2:00pm SponsoredAudrey: The New MusicalPlayers Theatre New York, NY9.0 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/AUDREY-THE-NEW-MUSICAL/10487126/2022-07-31T14"
+  },
+  {
+    "text": "Sun, Jul 31 @3:00pm SponsoredThat Physics ShowTheater 555 New York, NY9.3 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/THAT-PHYSICS-SHOW/10453490/2022-07-31T15"
+  },
+  {
+    "text": "Sun, Jul 31 @4:30pm Sponsored\"Sistas:\" The MusicalActors Temple Theatre New York, NY9.8 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/SISTAS-THE-MUSICAL/10069612/2022-07-31T16"
+  },
+  {
+    "text": "Sun, Jul 31 @2:00pm SponsoredAudrey: The New MusicalPlayers Theatre New York, NY9.0 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/AUDREY-THE-NEW-MUSICAL/10487126/2022-07-31T14"
+  },
+  {
+    "text": "Sun, Jul 31 @3:00pm SponsoredThat Physics ShowTheater 555 New York, NY9.3 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/THAT-PHYSICS-SHOW/10453490/2022-07-31T15"
+  },
+  {
+    "text": "Sun, Jul 31 @4:30pm Sponsored\"Sistas:\" The MusicalActors Temple Theatre New York, NY9.8 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/SISTAS-THE-MUSICAL/10069612/2022-07-31T16"
+  },
+  {
+    "text": "Sun, Jul 31 @2:00pm SponsoredAudrey: The New MusicalPlayers Theatre New York, NY9.0 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/AUDREY-THE-NEW-MUSICAL/10487126/2022-07-31T14"
+  },
+  {
+    "text": "Sun, Jul 31 @3:00pm SponsoredThat Physics ShowTheater 555 New York, NY9.3 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/THAT-PHYSICS-SHOW/10453490/2022-07-31T15"
+  },
+  {
+    "text": "Sun, Jul 31 @4:30pm Sponsored\"Sistas:\" The MusicalActors Temple Theatre New York, NY9.8 mi",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/SISTAS-THE-MUSICAL/10069612/2022-07-31T16"
+  },
+  {
+    "text": "Sun, Jul 31 @10:00amThe Pigeon Comes to Jersey City! A Mo Willems Exhibit  Makes Debut at Liberty Science Center SaturdayLiberty Science Center ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/THE-PIGEON-COMES-TO-JERSEY-CITY-A-MO-WILLEMS-EXHIBIT-MAKES-DEBUT-AT-LIBERTY-SCIENCE-CENTER-SATURDAY/10347568/2022-07-31T10"
+  },
+  {
+    "text": "Sun, Jul 31 @9:00amPride Month Craft Grab & GoMarion Branch ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/PRIDE-MONTH-CRAFT-GRAB-GO/9939967/2022-07-31T09"
+  },
+  {
+    "text": "Sun, Jul 31 @6:30pmAA mtg.Old Bergen Church ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/AA-MTG/9672291/2022-07-31T18"
+  },
+  {
+    "text": "Sun, Jul 31 @4:00pmReggae Sundays with The BrooklynersGolden Cicada ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/REGGAE-SUNDAYS-WITH-THE-BROOKLYNERS/10521639/2022-07-31T16"
+  },
+  {
+    "text": "Sun, Jul 31 @10:00amRiverview Farmers MarketRiverview-Fisk Park ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/RIVERVIEW-FARMERS-MARKET/10486870/2022-07-31T10"
+  },
+  {
+    "text": "Sun, Jul 31 @7:00pmLive Jazz hosted by Winard Harper and friends -Moore's LoungeMoore's Place ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/LIVE-JAZZ-HOSTED-BY-WINARD-HARPER-AND-FRIENDS-MOORES-LOUNGE/10572766/2022-07-31T19"
+  },
+  {
+    "text": "Mon, Aug 01 @4:00pmStorytime Presented by the Children's Services TeamJersey City, NJ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/STORYTIME-PRESENTED-BY-THE-CHILDRENS-SERVICES-TEAM/9571686/2022-08-01T16"
+  },
+  {
+    "text": "Mon, Aug 01 @3:00pmSteam Punk EngineersBelleville Public Library ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/STEAM-PUNK-ENGINEERS/10111070/2022-08-01T15"
+  },
+  {
+    "text": "Mon, Aug 01 @1:00pmLightbridge Academy of Hoboken-Marshall August 2022 Open House!Lightbridge Academy of Hoboken-Marshall ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/LIGHTBRIDGE-ACADEMY-OF-HOBOKENMARSHALL-AUGUST-2022-OPEN-HOUSE/10609915/2022-08-01T13"
+  },
+  {
+    "text": "Mon, Aug 01 @6:30pmHoboken's Concerts in the ParkJersey City, NJ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/HOBOKENS-CONCERTS-IN-THE-PARK/10527218/2022-08-01T18"
+  },
+  {
+    "text": "Mon, Aug 01 @10:00amFW: EMS Monthly Call with Mountainside Medical CenterVerona, NJ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/FW-EMS-MONTHLY-CALL-WITH-MOUNTAINSIDE-MEDICAL-CENTER/9697906/2022-08-01T10"
+  },
+  {
+    "text": "Mon, Aug 01 @4:00pmSummer Learning Program Make-it-Mondays for AdultsJersey City, NJ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/SUMMER-LEARNING-PROGRAM-MAKEITMONDAYS-FOR-ADULTS/10126783/2022-08-01T16"
+  },
+  {
+    "text": "Mon, Aug 01 @4:00pmCreative Writing Workshop w/ Douglas Glenn Clark902 Brewing Co. ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/CREATIVE-WRITING-WORKSHOP-W-DOUGLAS-GLENN-CLARK/10351772/2022-08-01T16"
+  },
+  {
+    "text": "Tue, Aug 02 @3:00pmBPL Chess Kings and QueensBelleville Public Library ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/BPL-CHESS-KINGS-AND-QUEENS/10117873/2022-08-02T15"
+  },
+  {
+    "text": "Tue, Aug 02 @10:30amBingoChurch of the Holy Spirit ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/BINGO/9836430/2022-08-02T10"
+  },
+  {
+    "text": "Tue, Aug 02 @4:00pmAfter School Story Time & Dance Party!Hoboken Public Library ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/AFTER-SCHOOL-STORY-TIME-DANCE-PARTY/10368531/2022-08-02T16"
+  },
+  {
+    "text": "Tue, Aug 02 @11:00amBooks & BabiesWest Orange Public Library ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/BOOKS-BABIES/10300601/2022-08-02T11"
+  },
+  {
+    "text": "Tue, Aug 02 @7:00pmHoboken Planning Board MeetingHoboken City ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/HOBOKEN-PLANNING-BOARD-MEETING/10205701/2022-08-02T19"
+  },
+  {
+    "text": "Tue, Aug 02 @11:30amBowlingOrange, NJ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/BOWLING/10180884/2022-08-02T11"
+  },
+  {
+    "text": "Tue, Aug 02 @7:30pmJersey City's Movies in the ParkJersey City, NJ",
+    "url": "https://newjersey.news12.com/new-jersey-events#!/details/JERSEY-CITYS-MOVIES-IN-THE-PARK/10527108/2022-08-02T19"
+  },
+  {
+    "text": "See All Events",
+    "url": "https://newjersey.news12.com/new-jersey-events"
+  },
+  {
+    "text": "Add Your Event",
+    "url": "https://portal.cityspark.com/EventEntry/EventEntry/news12-newjersey"
+  },
+  {
+    "text": "Newsletter",
+    "url": "/newsletter"
+  },
+  {
+    "text": "Send Photos/Videos",
+    "url": "/new-jersey-your-photos"
+  },
+  {
+    "text": "Contact",
+    "url": "/new-jersey-contact"
+  },
+  {
+    "text": "About Us",
+    "url": "/about"
+  },
+  {
+    "text": "News 12 New York",
+    "url": "https://get.news12.com/where-to-watch/"
+  },
+  {
+    "text": "Altice USA",
+    "url": "https://www.alticeusa.com"
+  },
+  {
+    "text": "Optimum Mobile",
+    "url": "https://www.optimum.com/mobile/"
+  },
+  {
+    "text": "Optimum",
+    "url": "https://www.optimum.com"
+  },
+  {
+    "text": "Cheddar.com",
+    "url": "https://cheddar.com"
+  },
+  {
+    "text": "i24 News",
+    "url": "https://www.i24news.tv/en"
+  },
+  {
+    "text": "Careers",
+    "url": "https://www.alticeusacareers.com"
+  },
+  {
+    "text": "Advertise",
+    "url": "https://a4alticeadvertising.com/news-12/"
+  },
+  {
+    "text": "",
+    "url": "https://twitter.com/News12NJ"
+  },
+  {
+    "text": "",
+    "url": "https://facebook.com/News12NJ"
+  },
+  {
+    "text": "",
+    "url": "https://instagram.com/News12NJ"
+  },
+  {
+    "text": "",
+    "url": "https://apps.apple.com/us/app/news-12-mobile/id444268184"
+  },
+  {
+    "text": "",
+    "url": "https://play.google.com/store/apps/details?id=com.sentinelbd.news12&hl=en_US"
+  },
+  {
+    "text": "Privacy Policy",
+    "url": "/privacy-policy"
+  },
+  {
+    "text": "Terms of Service",
+    "url": "/terms"
+  },
+  {
+    "text": "Ad Choices",
+    "url": "/privacy-policy"
+  }
+]
