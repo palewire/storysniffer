@@ -51,6 +51,9 @@ setup(
     url="https://palewi.re/docs/storysniffer/",
     license="MIT",
     packages=("storysniffer",),
+    package_data={
+        "storysniffer": ["path-and-text-model.pickle", "path-only-model.pickle"]
+    },
     install_requires=(
         "tldextract",
         "scikit-learn",
