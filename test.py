@@ -1,7 +1,7 @@
 """Test the module."""
 import unittest
 
-import storysniffer
+from storysniffer import StorySniffer
 
 
 class SniffTest(unittest.TestCase):
@@ -14,21 +14,15 @@ class SniffTest(unittest.TestCase):
         self.no = "http://www.cnn.com/"
         self.absolute_no = "/"
         self.busted = "foobar"
-
-    def test_busted(self):
-        """Test stuff that shouldn't work."""
-        func = storysniffer.guess
-        with self.assertRaises(ValueError):
-            storysniffer.guess(self.busted)
-            self.assertFalse(func("function(){alert('foobar');}"))
-            self.assertFalse(func(self.absolute_yes))
-            self.assertFalse(func(self.absolute_no))
+        self.client = StorySniffer()
 
     def test_guess(self):
         """Test guesses."""
-        func = storysniffer.guess
+        func = self.client.guess
         self.assertTrue(func(self.yes))
         self.assertFalse(func(self.no))
+        self.assertTrue(func(self.absolute_yes))
+        self.assertFalse(func(self.busted))
         self.assertFalse(func("http://www.facebook.com/foobar/"))
         self.assertFalse(func("http://careers.cnn.com/foobar/"))
         self.assertFalse(func("http://www.news.xxx/foobar/"))

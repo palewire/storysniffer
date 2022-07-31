@@ -1,109 +1,135 @@
 """Inspect a URL and estimate if it links to news story."""
 import os
 import re
+import typing
+from pathlib import Path
 from urllib.parse import urlparse
 
+import dill
+import pandas as pd
 import tldextract
 
-# A regular expression that can validate URLs
-# Drawn from Django source code:
-# https://github.com/django/django/blob/master/django/core/validators.py
-URL_REGEX = re.compile(
-    r"^(?:[a-z0-9\.\-]*)://"  # scheme is validated separately
-    r"(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|\
-[A-Z0-9-]{2,}(?<!-)\.?)|"  # domain...
-    r"localhost|"  # localhost...
-    r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|"  # ...or ipv4
-    r"\[?[A-F0-9]*:[A-F0-9:]+\]?)"  # ...or ipv6
-    r"(?::\d+)?"  # optional port
-    r"(?:/?|[/?]\S+)$",
-    re.IGNORECASE,
-)
 
-# A list of URL parts that probably won't link to new stories
-DOMAIN_BLACKLIST = (
-    "google",
-    "twitter",
-    "facebook",
-    "doubleclick",
-)
+class StorySniffer:
+    """Inspect a URL and estimate if it links to news story."""
 
-SUBDOMAIN_BLACKLIST = (
-    "careers",
-    "mail",
-    "account",
-)
+    THIS_DIR = Path(__file__).parent.absolute()
 
-TLD_BLACKLIST = ("xxx",)
+    # A regular expression that can validate URLs
+    # Drawn from Django source code:
+    # https://github.com/django/django/blob/master/django/core/validators.py
+    URL_REGEX = re.compile(
+        r"^(?:[a-z0-9\.\-]*)://"  # scheme is validated separately
+        r"(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|\
+    [A-Z0-9-]{2,}(?<!-)\.?)|"  # domain...
+        r"localhost|"  # localhost...
+        r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|"  # ...or ipv4
+        r"\[?[A-F0-9]*:[A-F0-9:]+\]?)"  # ...or ipv6
+        r"(?::\d+)?"  # optional port
+        r"(?:/?|[/?]\S+)$",
+        re.IGNORECASE,
+    )
 
-PATH_BLACKLIST = (
-    "",
-    "/",
-)
+    # A list of URL parts that probably won't link to new stories
+    DOMAIN_BLACKLIST = (
+        "google",
+        "twitter",
+        "facebook",
+        "doubleclick",
+    )
 
-EXT_BLACKLIST = (
-    ".js",
-    ".css",
-    ".jpg",
-    ".gif",
-    ".png",
-)
+    SUBDOMAIN_BLACKLIST = (
+        "careers",
+        "mail",
+        "account",
+    )
 
-# A list of URL parts we think will link to stories
-PATHPART_WHITELIST = [
-    "story",
-    "article",
-    "feature",
-    "featured",
-    "blog",
-    "interactive",
-    "graphic",
-    "video",
-    "post",
-]
+    TLD_BLACKLIST = ("xxx",)
 
+    PATH_BLACKLIST = (
+        "",
+        "/",
+    )
 
-def guess(url: str) -> bool:
-    """Return a boolean estimating the likelihood that the provided URL links to a news story."""
-    # Throw an error if the URL doesn't match acceptable patterns
-    if not URL_REGEX.search(url):
-        raise ValueError("Provided url does not match acceptable URL patterns")
+    EXT_BLACKLIST = (
+        ".js",
+        ".css",
+        ".jpg",
+        ".gif",
+        ".png",
+    )
 
-    # Parse the url into parts so we can inspect them
-    urlparts = urlparse(url)
-    tldparts = tldextract.extract(url)
+    # A list of URL parts we think will link to stories
+    PATHPART_WHITELIST = (
+        "/story",
+        "/stories",
+        "/article",
+        "/feature",
+        "/featured",
+        "/blog",
+        "/interactive",
+        "/graphic",
+        "/video",
+        "/post",
+    )
 
-    # Kill anything in one of our blacklists
-    if urlparts.path in PATH_BLACKLIST:
-        return False
+    def __init__(self):
+        """Initialize a new sniffer."""
+        self.path_and_text_model = self.open_pickle("path-and-text-model.pickle")
+        self.path_only_model = self.open_pickle("path-only-model.pickle")
 
-    if tldparts.domain in DOMAIN_BLACKLIST:
-        return False
+    def open_pickle(self, path: str):
+        """Open the provided pickle."""
+        with open(self.THIS_DIR / path, "rb") as fh:
+            return dill.load(fh)
 
-    if tldparts.subdomain in SUBDOMAIN_BLACKLIST:
-        return False
+    def tidy_text(self, t: str) -> str:
+        """Clean up the provided text string."""
+        t = t.strip()
+        t = t.replace("\n", "")
+        t = t.replace("\t", "")
+        t = t.lower()
+        t = re.sub("<[^<]+?>", "", t)
+        t = " ".join(t.split())
+        return t
 
-    if tldparts.suffix in TLD_BLACKLIST:
-        return False
+    def guess(self, url: str, text: typing.Optional[str] = None) -> bool:
+        """Estimate if the provided URL links to a news story."""
+        # Drop any nulls
+        if not url or pd.isnull(url) or not url.strip():
+            return False
 
-    if os.path.splitext(urlparts.path)[1] in EXT_BLACKLIST:
-        return False
+        # Pull out the data we need
+        urlparts = urlparse(url)
+        path = urlparts.path
+        tld = tldextract.extract(url)
 
-    # We don't like things with very few slashes in the urls URL paths
-    pathparts = [x for x in urlparts.path.split("/") if x.strip()]
-    if len(pathparts) < 2:
-        return False
+        # Drop anything we're certain isn't a story
+        if tld.domain in self.DOMAIN_BLACKLIST:
+            return False
+        elif tld.subdomain in self.SUBDOMAIN_BLACKLIST:
+            return False
+        elif path in self.PATH_BLACKLIST:
+            return False
+        elif os.path.splitext(path)[1] in self.EXT_BLACKLIST:
+            return False
 
-    # Bless anything that matches one of our patterns
-    # ... like lots of dashes or underscores in a path part
-    if max(p.count("-") for p in pathparts) > 3:
-        return True
+        # Pick which model we're using, based on the input
+        if text:
+            text = self.tidy_text(text)
+            model = self.path_and_text_model
+        else:
+            model = self.path_only_model
 
-    if max(p.count("_") for p in pathparts) > 3:
-        return True
+        # Run a prediction
+        data = [dict(path=path, text=text)]
+        prediction = model.predict(data)[0] == 1
 
-    if any(p in PATHPART_WHITELIST for p in pathparts):
-        return True
+        # If it's False but it has one of our whitelisted slugs, overturn the decision
+        if not prediction:
+            if path.startswith(self.PATHPART_WHITELIST) and len(path) > 10:
+                if "-" in path or path.endswith(".html"):
+                    return True
 
-    # If you've made it this far without clicking, we give up
-    return False
+        # Return the result
+        return prediction

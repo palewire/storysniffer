@@ -23,7 +23,6 @@ mypy = "*"
 twine = "*"
 setuptools-scm = "*"
 jupyterlab = "*"
-pandas = "*"
 dill = "*"
 
 [requires]
