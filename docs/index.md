@@ -48,7 +48,7 @@ However, because its training sample is limited to links published on news homep
 
 ## Credits
 
-Past work on this project was sponosored by The Reynolds Journalism Institute and the University of Missouri.
+Past work on this project was sponsored by The Reynolds Journalism Institute and the University of Missouri.
 
 ## Links
 
