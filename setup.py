@@ -43,7 +43,7 @@ def local_version(version):
 
 setup(
     name="storysniffer",
-    description="Inspect a URL and estimate if it links to news story",
+    description="Inspect a URL and estimate if it contains a news story",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="Ben Welsh",
