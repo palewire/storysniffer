@@ -3,7 +3,7 @@
 
 # storysniffer
 
-Inspect a URL and estimate if it links to news story.
+Inspect a URL and estimate if it contains a news story.
 
 ## Getting started
 
