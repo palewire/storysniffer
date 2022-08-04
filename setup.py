@@ -43,7 +43,7 @@ def local_version(version):
 
 setup(
     name="storysniffer",
-    description="Inspect a URL and estimate if it links to news story",
+    description="Inspect a URL and estimate if it contains a news story",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="Ben Welsh",
@@ -77,7 +77,7 @@ setup(
     use_scm_version={"version_scheme": version_scheme, "local_scheme": local_version},
     project_urls={
         "Documentation": "https://palewi.re/docs/storysniffer/",
-        "Source": "https://github.com/datadesk/storysniffer/",
-        "Tracker": "https://github.com/datadesk/storysniffer/issues",
+        "Source": "https://github.com/palewire/storysniffer/",
+        "Tracker": "https://github.com/palewire/storysniffer/issues",
     },
 )
