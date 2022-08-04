@@ -15,36 +15,27 @@ class StorySniffer:
 
     THIS_DIR = Path(__file__).parent.absolute()
 
-    # A regular expression that can validate URLs
-    # Drawn from Django source code:
-    # https://github.com/django/django/blob/master/django/core/validators.py
-    URL_REGEX = re.compile(
-        r"^(?:[a-z0-9\.\-]*)://"  # scheme is validated separately
-        r"(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|\
-    [A-Z0-9-]{2,}(?<!-)\.?)|"  # domain...
-        r"localhost|"  # localhost...
-        r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|"  # ...or ipv4
-        r"\[?[A-F0-9]*:[A-F0-9:]+\]?)"  # ...or ipv6
-        r"(?::\d+)?"  # optional port
-        r"(?:/?|[/?]\S+)$",
-        re.IGNORECASE,
-    )
-
     # A list of URL parts that probably won't link to new stories
     DOMAIN_BLACKLIST = (
         "google",
         "twitter",
         "facebook",
         "doubleclick",
+        "eventbrite",
+        "youtube",
+        "vimeo",
+        "instagram",
+        "ceros",
+        "legacy",
+        "pinterest",
     )
 
     SUBDOMAIN_BLACKLIST = (
         "careers",
         "mail",
         "account",
+        "events",
     )
-
-    TLD_BLACKLIST = ("xxx",)
 
     PATH_BLACKLIST = (
         "",
@@ -71,6 +62,7 @@ class StorySniffer:
         "/graphic",
         "/video",
         "/post",
+        "/projects",
     )
 
     def __init__(self):
