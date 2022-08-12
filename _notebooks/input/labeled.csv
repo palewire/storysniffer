@@ -2,7 +2,7 @@ text,url,handle,is_story
 A Tradition of Violence,https://knock-la.com/tradition-of-violence-lasd-gang-history/,knockdotla,TRUE
 "8
 
-									  		Bad Education",https://jewishcurrents.org/bad-education,jewishcurrents,TRUE
+									  		Bad Education",https://jewishcurrents.org/bad-education,jewishcurrents,FALSE
 "69
 
 						View Slide Show",https://www.nationalreview.com/photos/russia-ukraine-war-week-22/?utm_source=recirc-desktop&utm_medium=homepage&utm_campaign=right-rail&utm_content=photos&utm_term=first,nro,TRUE
@@ -30,7 +30,7 @@ More () »,/breaking-news,11alivenews,FALSE
 More Heartwarming,/section/heartwarming,11alivenews,FALSE
 SoftNEP,https://www.softnep.com/,12khari,FALSE
 "!function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll("".lazy-image__image"")[0],t=e.target.querySelectorAll("".lazy-image__placeholder"")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=""true"",a.classList.remove(""lazy-image__image_loaded_false""),a.classList.add(""lazy-image__image_loaded_true""),a.classList.remove(""lazy-image__image_blur_true""),a.classList.add(""lazy-image__image_blur_false""),t.classList.remove(""lazy-image__placeholder_visible_true""),t.classList.add(""lazy-image__placeholder_visible_false"")}a.unobserve(e.target)})}).observe(e.parentElement)}}();",https://www.12newsnow.com/article/traffic/two-port-arthur-police-officers-injured-after-friday-night-crash/502-702b172b-acd9-45b2-96df-694e97b4c744,12newsnow,TRUE
-"!function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll("".lazy-image__image"")[0],t=e.target.querySelectorAll("".lazy-image__placeholder"")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=""true"",a.classList.remove(""lazy-image__image_loaded_false""),a.classList.add(""lazy-image__image_loaded_true""),a.classList.remove(""lazy-image__image_blur_true""),a.classList.add(""lazy-image__image_blur_false""),t.classList.remove(""lazy-image__placeholder_visible_true""),t.classList.add(""lazy-image__placeholder_visible_false"")}a.unobserve(e.target)})}).observe(e.parentElement)}}();",https://www.12newsnow.com/article/news/nation-world/appalachian-floods/507-5cc50ced-d238-465c-a73d-99e8986b3d1c,12newsnow,FALSE
+"!function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll("".lazy-image__image"")[0],t=e.target.querySelectorAll("".lazy-image__placeholder"")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=""true"",a.classList.remove(""lazy-image__image_loaded_false""),a.classList.add(""lazy-image__image_loaded_true""),a.classList.remove(""lazy-image__image_blur_true""),a.classList.add(""lazy-image__image_blur_false""),t.classList.remove(""lazy-image__placeholder_visible_true""),t.classList.add(""lazy-image__placeholder_visible_false"")}a.unobserve(e.target)})}).observe(e.parentElement)}}();",https://www.12newsnow.com/article/news/nation-world/appalachian-floods/507-5cc50ced-d238-465c-a73d-99e8986b3d1c,12newsnow,TRUE
 Entertainment,/entertainment,12newsnow,FALSE
 Here's how to get severe weather alerts via the 12NewsNow App,https://www.12newsnow.com/article/weather/heres-how-to-get-severe-weather-alerts-via-the-12newsnow-app/502-f655db61-d7a5-42d6-ad60-36b4464fb29f,12newsnow,TRUE
 Man accused of kidnapping 15-year-old girl out of Liberty County arrested in Colorado,https://www.12newsnow.com/article/news/crime/man-accused-of-kidnapping-15-year-old-girl-from-liberty-county-arrested-in-colorado/502-8ce5c965-0fea-4751-b9ad-e7fd7a07d597,12newsnow,TRUE
@@ -263,7 +263,7 @@ Video,/videos/,ajenglish,FALSE
 »  More classified ads,/classifieds/,albany_herald,FALSE
 »  More State News,/news/state/,albany_herald,FALSE
 Engagements,/announcements/engagements,albany_herald,FALSE
-"GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html,albany_herald,FALSE
+"GET OUT THERE: 5 things to do in southwest Georgia this weekend, July 29-31",/multimedia/slideshows/get-out-there-5-things-to-do-in-southwest-georgia-this-weekend-july-29-31/collection_b74a293c-0eb4-11ed-8239-231c727f6fbb.html,albany_herald,TRUE
 Log In,https://www.albanyherald.com/users/login/?referer_url=https%3A%2F%2Fwww.albanyherald.com%2F,albany_herald,FALSE
 PHOTOS: Sherwood Middle School basketball team hosts watermelon giveaway,/multimedia/slideshows/photos-sherwood-middle-school-basketball-team-hosts-watermelon-giveaway/collection_0f0503d0-0a88-11ed-8240-7f1535f7d0af.html,albany_herald,TRUE
 Sign Guest Book,https://www.legacy.com/guestbooks/albanyherald/colleen-hughes-craver-chappell-condolences/202476786?utm_source=albanyherald&utm_medium=RecentObituaries&utm_term=SignGuestBook&utm_campaign=Widget,albany_herald,FALSE
@@ -399,7 +399,7 @@ New Hollywood exhibit celebrates 'Our Gang' film shorts,/entertainment/new-holly
 Opinion,/opinion,bakersfieldcali,FALSE
 PHOTO GALLERY: Westchester Fourth of July Parade,/multimedia/photo-galleries/photo-gallery-westchester-fourth-of-july-parade/collection_3818da84-fc1a-11ec-b79e-574c46d7f14a.html,bakersfieldcali,TRUE
 Search,/search/,bakersfieldcali,FALSE
-Will Smith posts an apology video for slapping Chris Rock,/ap/national/will-smith-posts-an-apology-video-for-slapping-chris-rock/article_4297ba47-faa7-5830-9a76-57980deffcd4.html,bakersfieldcali,FALSE
+Will Smith posts an apology video for slapping Chris Rock,/ap/national/will-smith-posts-an-apology-video-for-slapping-chris-rock/article_4297ba47-faa7-5830-9a76-57980deffcd4.html,bakersfieldcali,TRUE
 Ad Choices,/privacy#VII,baltbizonline,FALSE
 Become a Member It’s FREE!,/register/baltimore?r=%2Fbaltimore%2F,baltbizonline,FALSE
 Credit Unions,https://www.bizjournals.com/baltimore/topic/credit-unions,baltbizonline,FALSE
@@ -554,19 +554,19 @@ Bloomberg Television,http://www.bloomberg.com/live?utm_source=bloomberg-menu&utm
 Bloomberg the Company & Its Products,http://www.bloomberg.com/company/?utm_source=bloomberg-menu&utm_medium=bnanews,blaw,FALSE
 Home,/,blaw,FALSE
 Labor Department Challenges Test Limits of West Virginia v. EPA,/daily-labor-report/labor-department-challenges-test-limits-of-west-virginia-v-epa,blaw,TRUE
-"Mitigating PFAS, Plastics-Related Litigation Costs With Insurance",/environment-and-energy/mitigating-pfas-plastics-related-litigation-costs-with-insurance,blaw,FALSE
+"Mitigating PFAS, Plastics-Related Litigation Costs With Insurance",/environment-and-energy/mitigating-pfas-plastics-related-litigation-costs-with-insurance,blaw,TRUE
 Subscription Information,https://www.bloombergindustry.com/product-pricing-inquiry/?trackingcode=BBNA196414&utm_medium=referral&utm_source=n2-menu,blaw,FALSE
 "View More
   [icons_24_pt1]",/daily-tax-report/,blaw,FALSE
-🎰 Latest 'Gridiron Heights',https://bleacherreport.com/videos/204955-new-gridiron-heights,bleacherreport,FALSE
+🎰 Latest 'Gridiron Heights',https://bleacherreport.com/videos/204955-new-gridiron-heights,bleacherreport,TRUE
 Careers,https://careers.bleacherreport.com/,bleacherreport,FALSE
 Community Guidelines,/pages/comguidelines,bleacherreport,FALSE
-Divisional-Round 'Gridiron Heights' 🤣,https://bleacherreport.com/videos/207474-divisionalround-gridiron-heights,bleacherreport,FALSE
+Divisional-Round 'Gridiron Heights' 🤣,https://bleacherreport.com/videos/207474-divisionalround-gridiron-heights,bleacherreport,TRUE
 Real Reason for NFL Trades 🤣,https://bleacherreport.com/videos/241172-real-reason-for-nfl-trades,bleacherreport,TRUE
 Super Bowl 'Gridiron Heights' 🏆,https://bleacherreport.com/videos/212633-super-bowl-gridiron-heights,bleacherreport,TRUE
 Terms Of Use,/pages/terms,bleacherreport,FALSE
 Updated Jimmy G Landing Spots,https://bleacherreport.com/articles/10043667-reassessing-jimmy-gs-landing-spots-as-trey-lance-takes-over-nfl-training-camps-open,bleacherreport,TRUE
-Video Play Button,https://bleacherreport.com/videos/207474-divisionalround-gridiron-heights,bleacherreport,FALSE
+Video Play Button,https://bleacherreport.com/videos/207474-divisionalround-gridiron-heights,bleacherreport,TRUE
 "WWE SmackDown Results: Winners, Grades, Reaction and Highlights from July 29",https://bleacherreport.com/articles/10043710-wwe-smackdown-results-winners-grades-reaction-and-highlights-from-july-29,bleacherreport,TRUE
 0,https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/#comment_form,bleepincomputer,TRUE
 2,https://www.bleepingcomputer.com/page/2/,bleepincomputer,FALSE
@@ -585,7 +585,7 @@ Here’s Where You Can Get Vaccinated Against Monkeypox In Chicago,https://block
 Joe Ward,/author/joe-ward/,blockclubchi,FALSE
 Kayleigh Padar,/author/kayleigh-padar/,blockclubchi,FALSE
 Lede,https://joinlede.com/,blockclubchi,FALSE
-"Logan Square, Humboldt Park, Avondale",https://blockclubchicago.org/category/logan-square-humboldt-park-avondale/,blockclubchi,TRUE
+"Logan Square, Humboldt Park, Avondale",https://blockclubchicago.org/category/logan-square-humboldt-park-avondale/,blockclubchi,FALSE
 Mack Liederman,/author/mack-liederman/,blockclubchi,FALSE
 "Meet Chicago’s Footworking Barbecue Grill Master: ‘In My Heart, I’m An Entertainer’",/2022/07/26/meet-chicagos-footworking-barbecue-grill-master-in-my-heart-im-an-entertainer/,blockclubchi,TRUE
 Basketball,/sports/basketball/,bmtenterprise,FALSE
@@ -595,7 +595,7 @@ Local bull riders drafted to national teams,/sports/article/Davis-Melancon-join-
 Obituaries,http://www.legacy.com/obituaries/beaumontenterprise/,bmtenterprise,FALSE
 Opinion,/opinions/,bmtenterprise,FALSE
 Puzzles,/puzzles/,bmtenterprise,FALSE
-"The health benefits of cinnamon, according to a dietitian",/shopping/article/health-benefits-of-cinnamon-17338542.php,bmtenterprise,FALSE
+"The health benefits of cinnamon, according to a dietitian",/shopping/article/health-benefits-of-cinnamon-17338542.php,bmtenterprise,TRUE
 What size carry-on can you fly on Spirit Airlines with?,/shopping/article/Spirit-Airlines-carry-on-size-limit-17338682.php,bmtenterprise,TRUE
 Wilting Southeast Texas Tomato Plant Leaves: Blight or Wilt?,/entertainment/article/Wilting-Southeast-Texas-Tomato-Plant-Leaves-17249264.php,bmtenterprise,TRUE
 Andy Thurlow was an incredible inventor who made hundreds of original musical instruments,https://boingboing.net/2022/07/29/andy-thurlow-was-an-incredible-inventor-who-made-hundreds-of-original-musical-instruments.html,boingboing,TRUE
@@ -951,7 +951,7 @@ Video,https://cnsmaryland.org/category/cns-tv/,cnsmd,FALSE
 ▶️ The Great Outdoors: Bend teen heading to World Fly Fishing Championships,https://centraloregondaily.com/%e2%96%b6%ef%b8%8f-the-great-outdoors-bend-teen-heading-to-world-fly-fishing-championships/,codaily,TRUE
 Comment,#,codaily,FALSE
 COVID-19,https://centraloregondaily.com/covid-19/,codaily,FALSE
-High School Sports/Events,https://centraloregondaily.com/cotv/cotv-high-school-sports/,codaily,TRUE
+High School Sports/Events,https://centraloregondaily.com/cotv/cotv-high-school-sports/,codaily,FALSE
 Hometown News –La Pine/Sunriver,https://centraloregondaily.com/lapine/,codaily,FALSE
 More Episodes,https://centraloregondaily.com/trailhead-day-use-theft-suspects-walmart/,codaily,TRUE
 More Episodes,https://centraloregondaily.com/crooked-river-fish-threatened-water-levels-high-temperatures/,codaily,TRUE
@@ -966,7 +966,7 @@ Moonriver$15.38+6.35%,/price/moonriver/,coindesk,FALSE
 Terms Of Use,/terms/,coindesk,FALSE
 UMA Protocol$2.99+3.96%,/price/uma-protocol/,coindesk,FALSE
 Why Now Is a Great Time for Crypto Innovation,/sponsored-content/why-now-is-a-great-time-for-crypto-innovation/,coindesk,FALSE
-Article with images+6,/visuals/athletes-compete-in-martial-arts-at-the-show-me-state-games/article_907c9584-0adf-11ed-acc9-6bcbbbac3702.html,comissourian,FALSE
+Article with images+6,/visuals/athletes-compete-in-martial-arts-at-the-show-me-state-games/article_907c9584-0adf-11ed-acc9-6bcbbbac3702.html,comissourian,TRUE
 "Gorman, Nootbaar homer as Cards beat Nats 6-2; Soto 1 for 4",/sports/pro_sports/gorman-nootbaar-homer-as-cards-beat-nats-6-2-soto-1-for-4/article_528414c8-08e7-5043-97ab-d38fcdea3d90.html,comissourian,TRUE
 Guest Commentaries,/opinion/guest_commentaries,comissourian,FALSE
 Skip to main content,#main-page-container,comissourian,FALSE
@@ -1073,7 +1073,7 @@ Ted Johnson,https://deadline.com/author/ted-johnson/,deadline,FALSE
 Deadspin Staff,https://deadspin.com/author/deadspinstaff,deadspin,FALSE
 Explain to me how every MLB team can be a 'top suitor' for Juan SotoEvery day there seems to be a new team leading the race — making me think nothing will happen,https://deadspin.com/explain-to-me-how-every-mlb-team-can-be-a-top-suitor-1849342685,deadspin,TRUE
 Grace McDermott,/author/gmcdermott,deadspin,FALSE
-Idiots of Month/Year,https://deadspin.com/lists/idiots-of-month-year,deadspin,TRUE
+Idiots of Month/Year,https://deadspin.com/lists/idiots-of-month-year,deadspin,False
 Jon Hoefling,/author/jonmhoefling,deadspin,FALSE
 MLB,https://deadspin.com/baseball/mlb,deadspin,FALSE
 Show all,https://deadspin.com/hockey,deadspin,FALSE
@@ -1145,7 +1145,7 @@ Do Dolphins Have a New Skin Care Routine?,//www.discovery.com/nature/dolphin-s-s
 Expedition X | The Paranormal Returns,//www.discovery.com/videos/expedition-x-the-paranormal-returns-5227023,discovery,TRUE
 Naked and Afraid XL,//www.discovery.com/shows/naked-and-afraid-xl,discovery,TRUE
 Privacy Policy,https://corporate.discovery.com/privacy-policy/,discovery,FALSE
-Schedule,//www.discovery.com/shows/tv-schedule,discovery,TRUE
+Schedule,//www.discovery.com/shows/tv-schedule,discovery,FALSE
 Science,//www.discovery.com/science,discovery,FALSE
 The James Webb Space Telescope Searches for Our Cosmic Origins,//www.discovery.com/space/james-webb-telescope-images-pictures,discovery,TRUE
 "There Isn’t a Door on Mars, but there are Some Cool Rocks",//www.discovery.com/space/rocks-on-mars,discovery,TRUE
@@ -1176,7 +1176,7 @@ Contact Us,/contact-us,eastbaytimes,FALSE
 Horoscopes,https://www.eastbaytimes.com/things-to-do/horoscopes/,eastbaytimes,FALSE
 "Horoscopes July 30, 2022: Terry Crews, gain momentum",https://www.eastbaytimes.com/2022/07/30/horoscopes-july-30-2022-terry-crews-gain-momentum/,eastbaytimes,TRUE
 Outpouring wins reprieve for one of Bay Area’s last roller rinks,https://www.eastbaytimes.com/2022/07/28/east-bay-roller-rink-will-remain-open-after-previously-announcing-closure/,eastbaytimes,TRUE
-Place Legal Notice,http://bang.theadhawk.com/bang-adportal/legals/index.html,eastbaytimes,TRUE
+Place Legal Notice,http://bang.theadhawk.com/bang-adportal/legals/index.html,eastbaytimes,FALSE
 San Jose Mayor Sam Liccardo tests positive for COVID again,https://www.eastbaytimes.com/2022/07/28/san-jose-mayor-sam-liccardo-tests-positive-for-covid/,eastbaytimes,TRUE
 "San Jose sues property owner, claiming his Rose Garden home endangers the public",https://www.eastbaytimes.com/2022/07/29/san-jose-sues-oakland-based-attorney-arguing-his-rose-garden-home-is-a-public-nuisance/,eastbaytimes,TRUE
 Sports,https://www.eastbaytimes.com/sports/,eastbaytimes,FALSE
@@ -1505,7 +1505,7 @@ YouTube,https://www.youtube.com/user/HromadskeTV,hromadskeua,FALSE
 Світ,/svit,hromadskeua,FALSE
 Тендери,/tenders,hromadskeua,FALSE
 10Best,https://www.10best.com/,postcrescent,False
-20 Under 40,https://www.lagrangenews.com/20-under-40/,lagrangenews,TRUE
+20 Under 40,https://www.lagrangenews.com/20-under-40/,lagrangenews,FALSE
 2022 Elections,https://knock-la.com/tag/2022-elections/,knockdotla,False
 "3
 
@@ -2164,7 +2164,7 @@ CWG22: Bindyarani Devi eyes Olympics after winning silver medal in weightlifting
 अत्याधुनिक प्रविधिको जेम्स वेब स्पेस टेलिस्कोप,https://jhannaya.nayapatrikadaily.com/news-details/1801/2022-07-30,naya_patrika,True
 "Biden emerges from COVID isolation, tells public: Get shots",/region/biden-emerges-from-covid-isolation-tells-public-get-shots/article_f4983dfc-a903-55e9-bc1b-e71967f7d4c5.html,joplinglobe,True
 Article with images+5,/region/national_business/federal-tourism-aid-funds-gas-stations-trash-cans-jazz/article_57bf9d0f-a72e-58b5-a6df-4758bf4124c1.html,joplinglobe,True
-Report that I didn't get my paper,https://classadz.vdata.com/Legacy/JoplinGlobe/Circulation/Subscriber/Comment/Create,joplinglobe,True
+Report that I didn't get my paper,https://classadz.vdata.com/Legacy/JoplinGlobe/Circulation/Subscriber/Comment/Create,joplinglobe,FALSE
 Do you support federal legislation that would protect same-sex marriage?,/news/do-you-support-federal-legislation-that-would-protect-same-sex-marriage/poll_100eb028-0d12-11ed-9d23-67d1d82ec2f4.html,joplinglobe,True
 Article with images+6,/region/is-danish-king-who-gave-name-to-bluetooth-buried-in-poland/article_598a8ccf-a394-59a9-9384-921d43532289.html,joplinglobe,True
 "Sun, Jul 31 @2:00pmDiamond Dan: Neil Diamond TributeSoaring Wings Vineyard & Brewing",https://metro.newschannelnebraska.com/calendar/#!/details/DIAMOND-DAN-NEIL-DIAMOND-TRIBUTE/10579958/2022-07-31T14,newschannelne,False
@@ -2250,7 +2250,7 @@ Cops chase box truck to Point Reyes,https://www.ptreyeslight.com/news/cops-chase
 Fossil fuel industry lobbying increases as ConocoPhillips fights for more oil drilling in Alaska,https://www.opensecrets.org/news/2022/07/fossil-fuel-industry-lobbying-increases-conocophillips-fights-more-oil-drilling-alaska/,opensecretsdc,True
 Unprecedented outside spending and self-financing in Michigan’s 13th District Democratic primary,https://www.opensecrets.org/news/2022/07/unprecedented-outside-spending-and-self-financing-in-michigans-13th-district-democratic-primary/,opensecretsdc,True
 "11 Reasons: Aerospace, defense takes Tucson to new heights",/community/11_reasons_why_the_world_is_watching_tucson/11-reasons-aerospace-defense-takes-tucson-to-new-heights/article_cc6680f6-0c9b-11ed-8bad-7be96d0581c1.html,kvoa,True
-Fall Camp Report,/news/fall-camp-report/article_5526d5ec-0fdc-11ed-ae92-b33f6a64a471.html,kvoa,False
+Fall Camp Report,/news/fall-camp-report/article_5526d5ec-0fdc-11ed-ae92-b33f6a64a471.html,kvoa,True
 Summer boosters for people under 50 shelved in favor of updated boosters in the fall,https://www.kvpr.org/npr-news/npr-news/2022-07-28/summer-boosters-for-people-under-50-shelved-in-favor-of-updated-boosters-in-the-fall,kvpr,True
 "Food production employers repeatedly violated COVID-19 guidelines, report says",https://www.kvpr.org/health/2022-07-07/food-production-employers-violated-covid-19-guidelines-in-2020-and-2021,kvpr,True
 U.S. military-run slot machines earn $100 million a year from service members overseas,https://www.kvpr.org/npr-news/npr-news/2022-07-31/u-s-military-run-slot-machines-earn-100-million-a-year-from-service-members-overseas,kvpr,True
@@ -2555,7 +2555,7 @@ Gabrielle Gurley,https://prospect.org/topics/gabrielle-gurley/,theprospect,False
 Climate of Opportunity,https://prospect.org/environment/climate-of-opportunity,theprospect,False
 Asha Prihar,https://billypenn.com/about/asha-prihar/,billy_penn,False
 Jobs,/jobs/,billy_penn,False
-Headlines of Yore,https://billypenn.com/stories/headlines-of-yore/,billy_penn,False
+Headlines of Yore,https://billypenn.com/stories/headlines-of-yore/,billy_penn,True
 Privacy Policy,/privacy-policy/,billy_penn,False
 Menu,https://billypenn.com/navigation/,billy_penn,False
 I support Billy Penn,https://billypenn.com/support-our-work/?campaign=7013i000000PuZEAA0,billy_penn,False
@@ -3085,3 +3085,17 @@ See full race results › LincolnOmahaLincolnOmaha    ,https://www.nytimes.com/i
 26 Missing From Japanese Tour Boat After Distress Call off Hokkaido,https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html,nytimes,TRUE
 5 Foam Rolling Exercises for Skeptics,https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html,nytimes,TRUE
 "8 Opinion Columnists Got Things Wrong, and They’re Telling You Why",https://www.nytimes.com/interactive/2022/07/21/opinion/nyt-columnists-i-was-wrong.html,nytimes,TRUE
+US Elections,/election/2022,cnn,FALSE
+Content by FinanceBuzz7 ways to avoid financial stress and earn cash,https://financebuzz.com/financial-stress-lz2k?utm_source=cnn&utm_medium=paid-native-rs&utm_term=ros&utm_campaign=financial-stress&utm_content=text-only&adgroupid=cnn-nb-financialstress,cnn,FALSE
+Opinion: What Steve Kerr and Beto O'Rourke are exposing for all the world to see,/2022/05/26/opinions/uvalde-mass-shooting-kerr-mcconaughey-orourke-joseph/index.html,cnn,TRUE
+Pfizer and Moderna created life-saving vaccines. So why are their stocks crumbling?,/2022/05/20/investing/pfizer-moderna-vaccine-stocks/index.html,cnn,TRUE
+Podcast:  The Axe Files,https://www.cnn.com/audio/podcasts/axe-files/episodes/7a7cf4a6-e81f-453d-93c1-aec4004ef867,cnn,TRUE
+Russia's Rusal calls for an investigation into Bucha 'crime' ,/2022/04/08/business/rusal-bucha-crime-investigation/index.html,cnn,TRUE
+Steelers quarterback Dwayne Haskins killed by truck while on foot on interstate,/2022/04/09/sport/dwayne-haskins-steelers-death-spt-intl/index.html,cnn,TRUE
+The Fed's favorite inflation measure hit a fresh 40-year high,/2022/04/29/economy/pce-inflation-march/index.html,cnn,TRUE
+"This Walmart job starts at $95,000 a year",/2022/04/07/business/walmart-truck-driver-pay/index.html,cnn,TRUE
+Toyota finally has an EV and it's perfectly OK,/2022/04/12/business/toyota-bz4x-review/index.html,cnn,TRUE
+cnn+ Why Anderson posed as his mom's assistant on Instagram,https://plus.cnn.com/plus/title-2170402,cnn,TRUE
+Why McConnell can't give up supporting Trump,https://plus.cnn.com/plus/title-2366485,cnn,TRUE
+CNN+ Mark Meadows' texts revealed,https://plus.cnn.com/plus/title-2366485,cnn,TRUE
+cnn+ Declassified: Untold Stories of American Spies,https://plus.cnn.com/plus/title-2081265,cnn,TRUE

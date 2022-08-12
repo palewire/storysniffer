@@ -65,6 +65,14 @@ class StorySniffer:
         "/projects",
     )
 
+    # A list of url parts that we are sure don't link to stories
+    PATHPART_BLACKLIST = (
+        "/sponsored/",
+        "/sponsored-content/",
+        "/tag/",
+        "/category/",
+    )
+
     def __init__(self):
         """Initialize a new sniffer."""
         self.path_and_text_model = self.open_pickle("path-and-text-model.pickle")
@@ -122,6 +130,10 @@ class StorySniffer:
             if path.startswith(self.PATHPART_WHITELIST) and len(path) > 10:
                 if "-" in path or path.endswith(".html"):
                     return True
+
+        # If it's True but it starts with a bad prefix knock it out
+        if prediction and path.startswith(self.PATHPART_BLACKLIST):
+            return False
 
         # Return the result
         return prediction
