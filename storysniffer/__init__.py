@@ -35,6 +35,7 @@ class StorySniffer:
         "mail",
         "account",
         "events",
+        "help",
     )
 
     PATH_BLACKLIST = (
