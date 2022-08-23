@@ -72,7 +72,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install --python `which python` --skip-lock twine
+        run: pipenv install --python `which python` --skip-lock twine setuptools-scm
         shell: bash
 
       - id: build
