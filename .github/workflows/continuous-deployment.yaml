@@ -60,19 +60,19 @@ jobs:
     needs: [test-python]
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Install pipenv
         run: pipx install pipenv
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v3
         with:
           python-version: '3.9'
           cache: 'pipenv'
 
-      - id: pipenv-install
+      - id: install-python-dependencies
         name: Install Python dependencies
-        run: pipenv install --python `which python` --skip-lock twine setuptools-scm
+        run: pipenv install --dev --python `which python`
         shell: bash
 
       - id: build
