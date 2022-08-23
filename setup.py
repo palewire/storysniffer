@@ -50,7 +50,7 @@ setup(
     author_email="b@palewi.re",
     url="https://palewi.re/docs/storysniffer/",
     license="MIT",
-    packages=("storysniffer",),
+    packages=["storysniffer"],
     package_data={
         "storysniffer": ["path-and-text-model.pickle", "path-only-model.pickle"]
     },
@@ -73,11 +73,11 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
-    setup_requires=["setuptools_scm"],
-    use_scm_version={"version_scheme": version_scheme, "local_scheme": local_version},
     project_urls={
         "Documentation": "https://palewi.re/docs/storysniffer/",
         "Source": "https://github.com/palewire/storysniffer/",
         "Tracker": "https://github.com/palewire/storysniffer/issues",
     },
+    setup_requires=["setuptools_scm"],
+    use_scm_version={"version_scheme": version_scheme, "local_scheme": local_version},
 )

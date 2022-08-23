@@ -1,2 +1,5 @@
 include README.md
 include LICENSE
+recursive-exclude _notebooks *
+recursive-exclude docs *
+recursive-exclude .github *
