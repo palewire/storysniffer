@@ -41,6 +41,8 @@ class StorySniffer:
     PATH_BLACKLIST = (
         "",
         "/",
+        "/privacy/",
+        "/about/",
     )
 
     EXT_BLACKLIST = (
