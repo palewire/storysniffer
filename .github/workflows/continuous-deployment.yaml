@@ -21,7 +21,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install --dev --python `which python`
+        run: pipenv install --python `which python` --skip-lock flake8 flake8-docstrings flake8-bugbear
 
       - id: run
         name: Run
@@ -47,7 +47,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install --python `which python` --dev --skip-lock
+        run: pipenv install --python `which python` --skip-lock tldextract scikit-learn dill pandas pytest
         shell: bash
 
       - id: run
@@ -72,7 +72,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install --dev --python `which python`
+        run: pipenv install --python `which python` --skip-lock twine
         shell: bash
 
       - id: build
