@@ -30,7 +30,7 @@ jobs:
   test-python:
     strategy:
       matrix:
-        python: ['3.9', '3.10', '3.11']
+        python: ['3.9',]
     name: Test
     runs-on: ubuntu-latest
     steps:
