@@ -5,7 +5,7 @@ import typing
 from pathlib import Path
 from urllib.parse import urlparse
 
-import dill
+import skops.io
 import pandas as pd
 import tldextract
 
@@ -78,13 +78,16 @@ class StorySniffer:
 
     def __init__(self):
         """Initialize a new sniffer."""
-        self.path_and_text_model = self.open_pickle("path-and-text-model.pickle")
-        self.path_only_model = self.open_pickle("path-only-model.pickle")
+        self.path_and_text_model = self.open_model("path-and-text-model.skops")
+        self.path_only_model = self.open_model("path-only-model.skops")
 
-    def open_pickle(self, path: str):
-        """Open the provided pickle."""
-        with open(self.THIS_DIR / path, "rb") as fh:
-            return dill.load(fh)
+    def open_model(self, path: str):
+        """Open the provided model."""
+        model_path = self.THIS_DIR / path
+        return skops.io.load(
+            model_path,
+            trusted=skops.io.get_untrusted_types(file=model_path)
+        )
 
     def tidy_text(self, t: str) -> str:
         """Clean up the provided text string."""
@@ -125,7 +128,7 @@ class StorySniffer:
             model = self.path_only_model
 
         # Run a prediction
-        data = [dict(path=path, text=text)]
+        data = pd.DataFrame([dict(path=path, text=text)])
         prediction = model.predict(data)[0] == 1
 
         # If it's False but it has one of our whitelisted slugs, overturn the decision

@@ -30,7 +30,7 @@ jobs:
   test-python:
     strategy:
       matrix:
-        python: ['3.9',]
+        python: ['3.9', '3.10', '3.11']
     name: Test
     runs-on: ubuntu-latest
     steps:
@@ -47,7 +47,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install --python `which python` --skip-lock tldextract scikit-learn dill pandas pytest
+        run: pipenv install --python `which python` --skip-lock tldextract scikit-learn skops pandas pytest
         shell: bash
 
       - id: run
