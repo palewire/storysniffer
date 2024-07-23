@@ -128,7 +128,7 @@ class StorySniffer:
             model = self.path_only_model
 
         # Run a prediction
-        data = [dict(path=path, text=text)]
+        data = pd.DataFrame([dict(path=path, text=text)])
         prediction = model.predict(data)[0] == 1
 
         # If it's False but it has one of our whitelisted slugs, overturn the decision
