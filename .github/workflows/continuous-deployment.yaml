@@ -47,7 +47,7 @@ jobs:
 
       - id: pipenv-install
         name: Install Python dependencies
-        run: pipenv install --python `which python` --skip-lock tldextract scikit-learn dill pandas pytest
+        run: pipenv install --python `which python` --skip-lock tldextract scikit-learn skops pandas pytest
         shell: bash
 
       - id: run

@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 tldextract = "*"
 scikit-learn = "*"
-dill = "*"
 pandas = "*"
+skops = "*"
 
 [dev-packages]
 pre-commit = "*"
@@ -23,7 +23,6 @@ mypy = "*"
 twine = "*"
 setuptools-scm = "*"
 jupyterlab = "*"
-dill = "*"
 sphinx-palewire-theme = "*"
 
 [requires]

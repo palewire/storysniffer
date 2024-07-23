@@ -52,12 +52,12 @@ setup(
     license="MIT",
     packages=["storysniffer"],
     package_data={
-        "storysniffer": ["path-and-text-model.pickle", "path-only-model.pickle"]
+        "storysniffer": ["path-and-text-model.skops", "path-only-model.skops"]
     },
     install_requires=(
         "tldextract",
         "scikit-learn",
-        "dill",
+        "skops",
         "pandas",
     ),
     classifiers=[
