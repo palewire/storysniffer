@@ -1,12 +1,13 @@
 """Inspect a URL and estimate if it links to news story."""
+
 import os
 import re
 import typing
 from pathlib import Path
 from urllib.parse import urlparse
 
-import skops.io
 import pandas as pd
+import skops.io
 import tldextract
 
 
@@ -51,6 +52,11 @@ class StorySniffer:
         ".jpg",
         ".gif",
         ".png",
+        ".pdf",
+        ".xml",
+        ".svg",
+        ".ico",
+        ".json",
     )
 
     # A list of URL parts we think will link to stories
@@ -74,6 +80,19 @@ class StorySniffer:
         "/sponsored-content/",
         "/tag/",
         "/category/",
+        "/topics/",
+        "/section/",
+        "/search/",
+        "/posterboard-ads/",
+        "/classifieds/",
+        "/marketplace/",
+        "/deals/",
+        "/coupons/",
+        "/promotions/",
+        "/shopping/" "/wp-admin",
+        "/wp-content",
+        "/wp-includes",
+        "/api/",
     )
 
     def __init__(self):
@@ -85,8 +104,7 @@ class StorySniffer:
         """Open the provided model."""
         model_path = self.THIS_DIR / path
         return skops.io.load(
-            model_path,
-            trusted=skops.io.get_untrusted_types(file=model_path)
+            model_path, trusted=skops.io.get_untrusted_types(file=model_path)
         )
 
     def tidy_text(self, t: str) -> str:
