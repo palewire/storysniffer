@@ -1,8 +1,9 @@
 """Configure Sphinx configuration."""
+
 import os
 import sys
-from typing import Any
 from datetime import datetime
+from typing import Any
 
 # Insert the parent directory into the path
 sys.path.insert(0, os.path.abspath(".."))

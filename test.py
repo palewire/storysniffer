@@ -1,4 +1,5 @@
 """Test the module."""
+
 from storysniffer import StorySniffer
 
 
